@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="194337"><author>colingsta</author><date>2018-06-15T03:33:27.611490Z</date><paths><path action="M" localPath="OCAPI\Source\OCAPI\Config.h" kind="file">/apikernel/branches/release_v10.116.54/OCAPI/Source/OCAPI/Config.h</path><path action="M" localPath="OCAPI\Source\SocketUtility\TCPFunction.h" kind="file">/apikernel/branches/release_v10.116.54/OCAPI/Source/SocketUtility/TCPFunction.h</path></paths><msg>merge apikernel/MMI_3403_f_DipoleBug r180796 to 10.116.54x by 禮芳
+
+修正
+    "使用Dipole連線, 前台無法開機"的問題
+[相容性異動] 
+    剩餘記憶體會少約8Mb</msg></logentry><logentry revision="194358"><author>marskao</author><date>2018-06-15T05:22:38.125395Z</date><paths><path action="M" localPath="Build\Release_utf8.txt" kind="file">/apikernel/branches/release_v10.116.54/Build/Release_utf8.txt</path></paths><msg>update release note</msg></logentry></log>

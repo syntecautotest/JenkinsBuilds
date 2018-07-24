@@ -1,0 +1,912 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Evaluating the Groovy script content
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4GinKoDjBILR34f58zb3GJsqCED5kpBr0Z6xvYgtPpyqAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/eDkjNSU0pzUeCdfAOFI0UXKAAAA[0mSchedule_BM ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\OpenCNC\BM_Local\workspace\API_trunk
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\OpenCNC\BM_Local\workspace\API_trunk\.
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\Build\error
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\Build\SetProjectEnv.bat
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\debug
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\BridgeAPI\WEC7 (ARMv4I)
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\BridgeAPI\WCE600DipoleRelease
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\BridgeAPI\x64
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\BridgeAPI\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\BridgeAPI\Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\KrnlAPI\WCE700ARM_DipoleRelease
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\KrnlAPI\WCE600DipoleRelease
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\KrnlAPI\x64
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\KrnlAPI\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\KrnlAPI\Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\SocketUtility\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\SocketUtility\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\SocketUtility\x64
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\SocketUtility\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\SocketUtility\Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\x64
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCAPI\WCE700ARM_DipoleRelease
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCAPI\Release
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCAPI\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCAPI\WCE600DipoleRelease
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCAPI\x64
+Deleting D:\OpenCNC\BM_Local\workspace\API_trunk\OCSDK
+Updating http://developer.syntecclub.com.tw:815/OpenCNC/apikernel/trunk at revision '2018-06-26T12:29:54.881 +0800'
+U         Build\OIOpenCNC-wce700.xml
+U         Build\OIOpenCNC-w32.xml
+U         Build\SetProjectEnv.bat
+U         Build\Release_utf8.txt
+U         Build\OIOpenCNC-wce600.xml
+At revision 195036
+
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Executing and processing the following script content: 
+svn log %SVN_URL% -r %SVN_REVISION%
+
+[API_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins3244516789048835196.bat
+
+D:\OpenCNC\BM_Local\workspace\API_trunk>svn log http://developer.syntecclub.com.tw:815/OpenCNC/apikernel/trunk -r 194283 
+------------------------------------------------------------------------
+r194283 | marskao | 2018-06-14 17:43:34 +0800 (¬P´Á¥|, 14 ¤»¤ë 2018) | 1 line
+
+update release note
+------------------------------------------------------------------------
+
+D:\OpenCNC\BM_Local\workspace\API_trunk>exit 0 
+[EnvInject] - Script executed successfully.
+Set build name.
+New build name is '#48  at rev194283at rev194243at rev194228 '
+[JIRA] Setting JIRA_ISSUES to MMI-3165.
+Copied 1 artifact from "[8mha:////4I8YZlbv0FkWSQA/qTItTzJJfCDC+eFziHyqKQM8kAh6AAAAkB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgLGHg18/KT9J39nOOLykqzcvWBwBKriUIlAAAAA==[0mCNC_trunk" build number [8mha:////4HTnjmbkJ4iqF01y99iQKvmypmjdkwJHdf0ztVPUK6PVAAAAlR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWEQ0c/KT9J39nOOLykqzcvWNzQwNtQHAMqBZ4eZAAAA[0m1031
+[API_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins8345255137557367654.bat
+D:\OpenCNC\BM_Local\workspace\API_trunk\Build
+SetProjectEnv.bat
+temp.txt
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 28089233 bytes (27 MiB)
+
+Extracting archive: D:\OpenCNC\BM_Local\workspace\API_trunk\Build\OCSDK\CNCSDK10.118.10.zip
+--
+Path = D:\OpenCNC\BM_Local\workspace\API_trunk\Build\OCSDK\CNCSDK10.118.10.zip
+Type = zip
+Physical Size = 28089233
+
+Everything is Ok
+
+Folders: 23
+Files: 423
+Size:       100719589
+Compressed: 28089233
+CNCSDK\release.txt
+CNCSDK\ReleaseNote.txt
+CNCSDK\version.txt
+CNCSDK\bin\w32\CANDeviceDriver.dll
+CNCSDK\bin\w32\LadDLL.dll
+CNCSDK\bin\w32\LaserCtrl.dll
+CNCSDK\bin\w32\ModbusComm.dll
+CNCSDK\bin\w32\Null.mci
+CNCSDK\bin\w32\NullIO.cio
+CNCSDK\bin\w32\OCKrnl.dll
+CNCSDK\bin\w32\OCKrnl.pdb
+CNCSDK\bin\w32\OCTest.dll
+CNCSDK\bin\w32\OpenPacking.exe
+CNCSDK\bin\w32\PhysicalDriver.dll
+CNCSDK\bin\w32\PLC_COMM.dll
+CNCSDK\bin\w32\ROT.dll
+CNCSDK\bin\w32\RTCommDriver.dll
+CNCSDK\bin\w32\SerialPLCAxis.dll
+CNCSDK\bin\w32\ServoLink.dll
+CNCSDK\bin\wce600\30GM.MCI
+CNCSDK\bin\wce600\CANDeviceDriver.dll
+CNCSDK\bin\wce600\CNC2PIO.CIO
+CNCSDK\bin\wce600\EPCIO.CIO
+CNCSDK\bin\wce600\M2.MCI
+CNCSDK\bin\wce600\ModbusComm.dll
+CNCSDK\bin\wce600\NetServo.MCI
+CNCSDK\bin\wce600\Null.MCI
+CNCSDK\bin\wce600\NullIO.cio
+CNCSDK\bin\wce600\OCKrnl.dll
+CNCSDK\bin\wce600\OCTest.dll
+CNCSDK\bin\wce600\OpenInstaller.exe
+CNCSDK\bin\wce600\PhysicalDriver.dll
+CNCSDK\bin\wce600\PIO2.CIO
+CNCSDK\bin\wce600\PLC_COMM.dll
+CNCSDK\bin\wce600\ROT.dll
+CNCSDK\bin\wce600\RTCommDriver.dll
+CNCSDK\bin\wce600\RTEX.MCI
+CNCSDK\bin\wce600\SerialPLCAxis.dll
+CNCSDK\bin\wce600\SERVO5.MCI
+CNCSDK\bin\wce600\SERVO6.MCI
+CNCSDK\bin\wce600\Servo60.MCI
+CNCSDK\bin\wce600\ServoLink.dll
+CNCSDK\bin\wce600\SriDriver.dll
+CNCSDK\bin\wce700arm\30GM.MCI
+CNCSDK\bin\wce700arm\CANDeviceDriver.dll
+CNCSDK\bin\wce700arm\CNC2PIO.CIO
+CNCSDK\bin\wce700arm\EPCIO.CIO
+CNCSDK\bin\wce700arm\LaserCtrl.dll
+CNCSDK\bin\wce700arm\M2.MCI
+CNCSDK\bin\wce700arm\M3.MCI
+CNCSDK\bin\wce700arm\ModbusComm.dll
+CNCSDK\bin\wce700arm\NetServo.MCI
+CNCSDK\bin\wce700arm\Null.MCI
+CNCSDK\bin\wce700arm\NullIO.cio
+CNCSDK\bin\wce700arm\OCKrnl.dll
+CNCSDK\bin\wce700arm\OCTest.dll
+CNCSDK\bin\wce700arm\OpenInstaller.exe
+CNCSDK\bin\wce700arm\PhysicalDriver.dll
+CNCSDK\bin\wce700arm\PIO2.CIO
+CNCSDK\bin\wce700arm\PLC_COMM.dll
+CNCSDK\bin\wce700arm\ROT.dll
+CNCSDK\bin\wce700arm\RTCommDriver.dll
+CNCSDK\bin\wce700arm\RTEX.MCI
+CNCSDK\bin\wce700arm\SerialPLCAxis.dll
+CNCSDK\bin\wce700arm\SERVO5.MCI
+CNCSDK\bin\wce700arm\SERVO6.MCI
+CNCSDK\bin\wce700arm\ServoLink.dll
+CNCSDK\bin\wce700arm\SriDriver.dll
+CNCSDK\inc\ADQueue.h
+CNCSDK\inc\AlarmDef.h
+CNCSDK\inc\AlarmFlags.h
+CNCSDK\inc\ArcFeature.h
+CNCSDK\inc\ArchMgr.h
+CNCSDK\inc\AsynQueue.h
+CNCSDK\inc\AuxInterpolator.h
+CNCSDK\inc\AxFrame.h
+CNCSDK\inc\AxisAngle4d.h
+CNCSDK\inc\AxisDimension.h
+CNCSDK\inc\BinFileLoader.h
+CNCSDK\inc\BitFilter.h
+CNCSDK\inc\BPTLimiter.h
+CNCSDK\inc\CharQueue.h
+CNCSDK\inc\cio.h
+CNCSDK\inc\CJerkHelicalInt.h
+CNCSDK\inc\CJerkLineInt.h
+CNCSDK\inc\cncapi.h
+CNCSDK\inc\CommonStruct.h
+CNCSDK\inc\Complex.h
+CNCSDK\inc\CurvatureCalculator.h
+CNCSDK\inc\CurvatureCalculatorNode.h
+CNCSDK\inc\DataLogDef.h
+CNCSDK\inc\DelayFilter.h
+CNCSDK\inc\DESObj.h
+CNCSDK\inc\DocStoreAPI.h
+CNCSDK\inc\DumpDbg.h
+CNCSDK\inc\EventAP.h
+CNCSDK\inc\EventCPBase.h
+CNCSDK\inc\EventTrigger.h
+CNCSDK\inc\EventTriggerGroup.h
+CNCSDK\inc\EventTriggerInfo.h
+CNCSDK\inc\EventTriggerManager.h
+CNCSDK\inc\FCCutCSlope.h
+CNCSDK\inc\FCCutSCurve.h
+CNCSDK\inc\FCCutSmoothSCurve.h
+CNCSDK\inc\FCCutString.h
+CNCSDK\inc\FCThreadNormal.h
+CNCSDK\inc\FeedControl.h
+CNCSDK\inc\FeedLimit.h
+CNCSDK\inc\FFT.h
+CNCSDK\inc\FileDirInfo.h
+CNCSDK\inc\FileEditor.h
+CNCSDK\inc\FileWriter.h
+CNCSDK\inc\FixPointNumber32.h
+CNCSDK\inc\FLCutCSlope.h
+CNCSDK\inc\FLCutCSlopeForSpring.h
+CNCSDK\inc\FLCutSCurve.h
+CNCSDK\inc\FLCutString.h
+CNCSDK\inc\FLRobotMoveJ.h
+CNCSDK\inc\FLRobotMoveL.h
+CNCSDK\inc\FLThreadNormal.h
+CNCSDK\inc\FPGAFuncDef.h
+CNCSDK\inc\Frame3d.h
+CNCSDK\inc\FramStore.h
+CNCSDK\inc\GradientDescent.h
+CNCSDK\inc\GuardRegistry.h
+CNCSDK\inc\HelicalPlan.h
+CNCSDK\inc\HighPerformanceTimer.h
+CNCSDK\inc\HomeSearchCore.h
+CNCSDK\inc\HugeFileEditor.h
+CNCSDK\inc\HugeFileReader.h
+CNCSDK\inc\HugeFileSharedEditor.h
+CNCSDK\inc\IAlarmFilter.h
+CNCSDK\inc\IAlarmQuerier.h
+CNCSDK\inc\IAlarmStore.h
+CNCSDK\inc\IAxParamInterface.h
+CNCSDK\inc\IComm.h
+CNCSDK\inc\IDataListener.h
+CNCSDK\inc\IDataLogInterface.h
+CNCSDK\inc\IDocEventHandler.h
+CNCSDK\inc\IDrvParamSync.h
+CNCSDK\inc\IFeedbackPosition.h
+CNCSDK\inc\IFuncCallHandler.h
+CNCSDK\inc\IGalvoChannel.h
+CNCSDK\inc\IHomeSearchInfo.h
+CNCSDK\inc\IJXmlTextReader.h
+CNCSDK\inc\IJXmlTextWriter.h
+CNCSDK\inc\ILaserChannel.h
+CNCSDK\inc\ILaserCtrl.h
+CNCSDK\inc\ILatchIBitChannel.h
+CNCSDK\inc\ILineStore.h
+CNCSDK\inc\IListener.h
+CNCSDK\inc\IMotionPlanner.h
+CNCSDK\inc\IMPGChannel.h
+CNCSDK\inc\IniReg.h
+CNCSDK\inc\IntegerQueue.h
+CNCSDK\inc\InternalCNCAPI.h
+CNCSDK\inc\Interpolator.h
+CNCSDK\inc\InterruptSignalManager.h
+CNCSDK\inc\IntervalChecker.h
+CNCSDK\inc\IObjFcnEvaluator.h
+CNCSDK\inc\IOnCncEvent.h
+CNCSDK\inc\IoPort.h
+CNCSDK\inc\IParamListener.h
+CNCSDK\inc\IPhysicalDriver.h
+CNCSDK\inc\IRobotFeedLimit.h
+CNCSDK\inc\IRobotMotionHandler.h
+CNCSDK\inc\IRotCenter.h
+CNCSDK\inc\IRtcDevice.h
+CNCSDK\inc\ISerialDAQChannel.h
+CNCSDK\inc\ISerialParamChannel.h
+CNCSDK\inc\ISerialParamListener.h
+CNCSDK\inc\ISerialParamTable.h
+CNCSDK\inc\ISerialPLCCenter.h
+CNCSDK\inc\ISerialPLCChannel.h
+CNCSDK\inc\ISimulator.h
+CNCSDK\inc\ISpdParamInterface.h
+CNCSDK\inc\ISpindleLink.h
+CNCSDK\inc\ISriComPort.h
+CNCSDK\inc\ISriDriver.h
+CNCSDK\inc\IStdProcessFcn.h
+CNCSDK\inc\ISvoChannel.h
+CNCSDK\inc\ISvoDriver.h
+CNCSDK\inc\ISvoLink.h
+CNCSDK\inc\ITrajectoryInt.h
+CNCSDK\inc\ITrajInterpolator.h
+CNCSDK\inc\ITuningChannel.h
+CNCSDK\inc\IUpdateDriver.h
+CNCSDK\inc\IXgnDevice.h
+CNCSDK\inc\JAllocateOnlyHeap.h
+CNCSDK\inc\JCycleDocument.h
+CNCSDK\inc\JCycleSchema.h
+CNCSDK\inc\JCycleValue.h
+CNCSDK\inc\JFileInfo.h
+CNCSDK\inc\JRectLayout.h
+CNCSDK\inc\JXmlTextReader.h
+CNCSDK\inc\JXmlTextWriter.h
+CNCSDK\inc\KickNode.h
+CNCSDK\inc\KrnlAPIDef.h
+CNCSDK\inc\LadderCompiler.h
+CNCSDK\inc\LadderDef.h
+CNCSDK\inc\LadderParser.h
+CNCSDK\inc\LadderWRPool.h
+CNCSDK\inc\LAFilter.h
+CNCSDK\inc\LAMotionPlanner.h
+CNCSDK\inc\LANodePool.h
+CNCSDK\inc\LAQueue.h
+CNCSDK\inc\LaserCtrlDef.h
+CNCSDK\inc\LineMap.h
+CNCSDK\inc\LinePage.h
+CNCSDK\inc\LinkedListPool.h
+CNCSDK\inc\M3SynDeviceDataStruct.h
+CNCSDK\inc\MapFile.h
+CNCSDK\inc\Matrix2d.h
+CNCSDK\inc\Matrix3d.h
+CNCSDK\inc\Matrix4d.h
+CNCSDK\inc\MatrixN.h
+CNCSDK\inc\MixListener.h
+CNCSDK\inc\ModbusCommAPI.h
+CNCSDK\inc\ModbusCommDef.h
+CNCSDK\inc\MotionPlanDef.h
+CNCSDK\inc\MotionPlanner.h
+CNCSDK\inc\MovingAverageFilter.h
+CNCSDK\inc\MpHomeSearch.h
+CNCSDK\inc\MpHoming.h
+CNCSDK\inc\MultiCastAPI.h
+CNCSDK\inc\MultiPassMovingAverageFilter.h
+CNCSDK\inc\NcCommFileAPI.h
+CNCSDK\inc\NcDownloadDef.h
+CNCSDK\inc\NumericalRecipes.h
+CNCSDK\inc\NurbsCurve.h
+CNCSDK\inc\OneBlockInterpolator.h
+CNCSDK\inc\OpAlarmDef.h
+CNCSDK\inc\OpenCncDef.h
+CNCSDK\inc\OperationDef.h
+CNCSDK\inc\ParamCracker.h
+CNCSDK\inc\ParamManager.h
+CNCSDK\inc\ParamStore.h
+CNCSDK\inc\PasswordBitsFunc.h
+CNCSDK\inc\PathPlanDef.h
+CNCSDK\inc\pbdef.h
+CNCSDK\inc\PID.h
+CNCSDK\inc\Platform.h
+CNCSDK\inc\PlatformAPI.h
+CNCSDK\inc\PlatformDrv.h
+CNCSDK\inc\PlayModeInterpolator.h
+CNCSDK\inc\Point2d.h
+CNCSDK\inc\Point3d.h
+CNCSDK\inc\PolynomialRootSolver.h
+CNCSDK\inc\PostAccelerator_Int.h
+CNCSDK\inc\Quaternion.h
+CNCSDK\inc\QuickMatrixN.h
+CNCSDK\inc\RegisterDef.h
+CNCSDK\inc\RobotDynamicsDef.h
+CNCSDK\inc\RobotInterpolationDef.h
+CNCSDK\inc\RobotInterpolator.h
+CNCSDK\inc\RobotMotion.h
+CNCSDK\inc\RobotMotionDef.h
+CNCSDK\inc\RobotMRPPool.h
+CNCSDK\inc\RobotMRPQueue.h
+CNCSDK\inc\RobotWaitSignalManager.h
+CNCSDK\inc\RotDef.h
+CNCSDK\inc\RTCAPI.h
+CNCSDK\inc\SafeMemory.h
+CNCSDK\inc\SCurveTrajectory.h
+CNCSDK\inc\SerialParamDef.h
+CNCSDK\inc\SerialPLCAxisDef.h
+CNCSDK\inc\ServoAlarmDef.h
+CNCSDK\inc\ServoTuningDef.h
+CNCSDK\inc\SmallFileEditor.h
+CNCSDK\inc\StringConverter.h
+CNCSDK\inc\SvoUtilityDef.h
+CNCSDK\inc\SyncTracking.h
+CNCSDK\inc\TimeBase.h
+CNCSDK\inc\Trajectory.h
+CNCSDK\inc\TrajectoryChopping.h
+CNCSDK\inc\TrajectoryDef.h
+CNCSDK\inc\TrajectoryNormal.h
+CNCSDK\inc\TrajectorySyncTracking.h
+CNCSDK\inc\TrajectoryTapping.h
+CNCSDK\inc\TrajectoryThread.h
+CNCSDK\inc\Tuple2d.h
+CNCSDK\inc\Tuple3d.h
+CNCSDK\inc\TZPlex.h
+CNCSDK\inc\UseTimeProtect.h
+CNCSDK\inc\ValidityProtect.h
+CNCSDK\inc\Vector2d.h
+CNCSDK\inc\Vector3d.h
+CNCSDK\inc\VelAccMeter.h
+CNCSDK\inc\VelocityControl.h
+CNCSDK\inc\WindowsRegistry.h
+CNCSDK\inc\XSignal.h
+CNCSDK\inc\ZCRC32.h
+CNCSDK\inc\ZeroSpeedCheck.h
+CNCSDK\inc\ZipArch.h
+CNCSDK\inc\ZMath.h
+CNCSDK\inc\ZRtl.h
+CNCSDK\inc\_DataLog.h
+CNCSDK\inc\_Event.h
+CNCSDK\inc\_IPhysicalDriver.h
+CNCSDK\inc\_MotUtility.h
+CNCSDK\inc\_UNCC.h
+CNCSDK\inc\w32\CommAPI.h
+CNCSDK\inc\w32\nstdlib.h
+CNCSDK\inc\w32\RTMutex.h
+CNCSDK\inc\w32\ThreadAPI.h
+CNCSDK\inc\w32\gmock\gmock-actions.h
+CNCSDK\inc\w32\gmock\gmock-cardinalities.h
+CNCSDK\inc\w32\gmock\gmock-generated-actions.h
+CNCSDK\inc\w32\gmock\gmock-generated-actions.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-function-mockers.h
+CNCSDK\inc\w32\gmock\gmock-generated-function-mockers.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-matchers.h
+CNCSDK\inc\w32\gmock\gmock-generated-matchers.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-nice-strict.h
+CNCSDK\inc\w32\gmock\gmock-generated-nice-strict.h.pump
+CNCSDK\inc\w32\gmock\gmock-matchers.h
+CNCSDK\inc\w32\gmock\gmock-more-actions.h
+CNCSDK\inc\w32\gmock\gmock-more-matchers.h
+CNCSDK\inc\w32\gmock\gmock-spec-builders.h
+CNCSDK\inc\w32\gmock\gmock.h
+CNCSDK\inc\w32\gmock\internal\gmock-generated-internal-utils.h
+CNCSDK\inc\w32\gmock\internal\gmock-generated-internal-utils.h.pump
+CNCSDK\inc\w32\gmock\internal\gmock-internal-utils.h
+CNCSDK\inc\w32\gmock\internal\gmock-port.h
+CNCSDK\inc\w32\gtest\gtest-death-test.h
+CNCSDK\inc\w32\gtest\gtest-message.h
+CNCSDK\inc\w32\gtest\gtest-param-test.h
+CNCSDK\inc\w32\gtest\gtest-param-test.h.pump
+CNCSDK\inc\w32\gtest\gtest-printers.h
+CNCSDK\inc\w32\gtest\gtest-spi.h
+CNCSDK\inc\w32\gtest\gtest-test-part.h
+CNCSDK\inc\w32\gtest\gtest-typed-test.h
+CNCSDK\inc\w32\gtest\gtest.h
+CNCSDK\inc\w32\gtest\gtest_pred_impl.h
+CNCSDK\inc\w32\gtest\gtest_prod.h
+CNCSDK\inc\w32\gtest\internal\gtest-death-test-internal.h
+CNCSDK\inc\w32\gtest\internal\gtest-filepath.h
+CNCSDK\inc\w32\gtest\internal\gtest-internal.h
+CNCSDK\inc\w32\gtest\internal\gtest-linked_ptr.h
+CNCSDK\inc\w32\gtest\internal\gtest-param-util-generated.h
+CNCSDK\inc\w32\gtest\internal\gtest-param-util-generated.h.pump
+CNCSDK\inc\w32\gtest\internal\gtest-param-util.h
+CNCSDK\inc\w32\gtest\internal\gtest-port.h
+CNCSDK\inc\w32\gtest\internal\gtest-string.h
+CNCSDK\inc\w32\gtest\internal\gtest-tuple.h
+CNCSDK\inc\w32\gtest\internal\gtest-tuple.h.pump
+CNCSDK\inc\w32\gtest\internal\gtest-type-util.h
+CNCSDK\inc\w32\gtest\internal\gtest-type-util.h.pump
+CNCSDK\inc\w64\nstdlib.h
+CNCSDK\inc\w64\RTMutex.h
+CNCSDK\inc\w64\ThreadAPI.h
+CNCSDK\lib\w32\ModbusComm.exp
+CNCSDK\lib\w32\ModbusComm.lib
+CNCSDK\lib\w32\OCKrnl.exp
+CNCSDK\lib\w32\OCKrnl.lib
+CNCSDK\lib\w32\Debug\Event.lib
+CNCSDK\lib\w32\Debug\EventAP.lib
+CNCSDK\lib\w32\Debug\FFTransform.lib
+CNCSDK\lib\w32\Debug\gmock.lib
+CNCSDK\lib\w32\Debug\gmock.pdb
+CNCSDK\lib\w32\Debug\gmock_main.lib
+CNCSDK\lib\w32\Debug\InternalCNCAPI.lib
+CNCSDK\lib\w32\Debug\KePLC.lib
+CNCSDK\lib\w32\Debug\main.pdb
+CNCSDK\lib\w32\Debug\MotUtility.lib
+CNCSDK\lib\w32\Debug\SecurityUtil.lib
+CNCSDK\lib\w32\Debug\Utility.lib
+CNCSDK\lib\w32\Debug\WinPAL.lib
+CNCSDK\lib\w32\Release\DataLog.lib
+CNCSDK\lib\w32\Release\Event.lib
+CNCSDK\lib\w32\Release\EventAP.lib
+CNCSDK\lib\w32\Release\FFTransform.lib
+CNCSDK\lib\w32\Release\gmock.lib
+CNCSDK\lib\w32\Release\gmock.pdb
+CNCSDK\lib\w32\Release\gmock_main.lib
+CNCSDK\lib\w32\Release\InternalCNCAPI.lib
+CNCSDK\lib\w32\Release\KePLC.lib
+CNCSDK\lib\w32\Release\main.pdb
+CNCSDK\lib\w32\Release\MotUtility.lib
+CNCSDK\lib\w32\Release\ProductInfo.lib
+CNCSDK\lib\w32\Release\SecurityUtil.lib
+CNCSDK\lib\w32\Release\Utility.lib
+CNCSDK\lib\w32\Release\WinPAL.lib
+CNCSDK\lib\w64\Debug\Event.lib
+CNCSDK\lib\w64\Debug\EventAP.lib
+CNCSDK\lib\w64\Debug\KePLC.lib
+CNCSDK\lib\w64\Debug\Utility.lib
+CNCSDK\lib\w64\Debug\WinPAL.lib
+CNCSDK\lib\w64\Release\Event.lib
+CNCSDK\lib\w64\Release\EventAP.lib
+CNCSDK\lib\w64\Release\KePLC.lib
+CNCSDK\lib\w64\Release\Utility.lib
+CNCSDK\lib\w64\Release\WinPAL.lib
+CNCSDK\lib\wce600\DataLog.lib
+CNCSDK\lib\wce600\Event.lib
+CNCSDK\lib\wce600\EventAP.lib
+CNCSDK\lib\wce600\FFTransform.lib
+CNCSDK\lib\wce600\InternalCNCAPI.lib
+CNCSDK\lib\wce600\KePLC.lib
+CNCSDK\lib\wce600\ModbusComm.lib
+CNCSDK\lib\wce600\MotUtility.lib
+CNCSDK\lib\wce600\OCKrnl.lib
+CNCSDK\lib\wce600\PlatformAPI.lib
+CNCSDK\lib\wce600\PLC_COMM.lib
+CNCSDK\lib\wce600\ProductInfo.lib
+CNCSDK\lib\wce600\SecurityUtil.lib
+CNCSDK\lib\wce600\Utility.lib
+CNCSDK\lib\wce600\WinPAL.lib
+CNCSDK\lib\wce700arm\DataLog.lib
+CNCSDK\lib\wce700arm\Event.lib
+CNCSDK\lib\wce700arm\EventAP.lib
+CNCSDK\lib\wce700arm\FFTransform.lib
+CNCSDK\lib\wce700arm\InternalCNCAPI.lib
+CNCSDK\lib\wce700arm\KePLC.lib
+CNCSDK\lib\wce700arm\ModbusComm.lib
+CNCSDK\lib\wce700arm\MotUtility.lib
+CNCSDK\lib\wce700arm\OCKrnl.lib
+CNCSDK\lib\wce700arm\PlatformAPI.lib
+CNCSDK\lib\wce700arm\PLC_COMM.lib
+CNCSDK\lib\wce700arm\ProductInfo.lib
+CNCSDK\lib\wce700arm\SecurityUtil.lib
+CNCSDK\lib\wce700arm\Utility.lib
+CNCSDK\lib\wce700arm\WinPAL.lib
+½Æ»s 423 ­ÓÀÉ®×
+make header directory
+¤l¥Ø¿ý©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\API_trunk\Build\..\OCSDK ¤w¸g¦s¦b¡C
+¤l¥Ø¿ý©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\API_trunk\Build\..\OCSDK\inc ¤w¸g¦s¦b¡C
+¤l¥Ø¿ý©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\API_trunk\Build\..\OCSDK\inc\w32 ¤w¸g¦s¦b¡C
+copy D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/makew32 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop Win32 Library Files
+/makew32 binary files ...
+Compile and Copy Desktop Win32 Binary Files
+/makew64 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop Win64 Library Files
+/makew64 binary files ...
+Compile and Copy Desktop Win64 Binary Files
+/makewce600 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop windows CE 600 Library Files
+/makewce600 binary files ...
+Compile and Copy Windows CE 600 x86 - Dipole additions
+/makewce700arm library files ...
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+Compile and Copy Desktop windows CE 700 ARM Library Files
+/makewce700arm binary files ...
+Compile and Copy Windows CE 700 ARM - Dipole additions
+Check D:\OpenCNC\BM_Local\workspace\API_trunk\Build\error...
+No Error Found...
+2018/06/26 ¬P´Á¤G 12:31:50
+Compile Succeeded!
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+make pack dir
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+make packing output directory
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+copy installer tool
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+pack WIN32 installation...
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+myCE\package_9e57b45e.zip
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 40919 bytes (40 KiB)
+
+Extracting archive: D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\w32\package_9e57b45e.zip
+--
+Path = D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\w32\package_9e57b45e.zip
+Type = zip
+Physical Size = 40919
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 40919
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 40095 bytes (40 KiB)
+
+Extracting archive: \\FILE\CncRel\10.118.9\CECNC\EXE\ApiKernel_w32_10.118.9.zip
+--
+Path = \\FILE\CncRel\10.118.9\CECNC\EXE\ApiKernel_w32_10.118.9.zip
+Type = zip
+Physical Size = 40095
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 40095
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+
+ERROR: ¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\w32\Previous_pack\ApiKernel\
+
+
+
+System ERROR:
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+copy w32 files ...
+§ä¤£¨ì D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\ApiKernel\package*.zip
+myPack\w32\package_9e57b45e.zip
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive:
+1 folder, 1 file, 40919 bytes (40 KiB)
+
+Creating archive: ApiKernel.zip
+
+Add new data to archive: 1 folder, 1 file, 40919 bytes (40 KiB)
+
+
+Files read from disk: 1
+Archive size: 40214 bytes (40 KiB)
+Everything is Ok
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+copy installer tool
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+pack WCE600 installation...
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy system file
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+myCE\package_5eb5d8b4.zip
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 79684 bytes (78 KiB)
+
+Extracting archive: D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\wce600\package_5eb5d8b4.zip
+--
+Path = D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\wce600\package_5eb5d8b4.zip
+Type = zip
+Physical Size = 79684
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 79684
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 78807 bytes (77 KiB)
+
+Extracting archive: \\FILE\CncRel\10.118.9\CECNC\EXE\ApiKernel_CE6_10.118.9.zip
+--
+Path = \\FILE\CncRel\10.118.9\CECNC\EXE\ApiKernel_CE6_10.118.9.zip
+Type = zip
+Physical Size = 78807
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 78807
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+
+ERROR: ¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\wce600\Previous_pack\ApiKernel\
+
+
+
+System ERROR:
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+copy wce600 files ...
+¤l¥Ø¿ý©ÎÀÉ®× ApiKernel ¤w¸g¦s¦b¡C
+myPack\wce600\package_5eb5d8b4.zip
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive:
+1 folder, 1 file, 79684 bytes (78 KiB)
+
+Creating archive: ApiKernel.zip
+
+Add new data to archive: 1 folder, 1 file, 79684 bytes (78 KiB)
+
+
+Files read from disk: 1
+Archive size: 78916 bytes (78 KiB)
+Everything is Ok
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+copy installer tool
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+pack WCE700 ARM installation...
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy system file
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+myCE\package_d070d1d8.zip
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 92871 bytes (91 KiB)
+
+Extracting archive: D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\wce700arm\package_d070d1d8.zip
+--
+Path = D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\wce700arm\package_d070d1d8.zip
+Type = zip
+Physical Size = 92871
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 92871
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 91874 bytes (90 KiB)
+
+Extracting archive: \\FILE\CncRel\10.118.9\CECNC\EXE\ApiKernel_CE7_ARM_10.118.9.zip
+--
+Path = \\FILE\CncRel\10.118.9\CECNC\EXE\ApiKernel_CE7_ARM_10.118.9.zip
+Type = zip
+Physical Size = 91874
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 91874
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+
+ERROR: ¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Packing\myPack\wce700arm\Previous_pack\ApiKernel\
+
+
+
+System ERROR:
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+copy wce700arm files ...
+¤l¥Ø¿ý©ÎÀÉ®× ApiKernel ¤w¸g¦s¦b¡C
+myPack\wce700arm\package_d070d1d8.zip
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive:
+1 folder, 1 file, 92871 bytes (91 KiB)
+
+Creating archive: ApiKernel.zip
+
+Add new data to archive: 1 folder, 1 file, 92871 bytes (91 KiB)
+
+
+Files read from disk: 1
+Archive size: 91996 bytes (90 KiB)
+Everything is Ok
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive:
+26 folders, 29 files, 9773936 bytes (9545 KiB)
+
+Creating archive: APISDK.zip
+
+Add new data to archive: 26 folders, 29 files, 9773936 bytes (9545 KiB)
+
+
+Files read from disk: 29
+Archive size: 2521671 bytes (2463 KiB)
+Everything is Ok
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 2521671 bytes (2463 KiB)
+
+Extracting archive: D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Release\CNCRel\10.118.10\CECNC\SDK\APISDK10.118.10.zip
+--
+Path = D:\OpenCNC\BM_Local\workspace\API_trunk\Build\Release\CNCRel\10.118.10\CECNC\SDK\APISDK10.118.10.zip
+Type = zip
+Physical Size = 2521671
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 2521671
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 2580160 bytes (2520 KiB)
+
+Extracting archive: \\FILE\CncRel\10.118.9\CECNC\SDK\APISDK10.118.9.zip
+--
+Path = \\FILE\CncRel\10.118.9\CECNC\SDK\APISDK10.118.9.zip
+Type = zip
+Physical Size = 2580160
+
+
+No files to process
+Everything is Ok
+
+Files: 0
+Size:       0
+Compressed: 2580160
+0
+[description-setter] Description set: <a href="http://jira.syntecclub.com.tw:8080/browse/MMI-3165">http://jira.syntecclub.com.tw:8080/browse/MMI-3165</a>
+Set build name.
+New build name is '#48 MMI-3165 at rev194283at rev194243at rev194228 '
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#48  at rev194283at rev194243at rev194228 ', new value: '#48 MMI-3165 at rev194283at rev194243at rev194228 '
+Post-Build Update: Updated Dashboard DB
+«Ê¦s¦¨«~
+°O¿ý«ü¯¾
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

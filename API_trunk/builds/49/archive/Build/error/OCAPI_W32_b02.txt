@@ -1,0 +1,115 @@
+------ Rebuild All started: Project: BridgeAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\BridgeAPI\Release\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KrnlAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\KrnlAPI\Release\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+TCPFunction.cpp
+TCPClient.cpp
+.\TCPClient.cpp(254) : warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\SocketUtility\Release\BuildLog.htm"
+SocketUtility - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+Linking...
+msvcrt.lib(ti_inst.obj) : error LNK2005: "private: __thiscall type_info::type_info(class type_info const &)" (??0type_info@@AAE@ABV0@@Z) already defined in LIBCMT.lib(typinfo.obj)
+msvcrt.lib(ti_inst.obj) : error LNK2005: "private: class type_info & __thiscall type_info::operator=(class type_info const &)" (??4type_info@@AAEAAV0@ABV0@@Z) already defined in LIBCMT.lib(typinfo.obj)
+   Creating library D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\Release\OCKrnlDrv.lib and object D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\Release\OCKrnlDrv.exp
+LINK : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4199: /DELAYLOAD:OleAcc.dll ignored; no imports found from OleAcc.dll
+D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\Release\OCKrnlDrv.dll : fatal error LNK1169: one or more multiply defined symbols found
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\Release\BuildLog.htm"
+OCKrnlDrv - 3 error(s), 2 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(349) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+.\TCPAlarmServer.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcXmlTextReader.cpp
+.\OcXmlTextReader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcKrnlDrvDll32.cpp
+.\OcKrnlDrvDll32.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+DipoleDeviceBuffer.cpp
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+Generating Code...
+Compiling...
+OCAPI.cpp
+.\OCAPI.cpp(441) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(441) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(1406) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+.\OCAPI.cpp(1469) : warning C4018: '<=' : signed/unsigned mismatch
+Linking...
+socketutility.lib(TCPFunction.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+msvcrt.lib(MSVCR80.dll) : error LNK2005: __swprintf already defined in LIBCMT.lib(swprintf.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _printf already defined in LIBCMT.lib(printf.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _fclose already defined in LIBCMT.lib(fclose.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: __wfopen already defined in LIBCMT.lib(wfopen.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _memmove already defined in LIBCMT.lib(memmove.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _wcsncpy already defined in LIBCMT.lib(wcsncpy.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _isspace already defined in LIBCMT.lib(_ctype.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: __stricmp already defined in LIBCMT.lib(stricmp.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _fgets already defined in LIBCMT.lib(fgets.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _atoi already defined in LIBCMT.lib(atox.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _strchr already defined in LIBCMT.lib(strchr.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: __wmakepath already defined in LIBCMT.lib(wmakepat.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: __wsplitpath already defined in LIBCMT.lib(wsplitpa.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _atol already defined in LIBCMT.lib(atox.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _iswspace already defined in LIBCMT.lib(_wctype.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _iswdigit already defined in LIBCMT.lib(_wctype.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _ftell already defined in LIBCMT.lib(ftell.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _fseek already defined in LIBCMT.lib(fseek.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _malloc already defined in LIBCMT.lib(malloc.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _free already defined in LIBCMT.lib(free.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: __vswprintf already defined in LIBCMT.lib(vswprint.obj)
+msvcrt.lib(ti_inst.obj) : error LNK2005: "private: __thiscall type_info::type_info(class type_info const &)" (??0type_info@@AAE@ABV0@@Z) already defined in LIBCMT.lib(typinfo.obj)
+msvcrt.lib(ti_inst.obj) : error LNK2005: "private: class type_info & __thiscall type_info::operator=(class type_info const &)" (??4type_info@@AAEAAV0@ABV0@@Z) already defined in LIBCMT.lib(typinfo.obj)
+uafxcw.lib(afxmem.obj) : error LNK2005: "void * __cdecl operator new(unsigned int)" (??2@YAPAXI@Z) already defined in LIBCMT.lib(new.obj)
+uafxcw.lib(afxmem.obj) : error LNK2005: "void __cdecl operator delete(void *)" (??3@YAXPAX@Z) already defined in LIBCMT.lib(delete.obj)
+uafxcw.lib(afxmem.obj) : error LNK2005: "void * __cdecl operator new[](unsigned int)" (??_U@YAPAXI@Z) already defined in LIBCMT.lib(new2.obj)
+uafxcw.lib(afxmem.obj) : error LNK2005: "void __cdecl operator delete[](void *)" (??_V@YAXPAX@Z) already defined in LIBCMT.lib(delete2.obj)
+   Creating library d:\opencnc\bm_local\workspace\api_trunk\ocapi\source\release\OCAPI.lib and object d:\opencnc\bm_local\workspace\api_trunk\ocapi\source\release\OCAPI.exp
+LINK : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'uafxcw.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+D:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\Release\OCAPI.dll : fatal error LNK1169: one or more multiply defined symbols found
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCAPI\Release\BuildLog.htm"
+OCAPI - 28 error(s), 15 warning(s)
+========== Rebuild All: 3 succeeded, 2 failed, 0 skipped ==========
+

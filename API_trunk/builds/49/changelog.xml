@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196217"><author>swdjojo</author><date>2018-07-05T03:49:00.474387Z</date><paths><path action="M" localPath="OCAPI\Source\OCAPI\OCAPI.vcproj" kind="file">/apikernel/trunk/OCAPI/Source/OCAPI/OCAPI.vcproj</path><path action="M" localPath="OCAPI\Source\OCKrnlDrv\OCKrnlDrv_Win32.vcproj" kind="file">/apikernel/trunk/OCAPI/Source/OCKrnlDrv/OCKrnlDrv_Win32.vcproj</path><path action="M" localPath="OCAPI\Source\KrnlAPI\KrnlAPI.vcproj" kind="file">/apikernel/trunk/OCAPI/Source/KrnlAPI/KrnlAPI.vcproj</path><path action="M" localPath="OCAPI\Source\SocketUtility\SocketUtility.vcproj" kind="file">/apikernel/trunk/OCAPI/Source/SocketUtility/SocketUtility.vcproj</path><path action="M" localPath="OCAPI\Source\BridgeAPI\BridgeAPI.vcproj" kind="file">/apikernel/trunk/OCAPI/Source/BridgeAPI/BridgeAPI.vcproj</path></paths><msg>merge apikernel/MMI_3165_f_UseStaticLibrary, 192880-193104 to 10.118.11
+by 維軒
+
+note:
+  * Win32 使用 static link build.
+</msg></logentry></log>

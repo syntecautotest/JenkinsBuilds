@@ -1,0 +1,184 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Evaluating the Groovy script content
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4GinKoDjBILR34f58zb3GJsqCED5kpBr0Z6xvYgtPpyqAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/eDkjNSU0pzUeCdfAOFI0UXKAAAA[0mSchedule_BM ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\OpenCNC\BM_Local\workspace\API_10.116.50
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Checking out a fresh workspace because there's no workspace at D:\OpenCNC\BM_Local\workspace\API_10.116.50
+Cleaning local Directory .
+Checking out http://developer.syntecclub.com.tw:815/OpenCNC/apikernel/branches/release_v10.116.50 at revision '2018-05-26T08:00:09.973 +0800'
+A         Build
+A         Build\CompareRelease.bat
+A         Build\copy-release.bat
+A         Build\PackingTools
+AU        Build\PackingTools\PKZIP.EXE
+AU        Build\PackingTools\OpenPacking.exe
+AU        Build\PackingTools\OpenInstaller.exe
+A         Build\CheckErrorLog.bat
+A         Build\SetProjectEnv.bat
+A         Build\CLEANWS.BAT
+A         Build\BUILD.bat
+AU        Build\Release_utf8.txt
+AU        Build\CompareDir.exe
+A         Build\SyncLibrary.bat
+A         Build\SetupSDK.bat
+A         Build\build-wincnc600.bat
+AU        Build\CheckErrorLog.exe
+A         Build\build-wincnc700arm.bat
+AU        Build\readme.txt
+A         Build\OIOpenCNC-wce600.xml
+A         Build\OIOpenCNC-wce700.xml
+A         Build\build-wincncw32.bat
+AU        Build\build-release.bat
+A         Build\PACK.bat
+A         Build\OIOpenCNC-w32.xml
+AU        Build\publish-release.bat
+A         Build\SyncHeader.bat
+A         BuildTest
+A         BuildTest\buildTest.bat
+A         Debug
+A         Debug\CheckXmlFormat
+AU        Debug\CheckXmlFormat\XmlChecker.exe
+A         Debug\CheckXmlFormat\README.txt
+A         Debug\CheckXmlFormat\ignorelist.txt
+A         Debug\CheckXmlFormat.bat
+A         OCAPI
+A         OCAPI\Build
+A         OCAPI\Build\BUILD.bat
+A         OCAPI\Build\SyncLibrary.bat
+A         OCAPI\Build\SyncHeader.bat
+A         OCAPI\Source
+A         OCAPI\Source\CncKernelSettings.vsprops
+A         OCAPI\Source\KrnlAPI
+A         OCAPI\Source\KrnlAPI\StdAfx.h
+A         OCAPI\Source\KrnlAPI\KrnlAPI.cpp
+A         OCAPI\Source\KrnlAPI\KrnlAPI.vcproj
+A         OCAPI\Source\KrnlAPI\KrnlAPI_WinCE_ARM.vcproj
+A         OCAPI\Source\KrnlAPI\krnlapi.h
+A         OCAPI\Source\KrnlAPI\KrnlAPI_WinCE.vcproj
+A         OCAPI\Source\KrnlAPI\StdAfx.cpp
+A         OCAPI\Source\KrnlAPI\ReadMe.txt
+A         OCAPI\Source\OCMMIDrv
+A         OCAPI\Source\OCMMIDrv\IOCTLDef.h
+A         OCAPI\Source\OCMMIDrv\stdafx.h
+A         OCAPI\Source\OCMMIDrv\OCMMIDrv.cpp
+A         OCAPI\Source\OCMMIDrv\OCMMIDrv.h
+A         OCAPI\Source\OCMMIDrv\OCMMIDrv_WinCE_ARM.vcproj
+A         OCAPI\Source\OCMMIDrv\OCMMIDrv_WinCE.vcproj
+A         OCAPI\Source\OCMMIDrv\stdafx.cpp
+A         OCAPI\Source\OCAPI_WinCE60.sln
+A         OCAPI\Source\OCAPI_WinCE70_ARM.sln
+A         OCAPI\Source\ARMv7Options.vsprops
+A         OCAPI\Source\OCKrnlDrv
+A         OCAPI\Source\OCKrnlDrv\IOCTLDef.h
+A         OCAPI\Source\OCKrnlDrv\stdafx.h
+A         OCAPI\Source\OCKrnlDrv\OCKrnlDrv.cpp
+A         OCAPI\Source\OCKrnlDrv\OCKrnlDrv.vcproj
+A         OCAPI\Source\OCKrnlDrv\OCKrnlDrv_Win32.vcproj
+A         OCAPI\Source\OCKrnlDrv\OCKrnlDrv.h
+A         OCAPI\Source\OCKrnlDrv\OCKrnlDrv_WinCE_ARM.vcproj
+A         OCAPI\Source\OCKrnlDrv\stdafx.cpp
+A         OCAPI\Source\BridgeAPI
+A         OCAPI\Source\BridgeAPI\stdafx.h
+A         OCAPI\Source\BridgeAPI\BridgeAPI.cpp
+A         OCAPI\Source\BridgeAPI\BridgeAPI.vcproj
+A         OCAPI\Source\BridgeAPI\stdafx.cpp
+A         OCAPI\Source\BridgeAPI\BridgeAPIDef.h
+A         OCAPI\Source\BridgeAPI\ReadMe.txt
+A         OCAPI\Source\BridgeAPI\BridgeAPI.h
+A         OCAPI\Source\BridgeAPI\BridgeAPI_WinCE_ARM.vcproj
+A         OCAPI\Source\BridgeAPI\BridgeAPI_WINCE.vcproj
+A         OCAPI\Source\OCAPI.sln
+A         OCAPI\Source\OCAPI
+A         OCAPI\Source\OCAPI\StdAfx.h
+A         OCAPI\Source\OCAPI\OcKrnlDrvDll.cpp
+A         OCAPI\Source\OCAPI\OCAPI_WinCE_ARM.vcproj
+A         OCAPI\Source\OCAPI\OCAPI.h
+A         OCAPI\Source\OCAPI\OCAPI_WinCE.vcproj
+A         OCAPI\Source\OCAPI\OcUserDllWrapper.h
+A         OCAPI\Source\OCAPI\TCPClientLink.cpp
+A         OCAPI\Source\OCAPI\TCPRequest.h
+AU        OCAPI\Source\OCAPI\OcKrnlDrvDll32.cpp
+A         OCAPI\Source\OCAPI\OcKrnlDrvDll.h
+A         OCAPI\Source\OCAPI\OCAPI.def
+A         OCAPI\Source\OCAPI\IOcUserAPI.h
+A         OCAPI\Source\OCAPI\TCPClientLink.h
+A         OCAPI\Source\OCAPI\OcXmlTextReader.cpp
+AU        OCAPI\Source\OCAPI\OcKrnlDrvDll32.h
+A         OCAPI\Source\OCAPI\Config.h
+A         OCAPI\Source\OCAPI\TCPResponse.h
+A         OCAPI\Source\OCAPI\OCAPI.vcproj
+A         OCAPI\Source\OCAPI\TCPInstall.cpp
+A         OCAPI\Source\OCAPI\OcXmlTextReader.h
+A         OCAPI\Source\OCAPI\TCPInstall.h
+A         OCAPI\Source\OCAPI\DipoleDeviceBuffer.cpp
+A         OCAPI\Source\OCAPI\TCPDipole.h
+A         OCAPI\Source\OCAPI\StdAfx.cpp
+A         OCAPI\Source\OCAPI\ReadMe.txt
+A         OCAPI\Source\OCAPI\TCPAlarmServer.cpp
+A         OCAPI\Source\OCAPI\OCAPI.cpp
+A         OCAPI\Source\OCAPI\DipoleDeviceBuffer.h
+A         OCAPI\Source\SocketUtility
+A         OCAPI\Source\SocketUtility\StdAfx.h
+A         OCAPI\Source\SocketUtility\SocketUtility_WinCE_ARM.vcproj
+A         OCAPI\Source\SocketUtility\TCPFunction.h
+A         OCAPI\Source\SocketUtility\SocketUtility_WinCE.vcproj
+A         OCAPI\Source\SocketUtility\TCPClient.cpp
+A         OCAPI\Source\SocketUtility\StdAfx.cpp
+A         OCAPI\Source\SocketUtility\TCPFunction.cpp
+A         OCAPI\Source\SocketUtility\SocketUtility.vcproj
+A         OCAPI\Source\OCMMIAPI
+A         OCAPI\Source\OCMMIAPI\OCMMIAPI.cpp
+A         OCAPI\Source\OCMMIAPI\StdAfx.h
+A         OCAPI\Source\OCMMIAPI\OCMMIDrvDll.h
+A         OCAPI\Source\OCMMIAPI\OCMMIAPI.h
+A         OCAPI\Source\OCMMIAPI\OCMMIAPI_WinCE_ARM.vcproj
+A         OCAPI\Source\OCMMIAPI\OCMMIAPI_WinCE.vcproj
+A         OCAPI\Source\OCMMIAPI\StdAfx.cpp
+A         OCAPI\Source\OCMMIAPI\OCMMIAPI.def
+A         OCAPI\Source\OCMMIAPI\OCMMIDrvDll.cpp
+A         OCAPI\Dipole
+A         OCAPI\Dipole\DipoleSettings.Server.xml
+A         OCAPI\Dipole\DipoleSettings.Client.xml
+ U        .
+At revision 192079
+
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Executing and processing the following script content: 
+svn log %SVN_URL% -r %SVN_REVISION%
+
+[API_10.116.50] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins5038066983037231063.bat
+
+D:\OpenCNC\BM_Local\workspace\API_10.116.50>svn log http://developer.syntecclub.com.tw:815/OpenCNC/apikernel/branches/release_v10.116.50 -r 159931 
+------------------------------------------------------------------------
+r159931 | marskao | 2017-06-30 14:06:25 +0800 (¬P´Á¤­, 30 ¤»¤ë 2017) | 1 line
+
+publish : 10.116.50A
+------------------------------------------------------------------------
+
+D:\OpenCNC\BM_Local\workspace\API_10.116.50>exit 0 
+[EnvInject] - Script executed successfully.
+Set build name.
+New build name is '#2  No changes
+ '
+[JIRA] Setting JIRA_ISSUES to .
+Set build name.
+New build name is '#2  No changes
+ '
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#2  No changes
+ ', new value: '#2  No changes
+ '
+Post-Build Update: Updated Dashboard DB
+ERROR: Unable to find a build for artifact copy from: CNC_10.116.50
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0m«Ê¦s¦¨«~
+°O¿ý«ü¯¾
+Sending e-mails to: WeiJen@syntecclub.com.tw marskao@syntecclub.com.tw albert1002@syntecclub.com.tw hebe.am96g@g2.nctu.edu.tw yoana.shih@syntecclub.com.tw chengwei.lin@syntecclub.com.tw evolution6423@yahoo.com.tw JWLee@syntecclub.com.tw simon@syntecclub.com.tw alpha0729@syntecclub.com.tw edonis.chen@syntecclub.com.tw mstsai0113@syntecclub.com.tw swdjojo@gmail.com chieh-hao.chang@syntecclub.com.tw shockspy@syntecclub.com.tw
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: FAILURE
