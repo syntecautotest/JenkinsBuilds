@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196522"><author>jwlee</author><date>2018-07-09T03:48:35.486895Z</date><paths><path action="M" kind="file">/cnckernel/tags/release_v10.116.54N/res/_Arm/_Cutting/_60A/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/tags/release_v10.116.54O/res/_Arm/_Cutting/_60A/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/tags/release_v10.116.54P/res/_Arm/_Cutting/_60A/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_Cutting/_60A/Res/ParamDef.xml</path><path action="M" localPath="res\_Arm\_Cutting\_60A\Res\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.116.54/res/_Arm/_Cutting/_60A/Res/ParamDef.xml</path></paths><msg>merge: CNCKL_2467_f_60CAInhibitT0000_116.54.x, 196509 to 10.116.54N
+merge: CNCKL_2467_f_60CAInhibitT0000_118.x, 196508 to 10.118.11
+by 哲維
+
+feature
+
+60CA的T碼限縮，不可使用T0000 (Pr3215限縮為0)</msg></logentry></log>

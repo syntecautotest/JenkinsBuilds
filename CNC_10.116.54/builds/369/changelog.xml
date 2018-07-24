@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192335"><author>mark.chen</author><date>2018-05-29T02:35:07.343426Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/Interpolation/PitchError.cpp</path><path action="M" localPath="OCKrnl\Source\Interpolation\PitchError.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Interpolation/PitchError.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/Interpolation/PitchError.cpp</path></paths><msg>merge:ISSUE_12858_MachPositionError, 192267 to 10.116.54O, 10.118.0J, 10.118.10
+by 青杉
+
+from 10.116.38J, 10.116.54H, 10.118.0E, 10.118.5, ISSUE-12151
+
+修正當機械座標超出節距補償表範圍之外時，機械座標顯示異常的問題。 </msg></logentry></log>

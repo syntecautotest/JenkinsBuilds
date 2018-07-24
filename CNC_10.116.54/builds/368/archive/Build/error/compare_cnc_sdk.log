@@ -1,0 +1,8 @@
+Files that are found in folder Current_sdk but NOT in folder Previous_sdk :
+
+CNCSDK\bin\wce700arm\PIO2.CIO
+CNCSDK\bin\wce700arm\SERVO6.MCI
+----------------------------------------------------------------------
+Files that are found in folder Previous_sdk but NOT in folder Current_sdk :
+
+----------------------------------------------------------------------
