@@ -1,0 +1,22 @@
+Files that are found in folder Current_res but NOT in folder Previous_res :
+
+Res\_Arm\_SCARA\_HHB\Common\SyntecParam.xml
+Res\_Arm\_SCARA\_HHB\Common\string\SysParamCom_COM.xml
+Res\_Arm\_SCARA\_HHB\CHT\string\SysParamCht_COM.xml
+Res\_Arm\_SCARA\_HHB\CHS\string\SysParamChs_COM.xml
+Res\_Arm\_GANTRY\_HHB\Common\SyntecParam.xml
+Res\_Arm\_GANTRY\_HHB\Common\string\SysParamCom_COM.xml
+Res\_Arm\_GANTRY\_HHB\CHT\string\SysParamCht_COM.xml
+Res\_Arm\_GANTRY\_HHB\CHS\string\SysParamChs_COM.xml
+Res\_Arm\_DELTA\_HHB\Common\SyntecParam.xml
+Res\_Arm\_DELTA\_HHB\Common\string\SysParamCom_COM.xml
+Res\_Arm\_DELTA\_HHB\CHT\string\SysParamCht_COM.xml
+Res\_Arm\_DELTA\_HHB\CHS\string\SysParamChs_COM.xml
+Res\_Arm\_ARTIC\_HHB\Common\SyntecParam.xml
+Res\_Arm\_ARTIC\_HHB\Common\string\SysParamCom_COM.xml
+Res\_Arm\_ARTIC\_HHB\CHT\string\SysParamCht_COM.xml
+Res\_Arm\_ARTIC\_HHB\CHS\string\SysParamChs_COM.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_res but NOT in folder Current_res :
+
+----------------------------------------------------------------------

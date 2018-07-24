@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="194054"><author>simon</author><date>2018-06-13T02:59:31.188082Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/G0020.nc</path><path action="M" kind="file">/cnckernel/trunk/res/Lathe/Macro/G0020.nc</path><path action="M" localPath="res\Lathe\Macro\G0020.nc" kind="file">/cnckernel/branches/release_v10.118.0/res/Lathe/Macro/G0020.nc</path></paths><msg>merge: ISSUE_12994_b_G90RDef_54, 193686-194023, to 10.116.54P
+       ISSUE_12994_b_G90RDef, 193685-194022, to 10.118.0K, 10.118.10
+by 彥融
+
+from start
+
+fix:
+	修正 外(內)徑車削循環 R引數為半徑值。</msg></logentry></log>

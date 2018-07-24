@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195665"><author>1200</author><date>2018-07-02T05:39:10.657393Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotExecutive.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotExecutive.cpp" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/MotionPlan/RobotExecutive.cpp</path></paths><msg>merge: HSHP_2302_b_Robot226BProblem_118_0J, 195132, to 10.118.0K, 10.118.11
+by 俊昇
+
+1. 修正機器人標準三關節-A型(Pr3201=226)，編輯參考點位置時，B座標單位未被轉回deg的錯誤。 </msg></logentry></log>

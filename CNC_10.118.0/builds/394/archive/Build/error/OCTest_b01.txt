@@ -1,0 +1,53 @@
+------ Rebuild All started: Project: Utility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+JDevice.cpp
+JVector.cpp
+JTime.cpp
+JSystem.cpp
+JFile.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.0\OCTest\Source\Utility\Release\BuildLog.htm"
+Utility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ATLogger.cpp
+LOG.cpp
+KinematicLogger.cpp
+DriverLogger.cpp
+BPT.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.0\OCTest\Source\Operation\Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCTest', configuration 'Release|Win32'
+Compiling...
+TestManager.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+.\TestManager.cpp(1957) : warning C4244: 'argument' : conversion from 'long' to 'unsigned char', possible loss of data
+.\TestManager.cpp(1960) : warning C4244: 'argument' : conversion from 'long' to 'unsigned char', possible loss of data
+StdAfx.cpp
+Compiling...
+OCTest.cpp
+Linking...
+utility.lib(JFileInfo.obj) : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/OPT:ICF' specification
+   Creating library d:\jenkins\workspace\cnc_10.118.0\octest\source\release\OCTest.lib and object d:\jenkins\workspace\cnc_10.118.0\octest\source\release\OCTest.exp
+LINK : warning LNK4098: defaultlib 'mfc80ud.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'mfcs80ud.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+LINK : warning LNK4098: defaultlib 'msvcrtd.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.0\OCTest\Source\OCTest\Release\BuildLog.htm"
+OCTest - 0 error(s), 6 warning(s)
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196239"><author>1200</author><date>2018-07-05T05:57:18.940385Z</date><paths><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotCSManager.cpp" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/MotionPlan/RobotCSManager.cpp</path></paths><msg>merge: ROBOT_79_f_UserCorDoNotClearOffset_118_10, 195908, to 10.118.0K, 10.118.11
+by 柏維
+
+1. 修改機器人ARTIC、SCARA、DELTA產品規格，切換使用者座標系不會將局部偏移清除。</msg></logentry></log>

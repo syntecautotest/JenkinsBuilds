@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192494"><author>1200</author><date>2018-05-29T12:32:28.597698Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotCoordTransform.cpp" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/MotionPlan/RobotCoordTransform.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotCoordTransform.h" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/MotionPlan/RobotCoordTransform.h</path></paths><msg>merge: ROBOT_27_b_MultipleErrAfterRunningForAWhile, 192108, to 10.118.0J
+by 亭諭
+
+1. 修正關節機器人全機種，加工中使用到OFFSET相關指令，偶發跳出RBT-22 逆運動學警報或是路徑走錯的問題。</msg></logentry></log>

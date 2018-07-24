@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193940"><author>hebenctu</author><date>2018-06-12T08:22:11.204410Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/DataLog/DataRecorder.cpp</path><path action="M" localPath="OCTest\Source\Operation\ATLogger.cpp" kind="file">/cnckernel/branches/release_v10.118.0/OCTest/Source/Operation/ATLogger.cpp</path><path action="M" localPath="OCKrnl\Source\DataLog\DataRecorder.cpp" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/DataLog/DataRecorder.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCTest/Source/Operation/ATLogger.cpp</path></paths><msg>
+merge: CNCTEST_752_b_OCTestBufferSizeErr, r193412 to 10.118.0K, 10.118.11
+by 禹廷
+
+note:
+調整OCTest Dump Buffer大小
+</msg></logentry></log>
