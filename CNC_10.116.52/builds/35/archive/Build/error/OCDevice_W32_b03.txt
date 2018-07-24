@@ -1,0 +1,45 @@
+------ Rebuild All started: Project: IODriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'IODriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+IOCh.cpp
+PCL818.cpp
+NullLatchIOChannel.cpp
+NullIoCh.cpp
+MpgIoChannel.cpp
+IoMapLoader.cpp
+.\IoMapLoader.cpp(42) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapLoader.cpp(43) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+IoEPCIO.cpp
+IoCNC2PIO.cpp
+IoChRly2.cpp
+IoChRly1.cpp
+IoChHardkey96.cpp
+IoChHardkey.cpp
+IoChDirect.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\IODriver\Release\BuildLog.htm"
+IODriver - 0 error(s), 2 warning(s)
+------ Rebuild All started: Project: CioNull, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'CioNull', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+CioNull.cpp
+Linking...
+   Creating library .\Release/NullIO.lib and object .\Release/NullIO.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\CioNull\Release\BuildLog.htm"
+CioNull - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+

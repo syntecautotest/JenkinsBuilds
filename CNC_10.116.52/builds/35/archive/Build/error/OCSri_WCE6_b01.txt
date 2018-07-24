@@ -1,0 +1,26 @@
+------ Rebuild All started: Project: Operation, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+ModbusFrame.cpp
+stdAfx.cpp
+SriPLCPanel.cpp
+SriManager.cpp
+SriConfigSync.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCSri\Source\Operation\WCE600Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCSri, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCSri', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdAfx.cpp
+OCSri.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\OCSri.lib and object WCE600Release\OCSri.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCSri\Source\OCSri\WCE600Release\BuildLog.htm"
+OCSri - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+

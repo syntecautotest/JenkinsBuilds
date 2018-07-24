@@ -1,0 +1,9 @@
+Files that are found in folder Current_res but NOT in folder Previous_res :
+
+Com\OCRes\Common\String\SerialAlarm_RTEXPana_COM.Xml
+Com\OCRes\CHT\String\SerialAlarm_RTEXPana_CHT.Xml
+Com\OCRes\CHS\String\SerialAlarm_RTEXPana_CHS.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_res but NOT in folder Current_res :
+
+----------------------------------------------------------------------

@@ -1,0 +1,26 @@
+------ Rebuild All started: Project: Operation, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdAfx.cpp
+Compiling...
+ModbusFrame.cpp
+SriPLCPanel.cpp
+SriManager.cpp
+SriConfigSync.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCSri\Source\Operation\WCE700ARM_Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCSri, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCSri', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdAfx.cpp
+OCSri.cpp
+Linking...
+   Creating library WCE700ARM_Release\OCSri.lib and object WCE700ARM_Release\OCSri.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCSri\Source\OCSri\WCE700ARM_Release\BuildLog.htm"
+OCSri - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+

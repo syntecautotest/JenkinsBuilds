@@ -1,0 +1,393 @@
+------ Rebuild All started: Project: ModbusComm, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ModbusComm', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+CrcAgent.cpp
+SerialPortAgent.cpp
+ModbusCommAPI.cpp
+ModbusComm.cpp
+Generating Code...
+Linking...
+   Creating library d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\ModbusComm\WCE700ARM_Release\ModbusComm.lib and object d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\ModbusComm\WCE700ARM_Release\ModbusComm.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\ModbusComm\WCE700ARM_Release\BuildLog.htm"
+ModbusComm - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CNC2ASIC, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CNC2ASIC', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CNC2ASIC.cpp
+M3Mechatrolink.cpp
+CNC2Driver.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\CNC2ASIC\WCE700ARM_Release\BuildLog.htm"
+CNC2ASIC - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SerialParam, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SerialParam', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+SerialParamDefManager.cpp
+SerialParamTable.cpp
+SerialParamSync.cpp
+SerialParamLoader.cpp
+SerialParamInit.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\SerialParam\WCE700ARM_Release\BuildLog.htm"
+SerialParam - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RTCommDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'RTCommDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CANAPI.cpp
+Socket.cpp
+RTCommNetDrv.cpp
+MessageQueue.cpp
+FlexrayDrv.cpp
+Flexray4310NetDriver.cpp
+Flexray4200NetDriver.cpp
+EthercatDrv.cpp
+ErrorCodeStack.cpp
+CANopenDrv.cpp
+CANnullDrv.cpp
+CANNetMgr.cpp
+CANCookie.cpp
+CANbusDrv.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release/RTCommDriver.lib and object WCE700ARM_Release/RTCommDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\RTCommDriver\WCE700ARM_Release\BuildLog.htm"
+RTCommDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoTuning, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ChTuningControl.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\ServoTuning\WCE700ARM_Release\BuildLog.htm"
+ServoTuning - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoLink, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ServoLink', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+MitsubishiComm.cpp
+ServoLink.cpp
+ServoCommHost.cpp
+SerialPort.cpp
+SanyoServo.cpp
+RS232Export.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\ServoLink.lib and object WCE700ARM_Release\ServoLink.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\ServoLink\WCE700ARM_Release\BuildLog.htm"
+ServoLink - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SerialAlarm, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SerialAlarm', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+SerialAlarmDef.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\SerialAlarm\WCE700ARM_Release\BuildLog.htm"
+SerialAlarm - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: IODriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'IODriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CNC2IoChannel.cpp
+PCL818.cpp
+NullLatchIOChannel.cpp
+NullIoCh.cpp
+MpgIoChannel.cpp
+LatchIOChannel.cpp
+IoMapLoader.cpp
+IoMap.cpp
+IoEPCIO.cpp
+IoCNC2PIO.cpp
+IoChRly2.cpp
+IoChRly1.cpp
+IoChHardkey96.cpp
+IoChHardkey.cpp
+IoChDirect.cpp
+IOCh.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\IODriver\WCE700ARM_Release\BuildLog.htm"
+IODriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CANDeviceDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CANDeviceDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CANDEVAPI.cpp
+XmlReaderAgent.cpp
+ORXAPI.cpp
+CANDeviceManager.cpp
+CANDeviceDriver.cpp
+CANDevice_CONFIG.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release/CANDeviceDriver.lib and object WCE700ARM_Release/CANDeviceDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\CANDeviceDriver\WCE700ARM_Release\BuildLog.htm"
+CANDeviceDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ServoDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+30gmASIC.cpp
+XY2Channel.cpp
+TnCtrlChannel.cpp
+SvoRtl.cpp
+SvoMultiplier.cpp
+SvoMinAbsFilter.cpp
+SvoFineDDA.cpp
+SvoDriver.cpp
+SvoChannel.cpp
+Servo60Driver.cpp
+Servo60Channel.cpp
+Servo5Driver.cpp
+Servo5Channel.cpp
+NullDriver.cpp
+NullChannel.cpp
+NetServoDriver.cpp
+NetServoChannel.cpp
+M2JL098Driver.cpp
+M2JL080Driver.cpp
+M2Driver.cpp
+Generating Code...
+Compiling...
+M2Channel.cpp
+M2ASICCommDriver.cpp
+LaserChannel.cpp
+FineInterpolation.cpp
+EPCIOSVO5.cpp
+EPCIORIO.cpp
+EPCIOPCL.cpp
+EPCIOLIO.cpp
+EPCIOENC.cpp
+EPCIOEDM.cpp
+EPCIODriver.cpp
+EPCIODDA.cpp
+EPCIODAC.cpp
+EPCIOChannel.cpp
+EPCIOASIC.cpp
+EPCIOADC.cpp
+EMP4Driver.cpp
+EMP4Channel.cpp
+DAChannel.cpp
+CANOpenHomeSearch.cpp
+Generating Code...
+Compiling...
+30gmDriver.cpp
+30gmChannel.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\ServoDriver\WCE700ARM_Release\BuildLog.htm"
+ServoDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CANObjectDictionary, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CANObjectDictionary', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+CANObjDicLoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANObjDictionary.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\CANObjectDictionary\WCE700ARM_Release\BuildLog.htm"
+CANObjectDictionary - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciM2, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciM2', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+MciM2.cpp
+Linking...
+   Creating library WCE700ARM_Release\M2.lib and object WCE700ARM_Release\M2.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Project : warning PRJ0018 : The following environment variables were not found:
+$(CEx86Corelibc)
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\MciM2\WCE700ARM_Release\BuildLog.htm"
+MciM2 - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Mci30GM, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Mci30GM', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+Mci30GM.cpp
+Linking...
+   Creating library WCE700ARM_Release\30GM.lib and object WCE700ARM_Release\30GM.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\Mci30GM\WCE700ARM_Release\BuildLog.htm"
+Mci30GM - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SriDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SriDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+SriChannel.cpp
+SriDriver.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\SriDriver.lib and object WCE700ARM_Release\SriDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\SriDriver\WCE700ARM_Release\BuildLog.htm"
+SriDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciM3, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciM3', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+M3Driver.cpp
+MciM3.cpp
+M3UnitConverter.cpp
+M3Tuning.cpp
+M3SynScope.cpp
+M3SynDeviceUpdate.cpp
+M3SvoChannel.cpp
+M3Station.cpp
+M3Protocol.cpp
+M3MsgControl.cpp
+M3MsgComm.cpp
+M3IOProfile.cpp
+M3IOChannel.cpp
+M3ExtIOChannel.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\M3.lib and object WCE700ARM_Release\M3.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Project : warning PRJ0018 : The following environment variables were not found:
+$(CEx86Corelibc)
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\MciM3\WCE700ARM_Release\BuildLog.htm"
+MciM3 - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioNull, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CioNull', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+CioNull.cpp
+Linking...
+   Creating library WCE700ARM_Release\NullIO.lib and object WCE700ARM_Release\NullIO.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\CioNull\WCE700ARM_Release\BuildLog.htm"
+CioNull - 0 error(s), 0 warning(s)
+------ Skipped Rebuild All: Project: MciServo60, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: MciServo5, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Rebuild All started: Project: MciNull, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciNull', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+MciNull.cpp
+Linking...
+   Creating library WCE700ARM_Release\Null.lib and object WCE700ARM_Release\Null.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\MciNull\WCE700ARM_Release\BuildLog.htm"
+MciNull - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciNetServo, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciNetServo', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+MciNetServo.cpp
+Linking...
+   Creating library WCE700ARM_Release\NetServo.lib and object WCE700ARM_Release\NetServo.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Project : warning PRJ0018 : The following environment variables were not found:
+$(CEx86Corelibc)
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\MciNetServo\WCE700ARM_Release\BuildLog.htm"
+MciNetServo - 0 error(s), 0 warning(s)
+------ Skipped Rebuild All: Project: MciEpcio, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Rebuild All started: Project: CioCNC2PIO, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CioCNC2PIO', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+CioCNC2PIO.cpp
+StdAfx.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\CNC2PIO.lib and object WCE700ARM_Release\CNC2PIO.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\CioCNC2PIO\WCE700ARM_Release\BuildLog.htm"
+CioCNC2PIO - 0 error(s), 0 warning(s)
+------ Skipped Rebuild All: Project: CioPio2, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: CioEpcio, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: CioEio80, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Rebuild All started: Project: MciRTEX, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciRTEX', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+MciRTEX.cpp
+StdAfx.cpp
+RTEXProtocol.cpp
+RTEXDriver.cpp
+RTEXChannel.cpp
+MNM1221.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\RTEX.lib and object WCE700ARM_Release\RTEX.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Project : warning PRJ0018 : The following environment variables were not found:
+$(CEx86Corelibc)
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\MciRTEX\WCE700ARM_Release\BuildLog.htm"
+MciRTEX - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: BuildAll, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'BuildAll', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+BuildAll.cpp
+Compiling resources...
+Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.52\OCDevice\Source\BuildAll\WCE700ARM_Release\BuildLog.htm"
+BuildAll - 0 error(s), 0 warning(s)
+========== Rebuild All: 21 succeeded, 0 failed, 6 skipped ==========
+

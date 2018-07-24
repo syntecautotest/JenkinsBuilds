@@ -1,0 +1,25 @@
+------ Rebuild All started: Project: Operation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Win32'
+Compiling...
+SriConfigSync.cpp
+ModbusFrame.cpp
+stdAfx.cpp
+SriPLCPanel.cpp
+SriManager.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.50\OCSri\Source\Operation\Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCSri, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCSri', configuration 'Release|Win32'
+Compiling...
+stdAfx.cpp
+OCSri.cpp
+Linking...
+   Creating library d:\jenkins\workspace\cnc_10.116.50\ocsri\source\release\OCSri.lib and object d:\jenkins\workspace\cnc_10.116.50\ocsri\source\release\OCSri.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.50\OCSri\Source\OCSri\Release\BuildLog.htm"
+OCSri - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+
