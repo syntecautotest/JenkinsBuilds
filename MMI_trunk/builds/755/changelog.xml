@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192442"><author>jason.yang</author><date>2018-05-29T08:02:21.927913Z</date><paths><path action="M" localPath="Res\_Arm\_Cutting\_70A\Common\StandardFenu\AttachFenu\LaserCuttingFenu.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/Common/StandardFenu/AttachFenu/LaserCuttingFenu.xml</path><path action="M" localPath="Res\_Arm\_Cutting\_70A\Common\CncFenu.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/Common/CncFenu.xml</path></paths><msg>merge Laser_1093_b_FileImportFenuError r191427-192017 to 10.118.x by 奇儒
+
+修正
+1.進到加工檔的檔案傳輸，再按esc，會回到工藝資料庫畫面</msg></logentry></log>

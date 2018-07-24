@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195280"><author>shockspy</author><date>2018-06-28T01:08:51.238568Z</date><paths><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\CAD\MprConverter.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/CAD/MprConverter.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/CAD/MprConverter.cs</path></paths><msg>merge WOOD_578_MPRSupportConditionFormula, 190644-191375 to 10.116.54, 10.118.x
+by 幸宜
+
+新增 
+	MPR支援條件式</msg></logentry></log>

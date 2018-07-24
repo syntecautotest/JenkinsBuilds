@@ -1,0 +1,19 @@
+------ Rebuild All started: Project: CEMMIAPI, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CEMMIAPI', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ReadFile.cpp
+NcFilesDir.cpp
+MMIUtil.cpp
+CncXmlWriter.cpp
+CEMMIAPI.cpp
+Generating Code...
+Linking...
+KrnlAPI.lib(KrnlAPI.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+   Creating library WCE600_Release\CEMMIAPI.lib and object WCE600_Release\CEMMIAPI.exp
+Generating code
+Finished generating code
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\CEMMIAPI\WCE600_Release\BuildLog.htm"
+CEMMIAPI - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

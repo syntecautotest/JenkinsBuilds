@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192402"><author>jason.yang</author><date>2018-05-29T06:10:25.242515Z</date><paths><path action="A" localPath="Res\_Arm\_Cutting\_70A\Common\AuthoDefine.xml" copyfrom-path="/appkernel/branches/Laser_1106_b_LossAuthorDefine/Res/_Arm/_Cutting/_70A/Common/AuthoDefine.xml" copyfrom-rev="192325" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/Common/AuthoDefine.xml</path></paths><msg>merge Laser_1106_b_LossAuthoDefine r192325-192326 to 10.118.x by 子權
+
+修正
+1.遺失的AuthoDefine.xml</msg></logentry></log>

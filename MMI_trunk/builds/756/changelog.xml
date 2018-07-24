@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192446"><author>swdjojo</author><date>2018-05-29T08:14:04.272346Z</date><paths><path action="M" localPath="Bin\SyntecEagleEye\WinCE_ARM\SEE_Station.exe" kind="file">/appkernel/trunk/Bin/SyntecEagleEye/WinCE_ARM/SEE_Station.exe</path><path action="M" localPath="MMICommon\Source\Screen\Scr_SyntecEagleEye.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_SyntecEagleEye.cs</path></paths><msg>merge appkernel/MMI_3588_t_PublishSEE_Ver101, 192383-192385 to 118.x
+by 鎮宇
+
+note:
+  * SEE station release 1.0.1版本.
+  * 修改SEE操作，可中斷連線準備.
+</msg></logentry></log>

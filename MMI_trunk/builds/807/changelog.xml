@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195758"><author>colingsta</author><date>2018-07-02T09:11:28.299697Z</date><paths><path action="M" localPath="Syntec.OpenCNC\JMarshal.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/JMarshal.cs</path><path action="M" localPath="Syntec.OpenCNC\Cnc.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/Cnc.cs</path><path action="M" localPath="SyntecRemoteCNC\SyntecRemoteCNC.cs" kind="file">/appkernel/trunk/SyntecRemoteCNC/SyntecRemoteCNC.cs</path><path action="M" localPath="SyntecRemoteCNC\SyntecRemoteObj.cs" kind="file">/appkernel/trunk/SyntecRemoteCNC/SyntecRemoteObj.cs</path></paths><msg>merge appkernel/MMI_3570_f_AddDurationInAlarmHistory r192260-r192578 to 10.118.11 by 彥丞
+
+新增
+    Remoteapi 呼叫歷史警報時，可多回傳經歷時間、警報是否解除</msg></logentry></log>

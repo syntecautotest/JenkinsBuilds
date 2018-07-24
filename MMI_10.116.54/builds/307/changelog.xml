@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196179"><author>colingsta</author><date>2018-07-05T01:10:21.016397Z</date><paths><path action="M" kind="file">/appkernel/trunk/Res/Common/String_CncOps/Res_ToolManagement_COM.xml</path><path action="M" localPath="Res\Common\String_CncOps\Res_ToolManagement_COM.xml" kind="file">/appkernel/branches/AppKernel_10.116.54/Res/Common/String_CncOps/Res_ToolManagement_COM.xml</path><path action="M" kind="file">/appkernel/trunk/Res/TRK/String/String.xml</path><path action="M" localPath="Res\TRK\String\String.xml" kind="file">/appkernel/branches/AppKernel_10.116.54/Res/TRK/String/String.xml</path></paths><msg>merge appkernel/ISSUE_12100_b_ToolManagement_CommonString_54x r194750-r196028 to 10.116.54Q, 10.118.11 by 意瑄
+
+修改
+   英文刀具壽命管理頁面，拼寫錯誤 的問題</msg></logentry></log>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192233"><author>colingsta</author><date>2018-05-28T08:56:26.777458Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RefPoint\UpdateRefPt.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RefPoint/UpdateRefPt.cs</path><path action="M" localPath="RobotPlugin\Plugin\RefPoint\Scr_ArticRefPoint.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RefPoint/Scr_ArticRefPoint.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/RobotPlugin/Plugin/UpdateRefPt.cs</path><path action="M" localPath="RobotPlugin\Plugin\RefPoint\Scr_GantryRefPoint.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RefPoint/Scr_GantryRefPoint.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/RobotPlugin/Plugin/Scr_RefPoint.cs</path></paths><msg>merge appkernel/ROBOT_12_f_RobotRefpointNameInsensitive1180X r190939 to 10.118.0x, 
+merge appkernel/ROBOT_12_f_RobotRefpointNameInsensitive118X r190930 10.118.x by 濬瑜
+
+修改
+  1.機器人"參考點更新"，在更新主/副教導程式，不區分命名大小寫更新 
+  2.機器人"參考點命名"，會檢查命名，且規則不區分大小寫，如果重複會跳提示</msg></logentry></log>

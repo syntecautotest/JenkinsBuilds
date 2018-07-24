@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195998"><author>colingsta</author><date>2018-07-04T00:32:24.032897Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\Scr_DeviceManager.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/Scr_DeviceManager.cs</path></paths><msg>merge appkernel/MMI_3566_b_Upgrade4in1Error r195805-r195807 to 10.118.11 by 鈞耀
+
+修正
+    驅動器韌體需比對模組內的所有元件key碼才可更新</msg></logentry></log>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192452"><author>colingsta</author><date>2018-05-29T08:36:58.697160Z</date><paths><path action="M" localPath="Res\Screen\SRIDeviceParam\Fenu8_SRIDeviceParam.xml" kind="file">/appkernel/trunk/Res/Screen/SRIDeviceParam/Fenu8_SRIDeviceParam.xml</path><path action="M" localPath="Res\Screen\SRIDeviceParam\Fenu5_SRIDeviceParam.xml" kind="file">/appkernel/trunk/Res/Screen/SRIDeviceParam/Fenu5_SRIDeviceParam.xml</path></paths><msg>merge appkernel/MMI_3586_b_SRIIOmappingFenuFix r192119-r192450 to 10.118.x, by 濬瑜
+
+修正
+    五鍵SRI的編輯fenu ，其F3改為 IO mapping的入口</msg></logentry></log>

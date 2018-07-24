@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197828"><author>shockspy</author><date>2018-07-23T06:07:23.993744Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/CAD/CadFileLoader.cs</path><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\CAD\CadFileLoader.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/CAD/CadFileLoader.cs</path></paths><msg>merge WOOD_644_f_MPRStartPointImprovement, 197323-197355 to 10.116.54R , 10.118.12
+by 治耘 2nd
+
+新增 
+	入刀點和出刀點的檢查，當檢查開啟會對於不合適的下刀點和出刀點做合理的安排
+	</msg></logentry></log>

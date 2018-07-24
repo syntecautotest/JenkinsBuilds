@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197339"><author>jason.yang</author><date>2018-07-17T07:34:52.562572Z</date><paths><path action="M" localPath="PlugIn\LaserScanningCADCAM\Source\LaserUtility.cs" kind="file">/appkernel/trunk/PlugIn/LaserScanningCADCAM/Source/LaserUtility.cs</path><path action="M" localPath="PlugIn\LaserScanningCADCAM\Source\GeometryCorrection.cs" kind="file">/appkernel/trunk/PlugIn/LaserScanningCADCAM/Source/GeometryCorrection.cs</path><path action="M" localPath="PlugIn\LaserScanningCADCAM\Source\LaserPrinter.cs" kind="file">/appkernel/trunk/PlugIn/LaserScanningCADCAM/Source/LaserPrinter.cs</path><path action="M" localPath="PlugIn\LaserScanningCADCAM\Source\SquareCorrection.cs" kind="file">/appkernel/trunk/PlugIn/LaserScanningCADCAM/Source/SquareCorrection.cs</path></paths><msg>merge Laser_1170_b_TwoDBarcodePathError 194791-196934 to 10.118.12 by 俊榮
+
+修正
+1.打標人機優先程度，由 BelowNormal 改為 Normal
+2.將各參數規格與限制改為與 PC CADCAM 相同
+3.新增二維碼參數設置錯誤判斷機制</msg></logentry></log>

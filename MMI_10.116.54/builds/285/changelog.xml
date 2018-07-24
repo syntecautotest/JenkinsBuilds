@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193868"><author>shockspy</author><date>2018-06-12T03:39:05.613776Z</date><paths><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\CAD\MprConverter.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/CAD/MprConverter.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/CAD/MprConverter.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/CADInfo/FeatureData.cs</path><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\CAD\XmlConverter.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/CAD/XmlConverter.cs</path><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\CADInfo\MillData.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/CADInfo/MillData.cs</path><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\CADInfo\FeatureData.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/CADInfo/FeatureData.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/CAD/XmlConverter.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/CADInfo/MillData.cs</path><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\CAD\CADUtility.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/CAD/CADUtility.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/CAD/CADUtility.cs</path></paths><msg>merge WOOD_551_b_MPRCAMPropertiesSettingError, 187944-189382 to 10.116.54, 10.118.x
+by 幸宜
+
+新增：
+1. 支援任意形式袋銑 
+2. 讀取刀具名稱 
+3. 支援讀取Mpr註解區第一行文字
+
+修正：
+1. 確保CAM所需屬性值皆正確填入 
+2. 錯誤槽深度讀取 
+3. 所有封閉銑型都被判定為內銑</msg></logentry><logentry revision="193869"><author>shockspy</author><date>2018-06-12T03:41:16.498006Z</date><paths><path action="M" localPath="PlugIn\_60DB\Source\Plugins\Scr_MechanicalParameter.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/Plugins/Scr_MechanicalParameter.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/Plugins/Scr_MechanicalParameter.cs</path></paths><msg>修正  wood polling機制</msg></logentry></log>

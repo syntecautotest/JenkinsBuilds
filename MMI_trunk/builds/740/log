@@ -1,0 +1,77 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Evaluating the Groovy script content
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4ECPsWaloByIbV2fwG+7envRvFI4u++nvTu6y6xjnJQiAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/RDX4BBfRz/jeCffeCMAzCoIRcwAAAA=[0mTESTMAN3_BM_2 ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\Jenkins\workspace\MMI_trunk
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\Jenkins\workspace\MMI_trunk\.
+«Ø¸m¤w¤¤Â_
+¥Ñ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ¤¤¤î
+«Ê¦s¦¨«~
+°O¿ý«ü¯¾
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+ERROR: Failed to update http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/trunk
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0morg.tmatesoft.svn.core.SVNException: svn: E200030: java.nio.channels.ClosedByInterruptException
+	at org.tmatesoft.svn.core.internal.wc.SVNErrorManager.error(SVNErrorManager.java:70)
+	at org.tmatesoft.svn.core.internal.wc.SVNErrorManager.error(SVNErrorManager.java:57)
+	at org.tmatesoft.svn.core.internal.db.SVNSqlJetDb.createSqlJetError(SVNSqlJetDb.java:195)
+	at org.tmatesoft.svn.core.internal.db.SVNSqlJetDb.beginTransaction(SVNSqlJetDb.java:211)
+	at org.tmatesoft.svn.core.internal.db.SVNSqlJetDb.runTransaction(SVNSqlJetDb.java:257)
+	at org.tmatesoft.svn.core.internal.wc17.db.SVNWCDb.readChildren(SVNWCDb.java:3066)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:673)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.walkStatus(SVNStatusEditor17.java:641)
+	at org.tmatesoft.svn.core.internal.wc2.ng.SvnNgGetStatus.run(SvnNgGetStatus.java:132)
+	at org.tmatesoft.svn.core.internal.wc2.ng.SvnNgGetStatus.run(SvnNgGetStatus.java:27)
+	at org.tmatesoft.svn.core.internal.wc2.ng.SvnNgOperationRunner.run(SvnNgOperationRunner.java:20)
+	at org.tmatesoft.svn.core.internal.wc2.SvnOperationRunner.run(SvnOperationRunner.java:21)
+	at org.tmatesoft.svn.core.wc2.SvnOperationFactory.run(SvnOperationFactory.java:1235)
+	at org.tmatesoft.svn.core.wc2.SvnOperation.run(SvnOperation.java:294)
+	at org.tmatesoft.svn.core.wc.SVNStatusClient.doStatus(SVNStatusClient.java:363)
+	at hudson.scm.subversion.UpdateWithCleanUpdater$TaskImpl.preUpdate(UpdateWithCleanUpdater.java:66)
+	at hudson.scm.subversion.UpdateUpdater$TaskImpl.perform(UpdateUpdater.java:152)
+	at hudson.scm.subversion.WorkspaceUpdater$UpdateTask.delegateTo(WorkspaceUpdater.java:162)
+	at hudson.scm.SubversionSCM$CheckOutTask.perform(SubversionSCM.java:996)
+	at hudson.scm.SubversionSCM$CheckOutTask.invoke(SubversionSCM.java:972)
+	at hudson.scm.SubversionSCM$CheckOutTask.invoke(SubversionSCM.java:948)
+	at hudson.FilePath$FileCallableWrapper.call(FilePath.java:2731)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:153)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:50)
+	at hudson.remoting.Request$2.run(Request.java:332)
+	at hudson.remoting.InterceptingExecutorService$1.call(InterceptingExecutorService.java:68)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at hudson.remoting.Engine$1$1.run(Engine.java:94)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.tmatesoft.sqljet.core.SqlJetException: java.nio.channels.ClosedByInterruptException: error code is IOERR
+	at org.tmatesoft.sqljet.core.internal.fs.SqlJetFile.fileSize(SqlJetFile.java:351)
+	at org.tmatesoft.sqljet.core.internal.pager.SqlJetPager.getPageCount(SqlJetPager.java:802)
+	at org.tmatesoft.sqljet.core.internal.pager.SqlJetPager.sharedLock(SqlJetPager.java:1367)
+	at org.tmatesoft.sqljet.core.internal.pager.SqlJetPager.acquirePage(SqlJetPager.java:1020)
+	at org.tmatesoft.sqljet.core.internal.btree.SqlJetBtreeShared.getPage(SqlJetBtreeShared.java:339)
+	at org.tmatesoft.sqljet.core.internal.btree.SqlJetBtree.lockBtree(SqlJetBtree.java:734)
+	at org.tmatesoft.sqljet.core.internal.btree.SqlJetBtree.beginTrans(SqlJetBtree.java:923)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine.doBeginTransaction(SqlJetEngine.java:561)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine.access$100(SqlJetEngine.java:55)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine$9.runSynchronized(SqlJetEngine.java:475)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine.runSynchronized(SqlJetEngine.java:217)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine.beginTransaction(SqlJetEngine.java:471)
+	at org.tmatesoft.svn.core.internal.db.SVNSqlJetDb.beginTransaction(SVNSqlJetDb.java:206)
+	... 31 more
+Caused by: java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.tmatesoft.sqljet.core.internal.fs.SqlJetFile.fileSize(SqlJetFile.java:349)
+	... 43 more
+ERROR: Subversion update failed
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mFinished Calculation of disk usage of workspace in  5 minutes
+Finished: ABORTED

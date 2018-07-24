@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196036"><author>colingsta</author><date>2018-07-04T02:20:05.227508Z</date><paths><path action="M" localPath="Res\_Arm\_Gantry\Screen\RefPoint\Brw_RefPoint_main_2Axis.xml" kind="file">/appkernel/branches/AppKernel_10.118.0/Res/_Arm/_Gantry/Screen/RefPoint/Brw_RefPoint_main_2Axis.xml</path><path action="M" localPath="Res\_Arm\_Gantry\Screen\RefPoint\Brw_RefPoint_main_3Axis.xml" kind="file">/appkernel/branches/AppKernel_10.118.0/Res/_Arm/_Gantry/Screen/RefPoint/Brw_RefPoint_main_3Axis.xml</path><path action="M" localPath="Res\_Arm\_Gantry\Screen\RefPoint\Brw_RefPoint_main_4Axis.xml" kind="file">/appkernel/branches/AppKernel_10.118.0/Res/_Arm/_Gantry/Screen/RefPoint/Brw_RefPoint_main_4Axis.xml</path></paths><msg>merge appkernel/ISSUE_13099_B_GantryBackToResFail r195684-r195688 to 10.118.0K by 濬瑜
+
+修正
+    直角回參考點，點擊後無反應問題</msg></logentry></log>

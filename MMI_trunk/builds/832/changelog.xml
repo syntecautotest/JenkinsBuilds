@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196672"><author>colingsta</author><date>2018-07-10T05:14:13.782872Z</date><paths><path action="M" localPath="MMICommon\Source\MMIConfig\MMIConfig.cs" kind="file">/appkernel/trunk/MMICommon/Source/MMIConfig/MMIConfig.cs</path><path action="M" localPath="Res\_Arm\_Lathe\Common\MMIConfig.xml" kind="file">/appkernel/trunk/Res/_Arm/_Lathe/Common/MMIConfig.xml</path><path action="M" localPath="Res\_Arm\_Mill\Common\MMIConfig.xml" kind="file">/appkernel/trunk/Res/_Arm/_Mill/Common/MMIConfig.xml</path></paths><msg>merge appkernel/MMI_3594_f_FenuType2 r196659-r196660 to 10.118.11 by 禮芳
+
+修正
+    CE不顯示人機視窗布局設定</msg></logentry></log>

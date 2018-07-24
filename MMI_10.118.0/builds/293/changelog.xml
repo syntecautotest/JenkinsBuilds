@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192262"><author>colingsta</author><date>2018-05-28T09:59:39.362520Z</date><paths><path action="M" kind="file">/appkernel/trunk/OCUser/Source/Swingw/JCycleTable.cpp</path><path action="M" kind="file">/appkernel/trunk/OCUser/Source/Swingw/JTemplateComponent.cpp</path><path action="M" localPath="OCUser\Source\Swingw\JCycleTable.cpp" kind="file">/appkernel/branches/AppKernel_10.118.0/OCUser/Source/Swingw/JCycleTable.cpp</path><path action="M" localPath="OCUser\Source\Swingw\JTemplateComponent.cpp" kind="file">/appkernel/branches/AppKernel_10.118.0/OCUser/Source/Swingw/JTemplateComponent.cpp</path></paths><msg>merge appkernel/MMI_3567_b_CycleTableBorderStyleError r190270-r192219 10.118.0x, 10.118.x by 景媖
+
+修正
+    1. 表格邊框與Input元件點擊變更行號功能 
+    2. Input輸入數值後未能成功儲存現象</msg></logentry></log>

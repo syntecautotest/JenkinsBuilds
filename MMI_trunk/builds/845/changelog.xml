@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197320"><author>jason.yang</author><date>2018-07-17T06:12:09.815161Z</date><paths><path action="M" localPath="Res\_Arm\_Cutting\_70A\Common\StandardFenu\AttachFenu\LaserCuttingFenu.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/Common/StandardFenu/AttachFenu/LaserCuttingFenu.xml</path><path action="M" localPath="Res\_Arm\_Cutting\_70A\Common\AppData\LaserCutting_LaserTest.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/Common/AppData/LaserCutting_LaserTest.xml</path><path action="M" localPath="Res\_Arm\_Cutting\_70B\Common\AppData\LaserCutting_LaserTest.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70B/Common/AppData/LaserCutting_LaserTest.xml</path></paths><msg>merge Laser_1189_f_ProgramEditPageModify 196139-196582 to 10.118.12 by 俊榮
+
+修正
+1.檔案管理頁面畫面
+2.自動調焦參數儲存位置</msg></logentry></log>

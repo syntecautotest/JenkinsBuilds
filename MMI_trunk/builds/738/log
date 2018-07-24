@@ -1,0 +1,194 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Evaluating the Groovy script content
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4ECPsWaloByIbV2fwG+7envRvFI4u++nvTu6y6xjnJQiAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/RDX4BBfRz/jeCffeCMAzCoIRcwAAAA=[0mTESTMAN3_BM_2 ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\Jenkins\workspace\MMI_trunk
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\Jenkins\workspace\MMI_trunk\.
+Deleting D:\Jenkins\workspace\MMI_trunk\Res\_Arm\_Cutting\_70A\Common\Plugin\DLL\CE\LaserCuttingCE.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Res\_Arm\_Cutting\_70A\Common\Plugin\DLL\32\LaserCutting.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Res\_Arm\_Drill\Common\Plugin\Dll
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecRemoteCNC\Syntec.RemoteCNC.WinCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecRemoteCNC\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecRemoteCNC\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\Checker\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\Checker\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\Checker\Checker.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\CncMon\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\CncMon\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\CncMon\Source\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\CncMon\Source\CncMonCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\OCAPIServer.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win64\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win64\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win64\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\SA.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\OCAPIServer_WinCE.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\SA.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32EHMC\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32EHMC\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32EHMC\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32EHMC\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\SA.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\SB.new
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32Autotest\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32Autotest\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32Autotest\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32Autotest\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\DipoleServer\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\DipoleServer\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\DipoleServer\Source\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\DipoleServer\Source\DipoleServer_WINCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\DiskC
+Deleting D:\Jenkins\workspace\MMI_trunk\Error
+Deleting D:\Jenkins\workspace\MMI_trunk\ActionRouter\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\ActionRouter\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\ActionRouter\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\ActionRouter\ActionRouter.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\Syntec.OpenCNC\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\Syntec.OpenCNC\UnitTest
+Deleting D:\Jenkins\workspace\MMI_trunk\Syntec.OpenCNC\Syntec.OpenCNC.WinCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\Syntec.OpenCNC\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\Platform
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\CE
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\OpenCNC
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\BackupRestore\BackupItemMgr
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\Tools\Disk
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\SystemAgent.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\P2PMessageQueue
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\Api
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\Platform
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\Tools\Disk
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\SyntecBackup.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\Api
+Deleting D:\Jenkins\workspace\MMI_trunk\AutoTestPlugin\Source\AutoTestPluginCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\MMICommon\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\MMICommon\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\MMICommon\Source\MMICommon.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\MMICommon\Source\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\Win32
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\WinCE
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\Plugin\RobotMMICE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\Build\UnZipOCSDK.bat
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OC3DSimu\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCKbdMs\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCKbdMs\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OcDown\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OcDown\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\x64
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\debug
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\KbdMouse\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCHotKey\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCHotKey\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUp\WCE600_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUp\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\x64
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\x64
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\Debug
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCAPIServerDown\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCAPIServerDown\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\APPSDK
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\SETUP
+Deleting D:\Jenkins\workspace\MMI_trunk\AutoTest
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\FileClean\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\FileClean\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\FileClean\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\FileClean\FileCleanSettingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\DrillCAM\DrillCAMCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\DrillCAM\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\DrillCAM\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\DrillCAM\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\BuiltInDrillCAMCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\UnitTestProject\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\UnitTestProject\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\PlugInDLL
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\LaserScanningCADCAM\Source\LaserActionCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\LaserScanningCADCAM\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\LaserScanningCADCAM\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\LaserCutting\Source\LaserCuttingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\PrintLabelWorker\LabelingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\WoodSoftWare\DiskC
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\WoodSoftWare\Source\WorkinglistConverterCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\WoodSoftWare\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\WoodSoftWare\Source\bin32
+Updating http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/trunk at revision '2018-05-25T17:42:08.047 +0800'
+U         Syntec.OpenCNC\MMI_Thread.cs
+U         MMICommon\Source\Screen\ScrTool\Scr_ToolLathe.cs
+U         MMICommon\Source\Screen\ScrTool\Scr_ToolMill.cs
+At revision 192065
+
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Executing and processing the following script content: 
+svn log %SVN_URL% -r %SVN_REVISION%
+
+[MMI_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins2945562459010865884.bat
+
+D:\Jenkins\workspace\MMI_trunk>svn log http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/trunk -r 192064 
+------------------------------------------------------------------------
+r192064 | swdjojo | 2018-05-25 17:40:12 +0800 (¬P´Á¤­, 25 ¤­¤ë 2018) | 9 lines
+
+merge appkernel/MMI_3537_f_MMIThreadExpand, 191911 to 118.x
+by ºû°a
+
+note:
+  * ·s¼WMMI_Thread¤¶­±
+     -Join( Int32 )
+     -CurrentThreadUICulture
+     -IsAlive
+
+------------------------------------------------------------------------
+
+D:\Jenkins\workspace\MMI_trunk>exit 0 
+[EnvInject] - Script executed successfully.
+Set build name.
+New build name is '#738  at rev192064 by ºû°a
+'
+[JIRA] Setting JIRA_ISSUES to MMI-3537.
+Unable to access upstream artifacts area D:\Jenkins\CNC_trunk\builds\996\archive. Does source project archive artifacts?
+Set build name.
+New build name is '#738 MMI-3537 at rev192064 by ºû°a
+'
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#738  at rev192064 by ºû°a
+', new value: '#738 MMI-3537 at rev192064 by ºû°a
+'
+Post-Build Update: Updated Dashboard DB
+ERROR: Failed to copy artifacts from CNC_trunk with filter: Build/Release/**/CNCSDK*.zip
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0m«Ê¦s¦¨«~
+°O¿ý«ü¯¾
+Sending e-mails to: WeiJen@syntecclub.com.tw marskao@syntecclub.com.tw albert1002@syntecclub.com.tw hebe.am96g@g2.nctu.edu.tw yoana.shih@syntecclub.com.tw chengwei.lin@syntecclub.com.tw evolution6423@yahoo.com.tw swdjojo@gmail.com chieh-hao.chang@syntecclub.com.tw shockspy@syntecclub.com.tw Young@syntecclub.com.tw
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  1 minute 9 second
+Finished: FAILURE

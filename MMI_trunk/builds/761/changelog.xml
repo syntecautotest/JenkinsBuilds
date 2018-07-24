@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192698"><author>colingsta</author><date>2018-05-31T00:07:08.369806Z</date><paths><path action="M" localPath="MMICommon\Source\Component\LtView.cs" kind="file">/appkernel/trunk/MMICommon/Source/Component/LtView.cs</path><path action="M" localPath="MMICommon\Source\Component\SimuView.cs" kind="file">/appkernel/trunk/MMICommon/Source/Component/SimuView.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScreenBase.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScreenBase.cs</path><path action="M" localPath="MMICommon\Source\Component\TextWnd.cs" kind="file">/appkernel/trunk/MMICommon/Source/Component/TextWnd.cs</path></paths><msg>merge appkernel/ISSUE_11503_f_TransPortComponentToOCUSER_54.x r187333-r189302 to 10.118.x by 玲巧
+
+修正
+   1. 客製元件在15"螢幕下AutoFit會偏移的問題
+   2. 圖型模擬元件切換畫面多次後會消失的問題</msg></logentry></log>

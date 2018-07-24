@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196210"><author>colingsta</author><date>2018-07-05T03:22:25.488827Z</date><paths><path action="M" localPath="Res\Screen\AbsoluteSetting\Brw_AbsoluteSetting_Main.xml" kind="file">/appkernel/trunk/Res/Screen/AbsoluteSetting/Brw_AbsoluteSetting_Main.xml</path><path action="M" localPath="Res\Common\String_CncEngs\Res_AbsoluteSetting_COM.xml" kind="file">/appkernel/trunk/Res/Common/String_CncEngs/Res_AbsoluteSetting_COM.xml</path></paths><msg>merge appkernel/MMI_3572_f_EncoderReset r196203 to 10.118.11 by 景媖
+
+修正
+    xml format error</msg></logentry></log>

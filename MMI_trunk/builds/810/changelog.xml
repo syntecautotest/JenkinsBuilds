@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195809"><author>colingsta</author><date>2018-07-03T00:36:31.338494Z</date><paths><path action="M" localPath="CEMMIAPI\CEMMIAPI_WinCE60.vcproj" kind="file">/appkernel/trunk/CEMMIAPI/CEMMIAPI_WinCE60.vcproj</path></paths><msg>fix: build error</msg></logentry></log>

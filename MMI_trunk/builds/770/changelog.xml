@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193361"><author>colingsta</author><date>2018-06-06T05:44:05.408830Z</date><paths><path action="M" localPath="Res\_Arm\_Gantry\Common\String_CncEngs\Soft_Board.xml" kind="file">/appkernel/trunk/Res/_Arm/_Gantry/Common/String_CncEngs/Soft_Board.xml</path><path action="M" localPath="Res\_Arm\_Gantry\CHS\String_CncEngs\Soft_Board.xml" kind="file">/appkernel/trunk/Res/_Arm/_Gantry/CHS/String_CncEngs/Soft_Board.xml</path></paths><msg>merge appkernel/ISUUE_12552_f_GantryAddMotorMonitor118x r193355 to 10.118.x, by 濬瑜
+
+fix: xml format error</msg></logentry></log>

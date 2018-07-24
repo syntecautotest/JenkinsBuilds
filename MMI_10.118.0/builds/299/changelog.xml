@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193222"><author>colingsta</author><date>2018-06-05T08:56:27.908426Z</date><paths><path action="M" localPath="Res\_Arm\_Scara\Common\AppData\MotorInfo.xml" kind="file">/appkernel/branches/AppKernel_10.118.0/Res/_Arm/_Scara/Common/AppData/MotorInfo.xml</path><path action="M" localPath="Res\_Arm\_Artic\Common\AppData\MotorInfo.xml" kind="file">/appkernel/branches/AppKernel_10.118.0/Res/_Arm/_Artic/Common/AppData/MotorInfo.xml</path><path action="M" localPath="Res\_Arm\_Delta\Common\AppData\MotorInfo.xml" kind="file">/appkernel/branches/AppKernel_10.118.0/Res/_Arm/_Delta/Common/AppData/MotorInfo.xml</path></paths><msg>merge appkernel/ROBOT_18_b_MotorLoadUnitErr_1180x r193046-r193047 to 10.118.0x, by 易勳
+
+修正
+  1. 機器人產品(Artic,Scara,Delta)馬達負載率單位錯誤 
+  2. 機器人產品(Artic.Scara,Delta)馬達轉速顯示來源為人機變數J3</msg></logentry></log>

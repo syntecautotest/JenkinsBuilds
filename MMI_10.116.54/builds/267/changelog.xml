@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193328"><author>colingsta</author><date>2018-06-06T03:46:29.688037Z</date><paths><path action="M" localPath="MMICommon\Source\BackupRestore\Action\RestoreAction.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/BackupRestore/Action/RestoreAction.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.36/SystemAgent/SA.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.36/MMICommon/Source/BackupRestore/Action/RestoreAction.cs</path><path action="M" localPath="SystemAgent\SA.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/SystemAgent/SA.cs</path></paths><msg>merge appkernel/MMI_3553_b_PackageErr_11654 (MMI-3590) r193205 to 10.116.36x, 10.116.54x, by 禮芳
+
+修改：
+    改進SB備份檔自動修正功能的提示訊息</msg></logentry></log>

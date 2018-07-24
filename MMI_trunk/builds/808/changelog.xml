@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195761"><author>colingsta</author><date>2018-07-02T09:13:48.649588Z</date><paths><path action="M" localPath="MMICommon\Source\Tools\Encode.cs" kind="file">/appkernel/trunk/MMICommon/Source/Tools/Encode.cs</path></paths><msg>merge appkernel/ISSUE_12848_b_NcUploaderChineseFIleBug r192876-r195645 to 10.118.11 by 禮芳
+
+修正
+   『部分中文檔名檔案透過NcUploader上傳後，在人機介面上顯示亂碼』的問題</msg></logentry></log>

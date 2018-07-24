@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195852"><author>shockspy</author><date>2018-07-03T03:04:46.550347Z</date><paths><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\CAD\PanelRotater.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/CAD/PanelRotater.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/CAD/PanelRotater.cs</path></paths><msg>merge WOOD_618_OptimizeImportFileProcess, 193775-195397 to 10.116.54, 10.118.x
+by 治耘
+
+修正 
+	鏡射時，圖型顯示錯誤
+	</msg></logentry></log>

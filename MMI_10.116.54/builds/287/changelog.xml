@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193873"><author>shockspy</author><date>2018-06-12T03:50:00.924127Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/WoodSoftWare/Source/APISourceDLL/SyntecFTPManagerAPI.dll</path><path action="M" localPath="PlugIn\WoodSoftWare\Source\RemoteFileServer.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/WoodSoftWare/Source/RemoteFileServer.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/WoodSoftWare/Source/RemoteFileServer.cs</path></paths><msg>merge WOOD_581_b_WorkinglistRemoteSendFileProgressBarError, r190879-190885 to 10.116.54, 10.118.x
+by 大立
+
+修正：
+1. Workinglist遠端傳檔進度條顯示不正確的問題
+2. Workinglist執行遠端刪除檔案時數量超過buffer大小人機會crash的問題</msg></logentry></log>

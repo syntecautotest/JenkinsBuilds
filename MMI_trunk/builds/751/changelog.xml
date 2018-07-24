@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192403"><author>colingsta</author><date>2018-05-29T06:12:43.146758Z</date><paths><path action="M" localPath="MMICommon\Source\Tools\Disk\File.cs" kind="file">/appkernel/trunk/MMICommon/Source/Tools/Disk/File.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/MMICommon/Source/Tools/Disk/File.cs</path></paths><msg>merge appkernel/MMI_3523_f_FrontEndBackupRestore_118.0x r192330 to 10.118.0x,
+merge appkernel/MMI_3523_f_FrontEndBackupRestore_118.x r192328 to 10.118.x, by 景媖
+
+修正
+    CE build error
+</msg></logentry></log>

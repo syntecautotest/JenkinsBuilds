@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192064"><author>swdjojo</author><date>2018-05-25T09:40:12.144009Z</date><paths><path action="M" localPath="Syntec.OpenCNC\MMI_Thread.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/MMI_Thread.cs</path></paths><msg>merge appkernel/MMI_3537_f_MMIThreadExpand, 191911 to 118.x
+by 維軒
+
+note:
+  * 新增MMI_Thread介面
+     -Join( Int32 )
+     -CurrentThreadUICulture
+     -IsAlive
+</msg></logentry></log>

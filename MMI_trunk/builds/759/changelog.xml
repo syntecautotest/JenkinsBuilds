@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192508"><author>jason.yang</author><date>2018-05-30T01:07:19.014347Z</date><paths><path action="M" localPath="Res\_Arm\_Cutting\_70A\Common\StandardFenu\AttachFenu\LaserCuttingFenu.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/Common/StandardFenu/AttachFenu/LaserCuttingFenu.xml</path><path action="M" localPath="PlugIn\LaserCutting\Source\MaterialDataBase.cs" kind="file">/appkernel/trunk/PlugIn/LaserCutting/Source/MaterialDataBase.cs</path></paths><msg>merge Laser_1092_b_MaterialDatabaseSaveImprovement r191569-191582 to 10.118.x by 奇儒
+
+新增
+1.修改工藝參數後提醒使用者需要存檔</msg></logentry></log>

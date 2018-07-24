@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197326"><author>jason.yang</author><date>2018-07-17T06:46:43.309289Z</date><paths><path action="M" localPath="Res\_Arm\_Scanning\Common\MMIConfig.xml" kind="file">/appkernel/trunk/Res/_Arm/_Scanning/Common/MMIConfig.xml</path><path action="M" localPath="Res\_Arm\_Scanning\Common\StandardFenu\AttachFenu\MarkingFenu.xml" kind="file">/appkernel/trunk/Res/_Arm/_Scanning/Common/StandardFenu/AttachFenu/MarkingFenu.xml</path></paths><msg>merge Laser_1255_b_BinaryFileImportExport 196615-196752 to 10.118.12 by 俊榮
+
+修正
+1.可使用外部裝置匯入與匯出離線加工檔
+2.檔案管理可以顯示 .gal 附檔名的檔案
+</msg></logentry></log>

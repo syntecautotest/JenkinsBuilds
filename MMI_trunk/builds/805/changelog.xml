@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195752"><author>colingsta</author><date>2018-07-02T09:02:01.374075Z</date><paths><path action="M" localPath="SystemAgent\frmSA.cs" kind="file">/appkernel/trunk/SystemAgent/frmSA.cs</path><path action="D" localPath="SystemAgent\Operation\SysFunc\OperationSetLcd.cs" kind="file">/appkernel/trunk/SystemAgent/Operation/SysFunc/OperationSetLcd.cs</path><path action="M" localPath="SystemAgent\Page\SysFunc\PageSysFunc.cs" kind="file">/appkernel/trunk/SystemAgent/Page/SysFunc/PageSysFunc.cs</path><path action="M" localPath="SystemAgent\SystemAgent.csproj" kind="file">/appkernel/trunk/SystemAgent/SystemAgent.csproj</path><path action="M" localPath="SystemAgent\Operation\OperationMain.cs" kind="file">/appkernel/trunk/SystemAgent/Operation/OperationMain.cs</path><path action="M" localPath="SystemAgent\Page\PageMain.cs" kind="file">/appkernel/trunk/SystemAgent/Page/PageMain.cs</path><path action="D" localPath="SystemAgent\Page\SysFunc\PageSetLcd.cs" kind="file">/appkernel/trunk/SystemAgent/Page/SysFunc/PageSetLcd.cs</path><path action="M" localPath="SystemAgent\Page\PageManager.cs" kind="file">/appkernel/trunk/SystemAgent/Page/PageManager.cs</path><path action="M" localPath="SystemAgent\ESelectItem.cs" kind="file">/appkernel/trunk/SystemAgent/ESelectItem.cs</path><path action="M" localPath="MMICommon\Source\Tools\NK.cs" kind="file">/appkernel/trunk/MMICommon/Source/Tools/NK.cs</path></paths><msg>merge appkernel/MMI_3599_f_4thImg r193600-r195180 to 10.118.11 by 禮芳
+
+修改
+   1. SA 移除『變更LCD解析度』項目 
+   2. Image版本 &gt;= 7.56時，只能選擇安裝 WEC_*.bin 
+[相容性異動] 
+   1. SA 第一次進入系統功能，會 focus 在第一個可被選擇的項目 
+   2. SA 系統功能內無選項可選時，會 focus 在『離開』</msg></logentry></log>

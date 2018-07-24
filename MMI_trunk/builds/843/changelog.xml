@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197318"><author>jason.yang</author><date>2018-07-17T06:04:52.550850Z</date><paths><path action="M" localPath="Res\_Arm\_Cutting\_70A\CHT\string\LaserCutting_MaterialForm.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/CHT/string/LaserCutting_MaterialForm.xml</path><path action="M" localPath="Res\_Arm\_Cutting\_70A\CHS\string\LaserCutting_MaterialForm.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/CHS/string/LaserCutting_MaterialForm.xml</path><path action="M" localPath="Res\_Arm\_Cutting\_70A\Common\string\LaserCutting_MaterialForm.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/Common/string/LaserCutting_MaterialForm.xml</path><path action="M" localPath="Res\_Arm\_Cutting\_70A\Common\Schema\Schema_LaserMaterialParam.xml" kind="file">/appkernel/trunk/Res/_Arm/_Cutting/_70A/Common/Schema/Schema_LaserMaterialParam.xml</path></paths><msg>merge Laser_1199_f_EveryMovingPiercingSwitch 195355 to 10.118.12 by 紹紋
+
+修正:
+1. 工藝參數頁面參數配置
+2. 多國語系
+3. schema檔</msg></logentry></log>

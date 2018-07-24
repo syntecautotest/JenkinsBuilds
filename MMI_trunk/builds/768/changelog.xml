@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193329"><author>colingsta</author><date>2018-06-06T03:54:00.638030Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Scr_Simu.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_Simu.cs</path></paths><msg>merge appkernel/MMI_3526_f_ReduceSimulationTime r192650-r193298 to 10.118.x, by 景媖
+
+修改：
+    更改圖形模擬頁面規格為, 切換頁面不重繪</msg></logentry></log>

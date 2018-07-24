@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192302"><author>colingsta</author><date>2018-05-29T00:56:38.989049Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotProgram\Scr_GantryRobotProgram.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotProgram/Scr_GantryRobotProgram.cs</path><path action="M" localPath="RobotPlugin\Plugin\RobotProgram\Scr_ArticRobotProgram.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotProgram/Scr_ArticRobotProgram.cs</path></paths><msg>merge appkernel/MMI_3580_b_RobotMMICrash_118x r191943-r192279 10.118.x by 易勳
+
+修正
+    機器人產品系統就緒時人機crash的問題</msg></logentry></log>

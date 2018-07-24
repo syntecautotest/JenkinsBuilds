@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193331"><author>colingsta</author><date>2018-06-06T03:57:52.610437Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Screen/Scr_Simu.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/MMICommon/Source/Screen/Scr_Simu.cs</path><path action="M" localPath="MMICommon\Source\Screen\Scr_Simu.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_Simu.cs</path></paths><msg>merge appkernel/ISSUE_13009_b_SimuCoord_54x r193020-r193305 to 10.11.54x,
+merge appkernel/ISSUE_13009_b_SimuCoord r193075-r193281 to 10.118.0x, 10.118.x, by 意瑄
+
+修正 
+    圖形模擬下的軸向顯示異常 的現象 
+
+[相容性異動] 
+    圖形模擬頁面至多顯示XYZ軸, 沒開的軸不顯示</msg></logentry></log>

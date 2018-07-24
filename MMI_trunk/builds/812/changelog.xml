@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195921"><author>swdjojo</author><date>2018-07-03T06:49:57.371979Z</date><paths><path action="M" localPath="MMICommon\Source\Install_Backup\SB.cs" kind="file">/appkernel/trunk/MMICommon/Source/Install_Backup/SB.cs</path><path action="M" localPath="MMICommon\Source\Install_Backup\SBUtility.cs" kind="file">/appkernel/trunk/MMICommon/Source/Install_Backup/SBUtility.cs</path><path action="M" localPath="SystemAgent\SA.cs" kind="file">/appkernel/trunk/SystemAgent/SA.cs</path></paths><msg>merge appkernel/MMI_3612_f_SBAddSee, 195609-195912 to 10.118.11
+by 維軒
+
+note:
+  * SB備份增加SyntecEagleEye
+</msg></logentry></log>

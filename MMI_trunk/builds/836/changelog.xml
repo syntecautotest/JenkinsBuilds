@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197091"><author>colingsta</author><date>2018-07-13T09:33:07.994776Z</date><paths><path action="M" localPath="MMICommon\Source\Tools\NK.cs" kind="file">/appkernel/trunk/MMICommon/Source/Tools/NK.cs</path></paths><msg>revert change of NK.cs from rev. 195752 (MMI-3599)
+
+* 移除
+  4th imgae更名規則</msg></logentry></log>

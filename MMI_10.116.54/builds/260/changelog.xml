@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192154"><author>colingsta</author><date>2018-05-28T05:25:33.345634Z</date><paths><path action="M" kind="file">/appkernel/trunk/SystemAgent/Page/SysFunc/PageSysFunc.cs</path><path action="M" localPath="SystemAgent\Page\SysFunc\PageSysFunc.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/SystemAgent/Page/SysFunc/PageSysFunc.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/SystemAgent/Page/SysFunc/PageSysFunc.cs</path></paths><msg>merge appkernel/ISSUE_12828_b_FormatDiskAx86Fail r190958-r191939 to 10.116.54x, 10.118.0x, 10.118.x by 玲巧
+
+修正 
+    x86平台使用SA格式化DiskA會導致無法開機</msg></logentry></log>

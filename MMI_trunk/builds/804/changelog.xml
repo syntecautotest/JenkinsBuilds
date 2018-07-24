@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195750"><author>colingsta</author><date>2018-07-02T08:57:32.052397Z</date><paths><path action="A" localPath="Res\_Arm\_Cutting\_70B" copyfrom-path="/appkernel/branches/MMI_3602_f_Add_70CB_70CB_5/Res/_Arm/_Cutting/_70B" copyfrom-rev="195320" kind="dir">/appkernel/trunk/Res/_Arm/_Cutting/_70B</path><path action="A" localPath="Res\_Arm\_Cutting\_70B-5" copyfrom-path="/appkernel/branches/MMI_3602_f_Add_70CB_70CB_5/Res/_Arm/_Cutting/_70B-5" copyfrom-rev="195320" kind="dir">/appkernel/trunk/Res/_Arm/_Cutting/_70B-5</path><path action="M" localPath="Build\CopyFiles.bat" kind="file">/appkernel/trunk/Build/CopyFiles.bat</path><path action="M" localPath="Build\_BuildAll.bat" kind="file">/appkernel/trunk/Build/_BuildAll.bat</path></paths><msg>merge appkernel/MMI_3602_f_Add_70CB_70CB_5 r195303-r195320 to 10.118.11 by 意瑄
+
+新增
+   70CB, 70CB-5 機型</msg></logentry></log>

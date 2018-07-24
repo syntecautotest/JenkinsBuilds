@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197657"><author>colingsta</author><date>2018-07-20T01:31:09.045337Z</date><paths><path action="M" localPath="OCUser\Source\Swingw\JControl.cpp" kind="file">/appkernel/branches/AppKernel_10.116.54/OCUser/Source/Swingw/JControl.cpp</path></paths><msg>merge appkernel/ISSUE_12730_b_OCResWorkSlow r195363-r196133 to 10.116.54x, by 鈞耀
+
+修正 
+    元件屬性重複設定造成人機畫面卡頓的問題</msg></logentry></log>

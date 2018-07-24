@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197367"><author>colingsta</author><date>2018-07-17T10:58:53.299021Z</date><paths><path action="M" localPath="MMICommon\Source\GlobalObject\StdFenubar.cs" kind="file">/appkernel/trunk/MMICommon/Source/GlobalObject/StdFenubar.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.11/MMICommon/Source/GlobalObject/StdFenubar.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.11/MMICommon/Source/OBControl/OBFileList.cs</path><path action="M" localPath="MMICommon\Source\OBControl\OBFileList.cs" kind="file">/appkernel/trunk/MMICommon/Source/OBControl/OBFileList.cs</path></paths><msg>merge appkernel/ATEST_934_b_FileListTooSlow r197260-r197284 to 10.118.11, 10.118.x by 景媖
+
+修正
+    軟體安裝檔案列表顯示過慢問題</msg></logentry></log>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193583"><author>colingsta</author><date>2018-06-07T09:51:55.939626Z</date><paths><path action="M" localPath="MMICommon\Source\GlobalObject\StdFenubar.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/GlobalObject/StdFenubar.cs</path></paths><msg>merge appkernel/ISSUE_12542_b_Add_GaugeZTeach_54x r193555 to 10.11.54x, by 意瑄
+
+修正
+    60WA未能顯示對刀器座標教導的按鍵問題</msg></logentry><logentry revision="193584"><author>marskao</author><date>2018-06-07T09:52:27.779282Z</date><paths><path action="M" localPath="Build\Release.txt" kind="file">/appkernel/branches/AppKernel_10.116.54/Build/Release.txt</path></paths><msg>update release note</msg></logentry></log>

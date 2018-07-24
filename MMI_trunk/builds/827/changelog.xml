@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196189"><author>colingsta</author><date>2018-07-05T01:54:21.147062Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\Scr_DeviceManager.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/Scr_DeviceManager.cs</path><path action="M" localPath="Res\CHS\String_CncEngs\Res_InstallSW_CHS.xml" kind="file">/appkernel/trunk/Res/CHS/String_CncEngs/Res_InstallSW_CHS.xml</path><path action="M" localPath="Res\CHT\String_CncEngs\Res_InstallSW_CHT.xml" kind="file">/appkernel/trunk/Res/CHT/String_CncEngs/Res_InstallSW_CHT.xml</path><path action="M" localPath="Res\Common\String_CncEngs\Res_InstallSW_COM.xml" kind="file">/appkernel/trunk/Res/Common/String_CncEngs/Res_InstallSW_COM.xml</path><path action="M" localPath="Res\TRK\String\String.xml" kind="file">/appkernel/trunk/Res/TRK/String/String.xml</path></paths><msg>merge appkernel/MMI_3566_b_Upgrade4in1Error r196178-r196185 to 10.118.11 by 鈞耀
+
+修改
+    1. 對傳進來的引數作檢查
+    2. 版號比對應該是要相等而不是區間</msg></logentry></log>

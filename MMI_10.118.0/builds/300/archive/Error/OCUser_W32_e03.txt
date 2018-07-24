@@ -1,0 +1,233 @@
+------ Rebuild All started: Project: Swingw, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+XSmCursor.cpp
+XPathSimuBase.cpp
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+.\WIN32GraphicsPeer.cpp(608) : warning C4244: 'initializing' : conversion from 'float' to 'LONG', possible loss of data
+.\WIN32GraphicsPeer.cpp(609) : warning C4244: 'initializing' : conversion from 'float' to 'LONG', possible loss of data
+.\WIN32GraphicsPeer.cpp(666) : warning C4244: 'argument' : conversion from 'float' to 'OLE_YSIZE_HIMETRIC', possible loss of data
+.\WIN32GraphicsPeer.cpp(666) : warning C4244: 'argument' : conversion from 'float' to 'OLE_XSIZE_HIMETRIC', possible loss of data
+.\WIN32GraphicsPeer.cpp(678) : warning C4244: 'initializing' : conversion from 'double' to 'BYTE', possible loss of data
+ToolBox.cpp
+TextManager.cpp
+.\TextManager.cpp(397) : warning C4018: '>' : signed/unsigned mismatch
+SimuStorage.cpp
+SimuServiceProxy.cpp
+Rectangle.cpp
+OCImage.cpp
+.\OCImage.cpp(185) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(185) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+.\OCImage.cpp(210) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(210) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+.\OCImage.cpp(240) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(240) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+OcHotKey.cpp
+NcWpPlane.cpp
+LoadLadder.cpp
+.\LoadLadder.cpp(645) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+.\LoadLadder.cpp(645) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+.\LoadLadder.cpp(680) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+Line3d.cpp
+JXmlStringTable.cpp
+JXMLPreConfig.cpp
+.\JXMLPreConfig.cpp(240) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JXMLPreConfig.cpp(246) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JXMLPreConfig.cpp(252) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+Generating Code...
+Compiling...
+JXMLPreCompiler.cpp
+JWin32ProcThunk.cpp
+JTemplateFactory.cpp
+.\JTemplateFactory.cpp(24) : warning C4101: 'lpszValue' : unreferenced local variable
+JTemplateComponent.cpp
+.\JTemplateComponent.cpp(2) : warning C4067: unexpected tokens following preprocessor directive - expected a newline
+JStringConnectRule.cpp
+JSelectButton.cpp
+JPreCompilerRule.cpp
+JPicture.cpp
+.\JPicture.cpp(161) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JPicture.cpp(161) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JPanel.cpp
+.\JPanel.cpp(47) : warning C4996: 'wcsicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _wcsicmp. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(354) : see declaration of 'wcsicmp'
+JPageRegistry.cpp
+JPagePool.cpp
+JPageDeviceTable.cpp
+JPage.cpp
+JNativeWindow.cpp
+JMeter.cpp
+.\JMeter.cpp(1594) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1795) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1795) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1796) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1796) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1839) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(1872) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(1884) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1898) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1911) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1917) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(2004) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(2035) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(2049) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(2057) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+JMarquee.cpp
+.\JMarquee.cpp(67) : warning C4018: '>=' : signed/unsigned mismatch
+.\JMarquee.cpp(192) : warning C4018: '>' : signed/unsigned mismatch
+JListInputEditor.cpp
+JListInput.cpp
+JLink.cpp
+JLamp.cpp
+.\JLamp.cpp(170) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JLamp.cpp(170) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Generating Code...
+Compiling...
+JLabel.cpp
+JInputline.cpp
+.\JInputline.cpp(71) : warning C4018: '<' : signed/unsigned mismatch
+JInputEditor.cpp
+JInputBase.cpp
+.\JInputBase.cpp(299) : warning C4018: '<' : signed/unsigned mismatch
+.\JInputBase.cpp(346) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(349) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(352) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(356) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(360) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(564) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(571) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(576) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(580) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(550) : warning C4101: 'lpszActiveRange' : unreferenced local variable
+.\JInputBase.cpp(551) : warning C4101: 'hr' : unreferenced local variable
+.\JInputBase.cpp(595) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(649) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(696) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+JInput.cpp
+.\JInput.cpp(96) : warning C4018: '<' : signed/unsigned mismatch
+JIncludePage.cpp
+JGroup.cpp
+JGrid.cpp
+JFenuContextManager.cpp
+JFenuContext.cpp
+JFenu.cpp
+.\JFenu.cpp(45) : warning C4018: '<' : signed/unsigned mismatch
+.\JFenu.cpp(487) : warning C4018: '<' : signed/unsigned mismatch
+JDynamicPicture.cpp
+.\JDynamicPicture.cpp(140) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JDynamicPicture.cpp(140) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JDisplay.cpp
+JDeviceControl.cpp
+JCycleTable.cpp
+.\JCycleTable.cpp(848) : warning C4101: 'nCandidateTopLine' : unreferenced local variable
+JCycleEditor.cpp
+.\JCycleEditor.cpp(1731) : warning C4244: 'initializing' : conversion from 'LONGLONG' to 'LONG', possible loss of data
+.\JCycleEditor.cpp(1717) : warning C4101: 'ptLineHeaderSize' : unreferenced local variable
+.\JCycleEditor.cpp(1718) : warning C4101: 'backupRECT' : unreferenced local variable
+.\JCycleEditor.cpp(1716) : warning C4101: 'lpszValueBuf' : unreferenced local variable
+JCoordBox.cpp
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+Generating Code...
+Compiling...
+JComponent.cpp
+JButton.cpp
+.\JButton.cpp(671) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JButton.cpp(671) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JButton.cpp(696) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JButton.cpp(955) : warning C4101: 'BtnOrgEdgeColor' : unreferenced local variable
+.\JButton.cpp(1109) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1110) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1118) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1119) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1130) : warning C4018: '>=' : signed/unsigned mismatch
+.\JButton.cpp(1138) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1139) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1169) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1170) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1178) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1179) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1190) : warning C4018: '>=' : signed/unsigned mismatch
+.\JButton.cpp(1198) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1199) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+.\FormatConverter.cpp(162) : warning C4018: '<' : signed/unsigned mismatch
+.\FormatConverter.cpp(168) : warning C4018: '<' : signed/unsigned mismatch
+DoAction.cpp
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+.\CTInput.cpp(69) : warning C4101: 'lpValue' : unreferenced local variable
+CTDisplay.cpp
+.\CTDisplay.cpp(62) : warning C4101: 'lpValue' : unreferenced local variable
+CncDevice.cpp
+.\CncDevice.cpp(1159) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1183) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1201) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1123) : warning C4101: 'chVal' : unreferenced local variable
+AxCube.cpp
+Generating Code...
+d:\opencnc\bm_local\workspace\mmi_10.118.0\ocuser\source\swingw\ctdisplay.cpp(37) : warning C4715: 'CTDisplay::set_Property' : not all control paths return a value
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.118.0\OCUser\Source\Swingw\Release\BuildLog.htm"
+Swingw - 0 error(s), 95 warning(s)
+------ Rebuild All started: Project: OCUSER, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCUSER', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+Compiling...
+TextWnd.cpp
+StrResMap.cpp
+PathSimuWnd.cpp
+OCUSER.cpp
+OCTextFileMgr.cpp
+OCLabelWnd.cpp
+LadderWnd.cpp
+.\LadderWnd.cpp(139) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+.\LadderWnd.cpp(141) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+.\LadderWnd.cpp(2748) : warning C4101: 'bBiCell' : unreferenced local variable
+.\LadderWnd.cpp(3166) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\LadderWnd.cpp(3167) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+KbdReceiver.cpp
+HugeEdit.cpp
+.\HugeEdit.cpp(2884) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2897) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2903) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2908) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2915) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2926) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2943) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2948) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+FenuWnd.cpp
+.\FenuWnd.cpp(1163) : warning C4172: returning address of local variable or temporary
+.\FenuWnd.cpp(1987) : warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+.\FenuWnd.cpp(1991) : warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+.\FenuWnd.cpp(1995) : warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+CanvasWnd.cpp
+BrowserWnd.cpp
+Generating Code...
+Compiling resources...
+Linking...
+   Creating library d:\OpenCNC\BM_Local\workspace\MMI_10.118.0\OCUser\Source\release\OCUSER.lib and object d:\OpenCNC\BM_Local\workspace\MMI_10.118.0\OCUser\Source\release\OCUSER.exp
+KrnlAPI.lib(KrnlAPI.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with '..\..\..\OCSDK\lib\w32\Release\KrnlAPI.lib' or at 'd:\OpenCNC\BM_Local\workspace\MMI_10.118.0\OCUser\Source\release\vc80.pdb'; linking object as if no debug info
+BridgeAPI.lib(BridgeAPI.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with '..\..\..\OCSDK\lib\w32\Release\BridgeAPI.lib' or at 'd:\OpenCNC\BM_Local\workspace\MMI_10.118.0\OCUser\Source\release\vc80.pdb'; linking object as if no debug info
+Embedding manifest...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.118.0\OCUser\Source\OCUser\Release\BuildLog.htm"
+OCUSER - 0 error(s), 19 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+
