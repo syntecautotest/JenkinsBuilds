@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198171"><author>jason.yang</author><date>2018-07-25T02:15:29.462659Z</date><paths><path action="M" localPath="PlugIn\LaserCutting\Source\MaterialDataBase.cs" kind="file">/appkernel/trunk/PlugIn/LaserCutting/Source/MaterialDataBase.cs</path><path action="M" localPath="PlugIn\LaserCutting\Source\SensorCalibMain.cs" kind="file">/appkernel/trunk/PlugIn/LaserCutting/Source/SensorCalibMain.cs</path></paths><msg>merge Laser_1286_b_ResolutionError 197858-198167 to 10.118.12 by 柏浩
+
+修正
+1.工藝參數及隨動校正頁面的畫面解析度
+</msg></logentry></log>

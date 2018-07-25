@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198188"><author>colingsta</author><date>2018-07-25T03:19:47.708236Z</date><paths><path action="M" localPath="OCUser\Source\Swingw\JButton.cpp" kind="file">/appkernel/branches/AppKernel_10.116.54/OCUser/Source/Swingw/JButton.cpp</path></paths><msg>merge appkernel/ATEST_869_b_PicBorder_54x r198030 to 10.116.54R, by 禮芳
+
+修正
+    『控制器上3D按鍵JPG圖片會壓到邊框』以及『圖片在邊框內無法顯示完全』的問題
+</msg></logentry></log>
