@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="194010"><author>mark.chen</author><date>2018-06-13T00:50:09.690849Z</date><paths><path action="M" localPath="Build\SetProjectEnv.bat" kind="file">/cnckernel/trunk/Build/SetProjectEnv.bat</path><path action="M" localPath="Build\build-release.bat" kind="file">/cnckernel/trunk/Build/build-release.bat</path></paths><msg>merge: CNCKL_2369_f_FCFirmwareUpdate, 193853-193906 to 10.118.11
+by 青杉
+
+feature
+
+更新FC模組韌體版本至1.4.3 
+1. 修正SLSR模組PWM首發命令不穩定 
+2. 支援FC溫感模組、FC Resolver模組、FC ADDA模組
+</msg></logentry></log>

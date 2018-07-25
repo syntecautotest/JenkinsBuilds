@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193357"><author>mstsai0113</author><date>2018-06-06T05:35:40.201943Z</date><paths><path action="M" localPath="OCKrnl\Source\DataLog\DataRecorder.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/DataLog/DataRecorder.cpp</path></paths><msg>merge(2nd): CNCKL_2394_b_KLog_Err, 193353 to 10.118.10
+by 建明
+
+revert 修改</msg></logentry></log>

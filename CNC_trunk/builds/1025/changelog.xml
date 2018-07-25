@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193981"><author>firticket</author><date>2018-06-12T10:02:59.849834Z</date><paths><path action="M" localPath="Bin\cnc2_fc_ethercat.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc_ethercat.bin</path><path action="M" localPath="Bin\cnc2_fc_m3.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc_m3.bin</path><path action="M" localPath="Bin\cnc2_fc_ethercat_marking.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc_ethercat_marking.bin</path><path action="M" localPath="Bin\cnc2_fc_m3_marking.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc_m3_marking.bin</path><path action="M" localPath="Bin\cnc2_fc.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc.bin</path></paths><msg>merge CNC2:
+CNC2 Build Time: 2018-06-12 15:39
+CNC2 Version: 00008
+
+the logs are in the following:
+
+merge: ATEST_923_b_FCRebootFail, 193849, to trunk
+by 儀禕
+
+fix
+
+修正FC系列reboot無效問題
+
+</msg></logentry></log>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="194009"><author>mark.chen</author><date>2018-06-13T00:46:49.043297Z</date><paths><path action="M" localPath="OCTest\Data\AGMST\Script\0003_LG04P1.in" kind="file">/cnckernel/trunk/OCTest/Data/AGMST/Script/0003_LG04P1.in</path><path action="M" localPath="OCKrnl\Source\Operation\ModeGroup.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/ModeGroup.cpp</path></paths><msg>merge: ATEST_911_b_G4001Err, 193480-193481 to 10.118.11
+by 建明
+
+from 10.115.48, ISSUE-683
+
+修改ModeGroup的Reset順序。先對各軸群發出Reset，再清掉各軸群來註冊關於G4.1的資料。</msg></logentry></log>

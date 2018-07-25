@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193816"><author>1200</author><date>2018-06-11T10:13:22.287973Z</date><paths><path action="M" localPath="OCKrnl\Source\MotUtility\RobotInterpolator.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/RobotInterpolator.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotMoveL.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotMoveL.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotMotionPlanner.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotMotionPlanner.cpp</path></paths><msg>merge: ATEST_921_b_AutoTestMOVCErr, 193742-193774, to 10.118.10
+by 亭諭
+
+1. 修正機器人產品(ARTIC、SCARA、DELTA)使用MOVC指令，遇到退化成MOVL單節時，會跳出RBT-22警報的問題。 </msg></logentry></log>
