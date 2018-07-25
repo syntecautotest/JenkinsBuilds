@@ -1,0 +1,27 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCDB_Test\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7990445855944767580.bat
+ID:9999 Date:9999-99-99 99:99:99
+===== download files =====
+§ä¤£¨ìºô¸ô³s½u¡C
+
+¸Ô²Ó¸ê®Æ¡A½Ð¿é¤J NET HELPMSG 2250¡C
+
+·|°O¿ý·sªººô¸ô³s½u¡C
+
+²M³æ¨S¦³¥ô¦ó¶µ¥Ø¡C
+
+===== update to git =====
+fatal: not a git repository: '\.git'
+git add --all
+git commit -m "9999-99-99 99:99:99 by 9999"
+git push  master
+for /f "tokens=*" %a in ('git rev-parse HEAD') do set HEAD_REVISION=%a
+Build step '°õ¦æ Windows §å¦¸«ü¥O' marked build as failure
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Finished: FAILURE

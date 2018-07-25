@@ -1,0 +1,32 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\TestGithub\workspace
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url git@github.com:wppqqppq/Git101.git # timeout=10
+Fetching upstream changes from git@github.com:wppqqppq/Git101.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress git@github.com:wppqqppq/Git101.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 75e8192fa7328556c0ba3d2852b62643222df7d0 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 75e8192fa7328556c0ba3d2852b62643222df7d0
+ > git.exe rev-list 75e8192fa7328556c0ba3d2852b62643222df7d0 # timeout=10
+[Set GitHub commit status (universal)] PENDING on repos [GHRepository@5f7db4[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=280,milestones={},language=<null>,commits={},source=<null>,parent=<null>,url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:75e8192) with context:Test Github
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/75e8192fa7328556c0ba3d2852b62643222df7d0
+ERROR: [GitHub Commit Status Setter] Failed to update commit state on GitHub. Ignoring exception [Server returned HTTP response code: 201, message: 'Created' for URL: https://api.github.com/repos/wppqqppq/Git101/statuses/75e8192fa7328556c0ba3d2852b62643222df7d0]
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0m[workspace] $ cmd /c call C:\windows\TEMP\jenkins6087908981174396565.bat
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>echo Test123 
+Test123
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>exit 0 
+[Set GitHub commit status (universal)] SUCCESS on repos [GHRepository@11689d5[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=280,milestones={},language=<null>,commits={},source=<null>,parent=<null>,url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:75e8192) with context:Test Github
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/75e8192fa7328556c0ba3d2852b62643222df7d0
+ERROR: [GitHub Commit Status Setter] Failed to update commit state on GitHub. Ignoring exception [Server returned HTTP response code: 201, message: 'Created' for URL: https://api.github.com/repos/wppqqppq/Git101/statuses/75e8192fa7328556c0ba3d2852b62643222df7d0]
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mStarted calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

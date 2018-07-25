@@ -1,0 +1,24 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCDB_Test\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5036970022550379996.bat
+ID:9876 Date:2018-07-13 21:24:31
+¨t²Îµo¥Í 85 ¿ù»~¡C
+
+¥»¾÷¸Ë¸m¦WºÙ¤w¦b¨Ï¥Î¤¤¡C
+
+On branch master
+nothing to commit, working tree clean
+git add --all
+git commit -m "2018-07-13 21:24:31 by 9876"
+git push git@github.com:wppqqppq/OQCDB_Test.git master
+for /f "tokens=*" %a in ('git rev-parse HEAD') do set HEAD_REVISION=%a
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4ANv7p7Qh2ut89oy+1foA4mYytz3PjNLJzPYb0p92BGfAAAAqB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgYF/az8JH33zBIw7R/o7JaZkwrUkpaZHh+SWlyiDwBgcYhP1QAAAA==[0mGit ? OQCFileConfig_Test ªº·s«Ø¸m
+Finished: SUCCESS

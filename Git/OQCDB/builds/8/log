@@ -1,0 +1,17 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCDB_Test\workspace
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins5648030781044384575.bat
+ID:9876 Date:2018-07-13 13:10:41
+fatal: not a git repository: '\\File\cncrel\QCREL\OQCDB_Test\.git'
+fatal: not a git repository: '\\File\cncrel\QCREL\OQCDB_Test\.git'
+fatal: not a git repository: '\\File\cncrel\QCREL\OQCDB_Test\.git'
+fatal: not a git repository: '\\File\cncrel\QCREL\OQCDB_Test\.git'
+fatal: not a git repository: '\\File\cncrel\QCREL\OQCDB_Test\.git'
+Build step '°õ¦æ Windows §å¦¸«ü¥O' marked build as failure
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Finished: FAILURE

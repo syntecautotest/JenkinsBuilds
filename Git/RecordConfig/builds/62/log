@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins732716672835824471.bat
+Product: 6TA
+<FileConfig ProductName="6TA" PackageHead="6ALatheCE7_ARM"><Files><File Category="Packing" Usage="Common" Hardware="Common"><Version>10.116.26K</Version></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.26K</Version><Name>package_fd12c5e5.zip</Name><Hash>5dfcdc22c99f5ece982ed61e520adc67</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/6TA/Software/Test/Common/package_fd12c5e5.zip</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.26K</Version><Name>package_4fded83c.zip</Name><Hash>200d65a5d7240add07dc9ef0e714fa95</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/6TA/Software/Delivery/Common/package_4fded83c.zip</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

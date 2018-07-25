@@ -1,0 +1,34 @@
+由 SCM 變更所啟動
+[EnvInject] - Loading node environment variables.
+在 Master 上建置 工作區 C:\Jenkins\jobs\Git\jobs\TestGithub\workspace
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url git@github.com:wppqqppq/Git101.git # timeout=10
+Fetching upstream changes from git@github.com:wppqqppq/Git101.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress git@github.com:wppqqppq/Git101.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 7f1657becba3755d1dca123c558907149824e21b (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 7f1657becba3755d1dca123c558907149824e21b
+Commit message: "2018-05-29 15:50:56 by 1111"
+ > git.exe rev-list --no-walk 311324b811e8039c71f985b3b66815aa60451424 # timeout=10
+[Set GitHub commit status (universal)] PENDING on repos [GHRepository@1d9c429[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=281,milestones={},language=<null>,commits={},source=<null>,parent=<null>,responseHeaderFields={null=[HTTP/1.1 200 OK], Access-Control-Allow-Origin=[*], Access-Control-Expose-Headers=[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval], Cache-Control=[private, max-age=60, s-maxage=60], Content-Encoding=[gzip], Content-Security-Policy=[default-src 'none'], Content-Type=[application/json; charset=utf-8], Date=[Tue, 29 May 2018 07:52:00 GMT], ETag=[W/"2f055ebd55c1f39c09dd47dae093c272"], Last-Modified=[Tue, 29 May 2018 07:51:12 GMT], OkHttp-Received-Millis=[1527580323797], OkHttp-Response-Source=[CONDITIONAL_CACHE 200], OkHttp-Selected-Protocol=[http/1.1], OkHttp-Sent-Millis=[1527580323508], Referrer-Policy=[origin-when-cross-origin, strict-origin-when-cross-origin], Server=[GitHub.com], Status=[200 OK], Strict-Transport-Security=[max-age=31536000; includeSubdomains; preload], Transfer-Encoding=[chunked], Vary=[Accept, Authorization, Cookie, X-GitHub-OTP], X-Accepted-OAuth-Scopes=[repo], X-Content-Type-Options=[nosniff], X-Frame-Options=[deny], X-GitHub-Media-Type=[github.v3; format=json], X-GitHub-Request-Id=[D43E:6EDA:2DF7FBE:5CF68CF:5B0D069F], X-OAuth-Scopes=[admin:org_hook, admin:repo_hook, repo], X-RateLimit-Limit=[5000], X-RateLimit-Remaining=[4995], X-RateLimit-Reset=[1527583739], X-Runtime-rack=[0.063822], X-XSS-Protection=[1; mode=block]},url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:7f1657b) with context:master
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/7f1657becba3755d1dca123c558907149824e21b
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins8439250178550678239.bat
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>echo Test123 
+Test123
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>exit 0 
+Setting result to [中斷]
+Build step 'Set the build result' changed build result to ABORTED
+Build step 'Set the build result' marked build as failure
+[Set GitHub commit status (universal)] PENDING on repos [GHRepository@11ba63e[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=281,milestones={},language=<null>,commits={},source=<null>,parent=<null>,responseHeaderFields={null=[HTTP/1.1 200 OK], Access-Control-Allow-Origin=[*], Access-Control-Expose-Headers=[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval], Cache-Control=[private, max-age=60, s-maxage=60], Content-Encoding=[gzip], Content-Security-Policy=[default-src 'none'], Content-Type=[application/json; charset=utf-8], Date=[Tue, 29 May 2018 07:52:01 GMT], ETag=[W/"2f055ebd55c1f39c09dd47dae093c272"], Last-Modified=[Tue, 29 May 2018 07:51:12 GMT], OkHttp-Received-Millis=[1527580324762], OkHttp-Response-Source=[CONDITIONAL_CACHE 200], OkHttp-Selected-Protocol=[http/1.1], OkHttp-Sent-Millis=[1527580324436], Referrer-Policy=[origin-when-cross-origin, strict-origin-when-cross-origin], Server=[GitHub.com], Status=[200 OK], Strict-Transport-Security=[max-age=31536000; includeSubdomains; preload], Transfer-Encoding=[chunked], Vary=[Accept, Authorization, Cookie, X-GitHub-OTP], X-Accepted-OAuth-Scopes=[repo], X-Content-Type-Options=[nosniff], X-Frame-Options=[deny], X-GitHub-Media-Type=[github.v3; format=json], X-GitHub-Request-Id=[D43E:6EDA:2DF803D:5CF6996:5B0D06A0], X-OAuth-Scopes=[admin:org_hook, admin:repo_hook, repo], X-RateLimit-Limit=[5000], X-RateLimit-Remaining=[4993], X-RateLimit-Reset=[1527583739], X-Runtime-rack=[0.087183], X-XSS-Protection=[1; mode=block]},url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:7f1657b) with context:master
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/7f1657becba3755d1dca123c558907149824e21b
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: ABORTED

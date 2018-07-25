@@ -1,0 +1,25 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\GitCommit\workspace
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins5181466052184344899.bat
+ID:´ú¸Õ¤H­û ID 123 Date:2018-07-12 09:49:10
+On branch master
+Your branch is ahead of 'origin/master' by 5 commits.
+  (use "git push" to publish your local commits)
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	NEW.txt
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master 7580edf] 2018-07-12 09:49:10 by æ¸¬è©¦äººå“¡ ID 123
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 NEW.txt
+To github.com:wppqqppq/Git101.git
+   16e5fe6..7580edf  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

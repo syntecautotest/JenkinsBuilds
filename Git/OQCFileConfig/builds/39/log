@@ -1,0 +1,30 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4GH7qDD3221hrz516NG+J2/vauNq1TSYVfT7Id42AWLOAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/az8JH33zBIw7R/o7OKkDwD9hw6pyAAAAA==[0mGit/OQCDB" ªº²Ä [8mha:////4Nw42meYUv25fv1AibrbvfbsQfoNFExOdUZAoupkHxftAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH33zBIw7R/o7OKkb2oAAPy/6HzKAAAA[0m50 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2873930686286083563.bat
+ID:1193 Date:2018/07/19 15:53:47
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   NewGroup.xml
+	modified:   REV.props
+	modified:   Test-11TB.xml
+	modified:   TestGroup.xml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig_Test
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 242e116] 2018/07/19 15:53:47 by 1193, Modified Products: TEST-11TB,NEWGROUP,TESTGROUP
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+To github.com:syntecautotest/OQCFileConfig_Test.git
+   18c5650..242e116  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

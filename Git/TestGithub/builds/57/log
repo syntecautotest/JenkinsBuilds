@@ -1,0 +1,14 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\TestGithub\workspace
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins1996021132945140932.bat
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>echo TEST123 
+TEST123
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>exit 0 
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

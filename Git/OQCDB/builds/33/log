@@ -1,0 +1,290 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCDB_Test\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3780734443055508594.bat
+ID:9876 Date:2018-07-13 20:59:10
+===== download files =====
+X:\IgnorePacking.txt
+X:\11MA\Delivery.zip
+X:\11MA\Test.zip
+X:\11MA\Packing\Delivery\Common\Delivery.zip
+X:\11MA\Packing\Test\Common\Test.zip
+X:\11MA\Software\Delivery\Common\package_10c5de07.zip
+X:\11MA\Software\Test\Common\package_936f02c2.zip
+X:\11MB\Delivery.zip
+X:\11MB\Test.zip
+X:\11MB\Packing\Delivery\Common\Delivery.zip
+X:\11MB\Packing\Test\Common\Test.zip
+X:\11MB\Software\Delivery\Common\package_ed1bd7bb.zip
+X:\11MB\Software\Test\Common\package_a12e58d3.zip
+X:\11TA\Delivery.zip
+X:\11TA\Test.zip
+X:\11TA\Packing\Delivery\Common\Delivery.zip
+X:\11TA\Packing\Test\Common\Test.zip
+X:\11TA\Software\Delivery\Common\package_22ed1f3f.zip
+X:\11TA\Software\Test\Common\package_60c9c6d8.zip
+X:\11TB\Delivery.zip
+X:\11TB\Test.zip
+X:\11TB\Packing\Delivery\Common\Delivery.zip
+X:\11TB\Packing\Test\Common\Test.zip
+X:\11TB\Software\Delivery\Common\package_ef39de56.zip
+X:\11TB\Software\Test\Common\package_480ff93c.zip
+X:\21MA\Delivery.zip
+X:\21MA\Test.zip
+X:\21MA\Packing\Delivery\Common\Delivery.zip
+X:\21MA\Packing\Test\Common\Test.zip
+X:\21MA\Software\Delivery\Common\package_4747c6bc.zip
+X:\21MA\Software\Test\Common\package_7827bd3d.zip
+X:\21MA_H\Delivery.zip
+X:\21MA_H\Test.zip
+X:\21MA_H\Packing\Delivery\Common\Delivery.zip
+X:\21MA_H\Packing\Test\Common\Test.zip
+X:\21MA_H\Software\Delivery\Common\package_3f46ea0.zip
+X:\21MA_H\Software\Test\Common\package_1591427d.zip
+X:\21TA\Delivery.zip
+X:\21TA\Test.zip
+X:\21TA\Packing\Delivery\Common\Delivery.zip
+X:\21TA\Packing\Test\Common\Test.zip
+X:\21TA\Software\Delivery\Common\package_76f8043f.zip
+X:\21TA\Software\Test\Common\package_9e54a2b3.zip
+X:\21TA_H\Delivery.zip
+X:\21TA_H\Test.zip
+X:\21TA_H\Packing\Delivery\Common\Delivery.zip
+X:\21TA_H\Packing\Test\Common\Test.zip
+X:\21TA_H\Software\Delivery\Common\package_b1e7ce86.zip
+X:\21TA_H\Software\Test\Common\package_da0a723.zip
+X:\21TB\Delivery.zip
+X:\21TB\Test.zip
+X:\21TB\Packing\Delivery\Common\Delivery.zip
+X:\21TB\Packing\Test\Common\Test.zip
+X:\21TB\Software\Delivery\Common\package_11ba6acd.zip
+X:\21TB\Software\Test\Common\package_3867a500.zip
+X:\21TB_H\Delivery.zip
+X:\21TB_H\Test.zip
+X:\21TB_H\Packing\Delivery\Common\Delivery.zip
+X:\21TB_H\Packing\Test\Common\Test.zip
+X:\21TB_H\Software\Delivery\Common\package_b91596a8.zip
+X:\21TB_H\Software\Test\Common\package_a9b18519.zip
+X:\220MA\Software\Delivery\Common\package_8917429d.zip
+X:\220MA\Software\Test\Common\package_4d6d6412.zip
+X:\220MA5\Software\Delivery\Common\package_eda16da7.zip
+X:\220MA5\Software\Test\Common\package_f215eb8e.zip
+X:\220MB\Software\Delivery\Common\package_967703c3.zip
+X:\220MB\Software\Test\Common\package_a44cba5e.zip
+X:\220MB5\Software\Delivery\Common\package_fc840fd0.zip
+X:\220MB5\Software\Test\Common\package_42944825.zip
+X:\220TB\Software\Delivery\Common\package_b9d7dc73.zip
+X:\220TB\Software\Test\Common\package_f4947424.zip
+X:\220TB5\Software\Delivery\Common\package_39360812.zip
+X:\220TB5\Software\Test\Common\package_00bdd039.zip
+X:\22MA\Delivery.zip
+X:\22MA\Delivery_org.zip
+X:\22MA\Test.zip
+X:\22MA\Packing\Delivery\Common\Delivery.zip
+X:\22MA\Packing\Delivery_org\Common\Delivery_org.zip
+X:\22MA\Packing\Test\Common\Test.zip
+X:\22MA\Software\Delivery\Common\package_d1119120.zip
+X:\22MA\Software\Test\Common\package_fed950c0.zip
+X:\22TA\Software\Delivery\Common\package_d6dcd5b1.zip
+X:\22TA\Software\Test\Common\package_cba3438f.zip
+X:\22TB\Software\Delivery\Common\package_35084c77.zip
+X:\22TB\Software\Test\Common\package_0f262f49.zip
+X:\60PB\Delivery.zip
+X:\60PB\Test.zip
+X:\60PB\Packing\Delivery\Common\Delivery.zip
+X:\60PB\Packing\Test\Common\Test.zip
+X:\60PB\Software\Delivery\Common\package_9a227c81.zip
+X:\60PB\Software\Test\Common\package_f4e4c271.zip
+X:\60PC\Software\Delivery\Common\package_feb286d6.zip
+X:\60PC\Software\Test\Common\package_5285e65a.zip
+X:\6GB_G\Software\Delivery\Common\package_60788904.zip
+X:\6GB_G\Software\Test\Common\package_66e3e9b1.zip
+X:\6MA\DeliveryParam\package_A1387C53.zip
+X:\6MA\Software\Delivery\Common\package_66f08d89.zip
+X:\6MA\Software\Test\Common\package_a2a08a25.zip
+X:\6MB\DeliveryParam\package_52706146.zip
+X:\6MB\Software\Delivery\Common\package_a04d7f14.zip
+X:\6MB\Software\Test\Common\package_423c5fb4.zip
+X:\6MD\Delivery.zip
+X:\6MD\Test.zip
+X:\6MD\Packing\Delivery\Common\Delivery.zip
+X:\6MD\Packing\Test\Common\Test.zip
+X:\6MD\Software\Delivery\Common\package_46123f25.zip
+X:\6MD\Software\Test\Common\package_c1996b0d.zip
+X:\6MD_H\Delivery.zip
+X:\6MD_H\Test.zip
+X:\6MD_H\Packing\Delivery\Common\Delivery.zip
+X:\6MD_H\Packing\Test\Common\Test.zip
+X:\6MD_H\Software\Delivery\Common\package_5ab0b622.zip
+X:\6MD_H\Software\Test\Common\package_3c6d2a02.zip
+X:\6TA\DeliveryParam\package_971D79F3.zip
+X:\6TA\Software\Delivery\Common\package_4fded83c.zip
+X:\6TA\Software\Test\Common\package_fd12c5e5.zip
+X:\6TB\DeliveryParam\package_48A95651.zip
+X:\6TB\Software\Delivery\Common\package_bafaff48.zip
+X:\6TB\Software\Test\Common\package_8d04bf18.zip
+X:\6TD_E\Delivery.zip
+X:\6TD_E\Test.zip
+X:\6TD_E\Packing\Delivery\Common\Delivery.zip
+X:\6TD_E\Packing\Test\Common\Test.zip
+X:\6TD_E\Software\Delivery\Common\package_c648abe7.zip
+X:\6TD_E\Software\Test\Common\package_fdcc0af0.zip
+X:\6TD_H\Delivery.zip
+X:\6TD_H\Test.zip
+X:\6TD_H\Packing\Delivery\Common\Delivery.zip
+X:\6TD_H\Packing\Test\Common\Test.zip
+X:\6TD_H\Software\Delivery\Common\package_a137a29.zip
+X:\6TD_H\Software\Test\Common\package_f32c7405.zip
+X:\6TE\Delivery.zip
+X:\6TE\Test.zip
+X:\6TE\Packing\Delivery\Common\Delivery.zip
+X:\6TE\Packing\Test\Common\Test.zip
+X:\6TE\Software\Delivery\Common\package_ba861874.zip
+X:\6TE\Software\Test\Common\package_1a4c295e.zip
+X:\7MA\Software\Delivery\Common\package_c7aa0580.zip
+X:\7MA\Software\Test\Common\package_952cdb88.zip
+X:\7TA\Software\Delivery\Common\package_98cace16.zip
+X:\7TA\Software\Test\Common\package_29a9cda6.zip
+X:\HC_10A\Delivery.zip
+X:\HC_10A\TEST.zip
+X:\HC_10A\Packing\Delivery\Common\Delivery.zip
+X:\HC_10A\Packing\TEST\Common\TEST.zip
+X:\HC_10A\Software\Delivery\Common\package_14d41bc6.zip
+X:\HC_10A\Software\Test\Common\package_1818c652.zip
+X:\HC_10B\Delivery.zip
+X:\HC_10B\TEST.zip
+X:\HC_10B\Packing\Delivery\Common\Delivery.zip
+X:\HC_10B\Packing\TEST\Common\TEST.zip
+X:\HC_10B\Software\Delivery\Common\package_986f868d.zip
+X:\HC_10B\Software\Test\Common\package_11fb319d.zip
+X:\HC_10C\Software\Delivery\Common\package_104e07f1.zip
+X:\HC_10C\Software\Test\Common\package_e3a4b7cc.zip
+X:\HC_15A\Delivery.zip
+X:\HC_15A\TEST.zip
+X:\HC_15A\Packing\Delivery\Common\Delivery.zip
+X:\HC_15A\Packing\TEST\Common\TEST.zip
+X:\HC_15A\Software\Delivery\Common\package_14d41bc6.zip
+X:\HC_15A\Software\Test\Common\package_97e4eb0c.zip
+X:\HC_15B\Delivery.zip
+X:\HC_15B\TEST.zip
+X:\HC_15B\Packing\Delivery\Common\Delivery.zip
+X:\HC_15B\Packing\TEST\Common\TEST.zip
+X:\HC_15B\Software\Delivery\Common\package_986f868d.zip
+X:\HC_15B\Software\Test\Common\package_a9f3a205.zip
+X:\HC_15C\Software\Delivery\Common\package_ce749c1f.zip
+X:\HC_15C\Software\Test\Common\package_35d979ad.zip
+X:\HC_80MI\Software\Delivery\Common\package_0e3f0833.zip
+X:\HC_80MI\Software\Test\Common\package_035dbe7c.zip
+X:\HC_8A\Delivery.zip
+X:\HC_8A\TEST.zip
+X:\HC_8A\Packing\Delivery\Common\Delivery.zip
+X:\HC_8A\Packing\TEST\Common\TEST.zip
+X:\HC_8A\Software\Delivery\Common\package_932c7a70.zip
+X:\HC_8A\Software\Test\Common\package_50ace795.zip
+X:\HC_8B\Delivery.zip
+X:\HC_8B\TEST.zip
+X:\HC_8B\Packing\Delivery\Common\Delivery.zip
+X:\HC_8B\Packing\TEST\Common\TEST.zip
+X:\HC_8B\Software\Delivery\Common\package_8ea2f257.zip
+X:\HC_8B\Software\Test\Common\package_90c9dbb.zip
+X:\HC_8C\Software\Delivery\Common\package_482ccac3.zip
+X:\HC_8C\Software\Test\Common\package_caf0fc41.zip
+X:\HC_8S\Delivery.zip
+X:\HC_8S\TEST.zip
+X:\HC_8S\Packing\Delivery\Common\Delivery.zip
+X:\HC_8S\Packing\TEST\Common\TEST.zip
+X:\HC_8S\Software\Delivery\Common\package_1c5dda9b.zip
+X:\HC_8S\Software\Test\Common\package_2b19abe7.zip
+X:\NewGroup\Packing\Delivery\Common\Delivery.zip
+X:\NewGroup\Packing\Test\Common\Test.zip
+X:\NewGroup\Software\Delivery\Common\package_9cb01b6c.zip
+X:\TestGroup\Packing\Delivery\Common\Delivery.zip
+X:\TestGroup\Packing\Test\Common\Test.zip
+X:\TestGroup\Software\Delivery\Common\package_26321e1d.zip
+X:\TestGroup\Software\Test\Common\package_8a267b9f.zip
+X:\Test_11TB\Delivery.zip
+X:\Test_11TB\Test.zip
+X:\Test_11TB\Packing\Delivery\Common\Delivery.zip
+X:\Test_11TB\Packing\Test\Common\Test.zip
+X:\Test_11TB\Software\Delivery\Common\package_26321e1d.zip
+X:\Test_11TB\Software\Test\Common\package_cd675466.zip
+¤w½Æ»s 204 ­ÓÀÉ®×
+·|°O¿ý·sªººô¸ô³s½u¡C
+
+
+ª¬ºA       ¥»¾÷        »·ºÝ                    ºô¸ô
+
+-------------------------------------------------------------------------------
+OK           X:        \\file\cncrel\qcrel\oqcdb_test 
+                                                Microsoft Windows Network
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+===== update to git =====
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	11MA/
+	11MB/
+	11TA/
+	11TB/
+	21MA/
+	21MA_H/
+	21TA/
+	21TA_H/
+	21TB/
+	21TB_H/
+	220MA/
+	220MA5/
+	220MB/
+	220MB5/
+	220TB/
+	220TB5/
+	22MA/
+	22TA/
+	22TB/
+	60PB/
+	60PC/
+	6GB_G/
+	6MA/
+	6MB/
+	6MD/
+	6MD_H/
+	6TA/
+	6TB/
+	6TD_E/
+	6TD_H/
+	6TE/
+	7MA/
+	7TA/
+	HC_10A/
+	HC_10B/
+	HC_10C/
+	HC_15A/
+	HC_15B/
+	HC_15C/
+	HC_80MI/
+	HC_8A/
+	HC_8B/
+	HC_8C/
+	HC_8S/
+	IgnorePacking.txt
+	NewGroup/
+	TestGroup/
+	Test_11TB/
+
+nothing added to commit but untracked files present (use "git add" to track)
+git add --all
+git commit -m "2018-07-13 20:59:10 by 9876"
+git push git@github.com:wppqqppq/OQCDB_Test.git master
+for /f "tokens=*" %a in ('git rev-parse HEAD') do set HEAD_REVISION=%a
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4ANv7p7Qh2ut89oy+1foA4mYytz3PjNLJzPYb0p92BGfAAAAqB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyJEgYF/az8JH33zBIw7R/o7JaZkwrUkpaZHh+SWlyiDwBgcYhP1QAAAA==[0mGit ? OQCFileConfig_Test ªº·s«Ø¸m
+Finished: SUCCESS

@@ -1,0 +1,20 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\ClearDir\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins287977964962066240.bat
+Dir: D:\OQCFileConfig
+Pattern: *.xml
+"D:\OQCFileConfig\Test-11TB - ½Æ»s (2).xml"
+"D:\OQCFileConfig\Test-11TB - ½Æ»s (3).xml"
+"D:\OQCFileConfig\Test-11TB - ½Æ»s (4).xml"
+"D:\OQCFileConfig\Test-11TB - ½Æ»s (5).xml"
+"D:\OQCFileConfig\Test-11TB - ½Æ»s (6).xml"
+"D:\OQCFileConfig\Test-11TB - ½Æ»s (7).xml"
+"D:\OQCFileConfig\Test-11TB - ½Æ»s (8).xml"
+"D:\OQCFileConfig\Test-11TB - ½Æ»s.xml"
+"D:\OQCFileConfig\Test-11TB.xml"
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

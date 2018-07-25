@@ -1,0 +1,30 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5314901914773752432.bat
+ID:1193 Date:2018/07/19 16:19:32
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB_Test
+ * branch            master     -> FETCH_HEAD
+Updating abc47e1..5a35752
+Fast-forward
+ Test.txt | 1 +
+ 1 file changed, 1 insertion(+)
+ create mode 100644 Test.txt
+[master 4862e96] 2018/07/19 16:19:32 by 1193, Modified Products: TEST-11TB,NEWGROUP
+ 2 files changed, 0 insertions(+), 0 deletions(-)
+ rename Test_11TB/Software/Test/Common/package_97e88766.zip => NewGroup/Software/Test/Common/package_580cd1df.zip (97%)
+ rename NewGroup/Software/Test/Common/package_a77083d.zip => Test_11TB/Software/Test/Common/package_d1a6e212.zip (97%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB_Test.git'.
+To github.com:syntecautotest/OQCDB_Test.git
+   5a35752..4862e96  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4P8aH+E+m8NmpugDjuQiOA1ebIDN4kiem14IYiOriLc9AAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzhEgZp/az8JH33zBIw7R/o7JaZkwrUkpaZrg8APjdBYNAAAAA=[0mGit ? OQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

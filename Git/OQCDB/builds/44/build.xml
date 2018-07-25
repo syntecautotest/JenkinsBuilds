@@ -1,0 +1,286 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>ModifyID</name>
+          <description></description>
+          <value>112233</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>ModifyDate</name>
+          <description></description>
+          <value>2018-07-13 21:55:39</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>FileGitDir</name>
+          <description></description>
+          <value>\\file\cncrel\qcrel\oqcdb_test</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>FileGitRemote</name>
+          <description></description>
+          <value>git@github.com:wppqqppq/OQCDB_Test.git</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>ConfigGitDir</name>
+          <description></description>
+          <value>D:\OQCFileConfig</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>ConfigGitRemote</name>
+          <description></description>
+          <value>git@github.com:wppqqppq/OQCFileConfig_Test.git</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <hudson.model.StringParameterDefinition>
+              <name>ModifyID</name>
+              <description></description>
+              <defaultValue>9999</defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>ModifyDate</name>
+              <description></description>
+              <defaultValue>9999-99-99 99:99:99</defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>FileGitDir</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>FileGitRemote</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>ConfigGitDir</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>ConfigGitRemote</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>FileSourceDir</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>RemoteTrigger</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>5204</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.model.Cause$UserIdCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.model.Cause_-UserIdCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9">
+      <downstreamBuilds class="concurrent-hash-map">
+        <entry>
+          <string>Git/OQCFileConfig_Test</string>
+          <int>33</int>
+        </entry>
+      </downstreamBuilds>
+    </org.jvnet.hudson.plugins.DownstreamBuildViewAction>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+    <hudson.plugins.parameterizedtrigger.CapturedEnvironmentAction plugin="parameterized-trigger@2.33">
+      <env serialization="custom">
+        <unserializable-parents/>
+        <tree-map>
+          <default>
+            <comparator class="hudson.util.CaseInsensitiveComparator"/>
+          </default>
+          <int>76</int>
+          <string>ALLUSERSPROFILE</string>
+          <string>C:\ProgramData</string>
+          <string>APPDATA</string>
+          <string>C:\Users\user1\AppData\Roaming</string>
+          <string>BASE</string>
+          <string>C:\Jenkins</string>
+          <string>BUILD_CAUSE</string>
+          <string>MANUALTRIGGER</string>
+          <string>BUILD_CAUSE_MANUALTRIGGER</string>
+          <string>true</string>
+          <string>BUILD_DISPLAY_NAME</string>
+          <string>#44</string>
+          <string>BUILD_ID</string>
+          <string>44</string>
+          <string>BUILD_NUMBER</string>
+          <string>44</string>
+          <string>BUILD_TAG</string>
+          <string>jenkins-Git-OQCDB_Test-44</string>
+          <string>BUILD_URL</string>
+          <string>http://10.10.40.212:8080/job/Git/job/OQCDB_Test/44/</string>
+          <string>CLASSPATH</string>
+          <string></string>
+          <string>CommonProgramFiles</string>
+          <string>C:\Program Files (x86)\Common Files</string>
+          <string>CommonProgramFiles(x86)</string>
+          <string>C:\Program Files (x86)\Common Files</string>
+          <string>CommonProgramW6432</string>
+          <string>C:\Program Files\Common Files</string>
+          <string>COMPUTERNAME</string>
+          <string>TESTMAN2</string>
+          <string>ComSpec</string>
+          <string>C:\windows\system32\cmd.exe</string>
+          <string>ConfigGitDir</string>
+          <string>D:\OQCFileConfig</string>
+          <string>ConfigGitRemote</string>
+          <string>git@github.com:wppqqppq/OQCFileConfig_Test.git</string>
+          <string>configsetroot</string>
+          <string>C:\windows\ConfigSetRoot</string>
+          <string>EXECUTOR_NUMBER</string>
+          <string>3</string>
+          <string>FileGitDir</string>
+          <string>\\file\cncrel\qcrel\oqcdb_test</string>
+          <string>FileGitRemote</string>
+          <string>git@github.com:wppqqppq/OQCDB_Test.git</string>
+          <string>FP_NO_HOST_CHECK</string>
+          <string>NO</string>
+          <string>HOME</string>
+          <string>C:\Jenkins</string>
+          <string>HOMEDRIVE</string>
+          <string>C:</string>
+          <string>HOMEPATH</string>
+          <string>\Users\user1</string>
+          <string>HUDSON_HOME</string>
+          <string>C:\Jenkins</string>
+          <string>HUDSON_SERVER_COOKIE</string>
+          <string>56b411c01f1e6bbb</string>
+          <string>HUDSON_URL</string>
+          <string>http://10.10.40.212:8080/</string>
+          <string>JAVA_HOME</string>
+          <string>C:\Java\jdk1.8.0_102\bin</string>
+          <string>JENKINS_HOME</string>
+          <string>C:\Jenkins</string>
+          <string>JENKINS_SERVER_COOKIE</string>
+          <string>56b411c01f1e6bbb</string>
+          <string>JENKINS_URL</string>
+          <string>http://10.10.40.212:8080/</string>
+          <string>JOB_BASE_NAME</string>
+          <string>OQCDB_Test</string>
+          <string>JOB_DISPLAY_URL</string>
+          <string>http://10.10.40.212:8080/job/Git/job/OQCDB_Test/display/redirect</string>
+          <string>JOB_NAME</string>
+          <string>Git/OQCDB_Test</string>
+          <string>JOB_URL</string>
+          <string>http://10.10.40.212:8080/job/Git/job/OQCDB_Test/</string>
+          <string>LOCALAPPDATA</string>
+          <string>C:\Users\user1\AppData\Local</string>
+          <string>LOGONSERVER</string>
+          <string>\\TESTMAN2</string>
+          <string>ModifyDate</string>
+          <string>2018-07-13 21:55:39</string>
+          <string>ModifyID</string>
+          <string>112233</string>
+          <string>NODE_LABELS</string>
+          <string>master</string>
+          <string>NODE_NAME</string>
+          <string>master</string>
+          <string>NUMBER_OF_PROCESSORS</string>
+          <string>8</string>
+          <string>OS</string>
+          <string>Windows_NT</string>
+          <string>Path</string>
+          <string>C:\ProgramData\Oracle\Java\javapath;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Common Files\Microsoft Shared\Windows Live;C:\Program Files (x86)\Common Files\Microsoft Shared\Windows Live;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\Windows Live\Shared;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\TortoiseSVN\bin;C:\Java\jdk1.8.0_102\bin;C:\Git\cmd</string>
+          <string>PATHEXT</string>
+          <string>.COM;.EXE;.BAT;.CMD;.VBS;.VBE;.JS;.JSE;.WSF;.WSH;.MSC</string>
+          <string>PROCESSOR_ARCHITECTURE</string>
+          <string>x86</string>
+          <string>PROCESSOR_ARCHITEW6432</string>
+          <string>AMD64</string>
+          <string>PROCESSOR_IDENTIFIER</string>
+          <string>Intel64 Family 6 Model 60 Stepping 3, GenuineIntel</string>
+          <string>PROCESSOR_LEVEL</string>
+          <string>6</string>
+          <string>PROCESSOR_REVISION</string>
+          <string>3c03</string>
+          <string>ProgramData</string>
+          <string>C:\ProgramData</string>
+          <string>ProgramFiles</string>
+          <string>C:\Program Files (x86)</string>
+          <string>ProgramFiles(x86)</string>
+          <string>C:\Program Files (x86)</string>
+          <string>ProgramW6432</string>
+          <string>C:\Program Files</string>
+          <string>PSModulePath</string>
+          <string>C:\windows\system32\WindowsPowerShell\v1.0\Modules\</string>
+          <string>PUBLIC</string>
+          <string>C:\Users\Public</string>
+          <string>ROOT_BUILD_CAUSE</string>
+          <string>MANUALTRIGGER</string>
+          <string>ROOT_BUILD_CAUSE_MANUALTRIGGER</string>
+          <string>true</string>
+          <string>RUN_CHANGES_DISPLAY_URL</string>
+          <string>http://10.10.40.212:8080/job/Git/job/OQCDB_Test/44/display/redirect?page=changes</string>
+          <string>RUN_DISPLAY_URL</string>
+          <string>http://10.10.40.212:8080/job/Git/job/OQCDB_Test/44/display/redirect</string>
+          <string>SERVICE_ID</string>
+          <string>Jenkins</string>
+          <string>SystemDrive</string>
+          <string>C:</string>
+          <string>SystemRoot</string>
+          <string>C:\windows</string>
+          <string>TEMP</string>
+          <string>C:\Users\user1\AppData\Local\Temp</string>
+          <string>TMP</string>
+          <string>C:\Users\user1\AppData\Local\Temp</string>
+          <string>USERDOMAIN</string>
+          <string>TESTMAN2</string>
+          <string>USERNAME</string>
+          <string>user1</string>
+          <string>USERPROFILE</string>
+          <string>C:\Users\user1</string>
+          <string>windir</string>
+          <string>C:\windows</string>
+          <string>windows_tracing_flags</string>
+          <string>3</string>
+          <string>windows_tracing_logfile</string>
+          <string>C:\BVTBin\Tests\installpackage\csilogfile.log</string>
+          <string>WINSW_EXECUTABLE</string>
+          <string>C:\Jenkins\jenkins.exe</string>
+          <string>WINSW_SERVICE_ID</string>
+          <string>Jenkins</string>
+          <string>WORKSPACE</string>
+          <string>C:\Jenkins\jobs\Git\jobs\OQCDB_Test\workspace</string>
+        </tree-map>
+      </env>
+    </hudson.plugins.parameterizedtrigger.CapturedEnvironmentAction>
+  </actions>
+  <queueId>31</queueId>
+  <timestamp>1531490154860</timestamp>
+  <startTime>1531490154865</startTime>
+  <result>SUCCESS</result>
+  <duration>8587</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Jenkins\jobs\Git\jobs\OQCDB_Test\workspace</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

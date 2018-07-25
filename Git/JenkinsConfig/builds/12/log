@@ -1,0 +1,23 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\JenkinsConfig\workspace
+Cloning the remote Git repository
+Cloning repository git@github.com:syntecautotest/JenkinsConfig.git
+ > git.exe init C:\Jenkins\jobs\Git\jobs\JenkinsConfig\workspace # timeout=10
+Fetching upstream changes from git@github.com:syntecautotest/JenkinsConfig.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress git@github.com:syntecautotest/JenkinsConfig.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe config remote.origin.url git@github.com:syntecautotest/JenkinsConfig.git # timeout=10
+ > git.exe config --add remote.origin.fetch +refs/heads/*:refs/remotes/origin/* # timeout=10
+ > git.exe config remote.origin.url git@github.com:syntecautotest/JenkinsConfig.git # timeout=10
+Fetching upstream changes from git@github.com:syntecautotest/JenkinsConfig.git
+ > git.exe fetch --tags --progress git@github.com:syntecautotest/JenkinsConfig.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "origin/master^{commit}" # timeout=10
+ERROR: Couldn't find any revision to build. Verify the repository and branch configuration for this job.
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mStarted calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: FAILURE

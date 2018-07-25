@@ -1,0 +1,34 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\TestGithub\workspace
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url git@github.com:wppqqppq/Git101.git # timeout=10
+Fetching upstream changes from git@github.com:wppqqppq/Git101.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress git@github.com:wppqqppq/Git101.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 3a85f5f1f81712bd62f5f10619df1a3a726a56b4 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 3a85f5f1f81712bd62f5f10619df1a3a726a56b4
+Commit message: "Test Jenkins"
+ > git.exe rev-list --no-walk 3a85f5f1f81712bd62f5f10619df1a3a726a56b4 # timeout=10
+[Set GitHub commit status (universal)] PENDING on repos [GHRepository@a0602[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=280,milestones={},language=<null>,commits={},source=<null>,parent=<null>,responseHeaderFields={null=[HTTP/1.1 200 OK], Access-Control-Allow-Origin=[*], Access-Control-Expose-Headers=[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval], Cache-Control=[private, max-age=60, s-maxage=60], Content-Encoding=[gzip], Content-Security-Policy=[default-src 'none'], Content-Type=[application/octet-stream], Date=[Sat, 26 May 2018 08:05:31 GMT], ETag=["893e04088069e2a03f130c876f8796e2"], Last-Modified=[Sat, 26 May 2018 08:00:00 GMT], OkHttp-Received-Millis=[1527321945779], OkHttp-Response-Source=[CONDITIONAL_CACHE 304], OkHttp-Selected-Protocol=[http/1.1], OkHttp-Sent-Millis=[1527321945287], Referrer-Policy=[origin-when-cross-origin, strict-origin-when-cross-origin], Server=[GitHub.com], Status=[304 Not Modified], Strict-Transport-Security=[max-age=31536000; includeSubdomains; preload], Transfer-Encoding=[chunked], Vary=[Accept, Authorization, Cookie, X-GitHub-OTP], X-Accepted-OAuth-Scopes=[repo], X-Content-Type-Options=[nosniff], X-Frame-Options=[deny], X-GitHub-Media-Type=[github.v3; format=json], X-GitHub-Request-Id=[9FE2:6EDA:149BBA4:29B77B5:5B09154A], X-OAuth-Scopes=[admin:org_hook, admin:repo_hook, repo], X-RateLimit-Limit=[5000], X-RateLimit-Remaining=[4991], X-RateLimit-Reset=[1527324796], X-Runtime-rack=[0.057953], X-XSS-Protection=[1; mode=block]},url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:3a85f5f) with context:#76
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/3a85f5f1f81712bd62f5f10619df1a3a726a56b4
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins2907754783086427792.bat
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>echo Test123 
+Test123
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>exit 0 
+Setting result to [¥¢±Ñ]
+Build step 'Set the build result' changed build result to FAILURE
+Build step 'Set the build result' marked build as failure
+[Set GitHub commit status (universal)] ERROR on repos [GHRepository@2e8826[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=280,milestones={},language=<null>,commits={},source=<null>,parent=<null>,responseHeaderFields={null=[HTTP/1.1 200 OK], Access-Control-Allow-Origin=[*], Access-Control-Expose-Headers=[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval], Cache-Control=[private, max-age=60, s-maxage=60], Content-Encoding=[gzip], Content-Security-Policy=[default-src 'none'], Content-Type=[application/octet-stream], Date=[Sat, 26 May 2018 08:05:32 GMT], ETag=["893e04088069e2a03f130c876f8796e2"], Last-Modified=[Sat, 26 May 2018 08:00:00 GMT], OkHttp-Received-Millis=[1527321946721], OkHttp-Response-Source=[CONDITIONAL_CACHE 304], OkHttp-Selected-Protocol=[http/1.1], OkHttp-Sent-Millis=[1527321946453], Referrer-Policy=[origin-when-cross-origin, strict-origin-when-cross-origin], Server=[GitHub.com], Status=[304 Not Modified], Strict-Transport-Security=[max-age=31536000; includeSubdomains; preload], Transfer-Encoding=[chunked], Vary=[Accept, Authorization, Cookie, X-GitHub-OTP], X-Accepted-OAuth-Scopes=[repo], X-Content-Type-Options=[nosniff], X-Frame-Options=[deny], X-GitHub-Media-Type=[github.v3; format=json], X-GitHub-Request-Id=[9FE2:6EDA:149BC01:29B7801:5B09154B], X-OAuth-Scopes=[admin:org_hook, admin:repo_hook, repo], X-RateLimit-Limit=[5000], X-RateLimit-Remaining=[4990], X-RateLimit-Reset=[1527324796], X-Runtime-rack=[0.069830], X-XSS-Protection=[1; mode=block]},url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:3a85f5f) with context:#76
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/3a85f5f1f81712bd62f5f10619df1a3a726a56b4
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: FAILURE

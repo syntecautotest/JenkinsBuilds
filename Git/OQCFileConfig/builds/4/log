@@ -1,0 +1,17 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4GPe02/KPCICpLe9/L097DA5QYhQUa0HivOhrdDTdUHOAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYJ/az8JH33zBIw7R/o7OIUH5JaXKIPADclwBLNAAAA[0mGit/OQCDB_Test" ªº²Ä [8mha:////4Iyg6UmqL7SQTqS6Uz4tVfE48FBS/C3PtvqicDx8+UqmAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBkn9rPwkfffMEjDtH+js4hQfklpcom8KAAwkuYfOAAAA[0m5 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCFileConfig_Test\workspace
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins8122123916080034022.bat
+ID:´ú¸Õ¤H­û 1234 Date:2018-07-13 13:00:59
+git config --path core.worktree D:\OQCFileConfig\
+git status
+git add --all
+git commit -m "2018-07-13 13:00:59 by ´ú¸Õ¤H­û 1234"
+git push git@github.com:wppqqppq/OQCFileConfig_Test.git master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

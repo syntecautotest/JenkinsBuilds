@@ -1,0 +1,28 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4GH7qDD3221hrz516NG+J2/vauNq1TSYVfT7Id42AWLOAAAAnB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/az8JH33zBIw7R/o7OKkDwD9hw6pyAAAAA==[0mGit/OQCDB" ªº²Ä [8mha:////4Og7icUIJg7MtlGSbttu72Q8usHYZIlH70NfCkYPQS5SAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZR/az8JH33zBIw7R/o7OKkb2IOAB4bl/vKAAAA[0m47 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3937534753216113356.bat
+ID:1 Date:2018/07/17 11:16:11
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   6TE.xml
+	modified:   REV.props
+	modified:   Test-11TB.xml
+	modified:   TestGroup.xml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 5f4d5e1] 2018/07/17 11:16:11 by 1
+ 4 files changed, 4 insertions(+), 4 deletions(-)
+ rewrite 6TE.xml (86%)
+To github.com:wppqqppq/OQCFileConfig_Test.git
+   f19a2cf..5f4d5e1  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

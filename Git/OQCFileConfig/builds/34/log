@@ -1,0 +1,27 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4GPe02/KPCICpLe9/L097DA5QYhQUa0HivOhrdDTdUHOAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgYJ/az8JH33zBIw7R/o7OIUH5JaXKIPADclwBLNAAAA[0mGit/OQCDB_Test" ªº²Ä [8mha:////4HNhzuFybft1cYK8OKnlztdfNrIp864vVuX1kWkUA/lLAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgYp/az8JH33zBIw7R/o7OIUH5JaXKJvYgoAO+euY88AAAA=[0m45 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\OQCFileConfig_Test\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8250569714590793094.bat
+ID:112233 Date:2018-07-13 21:58:26
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	REV.props
+
+nothing added to commit but untracked files present (use "git add" to track)
+[master (root-commit) 0064304] 2018-07-13 21:58:26 by 112233
+ 1 file changed, 1 insertion(+)
+ create mode 100644 REV.props
+To github.com:wppqqppq/OQCFileConfig_Test.git
+ * [new branch]      master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

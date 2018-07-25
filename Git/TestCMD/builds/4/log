@@ -1,0 +1,11 @@
+由遠端主機 10.10.85.31 啟動
+[EnvInject] - Loading node environment variables.
+在 Master 上建置 工作區 C:\Jenkins\jobs\Git\jobs\TestCMD\workspace
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins8826290511653442087.bat
+123
+456 
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

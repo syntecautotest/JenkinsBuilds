@@ -1,0 +1,76 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\TestGithub\workspace
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url git@github.com:wppqqppq/Git101.git # timeout=10
+Fetching upstream changes from git@github.com:wppqqppq/Git101.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress git@github.com:wppqqppq/Git101.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision a279e3083e06a131764e3e9b05dbbf93aa4b2b7a (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f a279e3083e06a131764e3e9b05dbbf93aa4b2b7a
+ > git.exe rev-list 75e8192fa7328556c0ba3d2852b62643222df7d0 # timeout=10
+[Set GitHub commit status (universal)] PENDING on repos [GHRepository@1841dbf[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=280,milestones={},language=<null>,commits={},source=<null>,parent=<null>,url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:a279e30) with context:Test Github
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/a279e3083e06a131764e3e9b05dbbf93aa4b2b7a
+ERROR: [GitHub Commit Status Setter] Failed to update commit state on GitHub. Ignoring exception [Server returned HTTP response code: 201, message: 'Created' for URL: https://api.github.com/repos/wppqqppq/Git101/statuses/a279e3083e06a131764e3e9b05dbbf93aa4b2b7a]
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0m[workspace] $ cmd /c call C:\windows\TEMP\jenkins4690614632092618737.bat
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>echo Test123 
+Test123
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>exit 0 
+[Set GitHub commit status (universal)] SUCCESS on repos [GHRepository@1c29407[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=280,milestones={},language=<null>,commits={},source=<null>,parent=<null>,url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:a279e30) with context:Test Github
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/a279e3083e06a131764e3e9b05dbbf93aa4b2b7a
+ERROR: Build step failed with exception
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mcom.fasterxml.jackson.core.JsonParseException: Numeric value (5003128038) out of range of int
+ at [Source: java.io.StringReader@1eff7dc; line: 1, column: 120]
+	at com.fasterxml.jackson.core.JsonParser._constructError(JsonParser.java:1369)
+	at com.fasterxml.jackson.core.base.ParserMinimalBase._reportError(ParserMinimalBase.java:532)
+	at com.fasterxml.jackson.core.base.ParserBase.convertNumberToInt(ParserBase.java:847)
+	at com.fasterxml.jackson.core.base.ParserBase.getIntValue(ParserBase.java:643)
+	at com.fasterxml.jackson.databind.deser.std.StdDeserializer._parseInteger(StdDeserializer.java:306)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$IntegerDeserializer.deserialize(NumberDeserializers.java:319)
+	at com.fasterxml.jackson.databind.deser.std.NumberDeserializers$IntegerDeserializer.deserialize(NumberDeserializers.java:301)
+	at com.fasterxml.jackson.databind.deser.SettableBeanProperty.deserialize(SettableBeanProperty.java:464)
+	at com.fasterxml.jackson.databind.deser.impl.FieldProperty.deserializeAndSet(FieldProperty.java:107)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:295)
+Caused: com.fasterxml.jackson.databind.JsonMappingException: Numeric value (5003128038) out of range of int
+ at [Source: java.io.StringReader@1eff7dc; line: 1, column: 120] (through reference chain: org.kohsuke.github.GHCommitStatus["id"])
+	at com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:232)
+	at com.fasterxml.jackson.databind.JsonMappingException.wrapWithPath(JsonMappingException.java:197)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializerBase.wrapAndThrow(BeanDeserializerBase.java:1311)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserializeFromObject(BeanDeserializer.java:297)
+	at com.fasterxml.jackson.databind.deser.BeanDeserializer.deserialize(BeanDeserializer.java:121)
+	at com.fasterxml.jackson.databind.ObjectMapper._readMapAndClose(ObjectMapper.java:2888)
+	at com.fasterxml.jackson.databind.ObjectMapper.readValue(ObjectMapper.java:2034)
+	at org.kohsuke.github.Requester.parse(Requester.java:600)
+Caused: java.io.IOException: Failed to deserialize {"url":"https://api.github.com/repos/wppqqppq/Git101/statuses/a279e3083e06a131764e3e9b05dbbf93aa4b2b7a","id":5003128038,"state":"success","description":"Build #64 succeeded in 5.5 ¬í","target_url":"http://10.10.80.42:8080/job/Git/job/TestGithub/64/","context":"Test Github","created_at":"2018-05-26T07:20:00Z","updated_at":"2018-05-26T07:20:00Z","creator":{"login":"wppqqppq","id":4111984,"avatar_url":"https://avatars0.githubusercontent.com/u/4111984?v=4","gravatar_id":"","url":"https://api.github.com/users/wppqqppq","html_url":"https://github.com/wppqqppq","followers_url":"https://api.github.com/users/wppqqppq/followers","following_url":"https://api.github.com/users/wppqqppq/following{/other_user}","gists_url":"https://api.github.com/users/wppqqppq/gists{/gist_id}","starred_url":"https://api.github.com/users/wppqqppq/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/wppqqppq/subscriptions","organizations_url":"https://api.github.com/users/wppqqppq/orgs","repos_url":"https://api.github.com/users/wppqqppq/repos","events_url":"https://api.github.com/users/wppqqppq/events{/privacy}","received_events_url":"https://api.github.com/users/wppqqppq/received_events","type":"User","site_admin":false}}
+	at org.kohsuke.github.Requester.parse(Requester.java:602)
+Caused: org.kohsuke.github.HttpException: Server returned HTTP response code: 201, message: 'Created' for URL: https://api.github.com/repos/wppqqppq/Git101/statuses/a279e3083e06a131764e3e9b05dbbf93aa4b2b7a
+	at org.kohsuke.github.Requester.parse(Requester.java:612)
+	at org.kohsuke.github.Requester._to(Requester.java:262)
+	at org.kohsuke.github.Requester.to(Requester.java:224)
+	at org.kohsuke.github.GHRepository.createCommitStatus(GHRepository.java:1000)
+	at org.jenkinsci.plugins.github.status.GitHubCommitStatusSetter.perform(GitHubCommitStatusSetter.java:160)
+Caused: org.jenkinsci.plugins.github.common.CombineErrorHandler$ErrorHandlingException
+	at org.jenkinsci.plugins.github.common.CombineErrorHandler.handle(CombineErrorHandler.java:74)
+	at org.jenkinsci.plugins.github.status.GitHubCommitStatusSetter.perform(GitHubCommitStatusSetter.java:164)
+	at hudson.tasks.BuildStepCompatibilityLayer.perform(BuildStepCompatibilityLayer.java:81)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:779)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.performAllBuildSteps(AbstractBuild.java:720)
+	at hudson.model.Build$BuildExecution.post2(Build.java:186)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.post(AbstractBuild.java:665)
+	at hudson.model.Run.execute(Run.java:1758)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:405)
+Build step 'Set GitHub commit status (universal)' marked build as failure
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: FAILURE
