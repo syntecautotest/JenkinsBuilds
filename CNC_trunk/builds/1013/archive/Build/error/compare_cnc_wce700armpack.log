@@ -1,0 +1,16 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\SRI\SriModule.xml
+DiskC\OpenCNC\Data\IO\IoMap_FC-A-V2.xml
+DiskC\OpenCNC\Data\IO\IoMap_FC-B-V2.xml
+DiskC\OpenCNC\Bin\cnc2_fc_v2.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_ethercat.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_ethercat_marking.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_m3.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_m3_marking.bin
+DiskC\OpenCNC\Bin\cnc2_starm2_lx45.bin
+DiskC\OpenCNC\Bin\cnc2_starm_lx45_ethercat.bin
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------

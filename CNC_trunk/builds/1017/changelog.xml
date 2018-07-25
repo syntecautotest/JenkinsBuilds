@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193177"><author>simon</author><date>2018-06-05T07:17:33.013279Z</date><paths><path action="M" localPath="OCKrnl\Source\MotUtility\TimeBase.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/TimeBase.cpp</path></paths><msg>merge: ISSUE_12725_b_G92JumpG83Rst_8, 192000, to 10.118.10
+by 彥融
+
+from 10.115.44, HSHP-62
+
+fix:
+	修正離開車牙動作時，將車牙狀態改為就緒，以達成動程停止條件。</msg></logentry></log>

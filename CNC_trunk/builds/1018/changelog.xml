@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193182"><author>mark.chen</author><date>2018-06-05T07:25:47.830548Z</date><paths><path action="M" localPath="OCKrnl\Source\DataLog\DataRecorder.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/DataLog/DataRecorder.cpp</path><path action="M" localPath="OCKrnl\Source\DataLog\KernelLog.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/DataLog/KernelLog.cpp</path></paths><msg>merge: CNCKL_2394_b_KLog_Err, 193005-193175 to 10.118.10
+by 建明
+
+from 10.117.2, 10.116.3 (1st), 10.117.9, 10.116.9, 10.116.6D (2nd), ISSUE-1493
+
+修正監視記錄器偶發資料沒有記錄完全的問題。</msg></logentry></log>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193143"><author>mark.chen</author><date>2018-06-05T05:28:41.297406Z</date><paths><path action="M" localPath="res\SRI\SriModule.xml" kind="file">/cnckernel/trunk/res/SRI/SriModule.xml</path><path action="M" localPath="OCDevice\Source\SriDriver\SriDeviceLoader.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/SriDriver/SriDeviceLoader.cpp</path><path action="M" localPath="OCDevice\Source\SriDriver\SriDeviceLoader.h" kind="file">/cnckernel/trunk/OCDevice/Source/SriDriver/SriDeviceLoader.h</path></paths><msg>merge: CNCKL_2403_f_KTY84_v2, 192714-193138 to 10.118.10
+by 儀禕
+
+feature
+
+SRI IO mapping 支援溫感模組(FC-TMPSR)。</msg></logentry></log>

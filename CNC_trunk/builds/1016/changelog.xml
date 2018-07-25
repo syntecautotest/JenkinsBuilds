@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="193163"><author>mark.chen</author><date>2018-06-05T06:26:18.076278Z</date><paths><path action="M" localPath="OCDevice\Source\CNC2ASIC\CNC2Driver.h" kind="file">/cnckernel/trunk/OCDevice/Source/CNC2ASIC/CNC2Driver.h</path><path action="M" localPath="OCKrnl\Source\Operation\OperationDef.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/OperationDef.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\EthercatDrv.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/EthercatDrv.cpp</path><path action="M" localPath="OCDevice\Source\CNC2ASIC\CNC2Driver.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/CNC2ASIC/CNC2Driver.cpp</path></paths><msg>merge: CNCKL_2406_b_EtherCATDataExchangeError, 192823-192828 to 10.118.10
+by 青杉
+
+from 10.116.42, 10.117.42, CNCKL-1393
+
+修正控制器連接EtherCAT時，通訊中斷後會造成控制器完全卡死的問題 (補間時間設1ms才會遇到)。</msg></logentry></log>
