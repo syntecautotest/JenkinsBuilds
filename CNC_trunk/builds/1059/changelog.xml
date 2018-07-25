@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196216"><author>simon</author><date>2018-07-05T03:40:16.145094Z</date><paths><path action="M" localPath="OCTest\Data\Robot\SysData\V1L2A\Robot\USERCOORD_1.xml" kind="file">/cnckernel/trunk/OCTest/Data/Robot/SysData/V1L2A/Robot/USERCOORD_1.xml</path></paths><msg>fix xml encoding error form merge: HSHP_2279_f_RobotV1L2A_10.118.9, 192600-195994, to 10.118.11
+by 亭諭</msg></logentry></log>

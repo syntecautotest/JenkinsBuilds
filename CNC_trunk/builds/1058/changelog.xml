@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196214"><author>simon</author><date>2018-07-05T03:38:57.241530Z</date><paths><path action="M" localPath="OCTest\Data\Robot\SysData\HeavySixAxis\Robot\TOOLDATA_1.xml" kind="file">/cnckernel/trunk/OCTest/Data/Robot/SysData/HeavySixAxis/Robot/TOOLDATA_1.xml</path><path action="M" localPath="OCTest\Data\Robot\SysData\SixAxis\Robot\TOOLDATA_1.xml" kind="file">/cnckernel/trunk/OCTest/Data/Robot/SysData/SixAxis/Robot/TOOLDATA_1.xml</path><path action="M" localPath="OCTest\Data\Robot\SysData\PaintSixAxis\Robot\TOOLDATA_1.xml" kind="file">/cnckernel/trunk/OCTest/Data/Robot/SysData/PaintSixAxis/Robot/TOOLDATA_1.xml</path></paths><msg>merge(2nd): HSHP_1709_f_RobotToolCoordSystem_118_10, 196212, to 10.118.11
+by 俊昇
+
+fix:
+	修正OCTEST資料夾內 TOOLDATA_1.xml 編碼格式錯誤的問題</msg></logentry></log>

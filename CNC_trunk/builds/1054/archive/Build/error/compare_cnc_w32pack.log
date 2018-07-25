@@ -1,0 +1,11 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\SRI\SriModule.xml
+DiskC\OpenCNC\StdRes\ESI\MELSERVO_MR_J4_TM_Syntec.xml
+DiskC\OpenCNC\Data\IO\IoMap_FC-A-V2.xml
+DiskC\OpenCNC\Data\IO\IoMap_FC-B-V2.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+DiskC\OpenCNC\Data\CNCBASE_OCSDK.ini
+----------------------------------------------------------------------
