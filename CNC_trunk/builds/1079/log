@@ -310,3 +310,403 @@ feature
 D:\Jenkins\workspace\CNC_trunk>exit 0 
 [EnvInject] - Script executed successfully.
 Set build name.
+New build name is '#1079  at rev198257 by 孟學
+'
+[JIRA] Setting JIRA_ISSUES to CNCKL-2440.
+[CNC_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins1939708713693860797.bat
+D:\Jenkins\workspace\CNC_trunk\Build
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 77136 bytes (76 KiB)
+
+Extracting archive: \\file\DeveloperZone\PlatformSDK\PlatformSDK1.39.0.zip
+--
+Path = \\file\DeveloperZone\PlatformSDK\PlatformSDK1.39.0.zip
+Type = zip
+Physical Size = 77136
+
+Everything is Ok
+
+Folders: 5
+Files: 5
+Size:       284962
+Compressed: 77136
+PlatformSDK\ReleaseNote.txt
+PlatformSDK\inc\PlatformAPI.h
+PlatformSDK\inc\PlatformDrv.h
+PlatformSDK\lib\wce600\PlatformAPI.lib
+PlatformSDK\lib\wce700arm\PlatformAPI.lib
+複製 5 個檔案
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 677219 bytes (662 KiB)
+
+Extracting archive: \\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+WARNING:
+\\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+Can not open the file as [zip] archive
+The file is open as [Rar] archive
+
+--
+Path = \\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+Open WARNING: Can not open the file as [zip] archive
+Type = Rar
+Physical Size = 677219
+Solid = -
+Blocks = 16
+Multivolume = -
+Volumes = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Folders: 8
+Files: 8
+Size:       10783099
+Compressed: 677219
+SecuritySDK\release.txt
+SecuritySDK\inc\PasswordBitsFunc.h
+SecuritySDK\inc\UseTimeProtect.h
+SecuritySDK\inc\ValidityProtect.h
+SecuritySDK\lib\w32\Debug\SecurityUtil.lib
+SecuritySDK\lib\w32\release\SecurityUtil.lib
+SecuritySDK\lib\wce600\SecurityUtil.lib
+SecuritySDK\lib\wce700arm\SecurityUtil.lib
+複製 8 個檔案
+make header directory
+子目錄或檔案 D:\Jenkins\workspace\CNC_trunk\Build\..\OCSDK 已經存在。
+子目錄或檔案 D:\Jenkins\workspace\CNC_trunk\Build\..\OCSDK\inc 已經存在。
+子目錄或檔案 D:\Jenkins\workspace\CNC_trunk\Build\..\OCSDK\inc\w32 已經存在。
+子目錄或檔案 D:\Jenkins\workspace\CNC_trunk\Build\..\OCSDK\inc\w64 已經存在。
+子目錄或檔案 D:\Jenkins\workspace\CNC_trunk\Build\..\TPDSDK 已經存在。
+子目錄或檔案 D:\Jenkins\workspace\CNC_trunk\Build\..\TPDSDK\inc 已經存在。
+copy D:\Jenkins\workspace\CNC_trunk\GMock header to OCSDK
+inc\gmock\gmock-actions.h
+inc\gmock\gmock-cardinalities.h
+inc\gmock\gmock-generated-actions.h
+inc\gmock\gmock-generated-actions.h.pump
+inc\gmock\gmock-generated-function-mockers.h
+inc\gmock\gmock-generated-function-mockers.h.pump
+inc\gmock\gmock-generated-matchers.h
+inc\gmock\gmock-generated-matchers.h.pump
+inc\gmock\gmock-generated-nice-strict.h
+inc\gmock\gmock-generated-nice-strict.h.pump
+inc\gmock\gmock-matchers.h
+inc\gmock\gmock-more-actions.h
+inc\gmock\gmock-more-matchers.h
+inc\gmock\gmock-spec-builders.h
+inc\gmock\gmock.h
+inc\gmock\internal\gmock-generated-internal-utils.h
+inc\gmock\internal\gmock-generated-internal-utils.h.pump
+inc\gmock\internal\gmock-internal-utils.h
+inc\gmock\internal\gmock-port.h
+inc\gtest\gtest-death-test.h
+inc\gtest\gtest-message.h
+inc\gtest\gtest-param-test.h
+inc\gtest\gtest-param-test.h.pump
+inc\gtest\gtest-printers.h
+inc\gtest\gtest-spi.h
+inc\gtest\gtest-test-part.h
+inc\gtest\gtest-typed-test.h
+inc\gtest\gtest.h
+inc\gtest\gtest_pred_impl.h
+inc\gtest\gtest_prod.h
+inc\gtest\internal\gtest-death-test-internal.h
+inc\gtest\internal\gtest-filepath.h
+inc\gtest\internal\gtest-internal.h
+inc\gtest\internal\gtest-linked_ptr.h
+inc\gtest\internal\gtest-param-util-generated.h
+inc\gtest\internal\gtest-param-util-generated.h.pump
+inc\gtest\internal\gtest-param-util.h
+inc\gtest\internal\gtest-port.h
+inc\gtest\internal\gtest-string.h
+inc\gtest\internal\gtest-tuple.h
+inc\gtest\internal\gtest-tuple.h.pump
+inc\gtest\internal\gtest-type-util.h
+inc\gtest\internal\gtest-type-util.h.pump
+複製 43 個檔案
+copy D:\Jenkins\workspace\CNC_trunk\LaserCtrl header to OCSDK
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+copy D:\Jenkins\workspace\CNC_trunk\OCDevice header to OCSDK
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+copy D:\Jenkins\workspace\CNC_trunk\OCKrnl header to OCSDK
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+複製了         1 個檔案。
+系統找不到指定的檔案。
+系統找不到指定的檔案。
+複製了         1 個檔案。
+系統找不到指定的檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+系統找不到指定的檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+系統找不到指定的檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+系統找不到指定的檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+copy D:\Jenkins\workspace\CNC_trunk\OCProtocol header to OCSDK
+複製了         1 個檔案。
+複製了         1 個檔案。
+copy D:\Jenkins\workspace\CNC_trunk\OCTest header to OCSDK
+copy D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis header to OCSDK
+複製了         1 個檔案。
+複製了         1 個檔案。
+複製了         1 個檔案。
+/makew32 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library FIles
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library FIles
+/makew32 binary files ...
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Run GTEST
