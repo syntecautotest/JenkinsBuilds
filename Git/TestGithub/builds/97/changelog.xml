@@ -1,0 +1,12 @@
+commit 8c6693ab37e07863aef461fce6ee829352633378
+tree 4a659bf4624b5b0adf92fb6570c2a4700fdd447d
+parent 7580edf29d00ae48852c698c1c567eac6616fa27
+author Yoana Shih <wppqqppq@gmail.com> 2018-07-25 21:53:33 +0800
+committer Yoana Shih <wppqqppq@gmail.com> 2018-07-25 21:53:33 +0800
+
+    Revert "2018-07-12 09:49:10 by 測試人員 ID 123"
+
+    This reverts commit 7580edf29d00ae48852c698c1c567eac6616fa27.
+
+
+:100644 000000 e69de29bb2d1d6434b8b29ae775ad8c2e48c5391 0000000000000000000000000000000000000000 D	NEW.txt
