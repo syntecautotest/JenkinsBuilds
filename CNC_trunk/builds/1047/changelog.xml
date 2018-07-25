@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195837"><author>raymond.ho</author><date>2018-07-03T02:20:31.867932Z</date><paths><path action="M" localPath="res\Lathe\Macro\O999000.nc" kind="file">/cnckernel/trunk/res/Lathe/Macro/O999000.nc</path></paths><msg>merge: ISSUE_12962_b_G88G87R_9, 195394-195818 , to 10.118.11
+by 彥融
+
+from start
+
+fix:
+修正車床G碼G83/G87、G84/G88、G85/G89，在非一般車床直半徑軸設定(X軸非直徑軸 或 Z軸非半徑軸)下，R引數路徑錯誤。</msg></logentry></log>

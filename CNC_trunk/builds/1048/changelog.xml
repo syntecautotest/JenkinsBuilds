@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195877"><author>simon</author><date>2018-07-03T05:10:14.373789Z</date><paths><path action="M" localPath="LaserCtrl\Source\LaserCtrl\GalvoAxisParamSync.cpp" kind="file">/cnckernel/trunk/LaserCtrl/Source/LaserCtrl/GalvoAxisParamSync.cpp</path><path action="M" localPath="LaserCtrl\Source\LaserCtrl\LaserCtrlParamSync.cpp" kind="file">/cnckernel/trunk/LaserCtrl/Source/LaserCtrl/LaserCtrlParamSync.cpp</path></paths><msg>merge: HSHP_2368_b_LaserMarkingFail_118.10, 195802, to 10.118.11
+by 旭沅
+
+from 10.118.10, HSHP-1939
+
+fix:
+	修正雷射打標bin讀取失敗造成打標結果錯誤的問題</msg></logentry></log>

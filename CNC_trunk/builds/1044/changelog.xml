@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195653"><author>mark.chen</author><date>2018-07-02T05:02:42.209330Z</date><paths><path action="M" localPath="OCDevice\Source\MciRTEX\RTEXProtocol.h" kind="file">/cnckernel/trunk/OCDevice/Source/MciRTEX/RTEXProtocol.h</path><path action="M" localPath="OCDevice\Source\MciRTEX\RTEXChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciRTEX/RTEXChannel.cpp</path><path action="M" localPath="OCDevice\Source\MciRTEX\RTEXProtocol.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciRTEX/RTEXProtocol.cpp</path><path action="M" localPath="OCKrnl\Source\MotUtility\MotionPlanDef.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/MotionPlanDef.h</path><path action="M" localPath="OCDevice\Source\MciRTEX\RTEXChannel.h" kind="file">/cnckernel/trunk/OCDevice/Source/MciRTEX/RTEXChannel.h</path></paths><msg>merge: ISSUE_12805_f_RTEXG31, 193634-194510 to 10.118.11
+by 儀禕
+
+feature
+
+G31支援RTEX外部訊號(EXT1)來源觸發跳脫。</msg></logentry></log>

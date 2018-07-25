@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="195555"><author>mark.chen</author><date>2018-06-29T09:10:43.911104Z</date><paths><path action="M" localPath="OCDevice\Source\ServoDriver\CANSvtnx.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/CANSvtnx.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\CANPana.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/CANPana.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\NetServoChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/NetServoChannel.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\CANDelta.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/CANDelta.cpp</path></paths><msg>merge(2nd): CNCKL_2349_ESIConverter_SubIdx_AddElement_version2, 195374 to 10.118.11
+by 侑庭
+
+feature
+
+優化ESI轉檔工具，修正讀檔流程以存取遺漏之ESI資訊。</msg></logentry></log>
