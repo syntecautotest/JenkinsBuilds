@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192333"><author>mark.chen</author><date>2018-05-29T02:27:38.140637Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Operation/TCPServer.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\TCPServer.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/TCPServer.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Operation/TCPServer.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/Operation/TCPServer.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/Operation/TCPServer.h</path><path action="M" localPath="OCKrnl\Source\Operation\TCPServer.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/TCPServer.cpp</path></paths><msg>merge:ISSUE_12904_b_ModbuTCPTID, 191537-192011 to 10.116.54O, 10.118.0J, 10.118.10
+by 竺晏
+
+from 10.116.54F, 10.118.0D, 10.118.4, CNCKL-2102
+
+修正Modbus TCP Transaction Identifier沒有依通訊規格填值的問題。 </msg></logentry></log>

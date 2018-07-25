@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192261"><author>jwlee</author><date>2018-05-28T09:57:43.969117Z</date><paths><path action="M" localPath="SerialPLCAxis\Source\Rot\RotPosParamSync.cpp" kind="file">/cnckernel/trunk/SerialPLCAxis/Source/Rot/RotPosParamSync.cpp</path><path action="M" localPath="OCDevice\Source\MciM3\M3Driver.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3Driver.cpp</path></paths><msg>merge: CNCKL_2382_f_MoveRotPosParamToMachineDataFolder_new, 192146-192148 to 10.118.10
+by 哲維
+
+feature
+
+ROT「刀具位置自定義」相關參數RotPosParam.dat的位置改至 \DiskC\MachineData\ROT\</msg></logentry></log>

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192335"><author>mark.chen</author><date>2018-05-29T02:35:07.343426Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/Interpolation/PitchError.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Interpolation/PitchError.cpp</path><path action="M" localPath="OCKrnl\Source\Interpolation\PitchError.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Interpolation/PitchError.cpp</path></paths><msg>merge:ISSUE_12858_MachPositionError, 192267 to 10.116.54O, 10.118.0J, 10.118.10
+by 青杉
+
+from 10.116.38J, 10.116.54H, 10.118.0E, 10.118.5, ISSUE-12151
+
+修正當機械座標超出節距補償表範圍之外時，機械座標顯示異常的問題。 </msg></logentry><logentry revision="192336"><author>mark.chen</author><date>2018-05-29T02:41:16.128074Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCDevice/Source/MciM3/M3SvoChannel.cpp</path><path action="M" localPath="OCDevice\Source\MciM3\M3SvoChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3SvoChannel.cpp</path></paths><msg>merge:CNCKL_2235_f_M3QuickORT_SupTorqueLim, 191646 to 10.118.0J, 10.118.10
+by 侑庭
+
+from 10.116.24M, 10.116.32, 10.117.32, CNCKL-841
+
+修正M3 QuickORT 支援扭力限制。 </msg></logentry><logentry revision="192337"><author>1200</author><date>2018-05-29T02:47:24.772321Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotExecutive.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotExecutive.cpp</path></paths><msg>merge: ROBOT_29_b_RobotExtAxisNoMove_118_9, 192078, to 10.118.10
+by 柏維
+
+1. 修正機器人ARTIC、DELTA、SCARA產品，前單節下PL0使得MOVJ外部軸無動作之問題。 </msg></logentry></log>
