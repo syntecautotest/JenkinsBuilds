@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="194155"><author>mark.chen</author><date>2018-06-14T01:27:51.048099Z</date><paths><path action="M" localPath="res\WinCE\INI\CNCBASE_CE.ini" kind="file">/cnckernel/trunk/res/WinCE/INI/CNCBASE_CE.ini</path></paths><msg>merge: CNCKL_2419_b_newFCIOfail, 194041 to 10.118.11
+by 儀禕
+
+from 10.118.10, CNCKL-2335
+
+修正機型(新硬體)為FC-A, 60CA(0x22)、FC-B, FC-B-5, 60WA, 60DB, 71SA(0x25)上的IO失效問題。</msg></logentry></log>
