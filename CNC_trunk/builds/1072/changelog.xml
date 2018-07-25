@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197580"><author>simon</author><date>2018-07-19T07:41:25.606065Z</date><paths><path action="M" localPath="SerialPLCAxis\Source\Rot\RotCenter.cpp" kind="file">/cnckernel/trunk/SerialPLCAxis/Source/Rot/RotCenter.cpp</path><path action="M" localPath="SerialPLCAxis\Source\SerialPLCAxis\SerialPLCAxis.cpp" kind="file">/cnckernel/trunk/SerialPLCAxis/Source/SerialPLCAxis/SerialPLCAxis.cpp</path></paths><msg>merge: ISSUE_12457_b_SPLC_ROT_SelfCheckRepeat_191628, 191853, to 10.118.12
+by 糧安
+
+from 10.116.24H, 10.116.29, 10.117.29, CNCKL-888
+
+fix:
+	修正 串列PLC軸/ROT同類裝置局號重複設定時不會觸發警報</msg></logentry></log>

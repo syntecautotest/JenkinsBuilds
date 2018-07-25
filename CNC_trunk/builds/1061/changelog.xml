@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196224"><author>mark.chen</author><date>2018-07-05T05:15:24.340736Z</date><paths><path action="M" localPath="res\Common\Data\AxisName_Text_COM.xml" kind="file">/cnckernel/trunk/res/Common/Data/AxisName_Text_COM.xml</path></paths><msg>merge(2nd): CNCKL_2368_f_AxisKrnlAPI, 196223 to 10.118.11
+by 儀禕
+
+feature
+
+[內部] 調整核心與人機軸資訊API。</msg></logentry></log>

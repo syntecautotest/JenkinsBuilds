@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197377"><author>mark.chen</author><date>2018-07-17T12:40:04.266276Z</date><paths><path action="M" localPath="res\WinCE\INI\CNCBASE_CE.ini" kind="file">/cnckernel/trunk/res/WinCE/INI/CNCBASE_CE.ini</path></paths><msg>merge: CNCKL_2483_b_SriRegWrong, 197370 to 10.118.12
+by  儀禕
+
+from 10.118.9 CNCKL-1873
+
+修正SRI參數檔備份/還原會失效的錯誤。</msg></logentry><logentry revision="197378"><author>mark.chen</author><date>2018-07-17T12:44:59.723489Z</date><paths><path action="M" localPath="OCDevice\Source\MciM3\M3Driver.h" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3Driver.h</path><path action="M" localPath="OCDevice\Source\MciM3\M3IOChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3IOChannel.cpp</path><path action="M" localPath="OCDevice\Source\MciM3\M3IOProfile.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3IOProfile.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\cio.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/cio.h</path></paths><msg>merge: CNCKL_2470_b_M3IOErrPostOP53, 197112-197275 to 10.118.12
+by 哲維
+
+from 10.116.38M, 10.116.54K, 10.118.0F, 10.118.6, CNCKL-2242
+
+1. 修正啟用M3-IO裝置但未接硬體時，應發OP-051，但誤發OP-053的問題 
+2. 修正啟用M3伺服軸但未接硬體時，應發MOT-011，但誤發OP-053的問題
+</msg></logentry></log>

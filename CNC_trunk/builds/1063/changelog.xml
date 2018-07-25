@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="196448"><author>1200</author><date>2018-07-06T09:35:47.194740Z</date><paths><path action="M" localPath="OCKrnl\Source\KinematicTransformation\RobotV1L2A.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/KinematicTransformation/RobotV1L2A.cpp</path></paths><msg>merge: ATEST_932_b_RobotV1L2AEndEffectorError, 196336, tO 10.118.11
+by 亭諭
+
+1. 修正機器人特殊三關節A型(Pr3201=227)，末端座標數值錯誤的問題。</msg></logentry></log>

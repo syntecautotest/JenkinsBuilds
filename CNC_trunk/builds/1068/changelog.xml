@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197015"><author>mstsai0113</author><date>2018-07-13T02:47:39.541557Z</date><paths><path action="M" localPath="OCProtocol\Source\OCProtocol_WinCE60.sln" kind="file">/cnckernel/trunk/OCProtocol/Source/OCProtocol_WinCE60.sln</path><path action="A" localPath="OCProtocol\Source\EnIP" copyfrom-path="/cnckernel/branches/CNCKL/CNCKL_2362_f_EnIP_Explicit_Message_118x/OCProtocol/Source/EnIP" copyfrom-rev="196401" kind="dir">/cnckernel/trunk/OCProtocol/Source/EnIP</path><path action="M" localPath="OCProtocol\Source\OCProtocol.sln" kind="file">/cnckernel/trunk/OCProtocol/Source/OCProtocol.sln</path><path action="M" localPath="OCProtocol\Source\OCProtocol_WinCE70_ARM.sln" kind="file">/cnckernel/trunk/OCProtocol/Source/OCProtocol_WinCE70_ARM.sln</path></paths><msg>merge: CNCKL_2362_f_EnIP_Explicit_Message_118x, 192833-196401 to 10.118.12
+by 振宇
+
+feature
+建立 EnIP 通訊物件，能在主控台應用程式控制掃碼槍</msg></logentry></log>

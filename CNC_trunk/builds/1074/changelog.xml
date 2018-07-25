@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197729"><author>mark.chen</author><date>2018-07-20T07:45:22.775628Z</date><paths><path action="M" localPath="OCDevice\Source\IODriver\IoMapFile.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/IODriver/IoMapFile.cpp</path><path action="M" localPath="OCDevice\Source\IODriver\IoCNC2PIO.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/IODriver/IoCNC2PIO.cpp</path><path action="M" localPath="OCDevice\Source\IODriver\IoMapFile.h" kind="file">/cnckernel/trunk/OCDevice/Source/IODriver/IoMapFile.h</path><path action="M" localPath="OCKrnl\Source\Utility\CommonStruct.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/CommonStruct.h</path></paths><msg>merge: CNCKL_2373_f_AddIOMapXmlVersion_v2, 196373-196393 to 10.118.12
+by 儀禕
+
+feature
+
+IO mapping 檔案新增版號資訊。
+</msg></logentry></log>

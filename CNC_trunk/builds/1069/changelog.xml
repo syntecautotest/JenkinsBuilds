@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="197137"><author>mark.chen</author><date>2018-07-16T00:50:40.926085Z</date><paths><path action="M" localPath="OCDevice\Source\RTCommDriver\ESIDevice.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ESIDevice.cpp</path><path action="M" localPath="OCDevice\Source\RTCommDriver\EtherCAT.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/EtherCAT.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ESIDevice.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ESIDevice.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ESIDef.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ESIDef.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ESILoader.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ESILoader.cpp</path></paths><msg>merge: CNCKL_2466_b_SetSMCrtlByteByESI, 196460-197013 to 10.118.11
+by 侑庭
+
+from 10.116.42, 10.117.42 CNCKL-1393
+
+修正搭配ECAT驅動器時，SyncManager的初始化設定(直接參考ESI的設定值)。</msg></logentry></log>
