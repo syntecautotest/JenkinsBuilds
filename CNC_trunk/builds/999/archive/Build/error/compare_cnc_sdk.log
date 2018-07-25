@@ -1,0 +1,18 @@
+Files that are found in folder Current_sdk but NOT in folder Previous_sdk :
+
+CNCSDK\inc\IntervalChecker.h
+CNCSDK\inc\ISriComPort.h
+CNCSDK\inc\_IPhysicalDriver.h
+----------------------------------------------------------------------
+Files that are found in folder Previous_sdk but NOT in folder Current_sdk :
+
+CNCSDK\inc\ISriChannel.h
+CNCSDK\bin\wce700arm\CANObjectDictionary.lib
+CNCSDK\bin\wce700arm\DeviceAlarm.lib
+CNCSDK\bin\wce700arm\ServoTuning.lib
+CNCSDK\bin\wce600\CANObjectDictionary.lib
+CNCSDK\bin\wce600\DeviceAlarm.lib
+CNCSDK\bin\wce600\ServoTuning.lib
+CNCSDK\bin\w32\CANObjectDictionary.lib
+CNCSDK\bin\w32\ServoTuning.lib
+----------------------------------------------------------------------

@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="192080"><author>firticket</author><date>2018-05-26T06:03:36.247736Z</date><paths><path action="M" localPath="Bin\cnc2_22a_ethercat.bin" kind="file">/cnckernel/trunk/Bin/cnc2_22a_ethercat.bin</path><path action="M" localPath="Bin\cnc2_21a.bin" kind="file">/cnckernel/trunk/Bin/cnc2_21a.bin</path><path action="M" localPath="Bin\cnc2_galvomotor_ethercat.bin" kind="file">/cnckernel/trunk/Bin/cnc2_galvomotor_ethercat.bin</path><path action="M" localPath="Bin\cnc2_starm_ethercat.bin" kind="file">/cnckernel/trunk/Bin/cnc2_starm_ethercat.bin</path><path action="M" localPath="Bin\cnc2_rtex.bin" kind="file">/cnckernel/trunk/Bin/cnc2_rtex.bin</path><path action="M" localPath="Bin\cnc2_fc_ethercat_marking.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc_ethercat_marking.bin</path><path action="M" localPath="Bin\cnc2_fc_m3.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc_m3.bin</path><path action="M" localPath="Bin\cnc2_ehmc_step_top.bin" kind="file">/cnckernel/trunk/Bin/cnc2_ehmc_step_top.bin</path><path action="M" localPath="Bin\cnc2_starm2.bin" kind="file">/cnckernel/trunk/Bin/cnc2_starm2.bin</path><path action="M" localPath="Bin\cnc2_fc.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc.bin</path><path action="M" localPath="Bin\cnc2_fc_ethercat.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc_ethercat.bin</path><path action="M" localPath="Bin\cnc2_4in1driver.bin" kind="file">/cnckernel/trunk/Bin/cnc2_4in1driver.bin</path><path action="M" localPath="Bin\cnc2_30gm.bin" kind="file">/cnckernel/trunk/Bin/cnc2_30gm.bin</path><path action="M" localPath="Bin\cnc2_22a_m2.bin" kind="file">/cnckernel/trunk/Bin/cnc2_22a_m2.bin</path><path action="M" localPath="Bin\cnc2_hhb_m3.bin" kind="file">/cnckernel/trunk/Bin/cnc2_hhb_m3.bin</path><path action="M" localPath="Bin\cnc2_22a_m3.bin" kind="file">/cnckernel/trunk/Bin/cnc2_22a_m3.bin</path><path action="M" localPath="Bin\cnc2_galvomotor_m3.bin" kind="file">/cnckernel/trunk/Bin/cnc2_galvomotor_m3.bin</path><path action="M" localPath="Bin\cnc2_fc_m3_marking.bin" kind="file">/cnckernel/trunk/Bin/cnc2_fc_m3_marking.bin</path><path action="M" localPath="Bin\cnc2.bin" kind="file">/cnckernel/trunk/Bin/cnc2.bin</path><path action="M" localPath="Bin\cnc2_hhb_ethercat.bin" kind="file">/cnckernel/trunk/Bin/cnc2_hhb_ethercat.bin</path></paths><msg>merge CNC2:
+CNC2 Build Time: 2018-05-26 12:30
+CNC2 Version: 00007
+
+the logs are in the following:
+
+merge: CNCKL_2186_f_RemovePinout, 190611-191780, to trunk
+by 儀禕
+
+feature
+
+[內部] 移除多餘的CNC2 pin define。
+
+</msg></logentry></log>
