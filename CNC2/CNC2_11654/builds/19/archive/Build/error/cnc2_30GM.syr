@@ -1,0 +1,1861 @@
+Release 14.7 - xst P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> Parameter xsthdpdir set to xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.05 secs
+ 
+--> Reading design: cnc2_30GM.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                      Synthesis Options Summary                        *
+=========================================================================
+---- Source Parameters
+Input File Name                    : "cnc2_30GM.prj"
+Ignore Synthesis Constraint File   : NO
+
+---- Target Parameters
+Output File Name                   : "cnc2_30GM"
+Output Format                      : NGC
+Target Device                      : xc6slx9-3-tqg144
+
+---- Source Options
+Top Module Name                    : cnc2_30GM
+Automatic FSM Extraction           : YES
+FSM Encoding Algorithm             : Auto
+Safe Implementation                : No
+FSM Style                          : LUT
+RAM Extraction                     : Yes
+RAM Style                          : Auto
+ROM Extraction                     : Yes
+Shift Register Extraction          : YES
+ROM Style                          : Auto
+Resource Sharing                   : YES
+Asynchronous To Synchronous        : NO
+Shift Register Minimum Size        : 2
+Use DSP Block                      : Auto
+Automatic Register Balancing       : No
+
+---- Target Options
+LUT Combining                      : Auto
+Reduce Control Sets                : Auto
+Add IO Buffers                     : YES
+Global Maximum Fanout              : 100000
+Add Generic Clock Buffer(BUFG)     : 16
+Register Duplication               : YES
+Optimize Instantiated Primitives   : NO
+Use Clock Enable                   : Auto
+Use Synchronous Set                : Auto
+Use Synchronous Reset              : Auto
+Pack IO Registers into IOBs        : Auto
+Equivalent register Removal        : YES
+
+---- General Options
+Optimization Goal                  : Speed
+Optimization Effort                : 1
+Power Reduction                    : NO
+Keep Hierarchy                     : No
+Netlist Hierarchy                  : As_Optimized
+RTL Output                         : Yes
+Global Optimization                : AllClockNets
+Read Cores                         : YES
+Write Timing Constraints           : NO
+Cross Clock Analysis               : NO
+Hierarchy Separator                : /
+Bus Delimiter                      : <>
+Case Specifier                     : Maintain
+Slice Utilization Ratio            : 100
+BRAM Utilization Ratio             : 100
+DSP48 Utilization Ratio            : 100
+Auto BRAM Packing                  : NO
+Slice Utilization Ratio Delta      : 5
+
+---- Other Options
+Cores Search Directories           : {"ipcore_dir"  }
+
+=========================================================================
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\SPI_ClockController.v" into library work
+Parsing module <SPI_ClockController>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\SPI_AsynShift.v" into library work
+Parsing module <SPI_AsynShift>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\ipcore_dir\DATA_FIFO.v" into library work
+Parsing module <DATA_FIFO>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Receiver_Controller.v" into library work
+Parsing module <Encoder_Receiver_Controller>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\dFilter_1bit.v" into library work
+Parsing module <dFilter_1bit>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Accumulator.v" into library work
+Parsing module <DDA_Accumulator>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDASyncDivider.v" into library work
+Parsing module <DDASyncDivider>.
+Parsing verilog file "mathutility.v" included at line 37.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Counter_UpDown_Load.v" into library work
+Parsing module <Counter_UpDown_Load>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\WatchDog_IBusStop.v" into library work
+Parsing module <WatchDog_IBusStop>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\WatchDogTimer.v" into library work
+Parsing module <WatchDogTimer>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\SPI_DAC_IBusStop.v" into library work
+Parsing module <SPI_DAC_IBusStop>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\ExtIRQCounter.v" into library work
+Parsing module <EXTIRQCOUNTER>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Receiver.v" into library work
+Parsing module <Encoder_Receiver>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Transmitter.v" into library work
+Parsing module <DDA_Transmitter>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Distributor.v" into library work
+Parsing module <DDA_Distributor>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Controller.v" into library work
+Parsing module <DDA_Controller>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DAC_SPI_Module.v" into library work
+Parsing module <DAC_SPI_Module>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\CounterLatch.v" into library work
+Parsing module <CounterLatch>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\CommitableFIFO2.v" into library work
+Parsing module <CommitableFIFO2>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\ClockDivider.v" into library work
+Parsing module <ClockDivider>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\WatchDog_Partition.v" into library work
+Parsing module <WatchDog_Partition>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\SPI_DAC_Partition.v" into library work
+Parsing module <SPI_DAC_Partition>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\LocalBusBridge.v" into library work
+Parsing module <LocalBusBridge>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\LIO_Partition.v" into library work
+Parsing module <LIO_Partition>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" into library work
+Parsing module <Encoder_Partition>.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Partition.v" into library work
+Parsing module <DDA_Partition>.
+Parsing verilog file "mathutility.v" included at line 53.
+Analyzing Verilog file "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" into library work
+Parsing module <cnc2_30GM>.
+WARNING:HDLCompiler:568 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 19: Constant value is truncated to fit in <10> bits.
+INFO:HDLCompiler:693 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 67. parameter declaration becomes local in cnc2_30GM with formal parameter declaration list
+INFO:HDLCompiler:693 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 471. parameter declaration becomes local in cnc2_30GM with formal parameter declaration list
+
+=========================================================================
+*                            HDL Elaboration                            *
+=========================================================================
+WARNING:HDLCompiler:1016 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 132: Port ioEnc_Select is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 186: Port oDACValue is not connected to this instance
+WARNING:HDLCompiler:1016 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 228: Port oModifyDDACountBase is not connected to this instance
+
+Elaborating module <cnc2_30GM>.
+WARNING:HDLCompiler:413 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 111: Result of 5-bit expression is truncated to fit in 4-bit target.
+
+Elaborating module <dFilter_1bit(RegBits=4'b1010,StackNum=10'b1111111111)>.
+
+Elaborating module <LocalBusBridge(IBUS_DataWidth=16,IBUS_ISABUS=0,DAC_NumOfChannel=2,DDA_NumOfChannel=3,ENC_NumOfChannel=5,HK_NumOfChannel=0,LIO_NumOfChannel=1,IOENC_NumOfChannel=0,RIO_NumOfChannel=0,SCANHEAD_NumOfChannel=0,M3_NumOfChannel=0,SRI_NumOfChannel=0,ECAT_NumOfChannel=0,GM_NumOfChannel=0,ILatch_NumOfChannel=0,RTEX_NumOfChannel=0,Reg_TEST_Value=10'b0100100010)>.
+WARNING:HDLCompiler:1127 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 170: Assignment to rio_Select ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 171: Assignment to rio2_Select ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 172: Assignment to rio3_Select ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 173: Assignment to rioStatus_Select ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 176: Assignment to hkscan_Select ignored, since the identifier is never used
+WARNING:HDLCompiler:1127 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 181: Assignment to ILatch_Select ignored, since the identifier is never used
+
+Elaborating module <SPI_DAC_Partition(IBUS_DataWidth=16,IBUS_AddressWidth=8)>.
+
+Elaborating module <SPI_DAC_IBusStop(ISTOP_DataWidth=16,ISTOP_AddressWidth=8)>.
+
+Elaborating module <DAC_SPI_Module(P_SPI_WIDTH=32'b011000)>.
+
+Elaborating module <SPI_ClockController(P_CLK_DIV=4,P_DATAWIDTH=24)>.
+
+Elaborating module <SPI_AsynShift(P_DATAWIDTH=24)>.
+
+Elaborating module <Encoder_Partition(ENC_NumOfChannel=5,IBUS_DataWidth=16)>.
+
+Elaborating module <dFilter_1bit(RegBits=4'b0110,StackNum=6'b111111)>.
+
+Elaborating module <CounterLatch(LATCH_DataWidth=16)>.
+
+Elaborating module <Encoder_Receiver(ENCRCV_DataWidth=16)>.
+
+Elaborating module <dFilter_1bit>.
+
+Elaborating module <Encoder_Receiver_Controller>.
+WARNING:HDLCompiler:91 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Receiver_Controller.v" Line 68: Signal <m_ResetTimer> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Receiver_Controller.v" Line 138: Signal <m_ResetTimer> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+WARNING:HDLCompiler:91 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Receiver_Controller.v" Line 142: Signal <m_ResetTimer> missing in the sensitivity list is added for synthesis purposes. HDL and post-synthesis simulations may differ as a result.
+
+Elaborating module <Counter_UpDown_Load(CNT_DataWidth=16)>.
+
+Elaborating module <DDA_Partition(IBUS_DataWidth=16,DDA_NumOfChannel=3,DDA_DDACounterWidth=19,DDA_DDACommandWidth=16,DDA_FIFOCapacity=1,DDA_SubDDALevel=1,DDA_AutoCommit=1)>.
+
+Elaborating module <EXTIRQCOUNTER(EXTIRQCT_CounterWidth=19)>.
+
+Elaborating module <DDA_Controller(DDACTRL_DDACounterWidth=19,prmSubDDALevel=1,prmSubDDACounterWidth=32'sb010011)>.
+
+Elaborating module <DDASyncDivider(prmDDACounterWidth=19,prmSubDDALevel=1,prmSubDDACounterWidth=32'sb010011)>.
+WARNING:HDLCompiler:413 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDASyncDivider.v" Line 47: Result of 20-bit expression is truncated to fit in 19-bit target.
+
+Elaborating module <CommitableFIFO2(prmDataWidth=32'sb010000,prmCapacity=1,prmCountWidth=32'sb01)>.
+
+Elaborating module <DATA_FIFO>.
+WARNING:HDLCompiler:1499 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\ipcore_dir\DATA_FIFO.v" Line 39: Empty module <DATA_FIFO> remains a black box.
+
+Elaborating module <DDA_Distributor(DDADIST_DDACmdWidth=32'sb010000,DDADIST_DDACounterWidth=32'sb010011)>.
+
+Elaborating module <DDA_Accumulator(DDAACCR_DDACounterWidth=32'sb010011)>.
+
+Elaborating module <DDA_Transmitter>.
+
+Elaborating module <dFilter_1bit(RegBits=4'b1100,StackNum=12'b111111111111)>.
+
+Elaborating module <LIO_Partition(IBUS_DataWidth=16,IBUS_AddressWidth=8,LIO_NumOfPoint=64)>.
+WARNING:HDLCompiler:189 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 293: Size mismatch in connection of port <oLIO_DO>. Formal port size is 64-bit while actual signal size is 6-bit.
+
+Elaborating module <WatchDog_Partition(IBUS_DataWidth=16,IBUS_AddressWidth=8)>.
+
+Elaborating module <ClockDivider(N=16)>.
+
+Elaborating module <WatchDog_IBusStop(ISTOP_DataWidth=16,ISTOP_AddressWidth=8)>.
+
+Elaborating module <WatchDogTimer(WD_Resolution=16)>.
+WARNING:HDLCompiler:413 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 514: Result of 32-bit expression is truncated to fit in 23-bit target.
+WARNING:HDLCompiler:413 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" Line 524: Result of 32-bit expression is truncated to fit in 23-bit target.
+
+=========================================================================
+*                           HDL Synthesis                               *
+=========================================================================
+
+Synthesizing Unit <cnc2_30GM>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v".
+        DAC_NumOfChannel = 2
+        DDA_NumOfChannel = 3
+        ENC_NumOfChannel = 5
+        HK_NumOfChannel = 0
+        LIO_NumOfChannel = 1
+        IOENC_NumOfChannel = 0
+        RIO_NumOfChannel = 0
+        SCANHEAD_NumOfChannel = 0
+        M3_NumOfChannel = 0
+        SRI_NumOfChannel = 0
+        ECAT_NumOfChannel = 0
+        GM_NumOfChannel = 0
+        ILatch_NumOfChannel = 0
+        RTEX_NumOfChannel = 0
+        Reg_TEST_Value = 10'b0100100010
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 154: Output port <rio_Select> of the instance <LocalBusBridge> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 154: Output port <rio2_Select> of the instance <LocalBusBridge> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 154: Output port <rio3_Select> of the instance <LocalBusBridge> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 154: Output port <rioStatus_Select> of the instance <LocalBusBridge> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 154: Output port <hkscan_Select> of the instance <LocalBusBridge> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 154: Output port <ioEnc_Select> of the instance <LocalBusBridge> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 154: Output port <SacnHead_Select> of the instance <LocalBusBridge> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 154: Output port <ILatch_Select> of the instance <LocalBusBridge> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 191: Output port <oDACValue> of the instance <SPI_DAC_Partition> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 191: Output port <oDACOutRangeOpt> of the instance <SPI_DAC_Partition> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 238: Output port <oModifyDDACountBase> of the instance <DDA_Partition> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 238: Output port <oDDA_Sync> of the instance <DDA_Partition> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\cnc2_30GM.v" line 284: Output port <oScanIn> of the instance <LIO_Partition> is unconnected or connected to loadless signal.
+    Found 4-bit register for signal <startup_reset_timer>.
+    Found 1-bit register for signal <m_last_Led_Request>.
+    Found 23-bit register for signal <m_Led_timer>.
+    Found 3-bit register for signal <m_LedState>.
+    Found 1-bit register for signal <startup_reset>.
+    Found finite state machine <FSM_0> for signal <m_LedState>.
+    -----------------------------------------------------------------------
+    | States             | 3                                              |
+    | Transitions        | 7                                              |
+    | Inputs             | 3                                              |
+    | Outputs            | 3                                              |
+    | Clock              | g_clk (rising_edge)                            |
+    | Reset              | g_reset (positive)                             |
+    | Reset type         | asynchronous                                   |
+    | Reset State        | 000                                            |
+    | Encoding           | auto                                           |
+    | Implementation     | LUT                                            |
+    -----------------------------------------------------------------------
+    Found 4-bit adder for signal <startup_reset_timer[3]_GND_1_o_add_3_OUT> created at line 111.
+    Found 23-bit subtractor for signal <GND_1_o_GND_1_o_sub_11_OUT<22:0>> created at line 514.
+    Summary:
+	inferred   2 Adder/Subtractor(s).
+	inferred  29 D-type flip-flop(s).
+	inferred   4 Multiplexer(s).
+	inferred   1 Finite State Machine(s).
+Unit <cnc2_30GM> synthesized.
+
+Synthesizing Unit <dFilter_1bit_1>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\dFilter_1bit.v".
+        RegBits = 4'b1010
+        StackNum = 10'b1111111111
+    Found 1-bit register for signal <ROut>.
+    Found 10-bit register for signal <m_stack>.
+    Summary:
+	inferred  11 D-type flip-flop(s).
+Unit <dFilter_1bit_1> synthesized.
+
+Synthesizing Unit <LocalBusBridge>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\LocalBusBridge.v".
+        IBUS_DataWidth = 16
+        IBUS_ISABUS = 0
+        DAC_NumOfChannel = 2
+        DDA_NumOfChannel = 3
+        ENC_NumOfChannel = 5
+        HK_NumOfChannel = 0
+        LIO_NumOfChannel = 1
+        IOENC_NumOfChannel = 0
+        RIO_NumOfChannel = 0
+        SCANHEAD_NumOfChannel = 0
+        M3_NumOfChannel = 0
+        SRI_NumOfChannel = 0
+        ECAT_NumOfChannel = 0
+        GM_NumOfChannel = 0
+        ILatch_NumOfChannel = 0
+        RTEX_NumOfChannel = 0
+        Reg_TEST_Value = 10'b0100100010
+    Found 1-bit register for signal <m_last_ibus_WE>.
+    Found 1-bit register for signal <m_ibus_RD>.
+    Found 1-bit register for signal <m_last_ibus_RD>.
+    Found 1-bit register for signal <m_ibus_WE>.
+    Found 16-bit register for signal <m_BusDataOut>.
+    Found 16-bit register for signal <m_sys_isr>.
+    Found 32x2-bit Read Only RAM for signal <_n0175>
+    Found 1-bit tristate buffer for signal <lb_data<15>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<14>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<13>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<12>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<11>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<10>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<9>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<8>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<7>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<6>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<5>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<4>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<3>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<2>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<1>> created at line 208
+    Found 1-bit tristate buffer for signal <lb_data<0>> created at line 208
+    Summary:
+	inferred   1 RAM(s).
+	inferred  36 D-type flip-flop(s).
+	inferred  18 Multiplexer(s).
+	inferred  16 Tristate(s).
+Unit <LocalBusBridge> synthesized.
+
+Synthesizing Unit <SPI_DAC_Partition>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\SPI_DAC_Partition.v".
+        IBUS_DataWidth = 16
+        IBUS_AddressWidth = 8
+    Summary:
+	inferred   4 Multiplexer(s).
+Unit <SPI_DAC_Partition> synthesized.
+
+Synthesizing Unit <SPI_DAC_IBusStop>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\SPI_DAC_IBusStop.v".
+        ISTOP_DataWidth = 16
+        ISTOP_AddressWidth = 8
+WARNING:Xst:647 - Input <ISTOP_Address<7:4>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+    Found 16-bit register for signal <m_DAC1Value>.
+    Found 16-bit register for signal <m_DAC2Value>.
+    Found 16-bit register for signal <m_DAC3Value>.
+    Found 3-bit register for signal <m_DAC0OutRangeOpt>.
+    Found 3-bit register for signal <m_DAC1OutRangeOpt>.
+    Found 3-bit register for signal <m_DAC2OutRangeOpt>.
+    Found 3-bit register for signal <m_DAC3OutRangeOpt>.
+    Found 16-bit register for signal <m_DAC0Value>.
+    Found 16-bit 8-to-1 multiplexer for signal <_n0186> created at line 71.
+    Found 1-bit tristate buffer for signal <m_BusDataOut<15>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<14>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<13>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<12>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<11>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<10>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<9>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<8>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<7>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<6>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<5>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<4>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<3>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<2>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<1>> created at line 65
+    Found 1-bit tristate buffer for signal <m_BusDataOut<0>> created at line 65
+    Summary:
+	inferred  76 D-type flip-flop(s).
+	inferred   2 Multiplexer(s).
+	inferred  16 Tristate(s).
+Unit <SPI_DAC_IBusStop> synthesized.
+
+Synthesizing Unit <DAC_SPI_Module>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DAC_SPI_Module.v".
+        P_DATAWIDTH = 5'b10000
+        P_SPI_WIDTH = 32'b00000000000000000000000000011000
+        P_SPI_SDT = 3'b101
+        P_ENQB = 4'b0100
+        P_NQB = 5'b10000
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DAC_SPI_Module.v" line 226: Output port <oSAS_RxData> of the instance <SPI_Shift_Block1> is unconnected or connected to loadless signal.
+    Found 1-bit register for signal <m_Start>.
+    Found 4-bit register for signal <m_QueID>.
+    Found 4-bit register for signal <m_State>.
+    Found 4-bit register for signal <m_PcsID>.
+    Found 5-bit register for signal <m_DLYcount>.
+    Found 24-bit register for signal <m_TxData>.
+    Found 384-bit register for signal <n0065>.
+    Found finite state machine <FSM_1> for signal <m_State>.
+    -----------------------------------------------------------------------
+    | States             | 10                                             |
+    | Transitions        | 12                                             |
+    | Inputs             | 2                                              |
+    | Outputs            | 4                                              |
+    | Clock              | iDAC_CLK (rising_edge)                         |
+    | Reset              | iDAC_RST_n (negative)                          |
+    | Reset type         | asynchronous                                   |
+    | Reset State        | 0000                                           |
+    | Encoding           | auto                                           |
+    | Implementation     | LUT                                            |
+    -----------------------------------------------------------------------
+    Found 5-bit subtractor for signal <m_DLYcount[4]_GND_38_o_sub_44_OUT> created at line 195.
+    Found 4-bit adder for signal <m_NextQueID> created at line 156.
+    Found 4-bit adder for signal <m_PcsID[3]_GND_38_o_add_46_OUT> created at line 199.
+    Found 24-bit 16-to-1 multiplexer for signal <m_QueID[3]_m_Queue[15][23]_wide_mux_20_OUT> created at line 104.
+    Found 24-bit 12-to-1 multiplexer for signal <m_DataIn> created at line 106.
+    Found 24-bit 16-to-1 multiplexer for signal <m_PcsID[3]_m_Queue[15][23]_wide_mux_45_OUT> created at line 198.
+    Found 4-bit comparator equal for signal <m_PcsID[3]_m_QueID[3]_equal_23_o> created at line 108
+    Summary:
+	inferred   3 Adder/Subtractor(s).
+	inferred 422 D-type flip-flop(s).
+	inferred   1 Comparator(s).
+	inferred  23 Multiplexer(s).
+	inferred   1 Finite State Machine(s).
+Unit <DAC_SPI_Module> synthesized.
+
+Synthesizing Unit <SPI_ClockController>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\SPI_ClockController.v".
+        P_CLK_DIV = 4
+        P_DATAWIDTH = 24
+    Found 1-bit register for signal <m_CLK>.
+    Found 1-bit register for signal <m_CS_n>.
+    Found 4-bit register for signal <m_CLKCount>.
+    Found 6-bit register for signal <m_HSCPCount>.
+    Found 6-bit adder for signal <m_HSCPCount[5]_GND_39_o_add_4_OUT> created at line 85.
+    Found 4-bit adder for signal <m_CLKCount[3]_GND_39_o_add_6_OUT> created at line 92.
+    Summary:
+	inferred   2 Adder/Subtractor(s).
+	inferred  12 D-type flip-flop(s).
+	inferred   8 Multiplexer(s).
+Unit <SPI_ClockController> synthesized.
+
+Synthesizing Unit <SPI_AsynShift>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\SPI_AsynShift.v".
+        P_DATAWIDTH = 24
+    Found 1-bit register for signal <m_MOSI>.
+    Found 24-bit register for signal <m_ShiftRegister>.
+    Found 1-bit register for signal <Last_iSAS_CS_n>.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<23>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<22>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<21>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<20>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<19>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<18>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<17>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<16>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<15>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<14>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<13>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<12>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<11>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<10>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<9>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<8>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<7>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<6>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<5>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<4>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<3>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<2>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<1>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+WARNING:Xst:737 - Found 1-bit latch for signal <m_RxData<0>>. Latches may be generated from incomplete case or if statements. We do not recommend the use of latches in FPGA/CPLD designs, as they may lead to timing problems.
+    Summary:
+	inferred  26 D-type flip-flop(s).
+	inferred  24 Latch(s).
+	inferred   3 Multiplexer(s).
+Unit <SPI_AsynShift> synthesized.
+
+Synthesizing Unit <Encoder_Partition>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v".
+        ENC_NumOfChannel = 5
+        IBUS_DataWidth = 16
+WARNING:Xst:647 - Input <IBUS_DataIn<15:5>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:647 - Input <IBUS_Read> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 85: Output port <LATCH_IndexStatus> of the instance <G1.Channel[0].DDACounterLatched> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountUp> of the instance <G1.Channel[0].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountDown> of the instance <G1.Channel[0].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 85: Output port <LATCH_IndexStatus> of the instance <G1.Channel[1].DDACounterLatched> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountUp> of the instance <G1.Channel[1].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountDown> of the instance <G1.Channel[1].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 85: Output port <LATCH_IndexStatus> of the instance <G1.Channel[2].DDACounterLatched> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountUp> of the instance <G1.Channel[2].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountDown> of the instance <G1.Channel[2].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 85: Output port <LATCH_IndexStatus> of the instance <G1.Channel[3].DDACounterLatched> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountUp> of the instance <G1.Channel[3].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountDown> of the instance <G1.Channel[3].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 85: Output port <LATCH_IndexStatus> of the instance <G1.Channel[4].DDACounterLatched> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountUp> of the instance <G1.Channel[4].Receiver> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Partition.v" line 101: Output port <ENCRCV_CountDown> of the instance <G1.Channel[4].Receiver> is unconnected or connected to loadless signal.
+    Found 5-bit register for signal <m_LastIndexStatus>.
+    Found 5-bit register for signal <m_DDAIndexLatched>.
+    Found 5-bit register for signal <m_AbsoluteCounterClear>.
+    Found 5-bit register for signal <m_IndexLatched>.
+    Found 1-bit tristate buffer for signal <m_BusDataOut<15>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<14>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<13>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<12>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<11>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<10>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<9>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<8>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<7>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<6>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<5>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<4>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<3>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<2>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<1>> created at line 152
+    Found 1-bit tristate buffer for signal <m_BusDataOut<0>> created at line 152
+    Summary:
+	inferred  20 D-type flip-flop(s).
+	inferred  28 Multiplexer(s).
+	inferred  16 Tristate(s).
+Unit <Encoder_Partition> synthesized.
+
+Synthesizing Unit <dFilter_1bit_2>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\dFilter_1bit.v".
+        RegBits = 4'b0110
+        StackNum = 6'b111111
+    Found 1-bit register for signal <ROut>.
+    Found 6-bit register for signal <m_stack>.
+    Summary:
+	inferred   7 D-type flip-flop(s).
+Unit <dFilter_1bit_2> synthesized.
+
+Synthesizing Unit <CounterLatch>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\CounterLatch.v".
+        LATCH_DataWidth = 16
+    Found 1-bit register for signal <m_IndexStatus>.
+    Found 1-bit register for signal <m_LastTrigger>.
+    Found 16-bit register for signal <m_IndexCounter>.
+    Summary:
+	inferred  18 D-type flip-flop(s).
+	inferred   2 Multiplexer(s).
+Unit <CounterLatch> synthesized.
+
+Synthesizing Unit <Encoder_Receiver>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Receiver.v".
+        ENCRCV_DataWidth = 16
+    Summary:
+	no macro.
+Unit <Encoder_Receiver> synthesized.
+
+Synthesizing Unit <dFilter_1bit>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\dFilter_1bit.v".
+        RegBits = 4'b0110
+        StackNum = 6'b111111
+    Found 1-bit register for signal <ROut>.
+    Found 6-bit register for signal <m_stack>.
+    Summary:
+	inferred   7 D-type flip-flop(s).
+Unit <dFilter_1bit> synthesized.
+
+Synthesizing Unit <Encoder_Receiver_Controller>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Encoder_Receiver_Controller.v".
+        STATE_Size = 3
+        STATE_Reset = 0
+        STATE_AI_BI = 1
+        STATE_A_BI = 2
+        STATE_A_B = 3
+        STATE_AI_B = 4
+    Found 1-bit register for signal <m_CountUp>.
+    Found 1-bit register for signal <m_CountDown>.
+    Found 4-bit register for signal <m_ResetTimer>.
+    Found 3-bit register for signal <m_State>.
+    Found finite state machine <FSM_2> for signal <m_State>.
+    -----------------------------------------------------------------------
+    | States             | 5                                              |
+    | Transitions        | 53                                             |
+    | Inputs             | 8                                              |
+    | Outputs            | 4                                              |
+    | Clock              | ENCRCVCTRL_CLK (rising_edge)                   |
+    | Reset              | ENCRCVCTRL_ResetI (negative)                   |
+    | Reset type         | asynchronous                                   |
+    | Reset State        | 000                                            |
+    | Encoding           | auto                                           |
+    | Implementation     | LUT                                            |
+    -----------------------------------------------------------------------
+    Found 4-bit subtractor for signal <m_ResetTimer[3]_GND_71_o_sub_29_OUT> created at line 142.
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+	inferred   6 D-type flip-flop(s).
+	inferred  16 Multiplexer(s).
+	inferred   1 Finite State Machine(s).
+Unit <Encoder_Receiver_Controller> synthesized.
+
+Synthesizing Unit <Counter_UpDown_Load>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\Counter_UpDown_Load.v".
+        CNT_DataWidth = 16
+    Found 16-bit register for signal <m_Q>.
+    Found 16-bit subtractor for signal <m_Q[15]_GND_73_o_sub_6_OUT> created at line 59.
+    Found 16-bit adder for signal <m_Q[15]_GND_73_o_add_4_OUT> created at line 57.
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+	inferred  16 D-type flip-flop(s).
+	inferred   3 Multiplexer(s).
+Unit <Counter_UpDown_Load> synthesized.
+
+Synthesizing Unit <DDA_Partition>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Partition.v".
+        IBUS_DataWidth = 16
+        DDA_NumOfChannel = 3
+        DDA_DDACounterWidth = 19
+        DDA_DDACommandWidth = 16
+        DDA_FIFOCapacity = 1
+        DDA_SubDDALevel = 1
+        DDA_AutoCommit = 1
+WARNING:Xst:647 - Input <IBUS_Read> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Partition.v" line 146: Output port <DDACTRL_RealDDACountBase> of the instance <Controller> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Partition.v" line 172: Output port <oFIFOEmpty> of the instance <G1.Channel[0].DDACmdFIFO> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Partition.v" line 172: Output port <oFIFOEmpty> of the instance <G1.Channel[1].DDACmdFIFO> is unconnected or connected to loadless signal.
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Partition.v" line 172: Output port <oFIFOEmpty> of the instance <G1.Channel[2].DDACmdFIFO> is unconnected or connected to loadless signal.
+    Found 1-bit register for signal <m_ServoOn>.
+    Found 1-bit register for signal <m_HostIRQSource>.
+    Found 1-bit register for signal <m_DDAEnable>.
+    Found 16-bit register for signal <m_DDATimeBase>.
+    Found 19-bit register for signal <m_CycleClockAdj>.
+    Found 3-bit register for signal <m_PostFIFOCommit>.
+    Found 16-bit register for signal <m_DDAPulseType>.
+    Found 1-bit register for signal <m_LastExtIRQInput>.
+    Found 16-bit subtractor for signal <m_RealDDATimerDrift> created at line 116.
+    Found 19-bit subtractor for signal <m_RealDDACounter[18]_m_ExtIRQCounter[18]_sub_29_OUT> created at line 352.
+    Found 1-bit tristate buffer for signal <m_BusDataOut<15>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<14>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<13>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<12>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<11>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<10>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<9>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<8>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<7>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<6>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<5>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<4>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<3>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<2>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<1>> created at line 233
+    Found 1-bit tristate buffer for signal <m_BusDataOut<0>> created at line 233
+    Found 3-bit comparator lessequal for signal <GND_90_o_FIFOFull[2]_LessThan_7_o> created at line 249
+    Summary:
+	inferred   2 Adder/Subtractor(s).
+	inferred  58 D-type flip-flop(s).
+	inferred   1 Comparator(s).
+	inferred  17 Multiplexer(s).
+	inferred  16 Tristate(s).
+Unit <DDA_Partition> synthesized.
+
+Synthesizing Unit <EXTIRQCOUNTER>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\ExtIRQCounter.v".
+        EXTIRQCT_CounterWidth = 19
+    Found 1-bit register for signal <m_Clear>.
+    Found 19-bit register for signal <m_Count>.
+    Found 19-bit adder for signal <m_Count[18]_GND_91_o_add_2_OUT> created at line 38.
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+	inferred  20 D-type flip-flop(s).
+	inferred   1 Multiplexer(s).
+Unit <EXTIRQCOUNTER> synthesized.
+
+Synthesizing Unit <DDA_Controller>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Controller.v".
+        DDACTRL_DDACounterWidth = 19
+        prmSubDDALevel = 1
+        prmSubDDACounterWidth = 19
+    Found 1-bit register for signal <m_State>.
+    Found 19-bit register for signal <m_DDACounter>.
+    Found 19-bit register for signal <m_DDACountAdjValue>.
+    Found 19-bit subtractor for signal <m_DDACountAddAdj[18]_DDACTRL_DDACountBase[18]_sub_9_OUT> created at line 79.
+    Found 19-bit adder for signal <m_DDACountAddAdj> created at line 75.
+    Found 19-bit adder for signal <m_DDACountChkValue> created at line 77.
+    Found 19-bit adder for signal <m_DDACounter[18]_GND_92_o_add_13_OUT> created at line 111.
+    Found 19-bit comparator greater for signal <m_DDACountChkValue[18]_m_DDACountAddAdj[18]_LessThan_8_o> created at line 78
+    Found 19-bit comparator greater for signal <n0021> created at line 118
+    Summary:
+	inferred   4 Adder/Subtractor(s).
+	inferred  39 D-type flip-flop(s).
+	inferred   2 Comparator(s).
+	inferred   8 Multiplexer(s).
+Unit <DDA_Controller> synthesized.
+
+Synthesizing Unit <DDASyncDivider>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDASyncDivider.v".
+        prmDDACounterWidth = 19
+        prmSubDDALevel = 1
+        prmSubDDACounterWidth = 19
+    Found 1-bit register for signal <m_SubSync>.
+    Found 2-bit register for signal <m_CycleCounter>.
+    Found 19-bit register for signal <m_Q>.
+    Found 19-bit subtractor for signal <iDDABase[18]_GND_93_o_sub_8_OUT> created at line 77.
+    Found 2-bit subtractor for signal <m_CycleCounter[-1]_GND_93_o_sub_11_OUT> created at line 80.
+    Found 19-bit adder for signal <oModifiedDDABase> created at line 47.
+    Found 19-bit adder for signal <m_Q[18]_GND_93_o_add_4_OUT> created at line 67.
+    Found 19-bit comparator equal for signal <m_Q[18]_iDDABase[18]_equal_9_o> created at line 77
+    Summary:
+	inferred   4 Adder/Subtractor(s).
+	inferred  22 D-type flip-flop(s).
+	inferred   1 Comparator(s).
+	inferred   7 Multiplexer(s).
+Unit <DDASyncDivider> synthesized.
+
+Synthesizing Unit <CommitableFIFO2>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\CommitableFIFO2.v".
+        prmDataWidth = 16
+        prmCapacity = 1
+        prmCountWidth = 1
+    Found 1-bit register for signal <m_CommittedCount>.
+    Found 1-bit register for signal <m_TotalCount>.
+    Found 1-bit register for signal <m_FIFOEmpty>.
+    Found 9-bit register for signal <m_TailAddress>.
+    Found 9-bit register for signal <m_HeadAddress>.
+    Found 9-bit adder for signal <m_HeadAddress[8]_GND_94_o_add_9_OUT> created at line 144.
+    Found 1-bit adder for signal <m_CommittedCount[0]_GND_94_o_add_11_OUT<0>> created at line 138.
+    Found 1-bit adder for signal <m_TotalCount[0]_GND_94_o_add_12_OUT<0>> created at line 169.
+    Found 9-bit adder for signal <m_TailAddress[8]_GND_94_o_add_21_OUT> created at line 178.
+    Found 1-bit comparator lessequal for signal <GND_94_o_m_TotalCount[0]_LessThan_4_o> created at line 97
+    Found 1-bit comparator greater for signal <GND_94_o_m_CommittedCount[0]_LessThan_8_o> created at line 154
+    Found 1-bit comparator greater for signal <m_TotalCount[0]_PWR_26_o_LessThan_20_o> created at line 169
+    WARNING:Xst:2404 -  FFs/Latches <m_FIFOFull<0:0>> (without init value) have a constant value of 0 in block <CommitableFIFO2>.
+    Summary:
+	inferred   4 Adder/Subtractor(s).
+	inferred  21 D-type flip-flop(s).
+	inferred   3 Comparator(s).
+	inferred  11 Multiplexer(s).
+Unit <CommitableFIFO2> synthesized.
+
+Synthesizing Unit <DDA_Distributor>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Distributor.v".
+        DDADIST_DDACmdWidth = 16
+        DDADIST_DDACounterWidth = 19
+    Found 1-bit register for signal <m_CW>.
+    Found 1-bit register for signal <m_CCW>.
+    Found 1-bit register for signal <m_2CW>.
+    Found 1-bit register for signal <m_2CCW>.
+    Found 16-bit register for signal <m_DDACommandCache>.
+    Summary:
+	inferred  20 D-type flip-flop(s).
+	inferred   4 Multiplexer(s).
+Unit <DDA_Distributor> synthesized.
+
+Synthesizing Unit <DDA_Accumulator>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Accumulator.v".
+        DDAACCR_DDACounterWidth = 19
+    Found 19-bit register for signal <m_2Acc>.
+    Found 19-bit register for signal <m_Acc>.
+    Found 19-bit subtractor for signal <DDAACCR_DDACountBase[18]_GND_97_o_sub_4_OUT> created at line 46.
+    Found 19-bit subtractor for signal <m_Acc[18]_DDAACCR_DDACountBase[18]_sub_8_OUT> created at line 47.
+    Found 19-bit subtractor for signal <GND_97_o_GND_97_o_sub_15_OUT> created at line 82.
+    Found 19-bit subtractor for signal <m_2Acc[18]_GND_97_o_sub_19_OUT> created at line 83.
+    Found 19-bit adder for signal <m_Acc[18]_DDAACCR_DDACommand[18]_add_2_OUT> created at line 46.
+    Found 19-bit adder for signal <m_2Acc[18]_DDAACCR_DDACommand[18]_add_13_OUT> created at line 82.
+    Found 19-bit comparator lessequal for signal <n0004> created at line 46
+    Found 19-bit comparator lessequal for signal <n0016> created at line 82
+    Summary:
+	inferred   6 Adder/Subtractor(s).
+	inferred  38 D-type flip-flop(s).
+	inferred   2 Comparator(s).
+	inferred   8 Multiplexer(s).
+Unit <DDA_Accumulator> synthesized.
+
+Synthesizing Unit <DDA_Transmitter>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\DDA_Transmitter.v".
+    Found 1-bit register for signal <m_BState>.
+    Found 1-bit register for signal <m_AState>.
+    Found 1-bit 4-to-1 multiplexer for signal <m_NextAState> created at line 18.
+    Found 1-bit 3-to-1 multiplexer for signal <m_NextBState> created at line 19.
+    Summary:
+	inferred   2 D-type flip-flop(s).
+	inferred  22 Multiplexer(s).
+Unit <DDA_Transmitter> synthesized.
+
+Synthesizing Unit <dFilter_1bit_3>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\dFilter_1bit.v".
+        RegBits = 4'b1100
+        StackNum = 12'b111111111111
+    Found 1-bit register for signal <ROut>.
+    Found 12-bit register for signal <m_stack>.
+    Summary:
+	inferred  13 D-type flip-flop(s).
+Unit <dFilter_1bit_3> synthesized.
+
+Synthesizing Unit <LIO_Partition>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\LIO_Partition.v".
+        IBUS_DataWidth = 16
+        IBUS_AddressWidth = 8
+        LIO_NumOfPoint = 64
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_595>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_596>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_597>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_598>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_599>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_600>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_601>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_602>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_603>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_604>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_605>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_606>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_607>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_608>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_609>.
+    Found 1-bit register for signal <iScanOutTrig_IBUS_CLK_DFF_610>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_611>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_612>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_613>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_614>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_615>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_616>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_617>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_618>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_619>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_620>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_621>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_622>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_623>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_624>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_625>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_626>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_627>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_628>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_629>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_630>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_631>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_632>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_633>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_634>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_635>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_636>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_637>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_638>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_639>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_640>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_641>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_642>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_643>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_644>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_645>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_646>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_647>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_648>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_649>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_650>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_651>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_652>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_653>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_654>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_655>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_656>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_657>.
+    Found 1-bit register for signal <IBUS_RESETn_IBUS_CLK_DFF_658>.
+    Found 64-bit register for signal <m_LIO_DO[63]_dff_21_OUT>.
+    Found 16-bit 4-to-1 multiplexer for signal <_n0424> created at line 88.
+    Found 1-bit tristate buffer for signal <m_DataOut<15>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<14>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<13>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<12>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<11>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<10>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<9>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<8>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<7>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<6>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<5>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<4>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<3>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<2>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<1>> created at line 81
+    Found 1-bit tristate buffer for signal <m_DataOut<0>> created at line 81
+    Found 1-bit tristate buffer for signal <m_LIO_DO<63>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<62>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<61>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<60>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<59>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<58>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<57>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<56>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<55>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<54>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<53>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<52>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<51>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<50>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<49>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<48>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<47>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<46>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<45>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<44>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<43>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<42>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<41>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<40>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<39>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<38>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<37>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<36>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<35>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<34>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<33>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<32>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<31>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<30>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<29>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<28>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<27>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<26>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<25>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<24>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<23>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<22>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<21>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<20>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<19>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<18>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<17>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<16>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<15>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<14>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<13>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<12>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<11>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<10>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<9>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<8>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<7>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<6>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<5>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<4>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<3>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<2>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<1>> created at line 100
+    Found 1-bit tristate buffer for signal <m_LIO_DO<0>> created at line 100
+    Summary:
+	inferred 128 D-type flip-flop(s).
+	inferred  66 Multiplexer(s).
+	inferred  80 Tristate(s).
+Unit <LIO_Partition> synthesized.
+
+Synthesizing Unit <WatchDog_Partition>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\WatchDog_Partition.v".
+        IBUS_DataWidth = 16
+        IBUS_AddressWidth = 8
+INFO:Xst:3210 - "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\WatchDog_Partition.v" line 52: Output port <CLKDIV_Value> of the instance <ClockDivider> is unconnected or connected to loadless signal.
+    Summary:
+	no macro.
+Unit <WatchDog_Partition> synthesized.
+
+Synthesizing Unit <ClockDivider>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\ClockDivider.v".
+        N = 16
+    Found 16-bit register for signal <m_WorkCounter>.
+    Found 16-bit subtractor for signal <m_WorkCounter[15]_GND_263_o_sub_4_OUT> created at line 40.
+    Summary:
+	inferred   1 Adder/Subtractor(s).
+	inferred  16 D-type flip-flop(s).
+	inferred   1 Multiplexer(s).
+Unit <ClockDivider> synthesized.
+
+Synthesizing Unit <WatchDog_IBusStop>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\WatchDog_IBusStop.v".
+        ISTOP_DataWidth = 16
+        ISTOP_AddressWidth = 8
+WARNING:Xst:647 - Input <ISTOP_Address<7:4>> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+WARNING:Xst:647 - Input <ISTOP_ResetI> is never used. This port will be preserved and left unconnected if it belongs to a top-level block or it belongs to a sub-block and the hierarchy of this sub-block is preserved.
+    Found 16-bit register for signal <m_WD_BaseTimer>.
+    Found 16-bit register for signal <m_WD_Timer>.
+    Found 1-bit register for signal <m_WD_Enable>.
+    Found 1-bit register for signal <m_WD_Refresh>.
+    Found 16-bit 7-to-1 multiplexer for signal <_n0111> created at line 60.
+    Found 1-bit tristate buffer for signal <m_DataOut<15>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<14>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<13>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<12>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<11>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<10>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<9>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<8>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<7>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<6>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<5>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<4>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<3>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<2>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<1>> created at line 54
+    Found 1-bit tristate buffer for signal <m_DataOut<0>> created at line 54
+    Summary:
+	inferred  34 D-type flip-flop(s).
+	inferred   2 Multiplexer(s).
+	inferred  16 Tristate(s).
+Unit <WatchDog_IBusStop> synthesized.
+
+Synthesizing Unit <WatchDogTimer>.
+    Related source file is "D:\Jenkins\workspace\CNC2\CNC2_11654\cnc2.srcs\sources_1\WatchDogTimer.v".
+        WD_Resolution = 16
+    Found 16-bit register for signal <m_Q>.
+    Found 16-bit register for signal <m_TimeOutCounter>.
+    Found 16-bit subtractor for signal <m_Q[15]_GND_281_o_sub_8_OUT> created at line 48.
+    Found 16-bit adder for signal <m_TimeOutCounter[15]_GND_281_o_add_13_OUT> created at line 61.
+    Summary:
+	inferred   2 Adder/Subtractor(s).
+	inferred  32 D-type flip-flop(s).
+	inferred   1 Multiplexer(s).
+Unit <WatchDogTimer> synthesized.
+
+=========================================================================
+HDL Synthesis Report
+
+Macro Statistics
+# RAMs                                                 : 1
+ 32x2-bit single-port Read Only RAM                    : 1
+# Adders/Subtractors                                   : 61
+ 1-bit adder                                           : 6
+ 16-bit adder                                          : 1
+ 16-bit addsub                                         : 5
+ 16-bit subtractor                                     : 3
+ 19-bit adder                                          : 12
+ 19-bit subtractor                                     : 15
+ 2-bit subtractor                                      : 1
+ 23-bit subtractor                                     : 1
+ 4-bit adder                                           : 4
+ 4-bit subtractor                                      : 5
+ 5-bit subtractor                                      : 1
+ 6-bit adder                                           : 1
+ 9-bit adder                                           : 6
+# Registers                                            : 255
+ 1-bit register                                        : 161
+ 10-bit register                                       : 1
+ 12-bit register                                       : 3
+ 16-bit register                                       : 31
+ 19-bit register                                       : 11
+ 2-bit register                                        : 1
+ 23-bit register                                       : 1
+ 24-bit register                                       : 2
+ 3-bit register                                        : 5
+ 384-bit register                                      : 1
+ 4-bit register                                        : 9
+ 5-bit register                                        : 5
+ 6-bit register                                        : 17
+ 64-bit register                                       : 1
+ 9-bit register                                        : 6
+# Latches                                              : 24
+ 1-bit latch                                           : 24
+# Comparators                                          : 20
+ 1-bit comparator greater                              : 6
+ 1-bit comparator lessequal                            : 3
+ 19-bit comparator equal                               : 1
+ 19-bit comparator greater                             : 2
+ 19-bit comparator lessequal                           : 6
+ 3-bit comparator lessequal                            : 1
+ 4-bit comparator equal                                : 1
+# Multiplexers                                         : 443
+ 1-bit 2-to-1 multiplexer                              : 309
+ 1-bit 3-to-1 multiplexer                              : 3
+ 1-bit 4-to-1 multiplexer                              : 3
+ 16-bit 2-to-1 multiplexer                             : 59
+ 16-bit 4-to-1 multiplexer                             : 1
+ 16-bit 7-to-1 multiplexer                             : 1
+ 16-bit 8-to-1 multiplexer                             : 1
+ 19-bit 2-to-1 multiplexer                             : 22
+ 2-bit 2-to-1 multiplexer                              : 2
+ 23-bit 2-to-1 multiplexer                             : 3
+ 24-bit 12-to-1 multiplexer                            : 1
+ 24-bit 16-to-1 multiplexer                            : 2
+ 24-bit 2-to-1 multiplexer                             : 18
+ 3-bit 2-to-1 multiplexer                              : 7
+ 4-bit 2-to-1 multiplexer                              : 1
+ 5-bit 2-to-1 multiplexer                              : 3
+ 6-bit 2-to-1 multiplexer                              : 1
+ 9-bit 2-to-1 multiplexer                              : 6
+# Tristates                                            : 160
+ 1-bit tristate buffer                                 : 160
+# FSMs                                                 : 7
+# Xors                                                 : 1
+ 5-bit xor2                                            : 1
+
+=========================================================================
+
+=========================================================================
+*                       Advanced HDL Synthesis                          *
+=========================================================================
+
+Reading core <ipcore_dir/DATA_FIFO.ngc>.
+Loading core <DATA_FIFO> for timing and area information for instance <DATA_FIFO1>.
+INFO:Xst:2261 - The FF/Latch <IBUS_RESETn_IBUS_CLK_DFF_611> in Unit <LIO_Partition_1> is equivalent to the following 15 FFs/Latches, which will be removed : <IBUS_RESETn_IBUS_CLK_DFF_614> <IBUS_RESETn_IBUS_CLK_DFF_612> <IBUS_RESETn_IBUS_CLK_DFF_613> <IBUS_RESETn_IBUS_CLK_DFF_617> <IBUS_RESETn_IBUS_CLK_DFF_615> <IBUS_RESETn_IBUS_CLK_DFF_616> <IBUS_RESETn_IBUS_CLK_DFF_620> <IBUS_RESETn_IBUS_CLK_DFF_618> <IBUS_RESETn_IBUS_CLK_DFF_619> <IBUS_RESETn_IBUS_CLK_DFF_621> <IBUS_RESETn_IBUS_CLK_DFF_622> <IBUS_RESETn_IBUS_CLK_DFF_623> <IBUS_RESETn_IBUS_CLK_DFF_624> <IBUS_RESETn_IBUS_CLK_DFF_625> <IBUS_RESETn_IBUS_CLK_DFF_626> 
+INFO:Xst:2261 - The FF/Latch <IBUS_RESETn_IBUS_CLK_DFF_627> in Unit <LIO_Partition_1> is equivalent to the following 15 FFs/Latches, which will be removed : <IBUS_RESETn_IBUS_CLK_DFF_630> <IBUS_RESETn_IBUS_CLK_DFF_628> <IBUS_RESETn_IBUS_CLK_DFF_629> <IBUS_RESETn_IBUS_CLK_DFF_633> <IBUS_RESETn_IBUS_CLK_DFF_631> <IBUS_RESETn_IBUS_CLK_DFF_632> <IBUS_RESETn_IBUS_CLK_DFF_634> <IBUS_RESETn_IBUS_CLK_DFF_635> <IBUS_RESETn_IBUS_CLK_DFF_636> <IBUS_RESETn_IBUS_CLK_DFF_637> <IBUS_RESETn_IBUS_CLK_DFF_640> <IBUS_RESETn_IBUS_CLK_DFF_638> <IBUS_RESETn_IBUS_CLK_DFF_639> <IBUS_RESETn_IBUS_CLK_DFF_641> <IBUS_RESETn_IBUS_CLK_DFF_642> 
+INFO:Xst:2261 - The FF/Latch <iScanOutTrig_IBUS_CLK_DFF_595> in Unit <LIO_Partition_1> is equivalent to the following 15 FFs/Latches, which will be removed : <iScanOutTrig_IBUS_CLK_DFF_596> <iScanOutTrig_IBUS_CLK_DFF_597> <iScanOutTrig_IBUS_CLK_DFF_600> <iScanOutTrig_IBUS_CLK_DFF_598> <iScanOutTrig_IBUS_CLK_DFF_599> <iScanOutTrig_IBUS_CLK_DFF_601> <iScanOutTrig_IBUS_CLK_DFF_602> <iScanOutTrig_IBUS_CLK_DFF_603> <iScanOutTrig_IBUS_CLK_DFF_604> <iScanOutTrig_IBUS_CLK_DFF_607> <iScanOutTrig_IBUS_CLK_DFF_605> <iScanOutTrig_IBUS_CLK_DFF_606> <iScanOutTrig_IBUS_CLK_DFF_608> <iScanOutTrig_IBUS_CLK_DFF_609> <iScanOutTrig_IBUS_CLK_DFF_610> 
+INFO:Xst:2261 - The FF/Latch <IBUS_RESETn_IBUS_CLK_DFF_643> in Unit <LIO_Partition_1> is equivalent to the following 15 FFs/Latches, which will be removed : <IBUS_RESETn_IBUS_CLK_DFF_646> <IBUS_RESETn_IBUS_CLK_DFF_644> <IBUS_RESETn_IBUS_CLK_DFF_645> <IBUS_RESETn_IBUS_CLK_DFF_647> <IBUS_RESETn_IBUS_CLK_DFF_648> <IBUS_RESETn_IBUS_CLK_DFF_649> <IBUS_RESETn_IBUS_CLK_DFF_650> <IBUS_RESETn_IBUS_CLK_DFF_653> <IBUS_RESETn_IBUS_CLK_DFF_651> <IBUS_RESETn_IBUS_CLK_DFF_652> <IBUS_RESETn_IBUS_CLK_DFF_654> <IBUS_RESETn_IBUS_CLK_DFF_655> <IBUS_RESETn_IBUS_CLK_DFF_656> <IBUS_RESETn_IBUS_CLK_DFF_657> <IBUS_RESETn_IBUS_CLK_DFF_658> 
+WARNING:Xst:1710 - FF/Latch <m_stack_0> (without init value) has a constant value of 0 in block <ExtIRQ_dFilter>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1710 - FF/Latch <ROut> (without init value) has a constant value of 0 in block <ExtIRQ_dFilter>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1710 - FF/Latch <m_Clear> (without init value) has a constant value of 0 in block <ExtIRQCounter1>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1710 - FF/Latch <m_LastExtIRQInput> (without init value) has a constant value of 0 in block <DDA_Partition_1>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <m_stack_1> (without init value) has a constant value of 0 in block <ExtIRQ_dFilter>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <m_stack_2> (without init value) has a constant value of 0 in block <ExtIRQ_dFilter>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <m_stack_3> (without init value) has a constant value of 0 in block <ExtIRQ_dFilter>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <m_stack_4> (without init value) has a constant value of 0 in block <ExtIRQ_dFilter>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <m_stack_5> (without init value) has a constant value of 0 in block <ExtIRQ_dFilter>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:2677 - Node <m_DDATimeBase_15> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_6> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_7> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_8> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_9> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_10> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_11> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_12> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_13> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_14> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_15> of sequential type is unconnected in block <DDA_Partition_1>.
+WARNING:Xst:1290 - Hierarchical block <ExtIRQ_dFilter> is unconnected in block <DDA_Partition_1>.
+   It will be removed from the design.
+
+Synthesizing (advanced) Unit <ClockDivider>.
+The following registers are absorbed into counter <m_WorkCounter>: 1 register on signal <m_WorkCounter>.
+Unit <ClockDivider> synthesized (advanced).
+
+Synthesizing (advanced) Unit <CommitableFIFO2>.
+The following registers are absorbed into counter <m_CommittedCount_0>: 1 register on signal <m_CommittedCount_0>.
+The following registers are absorbed into counter <m_HeadAddress>: 1 register on signal <m_HeadAddress>.
+The following registers are absorbed into counter <m_TailAddress>: 1 register on signal <m_TailAddress>.
+Unit <CommitableFIFO2> synthesized (advanced).
+
+Synthesizing (advanced) Unit <DAC_SPI_Module>.
+The following registers are absorbed into counter <m_QueID>: 1 register on signal <m_QueID>.
+The following registers are absorbed into counter <m_PcsID>: 1 register on signal <m_PcsID>.
+The following registers are absorbed into counter <m_DLYcount>: 1 register on signal <m_DLYcount>.
+Unit <DAC_SPI_Module> synthesized (advanced).
+
+Synthesizing (advanced) Unit <EXTIRQCOUNTER>.
+The following registers are absorbed into counter <m_Count>: 1 register on signal <m_Count>.
+Unit <EXTIRQCOUNTER> synthesized (advanced).
+
+Synthesizing (advanced) Unit <Encoder_Receiver_Controller>.
+The following registers are absorbed into counter <m_ResetTimer>: 1 register on signal <m_ResetTimer>.
+Unit <Encoder_Receiver_Controller> synthesized (advanced).
+
+Synthesizing (advanced) Unit <LocalBusBridge>.
+INFO:Xst:3218 - HDL ADVISOR - The RAM <Mram__n0175> will be implemented on LUTs either because you have described an asynchronous read or because of currently unsupported block RAM features. If you have described an asynchronous read, making it synchronous would allow you to take advantage of available block RAM resources, for optimized device usage and improved timings. Please refer to your documentation for coding guidelines.
+    -----------------------------------------------------------------------
+    | ram_type           | Distributed                         |          |
+    -----------------------------------------------------------------------
+    | Port A                                                              |
+    |     aspect ratio   | 32-word x 2-bit                     |          |
+    |     weA            | connected to signal <GND>           | high     |
+    |     addrA          | connected to signal <lb_addr<9:5>>  |          |
+    |     diA            | connected to signal <GND>           |          |
+    |     doA            | connected to internal node          |          |
+    -----------------------------------------------------------------------
+Unit <LocalBusBridge> synthesized (advanced).
+
+Synthesizing (advanced) Unit <SPI_ClockController>.
+The following registers are absorbed into counter <m_HSCPCount>: 1 register on signal <m_HSCPCount>.
+The following registers are absorbed into counter <m_CLKCount>: 1 register on signal <m_CLKCount>.
+Unit <SPI_ClockController> synthesized (advanced).
+
+Synthesizing (advanced) Unit <WatchDogTimer>.
+The following registers are absorbed into counter <m_Q>: 1 register on signal <m_Q>.
+The following registers are absorbed into counter <m_TimeOutCounter>: 1 register on signal <m_TimeOutCounter>.
+Unit <WatchDogTimer> synthesized (advanced).
+
+Synthesizing (advanced) Unit <cnc2_30GM>.
+The following registers are absorbed into counter <startup_reset_timer>: 1 register on signal <startup_reset_timer>.
+Unit <cnc2_30GM> synthesized (advanced).
+WARNING:Xst:2677 - Node <m_DDATimeBase_15> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_6> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_7> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_8> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_9> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_10> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_11> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_12> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_13> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_14> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <m_DDAPulseType_15> of sequential type is unconnected in block <DDA_Partition>.
+
+=========================================================================
+Advanced HDL Synthesis Report
+
+Macro Statistics
+# RAMs                                                 : 1
+ 32x2-bit single-port distributed Read Only RAM        : 1
+# Adders/Subtractors                                   : 37
+ 1-bit adder                                           : 3
+ 16-bit addsub                                         : 5
+ 16-bit subtractor                                     : 1
+ 19-bit adder                                          : 11
+ 19-bit subtractor                                     : 15
+ 2-bit subtractor                                      : 1
+ 23-bit subtractor                                     : 1
+# Counters                                             : 24
+ 1-bit up counter                                      : 3
+ 16-bit down counter                                   : 2
+ 16-bit up counter                                     : 1
+ 19-bit up counter                                     : 1
+ 4-bit down counter                                    : 5
+ 4-bit up counter                                      : 4
+ 5-bit down counter                                    : 1
+ 6-bit up counter                                      : 1
+ 9-bit up counter                                      : 6
+# Registers                                            : 1483
+ Flip-Flops                                            : 1483
+# Comparators                                          : 20
+ 1-bit comparator greater                              : 6
+ 1-bit comparator lessequal                            : 3
+ 19-bit comparator equal                               : 1
+ 19-bit comparator greater                             : 2
+ 19-bit comparator lessequal                           : 6
+ 3-bit comparator lessequal                            : 1
+ 4-bit comparator equal                                : 1
+# Multiplexers                                         : 426
+ 1-bit 2-to-1 multiplexer                              : 304
+ 1-bit 3-to-1 multiplexer                              : 3
+ 1-bit 4-to-1 multiplexer                              : 3
+ 16-bit 2-to-1 multiplexer                             : 57
+ 16-bit 4-to-1 multiplexer                             : 1
+ 16-bit 7-to-1 multiplexer                             : 1
+ 16-bit 8-to-1 multiplexer                             : 1
+ 19-bit 2-to-1 multiplexer                             : 21
+ 2-bit 2-to-1 multiplexer                              : 2
+ 23-bit 2-to-1 multiplexer                             : 3
+ 24-bit 12-to-1 multiplexer                            : 1
+ 24-bit 16-to-1 multiplexer                            : 2
+ 24-bit 2-to-1 multiplexer                             : 18
+ 3-bit 2-to-1 multiplexer                              : 7
+ 5-bit 2-to-1 multiplexer                              : 2
+# FSMs                                                 : 7
+# Xors                                                 : 1
+ 5-bit xor2                                            : 1
+
+=========================================================================
+
+=========================================================================
+*                         Low Level Synthesis                           *
+=========================================================================
+INFO:Xst:2261 - The FF/Latch <IBUS_RESETn_IBUS_CLK_DFF_611> in Unit <LIO_Partition> is equivalent to the following 15 FFs/Latches, which will be removed : <IBUS_RESETn_IBUS_CLK_DFF_614> <IBUS_RESETn_IBUS_CLK_DFF_612> <IBUS_RESETn_IBUS_CLK_DFF_613> <IBUS_RESETn_IBUS_CLK_DFF_617> <IBUS_RESETn_IBUS_CLK_DFF_615> <IBUS_RESETn_IBUS_CLK_DFF_616> <IBUS_RESETn_IBUS_CLK_DFF_620> <IBUS_RESETn_IBUS_CLK_DFF_618> <IBUS_RESETn_IBUS_CLK_DFF_619> <IBUS_RESETn_IBUS_CLK_DFF_621> <IBUS_RESETn_IBUS_CLK_DFF_622> <IBUS_RESETn_IBUS_CLK_DFF_623> <IBUS_RESETn_IBUS_CLK_DFF_624> <IBUS_RESETn_IBUS_CLK_DFF_625> <IBUS_RESETn_IBUS_CLK_DFF_626> 
+INFO:Xst:2261 - The FF/Latch <IBUS_RESETn_IBUS_CLK_DFF_627> in Unit <LIO_Partition> is equivalent to the following 15 FFs/Latches, which will be removed : <IBUS_RESETn_IBUS_CLK_DFF_630> <IBUS_RESETn_IBUS_CLK_DFF_628> <IBUS_RESETn_IBUS_CLK_DFF_629> <IBUS_RESETn_IBUS_CLK_DFF_633> <IBUS_RESETn_IBUS_CLK_DFF_631> <IBUS_RESETn_IBUS_CLK_DFF_632> <IBUS_RESETn_IBUS_CLK_DFF_634> <IBUS_RESETn_IBUS_CLK_DFF_635> <IBUS_RESETn_IBUS_CLK_DFF_636> <IBUS_RESETn_IBUS_CLK_DFF_637> <IBUS_RESETn_IBUS_CLK_DFF_640> <IBUS_RESETn_IBUS_CLK_DFF_638> <IBUS_RESETn_IBUS_CLK_DFF_639> <IBUS_RESETn_IBUS_CLK_DFF_641> <IBUS_RESETn_IBUS_CLK_DFF_642> 
+INFO:Xst:2261 - The FF/Latch <iScanOutTrig_IBUS_CLK_DFF_595> in Unit <LIO_Partition> is equivalent to the following 15 FFs/Latches, which will be removed : <iScanOutTrig_IBUS_CLK_DFF_596> <iScanOutTrig_IBUS_CLK_DFF_597> <iScanOutTrig_IBUS_CLK_DFF_600> <iScanOutTrig_IBUS_CLK_DFF_598> <iScanOutTrig_IBUS_CLK_DFF_599> <iScanOutTrig_IBUS_CLK_DFF_601> <iScanOutTrig_IBUS_CLK_DFF_602> <iScanOutTrig_IBUS_CLK_DFF_603> <iScanOutTrig_IBUS_CLK_DFF_604> <iScanOutTrig_IBUS_CLK_DFF_607> <iScanOutTrig_IBUS_CLK_DFF_605> <iScanOutTrig_IBUS_CLK_DFF_606> <iScanOutTrig_IBUS_CLK_DFF_608> <iScanOutTrig_IBUS_CLK_DFF_609> <iScanOutTrig_IBUS_CLK_DFF_610> 
+INFO:Xst:2261 - The FF/Latch <IBUS_RESETn_IBUS_CLK_DFF_643> in Unit <LIO_Partition> is equivalent to the following 15 FFs/Latches, which will be removed : <IBUS_RESETn_IBUS_CLK_DFF_646> <IBUS_RESETn_IBUS_CLK_DFF_644> <IBUS_RESETn_IBUS_CLK_DFF_645> <IBUS_RESETn_IBUS_CLK_DFF_647> <IBUS_RESETn_IBUS_CLK_DFF_648> <IBUS_RESETn_IBUS_CLK_DFF_649> <IBUS_RESETn_IBUS_CLK_DFF_650> <IBUS_RESETn_IBUS_CLK_DFF_653> <IBUS_RESETn_IBUS_CLK_DFF_651> <IBUS_RESETn_IBUS_CLK_DFF_652> <IBUS_RESETn_IBUS_CLK_DFF_654> <IBUS_RESETn_IBUS_CLK_DFF_655> <IBUS_RESETn_IBUS_CLK_DFF_656> <IBUS_RESETn_IBUS_CLK_DFF_657> <IBUS_RESETn_IBUS_CLK_DFF_658> 
+WARNING:Xst:2677 - Node <G1.Channel[2].DDACmdFIFO/m_FIFOEmpty> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <G1.Channel[1].DDACmdFIFO/m_FIFOEmpty> of sequential type is unconnected in block <DDA_Partition>.
+WARNING:Xst:2677 - Node <G1.Channel[0].DDACmdFIFO/m_FIFOEmpty> of sequential type is unconnected in block <DDA_Partition>.
+Analyzing FSM <MFsm> for best encoding.
+Optimizing FSM <FSM_0> on signal <m_LedState[1:2]> with sequential encoding.
+-------------------
+ State | Encoding
+-------------------
+ 000   | 00
+ 001   | 01
+ 010   | 10
+-------------------
+Analyzing FSM <MFsm> for best encoding.
+Optimizing FSM <Encoder_Partition_1/G1.Channel[4].Receiver/Controller/FSM_2> on signal <m_State[1:3]> with user encoding.
+Optimizing FSM <Encoder_Partition_1/G1.Channel[3].Receiver/Controller/FSM_2> on signal <m_State[1:3]> with user encoding.
+Optimizing FSM <Encoder_Partition_1/G1.Channel[2].Receiver/Controller/FSM_2> on signal <m_State[1:3]> with user encoding.
+Optimizing FSM <Encoder_Partition_1/G1.Channel[1].Receiver/Controller/FSM_2> on signal <m_State[1:3]> with user encoding.
+Optimizing FSM <Encoder_Partition_1/G1.Channel[0].Receiver/Controller/FSM_2> on signal <m_State[1:3]> with user encoding.
+-------------------
+ State | Encoding
+-------------------
+ 000   | 000
+ 001   | 001
+ 010   | 010
+ 011   | 011
+ 100   | 100
+-------------------
+Analyzing FSM <MFsm> for best encoding.
+Optimizing FSM <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/FSM_1> on signal <m_State[1:4]> with user encoding.
+-------------------
+ State | Encoding
+-------------------
+ 0000  | 0000
+ 0001  | 0001
+ 0010  | 0010
+ 0011  | 0011
+ 0100  | 0100
+ 0101  | 0101
+ 0110  | 0110
+ 0111  | 0111
+ 1000  | 1000
+ 1001  | 1001
+-------------------
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_63> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_62> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_61> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_60> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_59> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_58> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_57> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_56> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_55> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_54> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_53> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_52> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_51> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_50> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_49> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_48> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_47> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_46> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_45> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_44> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_43> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_42> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_41> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_40> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_39> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_38> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_37> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_36> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_35> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_34> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_33> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_32> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_31> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_30> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_29> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_28> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_27> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_26> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_25> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_24> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_23> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_22> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_21> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_20> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_19> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_18> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_17> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_16> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_15> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_14> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_13> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_12> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_11> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_10> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_9> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_8> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_7> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/m_LIO_DO_6> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/IBUS_RESETn_IBUS_CLK_DFF_627> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/IBUS_RESETn_IBUS_CLK_DFF_611> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <LIO_Partition_1/iScanOutTrig_IBUS_CLK_DFF_595> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2042 - Unit cnc2_30GM: 6 internal tristates are replaced by logic (pull-up yes): N10, N5, N6, N7, N8, N9.
+WARNING:Xst:2040 - Unit cnc2_30GM: 16 multi-source signals are replaced by logic (pull-up yes): ibus_DataOut<0>, ibus_DataOut<10>, ibus_DataOut<11>, ibus_DataOut<12>, ibus_DataOut<13>, ibus_DataOut<14>, ibus_DataOut<15>, ibus_DataOut<1>, ibus_DataOut<2>, ibus_DataOut<3>, ibus_DataOut<4>, ibus_DataOut<5>, ibus_DataOut<6>, ibus_DataOut<7>, ibus_DataOut<8>, ibus_DataOut<9>.
+WARNING:Xst:2042 - Unit WatchDog_IBusStop: 16 internal tristates are replaced by logic (pull-up yes): m_DataOut<0>, m_DataOut<10>, m_DataOut<11>, m_DataOut<12>, m_DataOut<13>, m_DataOut<14>, m_DataOut<15>, m_DataOut<1>, m_DataOut<2>, m_DataOut<3>, m_DataOut<4>, m_DataOut<5>, m_DataOut<6>, m_DataOut<7>, m_DataOut<8>, m_DataOut<9>.
+WARNING:Xst:2042 - Unit DDA_Partition: 16 internal tristates are replaced by logic (pull-up yes): m_BusDataOut<0>, m_BusDataOut<10>, m_BusDataOut<11>, m_BusDataOut<12>, m_BusDataOut<13>, m_BusDataOut<14>, m_BusDataOut<15>, m_BusDataOut<1>, m_BusDataOut<2>, m_BusDataOut<3>, m_BusDataOut<4>, m_BusDataOut<5>, m_BusDataOut<6>, m_BusDataOut<7>, m_BusDataOut<8>, m_BusDataOut<9>.
+WARNING:Xst:2042 - Unit SPI_DAC_IBusStop: 16 internal tristates are replaced by logic (pull-up yes): m_BusDataOut<0>, m_BusDataOut<10>, m_BusDataOut<11>, m_BusDataOut<12>, m_BusDataOut<13>, m_BusDataOut<14>, m_BusDataOut<15>, m_BusDataOut<1>, m_BusDataOut<2>, m_BusDataOut<3>, m_BusDataOut<4>, m_BusDataOut<5>, m_BusDataOut<6>, m_BusDataOut<7>, m_BusDataOut<8>, m_BusDataOut<9>.
+WARNING:Xst:2042 - Unit Encoder_Partition: 16 internal tristates are replaced by logic (pull-up yes): m_BusDataOut<0>, m_BusDataOut<10>, m_BusDataOut<11>, m_BusDataOut<12>, m_BusDataOut<13>, m_BusDataOut<14>, m_BusDataOut<15>, m_BusDataOut<1>, m_BusDataOut<2>, m_BusDataOut<3>, m_BusDataOut<4>, m_BusDataOut<5>, m_BusDataOut<6>, m_BusDataOut<7>, m_BusDataOut<8>, m_BusDataOut<9>.
+
+Optimizing unit <cnc2_30GM> ...
+WARNING:Xst:1710 - FF/Latch <LocalBusBridge_1/m_sys_isr_15> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_14> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_13> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_12> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_11> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_10> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_9> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_8> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_7> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_6> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_5> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_3> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_2> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_1> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <LocalBusBridge_1/m_sys_isr_0> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+
+Optimizing unit <dFilter_1bit> ...
+
+Optimizing unit <DDA_Controller> ...
+
+Optimizing unit <DDASyncDivider> ...
+WARNING:Xst:1710 - FF/Latch <m_CycleCounter_-1> (without init value) has a constant value of 0 in block <DDASyncDivider>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1710 - FF/Latch <m_CycleCounter_0> (without init value) has a constant value of 0 in block <DDASyncDivider>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:2677 - Node <m_Q_0> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_1> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_2> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_3> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_4> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_5> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_6> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_7> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_8> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_9> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_10> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_11> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_12> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_13> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_14> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_15> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_16> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_17> of sequential type is unconnected in block <DDASyncDivider>.
+WARNING:Xst:2677 - Node <m_Q_18> of sequential type is unconnected in block <DDASyncDivider>.
+
+Optimizing unit <DDA_Distributor> ...
+
+Optimizing unit <DDA_Accumulator> ...
+
+Optimizing unit <DDA_Transmitter> ...
+
+Optimizing unit <dFilter_1bit_3> ...
+
+Optimizing unit <dFilter_1bit_2> ...
+
+Optimizing unit <CounterLatch> ...
+
+Optimizing unit <Counter_UpDown_Load> ...
+
+Optimizing unit <Encoder_Receiver_Controller> ...
+
+Optimizing unit <dFilter_1bit_1> ...
+
+Optimizing unit <DAC_SPI_Module> ...
+
+Optimizing unit <SPI_ClockController> ...
+
+Optimizing unit <SPI_AsynShift> ...
+
+Optimizing unit <WatchDogTimer> ...
+WARNING:Xst:1710 - FF/Latch <DDA_Partition_1/ExtIRQ_dFilter/ROut> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <DDA_Partition_1/ExtIRQ_dFilter/m_stack_0> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <DDA_Partition_1/ExtIRQCounter1/m_Clear> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <DDA_Partition_1/m_LastExtIRQInput> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <DDA_Partition_1/ExtIRQ_dFilter/m_stack_1> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <DDA_Partition_1/ExtIRQ_dFilter/m_stack_2> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <DDA_Partition_1/ExtIRQ_dFilter/m_stack_3> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <DDA_Partition_1/ExtIRQ_dFilter/m_stack_4> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <DDA_Partition_1/ExtIRQ_dFilter/m_stack_5> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:2677 - Node <Encoder_Partition_1/G1.Channel[4].DDACounterLatched/m_IndexStatus> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <Encoder_Partition_1/G1.Channel[3].DDACounterLatched/m_IndexStatus> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <Encoder_Partition_1/G1.Channel[2].DDACounterLatched/m_IndexStatus> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <Encoder_Partition_1/G1.Channel[1].DDACounterLatched/m_IndexStatus> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <Encoder_Partition_1/G1.Channel[0].DDACounterLatched/m_IndexStatus> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_0> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_1> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_2> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_3> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_4> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_5> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_6> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_7> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_8> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_9> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_10> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_11> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_12> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_13> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_15> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_16> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_14> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_17> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_18> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_19> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_20> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_21> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_22> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPI_Shift_Block1/m_RxData_23> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:1710 - FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_114> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_117> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_118> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_119> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_138> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_141> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_142> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_143> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_162> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_165> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_166> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_167> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_186> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_189> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_190> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_191> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_210> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPICLKCtrl_Block1/m_CLKCount_2> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/SPICLKCtrl_Block1/m_CLKCount_3> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_18> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_21> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_22> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_23> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_42> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_45> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_46> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_47> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_66> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_69> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_70> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_71> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_90> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_93> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_94> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_95> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_311> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_330> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_333> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_334> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_335> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_354> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_357> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_358> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_359> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_378> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_381> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_382> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_383> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_TxData_18> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_TxData_21> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_TxData_22> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_TxData_23> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_213> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_214> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_215> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_234> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_237> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_238> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_239> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_258> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_261> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_262> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_263> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_282> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_285> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_286> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_287> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_306> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_309> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+WARNING:Xst:1895 - Due to other FF/Latch trimming, FF/Latch <SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_310> (without init value) has a constant value of 0 in block <cnc2_30GM>. This FF/Latch will be trimmed during the optimization process.
+INFO:Xst:2261 - The FF/Latch <DDA_Partition_1/G1.Channel[1].DDACmdFIFO/m_TotalCount_0> in Unit <cnc2_30GM> is equivalent to the following FF/Latch, which will be removed : <DDA_Partition_1/G1.Channel[1].DDACmdFIFO/m_CommittedCount_0> 
+INFO:Xst:2261 - The FF/Latch <Encoder_Partition_1/G1.Channel[4].DDACounterLatched/m_LastTrigger> in Unit <cnc2_30GM> is equivalent to the following 4 FFs/Latches, which will be removed : <Encoder_Partition_1/G1.Channel[3].DDACounterLatched/m_LastTrigger> <Encoder_Partition_1/G1.Channel[2].DDACounterLatched/m_LastTrigger> <Encoder_Partition_1/G1.Channel[1].DDACounterLatched/m_LastTrigger> <Encoder_Partition_1/G1.Channel[0].DDACounterLatched/m_LastTrigger> 
+INFO:Xst:2261 - The FF/Latch <DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TotalCount_0> in Unit <cnc2_30GM> is equivalent to the following FF/Latch, which will be removed : <DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_CommittedCount_0> 
+INFO:Xst:2261 - The FF/Latch <DDA_Partition_1/G1.Channel[2].DDACmdFIFO/m_TotalCount_0> in Unit <cnc2_30GM> is equivalent to the following FF/Latch, which will be removed : <DDA_Partition_1/G1.Channel[2].DDACmdFIFO/m_CommittedCount_0> 
+
+Mapping all equations...
+WARNING:Xst:2677 - Node <DDA_Partition_1/m_PostFIFOCommit_2> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <DDA_Partition_1/m_PostFIFOCommit_1> of sequential type is unconnected in block <cnc2_30GM>.
+WARNING:Xst:2677 - Node <DDA_Partition_1/m_PostFIFOCommit_0> of sequential type is unconnected in block <cnc2_30GM>.
+Building and optimizing final netlist ...
+Found area constraint ratio of 100 (+ 5) on block cnc2_30GM, actual ratio is 59.
+
+Final Macro Processing ...
+
+=========================================================================
+Final Register Report
+
+Macro Statistics
+# Registers                                            : 1421
+ Flip-Flops                                            : 1421
+
+=========================================================================
+
+=========================================================================
+*                           Partition Report                            *
+=========================================================================
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+=========================================================================
+*                            Design Summary                             *
+=========================================================================
+
+Top Level Output File Name         : cnc2_30GM.ngc
+
+Primitive and Black Box Usage:
+------------------------------
+# BELS                             : 4226
+#      GND                         : 4
+#      INV                         : 60
+#      LUT1                        : 73
+#      LUT2                        : 420
+#      LUT3                        : 167
+#      LUT4                        : 418
+#      LUT5                        : 207
+#      LUT6                        : 1287
+#      MUXCY                       : 724
+#      MUXF7                       : 141
+#      MUXF8                       : 40
+#      VCC                         : 1
+#      XORCY                       : 684
+# FlipFlops/Latches                : 1469
+#      FD                          : 64
+#      FDC                         : 652
+#      FDCE                        : 594
+#      FDE                         : 39
+#      FDPE                        : 41
+#      FDR                         : 3
+#      FDRE                        : 72
+#      FDSE                        : 4
+# RAMS                             : 144
+#      RAM64M                      : 120
+#      RAM64X1D                    : 24
+# Clock Buffers                    : 1
+#      BUFGP                       : 1
+# IO Buffers                       : 87
+#      IBUF                        : 52
+#      IOBUF                       : 16
+#      OBUF                        : 13
+#      OBUFT                       : 6
+
+Device utilization summary:
+---------------------------
+
+Selected Device : 6slx9tqg144-3 
+
+
+Slice Logic Utilization: 
+ Number of Slice Registers:            1469  out of  11440    12%  
+ Number of Slice LUTs:                 3160  out of   5720    55%  
+    Number used as Logic:              2632  out of   5720    46%  
+    Number used as Memory:              528  out of   1440    36%  
+       Number used as RAM:              528
+
+Slice Logic Distribution: 
+ Number of LUT Flip Flop pairs used:   3459
+   Number with an unused Flip Flop:    1990  out of   3459    57%  
+   Number with an unused LUT:           299  out of   3459     8%  
+   Number of fully used LUT-FF pairs:  1170  out of   3459    33%  
+   Number of unique control sets:        78
+
+IO Utilization: 
+ Number of IOs:                          88
+ Number of bonded IOBs:                  88  out of    102    86%  
+
+Specific Feature Utilization:
+ Number of BUFG/BUFGCTRLs:                1  out of     16     6%  
+
+---------------------------
+Partition Resource Summary:
+---------------------------
+
+  No Partitions were found in this design.
+
+---------------------------
+
+
+=========================================================================
+Timing Report
+
+NOTE: THESE TIMING NUMBERS ARE ONLY A SYNTHESIS ESTIMATE.
+      FOR ACCURATE TIMING INFORMATION PLEASE REFER TO THE TRACE REPORT
+      GENERATED AFTER PLACE-and-ROUTE.
+
+Clock Information:
+------------------
+-----------------------------------+------------------------+-------+
+Clock Signal                       | Clock buffer(FF name)  | Load  |
+-----------------------------------+------------------------+-------+
+g_clk                              | BUFGP                  | 1613  |
+-----------------------------------+------------------------+-------+
+
+Asynchronous Control Signals Information:
+----------------------------------------
+No asynchronous control signals found in this design
+
+Timing Summary:
+---------------
+Speed Grade: -3
+
+   Minimum period: 11.348ns (Maximum Frequency: 88.120MHz)
+   Minimum input arrival time before clock: 10.755ns
+   Maximum output required time after clock: 7.094ns
+   Maximum combinational path delay: 5.987ns
+
+Timing Details:
+---------------
+All values displayed in nanoseconds (ns)
+
+=========================================================================
+Timing constraint: Default period analysis for Clock 'g_clk'
+  Clock period: 11.348ns (frequency: 88.120MHz)
+  Total number of paths / destination ports: 314026404 / 4580
+-------------------------------------------------------------------------
+Delay:               11.348ns (Levels of Logic = 36)
+  Source:            DDA_Partition_1/m_DDATimeBase_0 (FF)
+  Destination:       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_380 (FF)
+  Source Clock:      g_clk rising
+  Destination Clock: g_clk rising
+
+  Data Path: DDA_Partition_1/m_DDATimeBase_0 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_380
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDCE:C->Q            13   0.447   0.933  DDA_Partition_1/m_DDATimeBase_0 (DDA_Partition_1/m_DDATimeBase_0)
+     LUT2:I1->O            1   0.205   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_lut<4> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_lut<4>)
+     MUXCY:S->O            1   0.172   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<4> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<4>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<5> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<5>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<6> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<6>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<7> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<7>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<8> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<8>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<9> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<9>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<10> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<10>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<11> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<11>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<12> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<12>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<13> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<13>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<14> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<14>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<15> (DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_cy<15>)
+     XORCY:CI->O          10   0.180   1.104  DDA_Partition_1/Controller/Madd_m_DDACountAddAdj_xor<16> (DDA_Partition_1/Controller/m_DDACountAddAdj<16>)
+     LUT4:I0->O            1   0.203   0.000  DDA_Partition_1/Controller/Mcompar_m_DDACountChkValue[18]_m_DDACountAddAdj[18]_LessThan_8_o_lut<7> (DDA_Partition_1/Controller/Mcompar_m_DDACountChkValue[18]_m_DDACountAddAdj[18]_LessThan_8_o_lut<7>)
+     MUXCY:S->O            1   0.172   0.000  DDA_Partition_1/Controller/Mcompar_m_DDACountChkValue[18]_m_DDACountAddAdj[18]_LessThan_8_o_cy<7> (DDA_Partition_1/Controller/Mcompar_m_DDACountChkValue[18]_m_DDACountAddAdj[18]_LessThan_8_o_cy<7>)
+     MUXCY:CI->O         105   0.213   1.891  DDA_Partition_1/Controller/Mcompar_m_DDACountChkValue[18]_m_DDACountAddAdj[18]_LessThan_8_o_cy<8> (DDA_Partition_1/Controller/Mcompar_m_DDACountChkValue[18]_m_DDACountAddAdj[18]_LessThan_8_o_cy<8>)
+     LUT6:I5->O            1   0.205   0.000  DDA_Partition_1/Controller/Mmux_m_RealDDACountBase1411 (DDA_Partition_1/Controller/Mmux_m_RealDDACountBase141)
+     MUXCY:S->O            1   0.172   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<4> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<4>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<5> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<5>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<6> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<6>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<8> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<8>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<9> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<9>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<10> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<10>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<12> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<12>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<13> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<13>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<14> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<14>)
+     MUXCY:CI->O           1   0.019   0.000  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15> (DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>)
+     XORCY:CI->O           2   0.180   0.864  DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<16> (DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<16>)
+     LUT4:I0->O            1   0.203   0.000  DDA_Partition_1/Controller/Mcompar_n0021_lut<8> (DDA_Partition_1/Controller/Mcompar_n0021_lut<8>)
+     MUXCY:S->O            1   0.172   0.000  DDA_Partition_1/Controller/Mcompar_n0021_cy<8> (DDA_Partition_1/Controller/Mcompar_n0021_cy<8>)
+     MUXCY:CI->O         373   0.019   2.078  DDA_Partition_1/Controller/Mcompar_n0021_cy<9> (DDA_Partition_1/Controller/Mcompar_n0021_cy<9>)
+     LUT6:I5->O           16   0.205   1.005  SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171 (SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>)
+     LUT6:I5->O            1   0.205   0.000  SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[4][23]_m_DataIn[23]_mux_12_OUT131 (SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue[4][23]_m_DataIn[23]_mux_12_OUT<20>)
+     FDC:D                     0.102          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_284
+    ----------------------------------------
+    Total                     11.348ns (3.473ns logic, 7.875ns route)
+                                       (30.6% logic, 69.4% route)
+
+=========================================================================
+Timing constraint: Default OFFSET IN BEFORE for Clock 'g_clk'
+  Total number of paths / destination ports: 15561 / 911
+-------------------------------------------------------------------------
+Offset:              10.755ns (Levels of Logic = 8)
+  Source:            lb_addr<2> (PAD)
+  Destination:       LocalBusBridge_1/m_BusDataOut_2 (FF)
+  Destination Clock: g_clk rising
+
+  Data Path: lb_addr<2> to LocalBusBridge_1/m_BusDataOut_2
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O            61   1.222   1.849  lb_addr_2_IBUF (lb_addr_2_IBUF)
+     LUT3:I0->O           25   0.205   1.557  SPI_DAC_Partition_1/SPI_DAC_IBusStop_1/Mmux__n0186141 (SPI_DAC_Partition_1/SPI_DAC_IBusStop_1/Mmux__n018614)
+     LUT6:I0->O           18   0.203   1.278  Encoder_Partition_1/_n0291<7>2 (Encoder_Partition_1/_n0291)
+     LUT6:I3->O           16   0.205   1.005  Encoder_Partition_1/Mmux__n02461211 (Encoder_Partition_1/Mmux__n0246121)
+     LUT6:I5->O            1   0.205   0.580  LocalBusBridge_1/Mmux_m_BusDataOut[15]_IBUS_Address[9]_mux_31_OUT910 (LocalBusBridge_1/Mmux_m_BusDataOut[15]_IBUS_Address[9]_mux_31_OUT99)
+     LUT6:I5->O            1   0.205   0.808  LocalBusBridge_1/Mmux_m_BusDataOut[15]_IBUS_Address[9]_mux_31_OUT912 (LocalBusBridge_1/Mmux_m_BusDataOut[15]_IBUS_Address[9]_mux_31_OUT911)
+     LUT6:I3->O            1   0.205   0.924  LocalBusBridge_1/Mmux_m_BusDataOut[15]_IBUS_Address[9]_mux_31_OUT913 (LocalBusBridge_1/Mmux_m_BusDataOut[15]_IBUS_Address[9]_mux_31_OUT912)
+     LUT6:I1->O            1   0.203   0.000  LocalBusBridge_1/Mmux_m_BusDataOut[15]_IBUS_Address[9]_mux_31_OUT914 (LocalBusBridge_1/m_BusDataOut[15]_IBUS_Address[9]_mux_31_OUT<2>)
+     FDCE:D                    0.102          LocalBusBridge_1/m_BusDataOut_2
+    ----------------------------------------
+    Total                     10.755ns (2.755ns logic, 8.000ns route)
+                                       (25.6% logic, 74.4% route)
+
+=========================================================================
+Timing constraint: Default OFFSET OUT AFTER for Clock 'g_clk'
+  Total number of paths / destination ports: 80 / 34
+-------------------------------------------------------------------------
+Offset:              7.094ns (Levels of Logic = 4)
+  Source:            WatchDog_Partition_1/WatchDogTimer_1/m_Q_7 (FF)
+  Destination:       svo_on (PAD)
+  Source Clock:      g_clk rising
+
+  Data Path: WatchDog_Partition_1/WatchDogTimer_1/m_Q_7 to svo_on
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     FDPE:C->Q             2   0.447   0.981  WatchDog_Partition_1/WatchDogTimer_1/m_Q_7 (WatchDog_Partition_1/WatchDogTimer_1/m_Q_7)
+     LUT6:I0->O            1   0.203   0.684  WatchDog_Partition_1/WatchDogTimer_1/n0007<15>2 (WatchDog_Partition_1/WatchDogTimer_1/n0007<15>1)
+     LUT6:I4->O           27   0.203   1.221  WatchDog_Partition_1/WatchDogTimer_1/n0007<15>3 (WatchDog_Partition_1/WatchDogTimer_1/n0007)
+     LUT3:I2->O            1   0.205   0.579  DDA_Partition_1/DDA_ServoOn1 (svo_on_OBUF)
+     OBUF:I->O                 2.571          svo_on_OBUF (svo_on)
+    ----------------------------------------
+    Total                      7.094ns (3.629ns logic, 3.465ns route)
+                                       (51.2% logic, 48.8% route)
+
+=========================================================================
+Timing constraint: Default path analysis
+  Total number of paths / destination ports: 32 / 16
+-------------------------------------------------------------------------
+Delay:               5.987ns (Levels of Logic = 3)
+  Source:            lb_cs_n (PAD)
+  Destination:       lb_data<15> (PAD)
+
+  Data Path: lb_cs_n to lb_data<15>
+                                Gate     Net
+    Cell:in->out      fanout   Delay   Delay  Logical Name (Net Name)
+    ----------------------------------------  ------------
+     IBUF:I->O            11   1.222   0.987  lb_cs_n_IBUF (lb_cs_n_IBUF)
+     LUT2:I0->O           16   0.203   1.004  LocalBusBridge_1/lb_CS_n_lb_RD_n_AND_1_o_inv1 (LocalBusBridge_1/lb_CS_n_lb_RD_n_AND_1_o_inv)
+     IOBUF:T->IO               2.571          lb_data_15_IOBUF (lb_data<15>)
+    ----------------------------------------
+    Total                      5.987ns (3.996ns logic, 1.991ns route)
+                                       (66.7% logic, 33.3% route)
+
+=========================================================================
+
+Cross Clock Domains Report:
+--------------------------
+
+Clock to Setup on destination clock g_clk
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+g_clk          |   11.348|         |         |         |
+---------------+---------+---------+---------+---------+
+
+=========================================================================
+
+
+Total REAL time to Xst completion: 12.00 secs
+Total CPU time to Xst completion: 12.03 secs
+ 
+--> 
+
+Total memory usage is 159932 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :  299 (   0 filtered)
+Number of infos    :   47 (   0 filtered)
+

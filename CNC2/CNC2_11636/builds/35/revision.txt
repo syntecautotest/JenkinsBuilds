@@ -1,0 +1,1 @@
+http://developer.syntecclub.com.tw:815/OpenCNC/hardware/CNC2/branches/release_CNC2_v10.116.36/189341
