@@ -1,0 +1,36 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\TestGithub\workspace
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url git@github.com:wppqqppq/Git101.git # timeout=10
+Fetching upstream changes from git@github.com:wppqqppq/Git101.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress git@github.com:wppqqppq/Git101.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 2d78a5ffba83baa9c14b26d9b02bd4b16e852a62 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 2d78a5ffba83baa9c14b26d9b02bd4b16e852a62
+Commit message: "mod newMsg.txt"
+ > git.exe rev-list --no-walk a58c14db54ce6573a76b1d8fe66248795be1ab10 # timeout=10
+[Set GitHub commit status (universal)] PENDING on repos [GHRepository@1363c8a[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=277,milestones={},language=<null>,commits={},source=<null>,parent=<null>,responseHeaderFields={null=[HTTP/1.1 200 OK], Access-Control-Allow-Origin=[*], Access-Control-Expose-Headers=[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval], Cache-Control=[private, max-age=60, s-maxage=60], Content-Encoding=[gzip], Content-Security-Policy=[default-src 'none'], Content-Type=[application/json; charset=utf-8], Date=[Thu, 26 Jul 2018 01:51:00 GMT], ETag=[W/"7ccb3823a4886deca27ea922cad9dedc"], Last-Modified=[Thu, 26 Jul 2018 01:50:29 GMT], OkHttp-Received-Millis=[1532569867629], OkHttp-Response-Source=[CONDITIONAL_CACHE 200], OkHttp-Selected-Protocol=[http/1.1], OkHttp-Sent-Millis=[1532569867329], Referrer-Policy=[origin-when-cross-origin, strict-origin-when-cross-origin], Server=[GitHub.com], Status=[200 OK], Strict-Transport-Security=[max-age=31536000; includeSubdomains; preload], Transfer-Encoding=[chunked], Vary=[Accept, Authorization, Cookie, X-GitHub-OTP], X-Accepted-OAuth-Scopes=[repo], X-Content-Type-Options=[nosniff], X-Frame-Options=[deny], X-GitHub-Media-Type=[github.v3; format=json], X-GitHub-Request-Id=[CA21:4133:113D6C5:2515D99:5B592903], X-OAuth-Scopes=[admin:repo_hook, repo], X-RateLimit-Limit=[5000], X-RateLimit-Remaining=[4996], X-RateLimit-Reset=[1532573159], X-Runtime-rack=[0.090691], X-XSS-Protection=[1; mode=block]},url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:2d78a5f) with context:master
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/2d78a5ffba83baa9c14b26d9b02bd4b16e852a62
+ERROR: [GitHub Commit Status Setter] Failed to update commit state on GitHub. Ignoring exception [{"message":"Not Found","documentation_url":"https://developer.github.com/v3/repos/statuses/#create-a-status"}]
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0m[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins286634545719733567.bat
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>echo Test123 
+Test123
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>exit 0 
+Setting result to [¥¢±Ñ]
+Build step 'Set the build result' changed build result to FAILURE
+Build step 'Set the build result' marked build as failure
+[Set GitHub commit status (universal)] ERROR on repos [GHRepository@1400479[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=277,milestones={},language=<null>,commits={},source=<null>,parent=<null>,responseHeaderFields={null=[HTTP/1.1 200 OK], Access-Control-Allow-Origin=[*], Access-Control-Expose-Headers=[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval], Cache-Control=[private, max-age=60, s-maxage=60], Content-Encoding=[gzip], Content-Security-Policy=[default-src 'none'], Content-Type=[application/json; charset=utf-8], Date=[Thu, 26 Jul 2018 01:51:00 GMT], ETag=[W/"7ccb3823a4886deca27ea922cad9dedc"], Last-Modified=[Thu, 26 Jul 2018 01:50:29 GMT], OkHttp-Received-Millis=[1532569867629], OkHttp-Response-Source=[CACHE 200], OkHttp-Selected-Protocol=[http/1.1], OkHttp-Sent-Millis=[1532569867329], Referrer-Policy=[origin-when-cross-origin, strict-origin-when-cross-origin], Server=[GitHub.com], Status=[200 OK], Strict-Transport-Security=[max-age=31536000; includeSubdomains; preload], Transfer-Encoding=[chunked], Vary=[Accept, Authorization, Cookie, X-GitHub-OTP], X-Accepted-OAuth-Scopes=[repo], X-Content-Type-Options=[nosniff], X-Frame-Options=[deny], X-GitHub-Media-Type=[github.v3; format=json], X-GitHub-Request-Id=[CA21:4133:113D6C5:2515D99:5B592903], X-OAuth-Scopes=[admin:repo_hook, repo], X-RateLimit-Limit=[5000], X-RateLimit-Remaining=[4996], X-RateLimit-Reset=[1532573159], X-Runtime-rack=[0.090691], X-XSS-Protection=[1; mode=block]},url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:2d78a5f) with context:master
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/2d78a5ffba83baa9c14b26d9b02bd4b16e852a62
+ERROR: [GitHub Commit Status Setter] - {"message":"Not Found","documentation_url":"https://developer.github.com/v3/repos/statuses/#create-a-status"}, setting build result to FAILURE
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mStarted calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: FAILURE

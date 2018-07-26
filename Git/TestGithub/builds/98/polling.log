@@ -1,0 +1,9 @@
+Started on 2018/7/26 ¤W¤È 01:45:53
+Using strategy: Default
+[poll] Last Built Revision: Revision 8c6693ab37e07863aef461fce6ee829352633378 (refs/remotes/origin/master)
+ > git.exe --version # timeout=10
+ > git.exe ls-remote -h git@github.com:wppqqppq/Git101.git # timeout=10
+Found 1 remote heads on git@github.com:wppqqppq/Git101.git
+[poll] Latest remote head revision on refs/heads/master is: a58c14db54ce6573a76b1d8fe66248795be1ab10
+Done. Took 2.7 ¬í
+Changes found

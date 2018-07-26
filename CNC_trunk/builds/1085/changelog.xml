@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198409"><author>mark.chen</author><date>2018-07-26T09:14:50.309033Z</date><paths><path action="M" localPath="res\_Arm\_Cutting\_70B\Res\ParamDef.xml" kind="file">/cnckernel/trunk/res/_Arm/_Cutting/_70B/Res/ParamDef.xml</path><path action="M" localPath="res\_Arm\_Cutting\_70A\Res\ParamDef.xml" kind="file">/cnckernel/trunk/res/_Arm/_Cutting/_70A/Res/ParamDef.xml</path><path action="M" localPath="res\_Arm\_Cutting\_70B-5\Res\ParamDef.xml" kind="file">/cnckernel/trunk/res/_Arm/_Cutting/_70B-5/Res/ParamDef.xml</path></paths><msg>merge: CNCKL_2493_f_Modify70CAParam, 197939-198003 to 10.118.12
+by 哲維
+
+feature
+
+70CA/70CB/70CB-5做以下修改：
+1. 修改Pr3411字串顯示
+2. 移除Pr3419預設支援雷射功能</msg></logentry></log>

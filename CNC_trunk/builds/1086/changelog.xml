@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198410"><author>mark.chen</author><date>2018-07-26T09:16:35.266018Z</date><paths><path action="M" localPath="res\WinCE\Data\IO\IoMap_HHB.xml" kind="file">/cnckernel/trunk/res/WinCE/Data/IO/IoMap_HHB.xml</path></paths><msg>merge: CNCKL_2484_f_ChangeEStopIBitFor81R, 197768 to 10.118.12
+by 青杉
+
+feature
+
+[相容性異動] 
+調整81R系列的EStop I 點，將預設值從 I63 改為 I231。</msg></logentry></log>

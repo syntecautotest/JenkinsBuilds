@@ -1,0 +1,32 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RevertOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins9114436677514882310.bat
+¨t²Îµo¥Í 67 ¿ù»~¡C
+
+§ä¤£¨ìºô¸ô¦WºÙ¡C
+
+From github.com:syntecautotest/OQCFileConfig_Test
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master eb91d62] Revert to 242e116,
+ 3 files changed, 3 insertions(+), 3 deletions(-)
+To github.com:syntecautotest/OQCDB_Test.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'git@github.com:syntecautotest/OQCDB_Test.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+§ä¤£¨ìºô¸ô³s½u¡C
+
+¸Ô²Ó¸ê®Æ¡A½Ð¿é¤J NET HELPMSG 2250¡C
+
+Build step '°õ¦æ Windows §å¦¸«ü¥O' marked build as failure
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Finished: FAILURE

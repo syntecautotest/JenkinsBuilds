@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198408"><author>mark.chen</author><date>2018-07-26T09:12:16.711163Z</date><paths><path action="M" localPath="OCDevice\Source\RTCommDriver\EtherCAT.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/EtherCAT.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ECATDeviceDrv.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\EthercatDrv.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/EthercatDrv.cpp</path><path action="M" localPath="OCDevice\Source\RTCommDriver\EthercatDrv.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/EthercatDrv.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\IEtherCATDrv.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/IEtherCATDrv.h</path></paths><msg>merge: CNCKL_2465_b_ECAT_ReadEEPROM_DataLengthError, 196412-197994 to 10.118.12
+by 侑庭
+
+from 10.116.44, 10.117.44 CNCKL-1590
+
+修正ECAT驅動器對EEPROM資料的讀取設定，以得到正確的VendorID 與 ProductCode</msg></logentry></log>

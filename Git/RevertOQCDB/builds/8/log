@@ -1,0 +1,29 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4A46b+qIJZ5ZPVQLzhwugOYEJkqvRjFJ0ZqX+rTpcLL+AAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZF/az8JH33zBIwHZRallpU4h/o7JaZkwrUmJaZrg8AhNtvTtYAAAA=[0mGit/RevertOQCFileConfig" ªº²Ä [8mha:////4GveHay/g+fbMTwfCqBENm6ZnrG3MUcbBw01Wvx1wbHQAAAAqx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAymEgZl/az8JH33zBIwHZRallpU4h/o7JaZkwrUmJaZrm9oAgC12iSF2AAAAA==[0m14 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RevertOQCDB\workspace
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Injecting as environment variables the properties file path 'D:/TempConfig/REV.props'
+[EnvInject] - Variables injected successfully.
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7642177906092078011.bat
+net use X: D:\TempDB
+From D:\TempDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 5c2c8ca] Revert to abc47e130be57db8d6b016913bbc20031c8b3707,
+ 3 files changed, 1 deletion(-)
+ rename Test_11TB/Software/Test/Common/package_d1a6e212.zip => NewGroup/Software/Test/Common/package_a77083d.zip (97%)
+ delete mode 100644 Test.txt
+ rename NewGroup/Software/Test/Common/package_580cd1df.zip => Test_11TB/Software/Test/Common/package_97e88766.zip (97%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB_Test.git'.
+To github.com:syntecautotest/OQCDB_Test.git
+   b1335b9..5c2c8ca  master -> master
+net use X: /delete
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4Pns6SwlZFNIAKY/FQaGjyO2Zqeq/XUWaoLa/AblCIW9AAAApR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAyREgYZ/az8JH33zBIw7ZuYnRqUWpZaVBKQmJytDwDFmCT20QAAAA==[0mGit ? MakeRevertPack ªº·s«Ø¸m
+Finished: SUCCESS

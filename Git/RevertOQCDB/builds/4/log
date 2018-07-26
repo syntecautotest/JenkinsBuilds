@@ -1,0 +1,22 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4A46b+qIJZ5ZPVQLzhwugOYEJkqvRjFJ0ZqX+rTpcLL+AAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZF/az8JH33zBIwHZRallpU4h/o7JaZkwrUmJaZrg8AhNtvTtYAAAA=[0mGit/RevertOQCFileConfig" ªº²Ä [8mha:////4Nr/11vTJirHNMJCZ2kMIWQHBLf+AbQUvEJrdnSWtIJ+AAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBiX9rPwkfffMEjAdlFqWWlTiH+jslpmTCtSYlpmubwkA3YItwtcAAAA=[0m9 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RevertOQCDB\workspace
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Injecting as environment variables the properties file path 'D:/tempConfig/REV.props'
+[EnvInject] - Variables injected successfully.
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2659529824964707197.bat
+net use X: 
+SET GIT_DIR=\.git
+git config --path core.worktree 
+git pull  master
+git revert 4862e9638b1417708bc195e8d555948e34328b28..HEAD --no-edit --no-commit
+git commit -m "Revert to 4862e9638b1417708bc195e8d555948e34328b28, "
+git push -u  master
+net use X: /delete
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

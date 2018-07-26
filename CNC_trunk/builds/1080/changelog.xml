@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198312"><author>mstsai0113</author><date>2018-07-26T02:46:00.338732Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\SvoDevStateDef.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/SvoDevStateDef.h</path><path action="M" localPath="OCKrnl\Source\Operation\SvoDevStateTable.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/SvoDevStateTable.cpp</path></paths><msg>merge(2nd): CNCKL_2440_f_ModifyAxisStateValue_V1, 198307 to 10.118.12
+by 孟學
+
+feature
+1.調整J值變數的位置，移除一般軸向部分J值</msg></logentry></log>

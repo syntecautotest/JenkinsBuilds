@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198328"><author>1200</author><date>2018-07-26T04:00:21.400568Z</date><paths><path action="M" localPath="OCKrnl\Source\KinematicTransformation\RobotSixAxis.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/KinematicTransformation/RobotSixAxis.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/KinematicTransformation/RobotSixAxis.cpp</path></paths><msg>merge: ROBOT_7_b_ChkFKEEPosOriInitialProblem_118_11, 197978, to 10.118.0L, 10.118.12
+by 俊昇
+
+from 10.117.47, HSHP-1603
+修正六關節機器人(Pr3201=106,107,108)開機時編輯參考點未修改任何值，按下確認後，跳出MessageBox顯示Alarm ID: 14的錯誤。 </msg></logentry></log>
