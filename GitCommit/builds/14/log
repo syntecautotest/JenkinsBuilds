@@ -1,0 +1,36 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\GitCommit\workspace
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins5015319856577267032.bat
+ID:´ú¸Õ¤H­û ID 123 Date:2018-07-12 09:46:02
+On branch master
+Your branch is ahead of 'origin/master' by 4 commits.
+  (use "git push" to publish your local commits)
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    secret123.txt
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	secret1.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+[master 16e5fe6] 2018-07-12 09:46:02 by æ¸¬è©¦äººå“¡ ID 123
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename secret123.txt => secret1.txt (100%)
+To github.com:wppqqppq/Git101.git
+   e923221..16e5fe6  master -> master
+commit 16e5fe6b54e38045cd3a1de612d8822e257d4db7
+Author: YoanaShih <wppqqppq@gmail.com>
+Date:   Thu Jul 12 09:46:18 2018 +0800
+
+    2018-07-12 09:46:02 by æ¸¬è©¦äººå“¡ ID 123
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

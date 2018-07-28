@@ -1,0 +1,181 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\GitCommit\workspace
+[workspace] $ cmd /c call C:\windows\TEMP\jenkins8073594012638879043.bat
+1111 2018/5/29 ¤U¤È 03:37:10
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    README.md
+	deleted:    newMsg.txt
+	deleted:    secret 3.txt
+	deleted:    secret.txt
+	deleted:    secret2nd.txt
+
+no changes added to commit (use "git add" and/or "git commit -a")
+commit 3a85f5f1f81712bd62f5f10619df1a3a726a56b4
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sat May 26 15:59:45 2018 +0800
+
+    Test Jenkins
+
+commit a96a5f754a8719b3f9c5b6f9f8f06f30b6adf95f
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sat May 26 15:44:06 2018 +0800
+
+    Test Build Status
+
+commit fcb9497feac18f5add3d3e412cc8626d9b3d3043
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sat May 26 15:25:04 2018 +0800
+
+    TestCheck 2
+
+commit a279e3083e06a131764e3e9b05dbbf93aa4b2b7a
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sat May 26 15:19:20 2018 +0800
+
+    TestCheck
+
+commit be0b911648623cf6dbaaab07adbad844d8fc8199
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Fri May 25 16:53:09 2018 +0800
+
+    delete files 2nd
+
+commit 75e8192fa7328556c0ba3d2852b62643222df7d0
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Fri May 25 16:08:04 2018 +0800
+
+    delete files
+
+commit adfd60b3c4d41ab6569e1ff52e90dbd9f7de0697
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Fri May 25 15:36:44 2018 +0800
+
+    Delete TestNewPUSH
+
+commit c084d34a563b2272a6b880471b1b557fcae8f619
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Fri May 25 11:54:38 2018 +0800
+
+    Delete Test1
+
+commit 476ac06cd776011a108f6c71a49df344c952ae6d
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Fri May 25 11:49:37 2018 +0800
+
+    Create Test1
+
+commit 04866e2641648a5d171d40b90e9c4b828520188a
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Fri May 25 11:44:08 2018 +0800
+
+    Create TestNewPUSH
+
+commit cc044b553cc872e03292cac80a75a4793c234ba0
+Author: YoanaShih <wppqqppq@gmail.com>
+Date:   Fri May 25 11:32:21 2018 +0800
+
+    wppqqppq: Plugin configuration files updated
+    
+    Change performed by YoanaShih
+
+commit cca6cd2db54efa0e98c6c8c379094b785e1f3a01
+Author: YoanaShih <wppqqppq@gmail.com>
+Date:   Fri May 25 11:32:16 2018 +0800
+
+    wppqqppq: Plugin configuration files updated
+    
+    Change performed by YoanaShih
+
+commit d351c383186c3fb6a59b1d13a7e2f798eaf72847
+Author: YoanaShih <wppqqppq@gmail.com>
+Date:   Fri May 25 11:32:10 2018 +0800
+
+    wppqqppq: New included files
+    
+    Change performed by YoanaShih
+
+commit 780df15fc5883a580b7d17fb751216b2308d1f4d
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Tue May 22 17:05:17 2018 +0800
+
+    test
+
+commit c148f0820b6c7d6faa446ca1c18db49d6a10a803
+Merge: ae56eed 9edc708
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 15:25:01 2018 +0800
+
+    Merge branch 'newBranch'
+
+commit ae56eed96a526e3a99f58f1f95c8f5920e7f788e
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 11:06:16 2018 +0800
+
+    modify msg
+
+commit 20811a26e5e92e3300199a614303b41f8e0904d7
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 11:05:27 2018 +0800
+
+    add MSG
+
+commit 9edc7085437c722e695f1d6d8c96940eeecce3ec
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 10:59:47 2018 +0800
+
+    add more secret
+
+commit 0b8a303018091a7f071f1a42d9998171a124f06a
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 10:56:14 2018 +0800
+
+    add secret
+
+commit a6f16d2c9b6a64cce064d2f71f9513ca2b2fdc73
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 10:38:01 2018 +0800
+
+    rename
+
+commit 73d38bd9052015f4ec295bb8a5248cac4e92c596
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 10:35:43 2018 +0800
+
+    Add files via upload
+
+commit 74fd6e2dff9393a99ad8502f1fc767aa53efa046
+Merge: 323a7ff 953abe2
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 10:29:15 2018 +0800
+
+    Merge branch 'master' of https://github.com/wppqqppq/Git101
+
+commit 953abe2f449d5909cb3267aa5919b420b82f69b2
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 10:14:02 2018 +0800
+
+    Initial commit
+
+commit 323a7ffb10852e89e6fae112d898cbff5883da16
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 10:04:42 2018 +0800
+
+    update 21TB and add 21MA
+
+commit 75686bc1a5fbbd1550fadde62d7750afde7ac2f2
+Author: Yoana Shih <wppqqppq@gmail.com>
+Date:   Sun May 13 08:46:02 2018 +0800
+
+    add 21TB file
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198523"><author>colingsta</author><date>2018-07-27T06:31:09.735938Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\ScreenBase.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScreenBase.cs</path></paths><msg>merge appkernel/ATEST_887_b_MultiTxtEdiotrLoadErr r196285 to 10.118.12 by 玲巧
+
+修正 
+  『於多軸群環境，第一次在程式編輯頁面載入加工檔顯示異常』 問題</msg></logentry></log>

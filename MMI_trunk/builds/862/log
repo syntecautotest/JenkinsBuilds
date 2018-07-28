@@ -1,0 +1,2704 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Evaluating the Groovy script content
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4ECPsWaloByIbV2fwG+7envRvFI4u++nvTu6y6xjnJQiAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/RDX4BBfRz/jeCffeCMAzCoIRcwAAAA=[0mTESTMAN3_BM_2 ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\Jenkins\workspace\MMI_trunk
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\Jenkins\workspace\MMI_trunk\.
+Deleting D:\Jenkins\workspace\MMI_trunk\Res\_Arm\_Cutting\_70A\Common\Plugin\DLL\CE\LaserCuttingCE.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Res\_Arm\_Cutting\_70A\Common\Plugin\DLL\32\LaserCutting.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Res\_Arm\_Drill\Common\Plugin\Dll
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecRemoteCNC\Syntec.RemoteCNC.WinCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecRemoteCNC\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecRemoteCNC\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\Checker\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\Checker\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\Checker\Checker.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\CncMon\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\CncMon\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\CncMon\Source\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\CncMon\Source\CncMonCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\OCAPIServer.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win64\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win64\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win64\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\SA.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEAutotest\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\OCAPIServer_WinCE.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\SA.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32EHMC\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32EHMC\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32EHMC\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32EHMC\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\SA.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\WinCEEHMC\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\SB.new
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32Autotest\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32Autotest\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32Autotest\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\Bin\Win32Autotest\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_trunk\DipoleServer\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\DipoleServer\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\DipoleServer\Source\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\DipoleServer\Source\DipoleServer_WINCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\DiskC
+Deleting D:\Jenkins\workspace\MMI_trunk\Error
+Deleting D:\Jenkins\workspace\MMI_trunk\ActionRouter\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\ActionRouter\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\ActionRouter\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\ActionRouter\ActionRouter.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\Syntec.OpenCNC\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\Syntec.OpenCNC\UnitTest
+Deleting D:\Jenkins\workspace\MMI_trunk\Syntec.OpenCNC\Syntec.OpenCNC.WinCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\Syntec.OpenCNC\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\Platform
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\CE
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\OpenCNC
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\BackupRestore\BackupItemMgr
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\Tools\Disk
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\SystemAgent.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\P2PMessageQueue
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\SystemAgent\Api
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\Platform
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\Tools\Disk
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\SyntecBackup.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\SyntecBackup\Api
+Deleting D:\Jenkins\workspace\MMI_trunk\AutoTestPlugin\Source\AutoTestPluginCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\MMICommon\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\MMICommon\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\MMICommon\Source\MMICommon.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\MMICommon\Source\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\Win32
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\WinCE
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\Plugin\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\Plugin\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\Plugin\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\RobotPlugin\Plugin\RobotMMICE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\CEMMIAPI\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\CEMMIAPI\Release
+Deleting D:\Jenkins\workspace\MMI_trunk\CEMMIAPI\WCE600_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\Build\UnZipOCSDK.bat
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OC3DSimu\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCKbdMs\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCKbdMs\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OcDown\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OcDown\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\x64
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\debug
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\KbdMouse\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCHotKey\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCHotKey\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUp\WCE600_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUp\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\x64
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\x64
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\Debug
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCAPIServerDown\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCAPIServerDown\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\APPSDK
+Deleting D:\Jenkins\workspace\MMI_trunk\OCUser\SETUP
+Deleting D:\Jenkins\workspace\MMI_trunk\AutoTest
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\FileClean\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\FileClean\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\FileClean\FileCleanSettingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\DrillCAM\DrillCAMCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\DrillCAM\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\DrillCAM\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\DrillCAM\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\BuiltInDrillCAMCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\UnitTestProject\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\_60DB\Source\UnitTestProject\obj
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\PlugInDLL
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\LaserScanningCADCAM\Source\LaserActionCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\LaserScanningCADCAM\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\LaserScanningCADCAM\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\LaserCutting\Source\LaserCuttingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\PrintLabelWorker\LabelingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\WoodSoftWare\DiskC
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\WoodSoftWare\Source\WorkinglistConverterCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\WoodSoftWare\Source\bin
+Deleting D:\Jenkins\workspace\MMI_trunk\PlugIn\WoodSoftWare\Source\bin32
+Updating http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/trunk at revision '2018-07-27T15:01:03.905 +0800'
+U         Res\_Arm\Screen\RobotProgram\Fenu5_RobotProgram.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PalletMove_1.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PalletMove_2.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PalletMove_3.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PalletMove_4.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PalletMove_5.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PalletMove_6.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_Prm_1.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_Prm_2.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_Prm_3.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_Prm_4.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_Prm_5.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_Prm_6.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PeripheralControl_Pallet.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_1.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_2.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_3.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_4.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_5.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\Pallet_6.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Injection\CHS\String_CncEngs\PeripheralControl_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PeripheralControl_Pallet_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PeripheralControl_Config_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletMove_1_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletMove_2_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletMove_3_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletMove_4_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletMove_5_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletMove_6_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PeripheralControl_Edit_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletTeach_1_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletTeach_2_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletTeach_3_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletTeach_4_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletTeach_5_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletTeach_6_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PeripheralControl_2_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletParam_1_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletParam_2_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletParam_3_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletParam_4_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletParam_5_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PalletParam_6_CHS.xml
+A         Res\_Arm\_Injection\CHS\String_CncEngs\Res_PeripheralControl_CHS.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PalletMove_1.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PalletMove_2.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PalletMove_3.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PalletMove_4.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PalletMove_5.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PalletMove_6.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_Prm_1.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_Prm_2.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_Prm_3.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_Prm_4.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_Prm_5.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_Prm_6.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PeripheralControl_Pallet.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_1.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_2.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_3.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_4.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_5.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\Pallet_6.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Injection\CHT\String_CncEngs\PeripheralControl_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletMove_1_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletMove_2_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletMove_3_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletMove_4_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletMove_5_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletMove_6_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PeripheralControl_Edit_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletTeach_1_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletTeach_2_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletTeach_3_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletTeach_4_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletTeach_5_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletTeach_6_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PeripheralControl_2_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletParam_1_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletParam_2_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletParam_3_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletParam_4_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletParam_5_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PalletParam_6_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PeripheralControl_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PeripheralControl_Pallet_CHT.xml
+A         Res\_Arm\_Injection\CHT\String_CncEngs\Res_PeripheralControl_Config_CHT.xml
+U         Res\_Arm\_Injection\Build\Build.bat
+A         Res\_Arm\_Injection\Screen\PalletTeach
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_6_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\CUSTOMImage
+AU        Res\_Arm\_Injection\Screen\PalletTeach\CUSTOMImage\Pallet_Entrance2.jpg
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_1_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_2_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_1_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_3_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_2_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_4_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_3_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_5_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_4_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_6_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletTeach\Brw_PalletTeach_5_5Axis.xml
+A         Res\_Arm\_Injection\Screen\SafeCorner
+A         Res\_Arm\_Injection\Screen\SafeCorner\CUSTOMImage
+AU        Res\_Arm\_Injection\Screen\SafeCorner\CUSTOMImage\safe.jpg
+A         Res\_Arm\_Injection\Screen\SafeCorner\Robot_Safe_Corner_3Axis.xml
+A         Res\_Arm\_Injection\Screen\SafeCorner\Robot_Safe_Corner_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PeripheralControl
+A         Res\_Arm\_Injection\Screen\PeripheralControl\CUSTOMImage
+AU        Res\_Arm\_Injection\Screen\PeripheralControl\CUSTOMImage\PageUP.jpg
+AU        Res\_Arm\_Injection\Screen\PeripheralControl\CUSTOMImage\FirstPage.jpg
+AU        Res\_Arm\_Injection\Screen\PeripheralControl\CUSTOMImage\PageDown.jpg
+A         Res\_Arm\_Injection\Screen\PeripheralControl\Brw_PeripheralControl_Config.xml
+A         Res\_Arm\_Injection\Screen\PalletParam
+A         Res\_Arm\_Injection\Screen\PalletParam\CUSTOMImage
+AU        Res\_Arm\_Injection\Screen\PalletParam\CUSTOMImage\Pallet_Interval.jpg
+AU        Res\_Arm\_Injection\Screen\PalletParam\CUSTOMImage\Close_Window.jpg
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_1_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_2_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_1_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_3_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_2_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_4_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_3_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_5_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_4_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_6_3Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_5_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletParam\Brw_PalletParam_6_5Axis.xml
+A         Res\_Arm\_Injection\Screen\PalletMove
+A         Res\_Arm\_Injection\Screen\PalletMove\CUSTOMImage
+AU        Res\_Arm\_Injection\Screen\PalletMove\CUSTOMImage\Close_Window.jpg
+A         Res\_Arm\_Injection\Screen\PalletMove\Brw_PalletMove_1.xml
+A         Res\_Arm\_Injection\Screen\PalletMove\Brw_PalletMove_2.xml
+A         Res\_Arm\_Injection\Screen\PalletMove\Brw_PalletMove_3.xml
+A         Res\_Arm\_Injection\Screen\PalletMove\Brw_PalletMove_4.xml
+A         Res\_Arm\_Injection\Screen\PalletMove\Brw_PalletMove_5.xml
+A         Res\_Arm\_Injection\Screen\PalletMove\Brw_PalletMove_6.xml
+U         Res\_Arm\_Injection\Common\CncFenu5.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_Prm_1.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_Prm_2.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_Prm_3.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_Prm_4.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_Prm_5.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_Prm_6.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PeripheralControl_Pallet.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_1.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_2.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_3.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_4.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_5.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\Pallet_6.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PalletMove_1.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PalletMove_2.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PalletMove_3.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PalletMove_4.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PalletMove_5.xml
+D         Res\_Arm\_Injection\Common\String_CncEngs\PalletMove_6.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PeripheralControl_Config_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletMove_1_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletMove_2_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletMove_3_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletMove_4_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletMove_5_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletMove_6_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PeripheralControl_Edit_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletTeach_1_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletTeach_2_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletTeach_3_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletTeach_4_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletTeach_5_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletTeach_6_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletParam_1_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletParam_2_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletParam_3_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletParam_4_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletParam_5_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PalletParam_6_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PeripheralControl_COM.xml
+A         Res\_Arm\_Injection\Common\String_CncEngs\Res_PeripheralControl_Pallet_COM.xml
+D         Res\_Arm\_Injection\Common\AppData\PalletMove_1.xml
+D         Res\_Arm\_Injection\Common\AppData\PalletMove_2.xml
+D         Res\_Arm\_Injection\Common\AppData\PalletMove_3.xml
+D         Res\_Arm\_Injection\Common\AppData\PalletMove_4.xml
+D         Res\_Arm\_Injection\Common\AppData\PalletMove_5.xml
+D         Res\_Arm\_Injection\Common\AppData\PalletMove_6.xml
+D         Res\_Arm\_Injection\Common\AppData\PeripheralControl_Config.xml
+U         Res\_Arm\_Injection\Common\AppData\PeripheralControl.xml
+U         Res\_Arm\_Injection\Common\AppData\PeripheralControl_Edit.xml
+U         Res\_Arm\_Injection\Common\AppData\MCodeConfirm.xml
+U         Res\_Arm\_Injection\Common\AppData\PeripheralControl_Pallet.xml
+U         Res\_Arm\_Injection\Common\AppData\Settings.xml
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Pallet_Speed_2Axis.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\PgDn_1.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Decrease.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Btn_Feed_Hold.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\safe.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Btn_Cycle_Start.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Pallet_Entrance2.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Pallet_Interval.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\checked.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\DOWN1.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Increase.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\DOWN2.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\unchecked.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\PgUp_1.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Pallet_Entrance.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Pallet_Speed.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\UP1.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\Pallet_Entrance_2Axis.jpg
+D         Res\_Arm\_Injection\Common\AppData\CUSTOMImage\UP2.jpg
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_Prm_1.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_Prm_2.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_Prm_3.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_Prm_4.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_Prm_5.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_Prm_6.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Robot_Safe_Corner.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_1.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_2.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_3.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_4.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_5.xml
+D         Res\_Arm\_Injection\Appdata\3Axis\Pallet_6.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_Prm_2.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_Prm_3.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_Prm_4.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_Prm_5.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_Prm_6.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Robot_Safe_Corner.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_1.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_2.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_3.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_4.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_5.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_6.xml
+D         Res\_Arm\_Injection\Appdata\5Axis\Pallet_Prm_1.xml
+U         Res\_Arm\_Delta\Common\Plugin\Config\Plugin32.config
+U         Res\_Arm\_Delta\Common\Plugin\Config\PluginCE.config
+U         Res\_Arm\_Delta\Common\CncFenu5.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\PCSubProgram_COM.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\OutputTeach.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\PeripheralControl.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_IOTeach_Output_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PeripheralControl_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PCSubProgram_Edit_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PalletParam_106_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_IOTeach_Input_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PCSubProgram_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_IOTeach_Other_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PeripheralControl_Config_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PCSubProgram_2_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PalletTeach_106_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PCSubProgram_Config_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PalletMove_106_COM.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\Res_PeripheralControl_Edit_COM.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_A1A2.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_2.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_4.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_6.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_8.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_XYZB.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_XYZAC.xml
+D         Res\_Arm\_Delta\Common\AppData\MechParam_121_2.xml
+D         Res\_Arm\_Delta\Common\AppData\MechParam_123_1.xml
+D         Res\_Arm\_Delta\Common\AppData\MechInit_122_1.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_1.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_3.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_5.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_7.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_9.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_XYZ.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_1.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_3.xml
+D         Res\_Arm\_Delta\Common\AppData\PCSubProgram.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_5.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_7.xml
+D         Res\_Arm\_Delta\Common\AppData\MechAvoidBump_122.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_9.xml
+D         Res\_Arm\_Delta\Common\AppData\PCSubProgram_Edit.xml
+D         Res\_Arm\_Delta\Common\AppData\MechAvoidBump_124.xml
+D         Res\_Arm\_Delta\Common\AppData\PCSubProgram_Config.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_10.xml
+D         Res\_Arm\_Delta\Common\AppData\MechParam_122_1.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_XYZABC.xml
+D         Res\_Arm\_Delta\Common\AppData\MechInit_121_1.xml
+D         Res\_Arm\_Delta\Common\AppData\MechParam_124_2.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_1.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_3.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_5.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_7.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_9.xml
+D         Res\_Arm\_Delta\Common\AppData\OtherThanIOTeach.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_XYZAB.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_XYZC.xml
+D         Res\_Arm\_Delta\Common\AppData\MechParam_121_1.xml
+D         Res\_Arm\_Delta\Common\AppData\MechParam_123_2.xml
+D         Res\_Arm\_Delta\Common\AppData\InputTeach.xml
+D         Res\_Arm\_Delta\Common\AppData\MechInit_124_1.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_2.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_10.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_4.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_6.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_Prm_8.xml
+D         Res\_Arm\_Delta\Common\AppData\PeripheralControl.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_XYZBC.xml
+D         Res\_Arm\_Delta\Common\AppData\PeripheralControl_Edit.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_2.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_4.xml
+D         Res\_Arm\_Delta\Common\AppData\CoordInfo_XZB.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_6.xml
+D         Res\_Arm\_Delta\Common\AppData\MechAvoidBump_121.xml
+D         Res\_Arm\_Delta\Common\AppData\Pallet_8.xml
+D         Res\_Arm\_Delta\Common\AppData\PalletMove_10.xml
+D         Res\_Arm\_Delta\Common\AppData\MechAvoidBump_123.xml
+D         Res\_Arm\_Delta\Common\AppData\PeripheralControl_Config.xml
+D         Res\_Arm\_Delta\Common\AppData\MechParam_122_2.xml
+D         Res\_Arm\_Delta\Common\AppData\MechParam_124_1.xml
+D         Res\_Arm\_Delta\Common\AppData\OutputTeach.xml
+D         Res\_Arm\_Delta\Common\AppData\MechInit_123_1.xml
+U         Res\_Arm\_Delta\Common\AppData\PCSubProgConfirm.xml
+U         Res\_Arm\_Delta\Common\AppData\MCodeConfirm.xml
+U         Res\_Arm\_Delta\Common\AppData\TeachingPopup.xml
+U         Res\_Arm\_Delta\Common\AppData\PalletSelect.xml
+U         Res\_Arm\_Delta\Common\AppData\Cmd_SurrControlSelection.xml
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta4TypeB_ini_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\H2L2A_mechanism_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Standard Four Axis Type A_Limit_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Standard Four Axis Type B_Limit_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Standard Four Axis Type B_ini_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\PgDn_2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\SCARA_mechanism_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_ini_1_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Standard Four Axis type A_mechanism_2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\V3L0A_limit_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta3_ini_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\MechAvoidBump_Delta.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta3TypeB_ini_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Pallet_Entrance.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\H2L2A_limit_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\SCARA_ini_1_fix.JPG
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Btn_Cycle_Start.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\6axis_ini_1_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\MechAvoidBump.JPG
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\SmallArrow.JPG
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\H2L2B_Limit_Ini_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\6axis_mechanism_1_fix2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\DOWN1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\DOWN2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\SCARA_limit_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Pallet_Speed.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\H2L2B_mechanism_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Standard Four Axis Type A_ini_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\UP1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\UP2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_mechanism_1_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\SCARA+1_ini_1_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_mechanism_2_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Btn_Feed_Hold.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Robot_Home_Setting_Hint.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\SCARA+1_mechanism_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta3_mechanism_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta4_mechanism_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta3_mechanism_2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta4_mechanism_2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Jog_Up.JPG
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_Limit_1_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta3TypeB_mechanism_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Pallet_Interval.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta4_ini_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\6axis_limit_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Mastering_121_123.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Mastering_122_124.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\6axis_mechanism_2_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Jog_Down.JPG
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\SmallArrow_down.JPG
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\V3L0A_ini_1_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\V3L0A_mechanism_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Delta4TypeB_mechanism_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Standard Four Axis Type A_mechanism_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\SCARA+1_limit_fix.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Standard Four Axis Type B_mechanism_1.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\Standard Four Axis Type B_mechanism_2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\PgUp_2.jpg
+D         Res\_Arm\_Delta\Common\AppData\CUSTOMImage\H2L2A_ini_1_fix.jpg
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PCSubProgram_CHS.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PeripheralControl_CHS.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\OutputTeach.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\PeripheralControl.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PeripheralControl_2_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PCSubProgram_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_IOTeach_Other_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PeripheralControl_Config_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PCSubProgram_2_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PalletTeach_106_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PCSubProgram_Config_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PalletMove_106_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PeripheralControl_Edit_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PeripheralControl_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_IOTeach_Output_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PCSubProgram_Edit_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_PalletParam_106_CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\Res_IOTeach_Input_CHS.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PeripheralControl_CHT.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PCSubProgram_CHT.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\OutputTeach.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\PCSubProgram_Config.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PCSubProgram_2_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PalletParam_106_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PCSubProgram_Config_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PCSubProgram_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PalletMove_106_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_IOTeach_Input_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PeripheralControl_Edit_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PalletTeach_106_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_IOTeach_Other_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_IOTeach_Output_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PeripheralControl_2_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PeripheralControl_Config_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PeripheralControl_CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\Res_PCSubProgram_Edit_CHT.xml
+D         Res\_Arm\_Delta\Screen\CoordSet
+A         Res\_Arm\_Delta\Screen\IOTeach
+A         Res\_Arm\_Delta\Screen\IOTeach\CUSTOMImage
+AU        Res\_Arm\_Delta\Screen\IOTeach\CUSTOMImage\LargeArrow_Down.JPG
+AU        Res\_Arm\_Delta\Screen\IOTeach\CUSTOMImage\LargeArrow.JPG
+A         Res\_Arm\_Delta\Screen\IOTeach\Brw_IOTeach_Input.xml
+A         Res\_Arm\_Delta\Screen\IOTeach\Brw_IOTeach_Output.xml
+A         Res\_Arm\_Delta\Screen\IOTeach\Brw_IOTeach_Other.xml
+U         Res\_Arm\_Delta\Screen\MainPage\Brw_MainPage_main.xml
+A         Res\_Arm\_Delta\Screen\SubProgram
+A         Res\_Arm\_Delta\Screen\SubProgram\Brw_PCSubProgram.xml
+A         Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage
+AU        Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage\LargeArrow_Down.JPG
+AU        Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage\SmallArrow.JPG
+AU        Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage\Run.jpg
+AU        Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage\Close.jpg
+AU        Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage\LargeArrow.JPG
+AU        Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage\SmallArrow_down.JPG
+AU        Res\_Arm\_Delta\Screen\SubProgram\CUSTOMImage\PgUp_1.jpg
+A         Res\_Arm\_Delta\Screen\SubProgram\Brw_PCSubProgram_Config.xml
+A         Res\_Arm\_Delta\Screen\SubProgram\Brw_PCSubProgram_Edit.xml
+A         Res\_Arm\_Delta\Screen\UserCoordSet
+A         Res\_Arm\_Delta\Screen\UserCoordSet\Brw_CoordSet_Main.xml
+A         Res\_Arm\_Delta\Screen\UserCoordSet\Image
+AU        Res\_Arm\_Delta\Screen\UserCoordSet\Image\ThreePtTeach.jpg
+A         Res\_Arm\_Delta\Screen\UserCoordSet\Fenu5_CoordinateSetting.xml
+A         Res\_Arm\_Delta\Screen\PalletTeach
+A         Res\_Arm\_Delta\Screen\PalletTeach\Brw_PalletTeach.xml
+A         Res\_Arm\_Delta\Screen\PalletTeach\Image
+AU        Res\_Arm\_Delta\Screen\PalletTeach\Image\Pallet_Entrance.jpg
+A         Res\_Arm\_Delta\Screen\PeripheralControl
+A         Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage
+AU        Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage\Run.jpg
+AU        Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage\Close.jpg
+AU        Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage\LargeArrow.JPG
+AU        Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage\SmallArrow_down.JPG
+AU        Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage\PgUp_1.jpg
+AU        Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage\LargeArrow_Down.JPG
+AU        Res\_Arm\_Delta\Screen\PeripheralControl\CUSTOMImage\SmallArrow.JPG
+A         Res\_Arm\_Delta\Screen\PeripheralControl\Brw_PeripheralControl.xml
+A         Res\_Arm\_Delta\Screen\PeripheralControl\Brw_PeripheralControl_Config.xml
+A         Res\_Arm\_Delta\Screen\PeripheralControl\Brw_PeripheralControl_Edit.xml
+A         Res\_Arm\_Delta\Screen\PalletParam
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_2.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_3.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\CUSTOMImage
+AU        Res\_Arm\_Delta\Screen\PalletParam\CUSTOMImage\Pallet_Speed.jpg
+AU        Res\_Arm\_Delta\Screen\PalletParam\CUSTOMImage\Pallet_Interval.jpg
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_4.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_5.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_6.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_7.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_8.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_9.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_1.xml
+A         Res\_Arm\_Delta\Screen\PalletParam\Brw_PalletParam_10.xml
+A         Res\_Arm\_Delta\Screen\RobotParam
+A         Res\_Arm\_Delta\Screen\RobotParam\MechParam_121_1.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechParam_121_2.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechParam_122_1.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechParam_122_2.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechParam_123_1.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechInit_121_1.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechParam_123_2.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechParam_124_1.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechParam_124_2.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechInit_122_1.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechInit_123_1.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechAvoidBump_121.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechInit_124_1.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechAvoidBump_122.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechAvoidBump_123.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\MechAvoidBump_124.xml
+A         Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta3_mechanism_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta4_mechanism_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta3_mechanism_2.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta4_mechanism_2.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta3TypeB_mechanism_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Heavy Four Axis Type A_Limit_1_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Heavy Four Axis Type A_ini_1_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\V3L0A_limit_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Standard Four Axis type A_mechanism_2.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta3_ini_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\MechAvoidBump_Delta.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta4_ini_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\6axis_limit_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta3TypeB_ini_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Mastering_121_123.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Mastering_122_124.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\6axis_mechanism_2_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\V3L0A_ini_1_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\H2L2A_limit_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\6axis_ini_1_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\V3L0A_mechanism_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\MechAvoidBump.JPG
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta4TypeB_mechanism_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\H2L2B_Limit_Ini_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\6axis_mechanism_1_fix2.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type A_mechanism_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\DOWN1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\DOWN2.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type B_mechanism_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type B_mechanism_2.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\H2L2A_ini_1_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Delta4TypeB_ini_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type A_Limit_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\H2L2A_mechanism_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type A_ini_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\H2L2B_mechanism_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type B_Limit_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type B_ini_1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\UP1.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\UP2.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Heavy Four Axis Type A_mechanism_1_fix.jpg
+AU        Res\_Arm\_Delta\Screen\RobotParam\CUSTOMImage\Heavy Four Axis Type A_mechanism_2_fix.jpg
+A         Res\_Arm\_Delta\Screen\PalletMove
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_5.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_6.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_7.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_8.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_9.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_1.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_10.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_2.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_3.xml
+A         Res\_Arm\_Delta\Screen\PalletMove\Brw_PalletMove_4.xml
+U         Res\_Arm\_Scara\Common\Plugin\Config\Plugin32.config
+U         Res\_Arm\_Scara\Common\Plugin\Config\PluginCE.config
+U         Res\_Arm\_Scara\Common\CncFenu5.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\PCSubProgram_COM.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\OutputTeach.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PCSubProgram_2_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PeripheralControl_Config_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PalletMove_106_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PalletTeach_106_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PeripheralControl_Edit_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_IOTeach_Input_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_IOTeach_Output_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PCSubProgram_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_IOTeach_Other_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PalletParam_106_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PCSubProgram_Config_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PeripheralControl_COM.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\Res_PCSubProgram_Edit_COM.xml
+D         Res\_Arm\_Scara\Common\AppData\MechAvoidBump_177.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_A1A2.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_2.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_4.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_6.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_8.xml
+D         Res\_Arm\_Scara\Common\AppData\MechParam_152_1.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_XYZB.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_XYZAC.xml
+D         Res\_Arm\_Scara\Common\AppData\MechAvoidBump_152.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_1.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_3.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_5.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_7.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_9.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_XYZ.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_1.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_3.xml
+D         Res\_Arm\_Scara\Common\AppData\PCSubProgram.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_5.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_7.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_9.xml
+D         Res\_Arm\_Scara\Common\AppData\PCSubProgram_Edit.xml
+D         Res\_Arm\_Scara\Common\AppData\MechInit_177_1.xml
+D         Res\_Arm\_Scara\Common\AppData\PCSubProgram_Config.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_10.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_XYZABC.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_1.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_3.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_5.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_7.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_9.xml
+D         Res\_Arm\_Scara\Common\AppData\MechAvoidBump_101.xml
+D         Res\_Arm\_Scara\Common\AppData\MechParam_177_1.xml
+D         Res\_Arm\_Scara\Common\AppData\OtherThanIOTeach.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_XYZAB.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_XYZC.xml
+D         Res\_Arm\_Scara\Common\AppData\MechInit_101_1.xml
+D         Res\_Arm\_Scara\Common\AppData\InputTeach.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_2.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_10.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_4.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_6.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_Prm_8.xml
+D         Res\_Arm\_Scara\Common\AppData\PeripheralControl.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_XYZBC.xml
+D         Res\_Arm\_Scara\Common\AppData\PeripheralControl_Edit.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_2.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_4.xml
+D         Res\_Arm\_Scara\Common\AppData\CoordInfo_XZB.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_6.xml
+D         Res\_Arm\_Scara\Common\AppData\MechInit_152_1.xml
+D         Res\_Arm\_Scara\Common\AppData\Pallet_8.xml
+D         Res\_Arm\_Scara\Common\AppData\PalletMove_10.xml
+D         Res\_Arm\_Scara\Common\AppData\PeripheralControl_Config.xml
+D         Res\_Arm\_Scara\Common\AppData\MechParam_101_1.xml
+D         Res\_Arm\_Scara\Common\AppData\OutputTeach.xml
+U         Res\_Arm\_Scara\Common\AppData\TeachingPopup.xml
+U         Res\_Arm\_Scara\Common\AppData\PCSubProgConfirm.xml
+U         Res\_Arm\_Scara\Common\AppData\MCodeConfirm.xml
+U         Res\_Arm\_Scara\Common\AppData\PalletSelect.xml
+U         Res\_Arm\_Scara\Common\AppData\Cmd_SurrControlSelection.xml
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta4TypeB_ini_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\H2L2A_mechanism_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Standard Four Axis Type A_Limit_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Standard Four Axis Type B_Limit_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Standard Four Axis Type B_ini_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\PgDn_2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Mastering_101.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\SCARA_mechanism_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_ini_1_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Standard Four Axis type A_mechanism_2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\V3L0A_limit_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta3_ini_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\MechAvoidBump_Delta.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta3TypeB_ini_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Pallet_Entrance.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\H2L2A_limit_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\SCARA_ini_1_fix.JPG
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Btn_Cycle_Start.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\6axis_ini_1_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Mastering_152.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\MechAvoidBump.JPG
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\SmallArrow.JPG
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\H2L2B_Limit_Ini_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\6axis_mechanism_1_fix2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\DOWN1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\DOWN2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\SCARA_limit_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Pallet_Speed.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\H2L2B_mechanism_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Standard Four Axis Type A_ini_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\UP1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\UP2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_mechanism_1_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\SCARA+1_ini_1_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_mechanism_2_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Btn_Feed_Hold.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Robot_Home_Setting_Hint.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\SCARA+1_mechanism_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta3_mechanism_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta4_mechanism_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta3_mechanism_2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta4_mechanism_2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Jog_Up.JPG
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_Limit_1_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta3TypeB_mechanism_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Pallet_Interval.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta4_ini_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\6axis_limit_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\6axis_mechanism_2_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Jog_Down.JPG
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\SmallArrow_down.JPG
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\V3L0A_ini_1_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\V3L0A_mechanism_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Delta4TypeB_mechanism_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Mastering_177.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Standard Four Axis Type A_mechanism_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\SCARA+1_limit_fix.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Standard Four Axis Type B_mechanism_1.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\Standard Four Axis Type B_mechanism_2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\PgUp_2.jpg
+D         Res\_Arm\_Scara\Common\AppData\CUSTOMImage\H2L2A_ini_1_fix.jpg
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PeripheralControl_CHS.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\PCSubProgram_CHS.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\OutputTeach.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PeripheralControl_Edit_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PeripheralControl_2_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_IOTeach_Input_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_IOTeach_Output_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PCSubProgram_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_IOTeach_Other_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PalletParam_106_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PCSubProgram_Config_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PeripheralControl_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PCSubProgram_Edit_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PCSubProgram_2_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PeripheralControl_Config_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PalletMove_106_CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\Res_PalletTeach_106_CHS.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PeripheralControl_CHT.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PCSubProgram_CHT.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\OutputTeach.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PCSubProgram_Edit_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PeripheralControl_Edit_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PalletParam_106_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PCSubProgram_Config_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_IOTeach_Output_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PeripheralControl_Config_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_IOTeach_Input_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PalletTeach_106_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_IOTeach_Other_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PCSubProgram_2_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PCSubProgram_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PeripheralControl_2_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PeripheralControl_CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\Res_PalletMove_106_CHT.xml
+D         Res\_Arm\_Scara\Screen\CoordSet
+A         Res\_Arm\_Scara\Screen\RobotParam
+A         Res\_Arm\_Scara\Screen\RobotParam\MechAvoidBump_177.xml
+A         Res\_Arm\_Scara\Screen\RobotParam\MechInit_101_1.xml
+A         Res\_Arm\_Scara\Screen\RobotParam\MechAvoidBump_101.xml
+A         Res\_Arm\_Scara\Screen\RobotParam\MechParam_152_1.xml
+A         Res\_Arm\_Scara\Screen\RobotParam\MechInit_152_1.xml
+A         Res\_Arm\_Scara\Screen\RobotParam\MechAvoidBump_152.xml
+A         Res\_Arm\_Scara\Screen\RobotParam\MechParam_177_1.xml
+A         Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\SCARA+1_mechanism_fix.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\Mastering_152.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\H2L2B_mechanism_fix.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\MechAvoidBump.JPG
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\SCARA_mechanism_fix.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\H2L2B_Limit_Ini_1.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\Mastering_177.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\SCARA+1_limit_fix.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\Mastering_101.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\SCARA+1_ini_1_fix.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\MechAvoidBump_Delta.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\SCARA_limit_fix.jpg
+AU        Res\_Arm\_Scara\Screen\RobotParam\CUSTOMImage\SCARA_ini_1_fix.JPG
+A         Res\_Arm\_Scara\Screen\RobotParam\MechInit_177_1.xml
+A         Res\_Arm\_Scara\Screen\RobotParam\MechParam_101_1.xml
+A         Res\_Arm\_Scara\Screen\PalletMove
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_3.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_4.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_5.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_6.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_7.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_8.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_9.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_1.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_10.xml
+A         Res\_Arm\_Scara\Screen\PalletMove\Brw_PalletMove_2.xml
+A         Res\_Arm\_Scara\Screen\IOTeach
+A         Res\_Arm\_Scara\Screen\IOTeach\CUSTOMImage
+AU        Res\_Arm\_Scara\Screen\IOTeach\CUSTOMImage\LargeArrow_Down.JPG
+AU        Res\_Arm\_Scara\Screen\IOTeach\CUSTOMImage\LargeArrow.JPG
+A         Res\_Arm\_Scara\Screen\IOTeach\Brw_IOTeach_Input.xml
+A         Res\_Arm\_Scara\Screen\IOTeach\Brw_IOTeach_Output.xml
+A         Res\_Arm\_Scara\Screen\IOTeach\Brw_IOTeach_Other.xml
+A         Res\_Arm\_Scara\Screen\PalletTeach
+A         Res\_Arm\_Scara\Screen\PalletTeach\Brw_PalletTeach.xml
+A         Res\_Arm\_Scara\Screen\PalletTeach\Image
+AU        Res\_Arm\_Scara\Screen\PalletTeach\Image\Pallet_Entrance.jpg
+A         Res\_Arm\_Scara\Screen\PeripheralControl
+A         Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage
+AU        Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage\Run.jpg
+AU        Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage\Close.jpg
+AU        Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage\LargeArrow.JPG
+AU        Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage\SmallArrow_down.JPG
+AU        Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage\PgUp_1.jpg
+AU        Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage\LargeArrow_Down.JPG
+AU        Res\_Arm\_Scara\Screen\PeripheralControl\CUSTOMImage\SmallArrow.JPG
+A         Res\_Arm\_Scara\Screen\PeripheralControl\Brw_PeripheralControl.xml
+A         Res\_Arm\_Scara\Screen\PeripheralControl\Brw_PeripheralControl_Config.xml
+A         Res\_Arm\_Scara\Screen\PeripheralControl\Brw_PeripheralControl_Edit.xml
+A         Res\_Arm\_Scara\Screen\PalletParam
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_5.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_6.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_7.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_8.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_9.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_1.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_10.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_2.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_3.xml
+A         Res\_Arm\_Scara\Screen\PalletParam\CUSTOMImage
+AU        Res\_Arm\_Scara\Screen\PalletParam\CUSTOMImage\Pallet_Speed.jpg
+AU        Res\_Arm\_Scara\Screen\PalletParam\CUSTOMImage\Pallet_Interval.jpg
+A         Res\_Arm\_Scara\Screen\PalletParam\Brw_PalletParam_4.xml
+U         Res\_Arm\_Scara\Screen\MainPage\Brw_MainPage_main.xml
+A         Res\_Arm\_Scara\Screen\SubProgram
+A         Res\_Arm\_Scara\Screen\SubProgram\Brw_PCSubProgram_Config.xml
+A         Res\_Arm\_Scara\Screen\SubProgram\Brw_PCSubProgram_Edit.xml
+A         Res\_Arm\_Scara\Screen\SubProgram\Brw_PCSubProgram.xml
+A         Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage
+AU        Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage\SmallArrow_down.JPG
+AU        Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage\PgUp_1.jpg
+AU        Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage\LargeArrow_Down.JPG
+AU        Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage\SmallArrow.JPG
+AU        Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage\Run.jpg
+AU        Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage\Close.jpg
+AU        Res\_Arm\_Scara\Screen\SubProgram\CUSTOMImage\LargeArrow.JPG
+A         Res\_Arm\_Scara\Screen\UserCoordSet
+A         Res\_Arm\_Scara\Screen\UserCoordSet\Brw_CoordSet_Main.xml
+A         Res\_Arm\_Scara\Screen\UserCoordSet\Image
+AU        Res\_Arm\_Scara\Screen\UserCoordSet\Image\ThreePtTeach.jpg
+A         Res\_Arm\_Scara\Screen\UserCoordSet\Fenu5_CoordinateSetting.xml
+U         Res\_Arm\_Print\Common\AppData\Soft_Board.xml
+D         Res\_Arm\_Artic\Screen\CoordSet
+A         Res\_Arm\_Artic\Screen\PalletParam
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_5.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_6.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_7.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_8.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_9.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_1.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_10.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_2.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_3.xml
+A         Res\_Arm\_Artic\Screen\PalletParam\CUSTOMImage
+AU        Res\_Arm\_Artic\Screen\PalletParam\CUSTOMImage\Pallet_Speed.jpg
+AU        Res\_Arm\_Artic\Screen\PalletParam\CUSTOMImage\Pallet_Interval.jpg
+A         Res\_Arm\_Artic\Screen\PalletParam\Brw_PalletParam_4.xml
+A         Res\_Arm\_Artic\Screen\RobotParam
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_176.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_111_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_111_2.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_111_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_151_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_116_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_151_2.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_116_2.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_117_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_151_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_117_2.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_118_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_116_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_118_2.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_117_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_118_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_106.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_107.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_176_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_108.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_226.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_176_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_227.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_106_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_107_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_106_2.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_108_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_111.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_108_2.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_106_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_226_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_107_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechParam_227_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_108_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_226_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_151.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechInit_227_1.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_116.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_117.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\MechAvoidBump_118.xml
+A         Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_117.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_118.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\MechAvoidBump.JPG
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Heavy Four Axis Type A_ini_1_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\H2L2B_Limit_Ini_1.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_176.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\DOWN1.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type A_mechanism_1.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type B_mechanism_1.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\DOWN2.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type B_mechanism_2.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\H2L2A_ini_1_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\5axis_TypeA_mechanism_1.JPG
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\5axis_TypeA_mechanism_2.JPG
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type A_Limit_1.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\H2L2A_mechanism_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\H2L2B_mechanism_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Standard Four Axis Type B_ini_1.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\UP1.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\UP2.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mechanism_151_1.JPG
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mechanism_151_2.JPG
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_108.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_226.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\6axis_mechanism_1_fix2.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Standard Four Axis type A_mechanism_2.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\MechAvoidBump_Delta.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\6axis_mechanism_2_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_106_107.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\V3L0A_ini_1_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Heavy Four Axis Type A_mechanism_1_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_111.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Heavy Four Axis Type A_mechanism_2_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mechanism_108_1.JPG
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mechanism_108_2.JPG
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\V3L0A_mechanism_fix.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_151.jpg
+AU        Res\_Arm\_Artic\Screen\RobotParam\CUSTOMImage\Mastering_116.jpg
+A         Res\_Arm\_Artic\Screen\PalletMove
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_1.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_10.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_2.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_3.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_4.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_5.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_6.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_7.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_8.xml
+A         Res\_Arm\_Artic\Screen\PalletMove\Brw_PalletMove_9.xml
+A         Res\_Arm\_Artic\Screen\IOTeach
+A         Res\_Arm\_Artic\Screen\IOTeach\CUSTOMImage
+AU        Res\_Arm\_Artic\Screen\IOTeach\CUSTOMImage\LargeArrow.JPG
+AU        Res\_Arm\_Artic\Screen\IOTeach\CUSTOMImage\LargeArrow_Down.JPG
+A         Res\_Arm\_Artic\Screen\IOTeach\Brw_IOTeach_Input.xml
+A         Res\_Arm\_Artic\Screen\IOTeach\Brw_IOTeach_Output.xml
+A         Res\_Arm\_Artic\Screen\IOTeach\Brw_IOTeach_Other.xml
+A         Res\_Arm\_Artic\Screen\UserCoordSet
+A         Res\_Arm\_Artic\Screen\UserCoordSet\Brw_CoordSet_Main.xml
+A         Res\_Arm\_Artic\Screen\UserCoordSet\Image
+AU        Res\_Arm\_Artic\Screen\UserCoordSet\Image\ThreePtTeach.jpg
+A         Res\_Arm\_Artic\Screen\UserCoordSet\Fenu5_CoordinateSetting.xml
+U         Res\_Arm\_Artic\Screen\MainPage\Brw_MainPage_main.xml
+A         Res\_Arm\_Artic\Screen\SubProgram
+A         Res\_Arm\_Artic\Screen\SubProgram\Brw_PCSubProgram.xml
+A         Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage
+AU        Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage\SmallArrow.JPG
+AU        Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage\Run.jpg
+AU        Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage\Close.jpg
+AU        Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage\LargeArrow.JPG
+AU        Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage\SmallArrow_down.JPG
+AU        Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage\PgUp_1.jpg
+AU        Res\_Arm\_Artic\Screen\SubProgram\CUSTOMImage\LargeArrow_Down.JPG
+A         Res\_Arm\_Artic\Screen\SubProgram\Brw_PCSubProgram_Config.xml
+A         Res\_Arm\_Artic\Screen\SubProgram\Brw_PCSubProgram_Edit.xml
+A         Res\_Arm\_Artic\Screen\PalletTeach
+A         Res\_Arm\_Artic\Screen\PalletTeach\Brw_PalletTeach.xml
+A         Res\_Arm\_Artic\Screen\PalletTeach\Image
+AU        Res\_Arm\_Artic\Screen\PalletTeach\Image\Pallet_Entrance.jpg
+A         Res\_Arm\_Artic\Screen\PeripheralControl
+A         Res\_Arm\_Artic\Screen\PeripheralControl\Brw_PeripheralControl_Config.xml
+A         Res\_Arm\_Artic\Screen\PeripheralControl\Brw_PeripheralControl_Edit.xml
+A         Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage
+AU        Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage\SmallArrow.JPG
+AU        Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage\Run.jpg
+AU        Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage\Close.jpg
+AU        Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage\LargeArrow.JPG
+AU        Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage\SmallArrow_down.JPG
+AU        Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage\PgUp_1.jpg
+AU        Res\_Arm\_Artic\Screen\PeripheralControl\CUSTOMImage\LargeArrow_Down.JPG
+A         Res\_Arm\_Artic\Screen\PeripheralControl\Brw_PeripheralControl.xml
+U         Res\_Arm\_Artic\Common\CncFenu5.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\OutputTeach.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\InputTeach.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PeripheralControl_Config_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_IOTeach_Input_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PalletTeach_106_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_IOTeach_Other_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PCSubProgram_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PeripheralControl_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PalletMove_106_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PCSubProgram_Edit_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PeripheralControl_Edit_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PalletParam_106_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_PCSubProgram_Config_COM.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\Res_IOTeach_Output_COM.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_A1A2.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_2.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_4.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_6.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_8.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_116_2.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_118_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_151_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_117_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_106.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_108.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_226.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_XYZB.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_XYZAC.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_106_2.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_108_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_111.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_227_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_107_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_226_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_117.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_1.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_3.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_5.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_7.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_9.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_XYZ.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_111_2.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_151_1.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_3.xml
+D         Res\_Arm\_Artic\Common\AppData\PCSubProgram.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_117_1.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_5.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_116_1.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_7.xml
+D         Res\_Arm\_Artic\Common\AppData\PCSubProgram_Edit.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_9.xml
+D         Res\_Arm\_Artic\Common\AppData\PCSubProgram_Config.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_10.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_XYZABC.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_107_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_226_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_106_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_176.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_1.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_3.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_5.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_7.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_9.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_111_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_116_1.xml
+D         Res\_Arm\_Artic\Common\AppData\TeachingPopup.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_118_2.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_107.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_176_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_227.xml
+D         Res\_Arm\_Artic\Common\AppData\OtherThanIOTeach.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_XYZAB.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_XYZC.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_106_1.xml
+D         Res\_Arm\_Artic\Common\AppData\InputTeach.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_108_2.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_151.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_116.xml
+D         Res\_Arm\_Artic\Common\AppData\MechAvoidBump_118.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_2.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_10.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_4.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_6.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_Prm_8.xml
+D         Res\_Arm\_Artic\Common\AppData\PeripheralControl.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_111_1.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_XYZBC.xml
+D         Res\_Arm\_Artic\Common\AppData\PeripheralControl_Edit.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_2.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_151_2.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_4.xml
+D         Res\_Arm\_Artic\Common\AppData\CoordInfo_XZB.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_117_2.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_6.xml
+D         Res\_Arm\_Artic\Common\AppData\PalletMove_10.xml
+D         Res\_Arm\_Artic\Common\AppData\Pallet_8.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_118_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechParam_176_1.xml
+D         Res\_Arm\_Artic\Common\AppData\PeripheralControl_Config.xml
+D         Res\_Arm\_Artic\Common\AppData\OutputTeach.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_108_1.xml
+D         Res\_Arm\_Artic\Common\AppData\MechInit_227_1.xml
+U         Res\_Arm\_Artic\Common\AppData\PCSubProgConfirm.xml
+U         Res\_Arm\_Artic\Common\AppData\MCodeConfirm.xml
+U         Res\_Arm\_Artic\Common\AppData\PalletSelect.xml
+U         Res\_Arm\_Artic\Common\AppData\Cmd_SurrControlSelection.xml
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta4TypeB_ini_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Standard Four Axis Type A_Limit_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mechanism_151_1.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\SCARA_mechanism_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_227.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_ini_1_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Standard Four Axis type A_mechanism_2.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta3_ini_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta3TypeB_ini_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Pallet_Entrance.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Pause.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\SCARA_ini_1_fix.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_151.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_116.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_118.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\SmallArrow.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\6axis_mechanism_1_fix2.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\H2L2B_Limit_Ini_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\DOWN1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\5axis_TypeA_mechanism_1.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\UP1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\SCARA+1_mechanism_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta3_mechanism_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta4_mechanism_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta3TypeB_mechanism_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta4_ini_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\6axis_mechanism_2_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Jog_Down.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\V3L0A_ini_1_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mechanism_108_2.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Standard Four Axis Type A_mechanism_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Standard Four Axis Type B_mechanism_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\H2L2A_ini_1_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\H2L2A_mechanism_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Standard Four Axis Type B_ini_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\PgDn_2.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mechanism_151_2.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_108.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_226.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\MechParam_227.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\MechAvoidBump_Delta.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_111.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_117.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\MechAvoidBump.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\DOWN2.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\SCARA_limit_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\5axis_TypeA_mechanism_2.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Pallet_Speed.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\H2L2B_mechanism_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\UP2.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\SCARA+1_ini_1_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_mechanism_1_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Heavy Four Axis Type A_mechanism_2_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Robot_Home_Setting_Hint.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta3_mechanism_2.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta4_mechanism_2.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Jog_Up.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Pallet_Interval.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_106_107.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\SmallArrow_down.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mechanism_108_1.JPG
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\V3L0A_mechanism_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Delta4TypeB_mechanism_1.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Mastering_176.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\SCARA+1_limit_fix.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\Standard Four Axis Type B_mechanism_2.jpg
+D         Res\_Arm\_Artic\Common\AppData\CUSTOMImage\PgUp_2.jpg
+U         Res\_Arm\_Artic\Common\Plugin\Config\PluginCE.config
+U         Res\_Arm\_Artic\Common\Plugin\Config\Plugin32.config
+D         Res\_Arm\_Artic\CHS\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\OutputTeach.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_IOTeach_Input_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PalletTeach_106_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_IOTeach_Other_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PCSubProgram_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PeripheralControl_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PalletMove_106_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PCSubProgram_Edit_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PeripheralControl_Edit_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PalletParam_106_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PCSubProgram_Config_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_IOTeach_Output_CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\Res_PeripheralControl_Config_CHS.xml
+A         Res\_Arm\_Artic\CHT\String
+D         Res\_Arm\_Artic\CHT\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\Pallet_106_1.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\PalletMove_106_1.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\Pallet_Prm106_1.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\OutputTeach.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\PCSubProgram_Config.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PeripheralControl_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PCSubProgram_Edit_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PalletTeach_106_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PCSubProgram_Config_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_IOTeach_Input_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_IOTeach_Other_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PalletMove_106_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PeripheralControl_Edit_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PCSubProgram_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PeripheralControl_Config_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_PalletParam_106_CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\Res_IOTeach_Output_CHT.xml
+U         Res\_Arm\_Gantry\Common\Plugin\Config\PluginCE.config
+U         Res\_Arm\_Gantry\Common\Plugin\Config\Plugin32.config
+U         Res\_Arm\_Gantry\Common\CncFenu5.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PalletMove_1.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\Pallet_Prm_1.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PeripheralControl_COM.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PeripheralControl_Pallet.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\Pallet_1.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PCSubProgram_COM.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PeripheralControl_Config2.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PCSubProgram_Pallet.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PCSubProgram_Config2.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Gantry\Common\String_CncEngs\OutputTeach.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_IOTeach_Output_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PalletParam_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_IOTeach_Other_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PeripheralControl_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PeripheralControl_Pallet_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PeripheralControl_Edit_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PeripheralControl_Config2_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PCSubProgram_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PCSubProgram_Pallet_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PalletMove_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PCSubProgram_Edit_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PCSubProgram_Config2_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PeripheralControl_Config_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PCSubProgram_Config_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_IOTeach_Input_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PeripheralControl_2_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PCSubProgram_2_COM.xml
+A         Res\_Arm\_Gantry\Common\String_CncEngs\Res_PalletTeach_COM.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_3_XYZC.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_2_XYZBC.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_4_XZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_6_XYZBC.xml
+D         Res\_Arm\_Gantry\Common\AppData\PalletMove_2.xml
+D         Res\_Arm\_Gantry\Common\AppData\PalletMove_4.xml
+D         Res\_Arm\_Gantry\Common\AppData\PalletMove_6.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_6_XYZCY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_3_XZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_6_XZY1Y2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_4_XYZC.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_3_XZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_1_XYZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_1_XYZCY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_5_XYZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZBC_2.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZ_2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_4_XZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_1_XZY1Y2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_Prm_1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_Prm_3.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_3_XYZBC.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZY1Y2_1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_5_XYZC.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_2_XZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_Prm_5.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZY1Y2_3.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZC_2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_4_XYZCY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_5_XZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\PeripheralControl_Config2.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZY1_1.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZY1_3.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_4_XZY1Y2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_1_XZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_6_XYZC.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_2_XYZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZ_1.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZ_3.xml
+D         Res\_Arm\_Gantry\Common\AppData\PCSubProgram_Config.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_6_XYZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_6_XZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_1_XYZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_2_XYZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_3_XYZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_4_XYZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_5_XYZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_6_XYZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_4_XYZBC.xml
+D         Res\_Arm\_Gantry\Common\AppData\PalletMove_1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_2_XYZCY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\PalletMove_3.xml
+D         Res\_Arm\_Gantry\Common\AppData\PalletMove_5.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_2_XZY1Y2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_3_XYZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\OtherThanIOTeach.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZBC_1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_5_XYZCY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZBC_3.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZ_1.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZ_3.xml
+D         Res\_Arm\_Gantry\Common\AppData\InputTeach.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_5_XZY1Y2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_1_XYZC.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_1_XYZBC.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_Prm_2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_Prm_4.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZY1Y2_2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_5_XYZBC.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_Prm_6.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_6_XZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZC_1.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZC_3.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_1_XZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XZY1_2.xml
+D         Res\_Arm\_Gantry\Common\AppData\PCSubProgram_Config2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_2_XYZC.xml
+D         Res\_Arm\_Gantry\Common\AppData\PeripheralControl_Config.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_5_XZ.xml
+D         Res\_Arm\_Gantry\Common\AppData\CoordinateSystem_XYZ_2.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_4_XYZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_3_XYZCY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_2_XZY1.xml
+D         Res\_Arm\_Gantry\Common\AppData\OutputTeach.xml
+D         Res\_Arm\_Gantry\Common\AppData\Pallet_3_XZY1Y2.xml
+U         Res\_Arm\_Gantry\Common\AppData\ArriveWaitPt.xml
+U         Res\_Arm\_Gantry\Common\AppData\MonitorOutput1.xml
+U         Res\_Arm\_Gantry\Common\AppData\ArriveXLastWP.xml
+U         Res\_Arm\_Gantry\Common\AppData\PCSubProgConfirm.xml
+U         Res\_Arm\_Gantry\Common\AppData\MCodeConfirm.xml
+U         Res\_Arm\_Gantry\Common\AppData\ArriveFirstWorkPiece.xml
+U         Res\_Arm\_Gantry\Common\AppData\FileMgrInteg.xml
+U         Res\_Arm\_Gantry\Common\AppData\ArriveNormalP.xml
+U         Res\_Arm\_Gantry\Common\AppData\MonitorInput1.xml
+U         Res\_Arm\_Gantry\Common\AppData\PeripheralControl.xml
+U         Res\_Arm\_Gantry\Common\AppData\PeripheralControl_Pallet.xml
+U         Res\_Arm\_Gantry\Common\AppData\Settings.xml
+U         Res\_Arm\_Gantry\Common\AppData\PeripheralControl_Edit.xml
+U         Res\_Arm\_Gantry\Common\AppData\AutoSelConfig.xml
+U         Res\_Arm\_Gantry\Common\AppData\PCSubProgram.xml
+U         Res\_Arm\_Gantry\Common\AppData\PCSubProgram_Pallet.xml
+U         Res\_Arm\_Gantry\Common\AppData\PCSubProgram_Edit.xml
+U         Res\_Arm\_Gantry\Common\AppData\ArriveYLastWP.xml
+U         Res\_Arm\_Gantry\Common\AppData\Soft_Board.xml
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\Pallet_Speed.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\UP1.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\UP2.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\Pallet_Speed_2Axis.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\CustoCorSelectOrigin.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\CustomizedCoordinateInitialCondition.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\Pallet_Interval.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\CustoCorSelectX.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\unchecked.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\CustoCorSelectY.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\Pallet_Entrance.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\Pallet_Entrance_2Axis.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\Pallet_Entrance2.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\checked.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\DOWN1.jpg
+D         Res\_Arm\_Gantry\Common\AppData\CUSTOMImage\DOWN2.jpg
+U         Res\_Arm\_Gantry\_81R\Common\CncFenu5.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PalletMove_1.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\CoordinateSystem.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PeripheralControl_Config2.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PCSubProgram_Pallet.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PeripheralControl_CHS.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\CoordinateSystem_XYZCY1_1.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\CoordinateSystem_XYZCY1_2.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\CoordinateSystem_XYZCY1_3.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\OutputTeach.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\Pallet_Prm_1.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PeripheralControl_Pallet.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\CoordinateSystem_XYZY1_1.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\Pallet_1.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\CoordinateSystem_XYZY1_2.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\CoordinateSystem_XYZY1_3.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PCSubProgram_Config2.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Gantry\CHS\String_CncEngs\PCSubProgram_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PeripheralControl_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PalletParam_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PeripheralControl_Config2_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PCSubProgram_Edit_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PCSubProgram_2_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_IOTeach_Input_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_IOTeach_Output_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PeripheralControl_Pallet_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PCSubProgram_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PCSubProgram_Config2_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PeripheralControl_Config_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PCSubProgram_Pallet_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_IOTeach_Other_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PCSubProgram_Config_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PeripheralControl_Edit_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PalletMove_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PeripheralControl_2_CHS.xml
+A         Res\_Arm\_Gantry\CHS\String_CncEngs\Res_PalletTeach_CHS.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PalletMove_1.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\OtherThanIOTeach.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\InputTeach.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\Pallet_Prm_1.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PeripheralControl.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PeripheralControl_Pallet.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\Pallet_1.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PeripheralControl_Edit.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PeripheralControl_Config2.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PCSubProgram.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PCSubProgram_Pallet.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PCSubProgram_Edit.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PCSubProgram_Config2.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PeripheralControl_Config.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PCSubProgram_Config.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PeripheralControl_CHT.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\PCSubProgram_CHT.xml
+D         Res\_Arm\_Gantry\CHT\String_CncEngs\OutputTeach.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_IOTeach_Other_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PCSubProgram_Config_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PeripheralControl_Edit_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PalletMove_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PeripheralControl_2_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PalletTeach_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PeripheralControl_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PalletParam_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PeripheralControl_Config2_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PCSubProgram_Edit_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PCSubProgram_2_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_IOTeach_Input_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_IOTeach_Output_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PeripheralControl_Pallet_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PCSubProgram_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PCSubProgram_Config2_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PeripheralControl_Config_CHT.xml
+A         Res\_Arm\_Gantry\CHT\String_CncEngs\Res_PCSubProgram_Pallet_CHT.xml
+A         Res\_Arm\_Gantry\Screen\IOTeach
+A         Res\_Arm\_Gantry\Screen\IOTeach\Brw_IOTeach_Output.xml
+A         Res\_Arm\_Gantry\Screen\IOTeach\Brw_IOTeach_Other.xml
+A         Res\_Arm\_Gantry\Screen\IOTeach\CUSTOMImage
+AU        Res\_Arm\_Gantry\Screen\IOTeach\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Gantry\Screen\IOTeach\CUSTOMImage\PgUp_1.jpg
+A         Res\_Arm\_Gantry\Screen\IOTeach\Brw_IOTeach_Input.xml
+U         Res\_Arm\_Gantry\Screen\RobotProgram\Brw_RobotProgram_main_2Axis.XML
+U         Res\_Arm\_Gantry\Screen\RobotProgram\Brw_RobotProgram_main_3Axis.XML
+U         Res\_Arm\_Gantry\Screen\RobotProgram\Brw_RobotProgram_main_4Axis.XML
+U         Res\_Arm\_Gantry\Screen\RobotProgram\Brw_RobotProgram_main_5Axis.XML
+A         Res\_Arm\_Gantry\Screen\UserCoordSet
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZ_1.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZ_2.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZ_3.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZC_1.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZC_2.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZBC_1.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZC_3.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZBC_2.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XYZBC_3.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZ_1.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZ_2.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZ_3.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZY1_1.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZY1_2.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZY1_3.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CUSTOMImage
+AU        Res\_Arm\_Gantry\Screen\UserCoordSet\CUSTOMImage\CustoCorSelectOrigin.jpg
+AU        Res\_Arm\_Gantry\Screen\UserCoordSet\CUSTOMImage\CustoCorSelectX.jpg
+AU        Res\_Arm\_Gantry\Screen\UserCoordSet\CUSTOMImage\CustoCorSelectY.jpg
+AU        Res\_Arm\_Gantry\Screen\UserCoordSet\CUSTOMImage\CustomizedCoordinateInitialCondition.jpg
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZY1Y2_1.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZY1Y2_2.xml
+A         Res\_Arm\_Gantry\Screen\UserCoordSet\CoordinateSystem_XZY1Y2_3.xml
+A         Res\_Arm\_Gantry\Screen\SubProgram
+A         Res\_Arm\_Gantry\Screen\SubProgram\CUSTOMImage
+AU        Res\_Arm\_Gantry\Screen\SubProgram\CUSTOMImage\FirstPage.jpg
+AU        Res\_Arm\_Gantry\Screen\SubProgram\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Gantry\Screen\SubProgram\CUSTOMImage\PgUp_1.jpg
+A         Res\_Arm\_Gantry\Screen\SubProgram\Brw_PCSubProgram_Config.xml
+A         Res\_Arm\_Gantry\Screen\SubProgram\Brw_PCSubProgram_Config2.xml
+U         Res\_Arm\_Gantry\Screen\MainPage\Brw_MainPage_main_XYZBC.xml
+U         Res\_Arm\_Gantry\Screen\MainPage\Brw_MainPage_main_XZ.xml
+U         Res\_Arm\_Gantry\Screen\MainPage\Brw_MainPage_main_XYZY1.xml
+U         Res\_Arm\_Gantry\Screen\MainPage\Brw_MainPage_main_XZY1Y2.xml
+U         Res\_Arm\_Gantry\Screen\MainPage\Brw_MainPage_main_XYZCY1.xml
+U         Res\_Arm\_Gantry\Screen\MainPage\Brw_MainPage_main_XYZ.xml
+U         Res\_Arm\_Gantry\Screen\MainPage\Brw_MainPage_main_XZY1.xml
+U         Res\_Arm\_Gantry\Screen\MainPage\Brw_MainPage_main_XYZC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_2_XZY1Y2.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_4_XZY1Y2.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_1_XYZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_2_XYZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_6_XZY1Y2.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_3_XYZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_4_XYZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_2_XYZC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_5_XYZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_1_XYZBC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_6_XYZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_4_XYZC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_2_XYZBC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_3_XYZBC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_1_XZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_4_XYZBC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_6_XYZC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_3_XZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_5_XYZBC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_6_XYZBC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_5_XZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_1_XYZCY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_3_XYZCY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_5_XYZCY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_2_XZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_4_XZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_6_XZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_1_XZY1Y2.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_3_XZY1Y2.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_5_XZY1Y2.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_1_XYZC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_3_XYZC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_5_XYZC.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_2_XZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_4_XZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_1_XYZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_2_XYZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_3_XYZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_6_XZ.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_4_XYZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_2_XYZCY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_5_XYZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_6_XYZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_4_XYZCY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_1_XZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_6_XYZCY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_3_XZY1.xml
+A         Res\_Arm\_Gantry\Screen\PalletTeach\CUSTOMImage
+AU        Res\_Arm\_Gantry\Screen\PalletTeach\CUSTOMImage\Pallet_Entrance2.jpg
+A         Res\_Arm\_Gantry\Screen\PalletTeach\Brw_PalletTeach_5_XZY1.xml
+A         Res\_Arm\_Gantry\Screen\PeripheralControl
+A         Res\_Arm\_Gantry\Screen\PeripheralControl\Brw_PeripheralControl_Config.xml
+A         Res\_Arm\_Gantry\Screen\PeripheralControl\Brw_PeripheralControl_Config2.xml
+A         Res\_Arm\_Gantry\Screen\PeripheralControl\CUSTOMImage
+AU        Res\_Arm\_Gantry\Screen\PeripheralControl\CUSTOMImage\FirstPage.jpg
+AU        Res\_Arm\_Gantry\Screen\PeripheralControl\CUSTOMImage\PgDn_1.jpg
+AU        Res\_Arm\_Gantry\Screen\PeripheralControl\CUSTOMImage\PgUp_1.jpg
+A         Res\_Arm\_Gantry\Screen\PalletParam
+A         Res\_Arm\_Gantry\Screen\PalletParam\Brw_PalletParam_5.xml
+A         Res\_Arm\_Gantry\Screen\PalletParam\Brw_PalletParam_6.xml
+A         Res\_Arm\_Gantry\Screen\PalletParam\Brw_PalletParam_1.xml
+A         Res\_Arm\_Gantry\Screen\PalletParam\Brw_PalletParam_2.xml
+A         Res\_Arm\_Gantry\Screen\PalletParam\Brw_PalletParam_3.xml
+A         Res\_Arm\_Gantry\Screen\PalletParam\CUSTOMImage
+AU        Res\_Arm\_Gantry\Screen\PalletParam\CUSTOMImage\Pallet_Interval.jpg
+AU        Res\_Arm\_Gantry\Screen\PalletParam\CUSTOMImage\Close_Window.jpg
+A         Res\_Arm\_Gantry\Screen\PalletParam\Brw_PalletParam_4.xml
+A         Res\_Arm\_Gantry\Screen\PalletMove
+A         Res\_Arm\_Gantry\Screen\PalletMove\CUSTOMImage
+AU        Res\_Arm\_Gantry\Screen\PalletMove\CUSTOMImage\Close_Window.jpg
+A         Res\_Arm\_Gantry\Screen\PalletMove\Brw_PalletMove_1.xml
+A         Res\_Arm\_Gantry\Screen\PalletMove\Brw_PalletMove_2.xml
+A         Res\_Arm\_Gantry\Screen\PalletMove\Brw_PalletMove_3.xml
+A         Res\_Arm\_Gantry\Screen\PalletMove\Brw_PalletMove_4.xml
+A         Res\_Arm\_Gantry\Screen\PalletMove\Brw_PalletMove_5.xml
+A         Res\_Arm\_Gantry\Screen\PalletMove\Brw_PalletMove_6.xml
+U         Res\_Arm\_Gantry\Screen\RefPoint\Brw_RefPoint_main_2Axis.xml
+U         Res\_Arm\_Gantry\Screen\RefPoint\Brw_RefPoint_main_3Axis.xml
+U         Res\_Arm\_Gantry\Screen\RefPoint\Brw_RefPoint_main_4Axis.xml
+U         Res\_Arm\_Gantry\Screen\RefPoint\Brw_RefPoint_main_5Axis.xml
+U         MMICommon\Source\Screen\ScreenBase.cs
+U         MMICommon\Source\BackupRestore\BackupItemMgr\BackupItems\SRIParameter.cs
+D         RobotPlugin\Plugin\RobotPluginScreen\CoordSet
+D         RobotPlugin\Plugin\RobotPluginScreen\RobotAction
+D         RobotPlugin\Plugin\RobotPluginScreen\PalletFile
+A         RobotPlugin\Plugin\RobotPluginScreen\UserCoordSelection
+A         RobotPlugin\Plugin\RobotPluginScreen\UserCoordSelection\Scr_GantryUserCoordSelection.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\UserCoordSelection\UserCoordSelection.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\IOTeach
+A         RobotPlugin\Plugin\RobotPluginScreen\IOTeach\Scr_ArticIOTeach.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\IOTeach\Scr_GantryIOTeach.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\IOTeach\IOTeach.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_ArticRobotProgram.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_GantryRobotProgram.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\IOMonitor
+A         RobotPlugin\Plugin\RobotPluginScreen\IOMonitor\Scr_ArticIOMonitor.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\IOMonitor\Scr_GantryIOMonitor.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\IOMonitor\IOMonitor.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\UserCoordSet
+A         RobotPlugin\Plugin\RobotPluginScreen\UserCoordSet\Scr_ArticUserCoordSet.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\UserCoordSet\Scr_GantryUserCoordSet.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\UserCoordSet\UserCoordSet.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\EPallet.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletFile
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletFile\PalletFile.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletFile\Scr_ArticPalletFile.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletFile\Scr_GantryPalletFile.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletParam
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletParam\Scr_GantryPalletParam.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletParam\PalletParam.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletParam\Scr_ArticPalletParam.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletTeach
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletTeach\Scr_ArticPalletTeach.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletTeach\Scr_GantryPalletTeach.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletTeach\PalletTeach.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletMove
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletMove\PalletMove.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletMove\Scr_ArticPalletMove.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\Pallet\PalletMove\Scr_GantryPalletMove.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\RobotFileSys
+A         RobotPlugin\Plugin\RobotPluginScreen\RobotFileSys\Scr_ArticRobotFileSys.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\RobotFileSys\Scr_GantryRobotFileSys.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\RobotFileSys\RobotFileSys.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\Main\Scr_InjectMain.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\RefPoint\Scr_ArticRefPoint.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\SafeCorner
+A         RobotPlugin\Plugin\RobotPluginScreen\SafeCorner\SafeCorner.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\SafeCorner\Scr_GantrySafeCorner.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\MotionCmd\Scr_ArticMotionCmd.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\MotionCmd\Scr_GantryMotionCmd.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\PCControl
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\PCControl\Scr_ArticPeripheralControl.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\PCControl\Scr_GantryPeripheralControl.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\PCControl\PeripheralControl.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\PCSubProgram
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\PCSubProgram\Scr_ArticSubProgram.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\PCSubProgram\Scr_GantrySubProgram.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\PCSubProgram\SubProgram.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\PeripheralControl\EPControl.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\RobotParam
+A         RobotPlugin\Plugin\RobotPluginScreen\RobotParam\RobotParam.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\RobotParam\Scr_ArticRobotParam.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\GantryFenuCtrl
+A         RobotPlugin\Plugin\RobotPluginScreen\GantryFenuCtrl\Scr_GantryFenuCtrl.cs
+A         RobotPlugin\Plugin\RobotPluginScreen\GantryFenuCtrl\GantryFenuCtrl.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\RobotPlugin.cs
+U         RobotPlugin\Plugin\RobotMMI.csproj
+U         RobotPlugin\Plugin\RobotMachine\RobotMachine.cs
+U         RobotPlugin\Plugin\RobotMMICE.csproj
+ U        RobotPlugin
+At revision 198546
+
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Executing and processing the following script content: 
+svn log %SVN_URL% -r %SVN_REVISION%
+
+[MMI_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins784102183261888791.bat
+
+D:\Jenkins\workspace\MMI_trunk>svn log http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/trunk -r 198545 
+------------------------------------------------------------------------
+r198545 | colingsta | 2018-07-27 14:59:53 +0800 (¬P´Á¤­, 27 ¤C¤ë 2018) | 4 lines
+
+merge appkernel/ISSUE_12976_b_MB_SriParameter_Resotre r197443 to 10.118.12 by ·NÞ±
+
+­×¥¿
+   sri°Ñ¼Æ MBÁÙ­ì¥¢®Ä °ÝÃD
+------------------------------------------------------------------------
+
+D:\Jenkins\workspace\MMI_trunk>exit 0 
+[EnvInject] - Script executed successfully.
+Set build name.
+New build name is '#862  at rev198545 by ·NÞ±
+'
+[JIRA] Setting JIRA_ISSUES to ISSUE-12976.
+Copied 1 artifact from "[8mha:////4I8YZlbv0FkWSQA/qTItTzJJfCDC+eFziHyqKQM8kAh6AAAAkB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgLGHg18/KT9J39nOOLykqzcvWBwBKriUIlAAAAA==[0mCNC_trunk" build number [8mha:////4C4B7bi+WVQF1wcIePwmeuU0HVTextZsZy68mP4Jlbl6AAAAlR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKWEQ0c/KT9J39nOOLykqzcvWNzSwMNcHAK3JaN2ZAAAA[0m1087
+Copied 1 artifact from "[8mha:////4DBAJPWUYw2ASz2ou0WWzOI2WFIxSoS+DWe3pUKG7C/OAAAAkB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgLGHg18/KT9J3DPCMLykqzcvWBwBc+xL5lAAAAA==[0mAPI_trunk" build number [8mha:////4HqteTJpc6+yf1K3j8huhUrCkBIBBNcYvLNFSOdFIb35AAAAkh+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgApqhn5WfpO8Y4BlfUlSal61vaqQPACcpRV6XAAAA[0m52
+[MMI_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins6640409621284752634.bat
+rename SDKs
+D:\Jenkins\workspace\MMI_trunk\CNCSDK10.118.11.zip
+D:\Jenkins\workspace\MMI_trunk\APISDK10.118.11.zip
+set XXZIP=D:\Jenkins\workspace\MMI_trunk\Build\7z_x86.exe
+D:\Jenkins\workspace\MMI_trunk\Build
+Write Customized UnZipOCSDK.bat
+/******************/
+/* Cleaning Files */
+/******************/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+§ä¤£¨ì D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\MMICommon.dll
+§ä¤£¨ì D:\Jenkins\workspace\MMI_trunk\Bin\WinCE\CncMonCE.exe
+§ä¤£¨ì D:\Jenkins\workspace\MMI_trunk\Bin\SB.new
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 31086618 bytes (30 MiB)
+
+Extracting archive: CNCSDK.zip
+--
+Path = CNCSDK.zip
+Type = zip
+Physical Size = 31086618
+
+Everything is Ok
+
+Folders: 23
+Files: 427
+Size:       109003433
+Compressed: 31086618
+CNCSDK\release.txt
+CNCSDK\ReleaseNote.txt
+CNCSDK\version.txt
+CNCSDK\bin\w32\CANDeviceDriver.dll
+CNCSDK\bin\w32\LadDLL.dll
+CNCSDK\bin\w32\LaserCtrl.dll
+CNCSDK\bin\w32\ModbusComm.dll
+CNCSDK\bin\w32\Null.mci
+CNCSDK\bin\w32\NullIO.cio
+CNCSDK\bin\w32\OCKrnl.dll
+CNCSDK\bin\w32\OCKrnl.pdb
+CNCSDK\bin\w32\OCTest.dll
+CNCSDK\bin\w32\OpenPacking.exe
+CNCSDK\bin\w32\PhysicalDriver.dll
+CNCSDK\bin\w32\PLC_COMM.dll
+CNCSDK\bin\w32\ROT.dll
+CNCSDK\bin\w32\RTCommDriver.dll
+CNCSDK\bin\w32\SerialPLCAxis.dll
+CNCSDK\bin\w32\ServoLink.dll
+CNCSDK\bin\wce600\30GM.MCI
+CNCSDK\bin\wce600\CANDeviceDriver.dll
+CNCSDK\bin\wce600\CNC2PIO.CIO
+CNCSDK\bin\wce600\EPCIO.CIO
+CNCSDK\bin\wce600\M2.MCI
+CNCSDK\bin\wce600\ModbusComm.dll
+CNCSDK\bin\wce600\NetServo.MCI
+CNCSDK\bin\wce600\Null.MCI
+CNCSDK\bin\wce600\NullIO.cio
+CNCSDK\bin\wce600\OCKrnl.dll
+CNCSDK\bin\wce600\OCTest.dll
+CNCSDK\bin\wce600\OpenInstaller.exe
+CNCSDK\bin\wce600\PhysicalDriver.dll
+CNCSDK\bin\wce600\PIO2.CIO
+CNCSDK\bin\wce600\PLC_COMM.dll
+CNCSDK\bin\wce600\ROT.dll
+CNCSDK\bin\wce600\RTCommDriver.dll
+CNCSDK\bin\wce600\RTEX.MCI
+CNCSDK\bin\wce600\SerialPLCAxis.dll
+CNCSDK\bin\wce600\SERVO5.MCI
+CNCSDK\bin\wce600\SERVO6.MCI
+CNCSDK\bin\wce600\Servo60.MCI
+CNCSDK\bin\wce600\ServoLink.dll
+CNCSDK\bin\wce600\SriDriver.dll
+CNCSDK\bin\wce700arm\30GM.MCI
+CNCSDK\bin\wce700arm\CANDeviceDriver.dll
+CNCSDK\bin\wce700arm\CNC2PIO.CIO
+CNCSDK\bin\wce700arm\EPCIO.CIO
+CNCSDK\bin\wce700arm\LaserCtrl.dll
+CNCSDK\bin\wce700arm\M2.MCI
+CNCSDK\bin\wce700arm\M3.MCI
+CNCSDK\bin\wce700arm\ModbusComm.dll
+CNCSDK\bin\wce700arm\NetServo.MCI
+CNCSDK\bin\wce700arm\Null.MCI
+CNCSDK\bin\wce700arm\NullIO.cio
+CNCSDK\bin\wce700arm\OCKrnl.dll
+CNCSDK\bin\wce700arm\OCTest.dll
+CNCSDK\bin\wce700arm\OpenInstaller.exe
+CNCSDK\bin\wce700arm\PhysicalDriver.dll
+CNCSDK\bin\wce700arm\PIO2.CIO
+CNCSDK\bin\wce700arm\PLC_COMM.dll
+CNCSDK\bin\wce700arm\ROT.dll
+CNCSDK\bin\wce700arm\RTCommDriver.dll
+CNCSDK\bin\wce700arm\RTEX.MCI
+CNCSDK\bin\wce700arm\SerialPLCAxis.dll
+CNCSDK\bin\wce700arm\SERVO5.MCI
+CNCSDK\bin\wce700arm\SERVO6.MCI
+CNCSDK\bin\wce700arm\ServoLink.dll
+CNCSDK\bin\wce700arm\SriDriver.dll
+CNCSDK\inc\ADQueue.h
+CNCSDK\inc\AlarmDef.h
+CNCSDK\inc\AlarmFlags.h
+CNCSDK\inc\ArcFeature.h
+CNCSDK\inc\ArchMgr.h
+CNCSDK\inc\AsynQueue.h
+CNCSDK\inc\AuxInterpolator.h
+CNCSDK\inc\AxFrame.h
+CNCSDK\inc\AxisAngle4d.h
+CNCSDK\inc\AxisDimension.h
+CNCSDK\inc\BinFileLoader.h
+CNCSDK\inc\BitFilter.h
+CNCSDK\inc\BPTLimiter.h
+CNCSDK\inc\CharQueue.h
+CNCSDK\inc\cio.h
+CNCSDK\inc\CJerkHelicalInt.h
+CNCSDK\inc\CJerkLineInt.h
+CNCSDK\inc\cncapi.h
+CNCSDK\inc\CommonStruct.h
+CNCSDK\inc\Complex.h
+CNCSDK\inc\CurvatureCalculator.h
+CNCSDK\inc\CurvatureCalculatorNode.h
+CNCSDK\inc\DataLogDef.h
+CNCSDK\inc\DelayFilter.h
+CNCSDK\inc\DESObj.h
+CNCSDK\inc\DocStoreAPI.h
+CNCSDK\inc\DumpDbg.h
+CNCSDK\inc\EventAP.h
+CNCSDK\inc\EventCPBase.h
+CNCSDK\inc\EventTrigger.h
+CNCSDK\inc\EventTriggerGroup.h
+CNCSDK\inc\EventTriggerInfo.h
+CNCSDK\inc\EventTriggerManager.h
+CNCSDK\inc\FCCutCSlope.h
+CNCSDK\inc\FCCutSCurve.h
+CNCSDK\inc\FCCutSmoothSCurve.h
+CNCSDK\inc\FCCutString.h
+CNCSDK\inc\FCThreadNormal.h
+CNCSDK\inc\FeedControl.h
+CNCSDK\inc\FeedLimit.h
+CNCSDK\inc\FFT.h
+CNCSDK\inc\FileDirInfo.h
+CNCSDK\inc\FileEditor.h
+CNCSDK\inc\FileWriter.h
+CNCSDK\inc\FixPointNumber32.h
+CNCSDK\inc\FLCutCSlope.h
+CNCSDK\inc\FLCutCSlopeForSpring.h
+CNCSDK\inc\FLCutSCurve.h
+CNCSDK\inc\FLCutString.h
+CNCSDK\inc\FLRobotMoveJ.h
+CNCSDK\inc\FLRobotMoveL.h
+CNCSDK\inc\FLThreadNormal.h
+CNCSDK\inc\FPGAFuncDef.h
+CNCSDK\inc\Frame3d.h
+CNCSDK\inc\FramStore.h
+CNCSDK\inc\GradientDescent.h
+CNCSDK\inc\GuardRegistry.h
+CNCSDK\inc\HelicalPlan.h
+CNCSDK\inc\HighPerformanceTimer.h
+CNCSDK\inc\HomeSearchCore.h
+CNCSDK\inc\HugeFileEditor.h
+CNCSDK\inc\HugeFileReader.h
+CNCSDK\inc\HugeFileSharedEditor.h
+CNCSDK\inc\IAlarmFilter.h
+CNCSDK\inc\IAlarmQuerier.h
+CNCSDK\inc\IAlarmStore.h
+CNCSDK\inc\IAxParamInterface.h
+CNCSDK\inc\IComm.h
+CNCSDK\inc\IDataListener.h
+CNCSDK\inc\IDataLogInterface.h
+CNCSDK\inc\IDocEventHandler.h
+CNCSDK\inc\IDrvParamSync.h
+CNCSDK\inc\IFeedbackPosition.h
+CNCSDK\inc\IFuncCallHandler.h
+CNCSDK\inc\IGalvoChannel.h
+CNCSDK\inc\IHomeSearchInfo.h
+CNCSDK\inc\IJXmlTextReader.h
+CNCSDK\inc\IJXmlTextWriter.h
+CNCSDK\inc\ILaserChannel.h
+CNCSDK\inc\ILaserCtrl.h
+CNCSDK\inc\ILatchIBitChannel.h
+CNCSDK\inc\ILineStore.h
+CNCSDK\inc\IListener.h
+CNCSDK\inc\IMotionPlanner.h
+CNCSDK\inc\IMPGChannel.h
+CNCSDK\inc\IniReg.h
+CNCSDK\inc\IntegerQueue.h
+CNCSDK\inc\InternalCNCAPI.h
+CNCSDK\inc\Interpolator.h
+CNCSDK\inc\InterruptSignalManager.h
+CNCSDK\inc\IntervalChecker.h
+CNCSDK\inc\IObjFcnEvaluator.h
+CNCSDK\inc\IOnCncEvent.h
+CNCSDK\inc\IoPort.h
+CNCSDK\inc\IParamListener.h
+CNCSDK\inc\IPhysicalDriver.h
+CNCSDK\inc\IRobotFeedLimit.h
+CNCSDK\inc\IRobotMotionHandler.h
+CNCSDK\inc\IRotCenter.h
+CNCSDK\inc\IRotState.h
+CNCSDK\inc\IRtcDevice.h
+CNCSDK\inc\ISerialDAQChannel.h
+CNCSDK\inc\ISerialParamChannel.h
+CNCSDK\inc\ISerialParamListener.h
+CNCSDK\inc\ISerialParamTable.h
+CNCSDK\inc\ISerialPLCCenter.h
+CNCSDK\inc\ISerialPLCChannel.h
+CNCSDK\inc\ISimulator.h
+CNCSDK\inc\ISpdParamInterface.h
+CNCSDK\inc\ISpindleLink.h
+CNCSDK\inc\ISPLCState.h
+CNCSDK\inc\ISriComPort.h
+CNCSDK\inc\ISriDriver.h
+CNCSDK\inc\IStdProcessFcn.h
+CNCSDK\inc\ISvoChannel.h
+CNCSDK\inc\ISvoDevComState.h
+CNCSDK\inc\ISvoDriver.h
+CNCSDK\inc\ISvoLink.h
+CNCSDK\inc\ITrajectoryInt.h
+CNCSDK\inc\ITrajInterpolator.h
+CNCSDK\inc\ITuningChannel.h
+CNCSDK\inc\ITuningDevice.h
+CNCSDK\inc\IUpdateDriver.h
+CNCSDK\inc\IXgnDevice.h
+CNCSDK\inc\JAllocateOnlyHeap.h
+CNCSDK\inc\JCycleDocument.h
+CNCSDK\inc\JCycleSchema.h
+CNCSDK\inc\JCycleValue.h
+CNCSDK\inc\JFileInfo.h
+CNCSDK\inc\JRectLayout.h
+CNCSDK\inc\JXmlTextReader.h
+CNCSDK\inc\JXmlTextWriter.h
+CNCSDK\inc\KickNode.h
+CNCSDK\inc\KrnlAPIDef.h
+CNCSDK\inc\LadderCompiler.h
+CNCSDK\inc\LadderDef.h
+CNCSDK\inc\LadderParser.h
+CNCSDK\inc\LadderWRPool.h
+CNCSDK\inc\LAFilter.h
+CNCSDK\inc\LAMotionPlanner.h
+CNCSDK\inc\LANodePool.h
+CNCSDK\inc\LAQueue.h
+CNCSDK\inc\LaserCtrlDef.h
+CNCSDK\inc\LineMap.h
+CNCSDK\inc\LinePage.h
+CNCSDK\inc\LinkedListPool.h
+CNCSDK\inc\M3SynDeviceDataStruct.h
+CNCSDK\inc\MapFile.h
+CNCSDK\inc\Matrix2d.h
+CNCSDK\inc\Matrix3d.h
+CNCSDK\inc\Matrix4d.h
+CNCSDK\inc\MatrixN.h
+CNCSDK\inc\MixListener.h
+CNCSDK\inc\ModbusCommAPI.h
+CNCSDK\inc\ModbusCommDef.h
+CNCSDK\inc\MotionPlanDef.h
+CNCSDK\inc\MotionPlanner.h
+CNCSDK\inc\MovingAverageFilter.h
+CNCSDK\inc\MpHomeSearch.h
+CNCSDK\inc\MpHoming.h
+CNCSDK\inc\MultiCastAPI.h
+CNCSDK\inc\MultiPassMovingAverageFilter.h
+CNCSDK\inc\NcCommFileAPI.h
+CNCSDK\inc\NcDownloadDef.h
+CNCSDK\inc\NumericalRecipes.h
+CNCSDK\inc\NurbsCurve.h
+CNCSDK\inc\OneBlockInterpolator.h
+CNCSDK\inc\OpAlarmDef.h
+CNCSDK\inc\OpenCncDef.h
+CNCSDK\inc\OperationDef.h
+CNCSDK\inc\ParamCracker.h
+CNCSDK\inc\ParamManager.h
+CNCSDK\inc\ParamStore.h
+CNCSDK\inc\PasswordBitsFunc.h
+CNCSDK\inc\PathPlanDef.h
+CNCSDK\inc\pbdef.h
+CNCSDK\inc\PID.h
+CNCSDK\inc\Platform.h
+CNCSDK\inc\PlatformAPI.h
+CNCSDK\inc\PlatformDrv.h
+CNCSDK\inc\PlayModeInterpolator.h
+CNCSDK\inc\Point2d.h
+CNCSDK\inc\Point3d.h
+CNCSDK\inc\PolynomialRootSolver.h
+CNCSDK\inc\PostAccelerator_Int.h
+CNCSDK\inc\Quaternion.h
+CNCSDK\inc\QuickMatrixN.h
+CNCSDK\inc\RegisterDef.h
+CNCSDK\inc\RobotDynamicsDef.h
+CNCSDK\inc\RobotInterpolationDef.h
+CNCSDK\inc\RobotInterpolator.h
+CNCSDK\inc\RobotMotion.h
+CNCSDK\inc\RobotMotionDef.h
+CNCSDK\inc\RobotMRPPool.h
+CNCSDK\inc\RobotMRPQueue.h
+CNCSDK\inc\RobotWaitSignalManager.h
+CNCSDK\inc\RotDef.h
+CNCSDK\inc\RTCAPI.h
+CNCSDK\inc\SafeMemory.h
+CNCSDK\inc\SCurveTrajectory.h
+CNCSDK\inc\SerialParamDef.h
+CNCSDK\inc\SerialPLCAxisDef.h
+CNCSDK\inc\ServoAlarmDef.h
+CNCSDK\inc\ServoTuningDef.h
+CNCSDK\inc\SmallFileEditor.h
+CNCSDK\inc\StringConverter.h
+CNCSDK\inc\SvoUtilityDef.h
+CNCSDK\inc\SyncTracking.h
+CNCSDK\inc\TimeBase.h
+CNCSDK\inc\Trajectory.h
+CNCSDK\inc\TrajectoryChopping.h
+CNCSDK\inc\TrajectoryDef.h
+CNCSDK\inc\TrajectoryNormal.h
+CNCSDK\inc\TrajectorySyncTracking.h
+CNCSDK\inc\TrajectoryTapping.h
+CNCSDK\inc\TrajectoryThread.h
+CNCSDK\inc\Tuple2d.h
+CNCSDK\inc\Tuple3d.h
+CNCSDK\inc\TZPlex.h
+CNCSDK\inc\UseTimeProtect.h
+CNCSDK\inc\ValidityProtect.h
+CNCSDK\inc\Vector2d.h
+CNCSDK\inc\Vector3d.h
+CNCSDK\inc\VelAccMeter.h
+CNCSDK\inc\VelocityControl.h
+CNCSDK\inc\WindowsRegistry.h
+CNCSDK\inc\XSignal.h
+CNCSDK\inc\ZCRC32.h
+CNCSDK\inc\ZeroSpeedCheck.h
+CNCSDK\inc\ZipArch.h
+CNCSDK\inc\ZMath.h
+CNCSDK\inc\ZRtl.h
+CNCSDK\inc\_DataLog.h
+CNCSDK\inc\_Event.h
+CNCSDK\inc\_IPhysicalDriver.h
+CNCSDK\inc\_MotUtility.h
+CNCSDK\inc\_UNCC.h
+CNCSDK\inc\w32\CommAPI.h
+CNCSDK\inc\w32\nstdlib.h
+CNCSDK\inc\w32\RTMutex.h
+CNCSDK\inc\w32\ThreadAPI.h
+CNCSDK\inc\w32\gmock\gmock-actions.h
+CNCSDK\inc\w32\gmock\gmock-cardinalities.h
+CNCSDK\inc\w32\gmock\gmock-generated-actions.h
+CNCSDK\inc\w32\gmock\gmock-generated-actions.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-function-mockers.h
+CNCSDK\inc\w32\gmock\gmock-generated-function-mockers.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-matchers.h
+CNCSDK\inc\w32\gmock\gmock-generated-matchers.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-nice-strict.h
+CNCSDK\inc\w32\gmock\gmock-generated-nice-strict.h.pump
+CNCSDK\inc\w32\gmock\gmock-matchers.h
+CNCSDK\inc\w32\gmock\gmock-more-actions.h
+CNCSDK\inc\w32\gmock\gmock-more-matchers.h
+CNCSDK\inc\w32\gmock\gmock-spec-builders.h
+CNCSDK\inc\w32\gmock\gmock.h
+CNCSDK\inc\w32\gmock\internal\gmock-generated-internal-utils.h
+CNCSDK\inc\w32\gmock\internal\gmock-generated-internal-utils.h.pump
+CNCSDK\inc\w32\gmock\internal\gmock-internal-utils.h
+CNCSDK\inc\w32\gmock\internal\gmock-port.h
+CNCSDK\inc\w32\gtest\gtest-death-test.h
+CNCSDK\inc\w32\gtest\gtest-message.h
+CNCSDK\inc\w32\gtest\gtest-param-test.h
+CNCSDK\inc\w32\gtest\gtest-param-test.h.pump
+CNCSDK\inc\w32\gtest\gtest-printers.h
+CNCSDK\inc\w32\gtest\gtest-spi.h
+CNCSDK\inc\w32\gtest\gtest-test-part.h
+CNCSDK\inc\w32\gtest\gtest-typed-test.h
+CNCSDK\inc\w32\gtest\gtest.h
+CNCSDK\inc\w32\gtest\gtest_pred_impl.h
+CNCSDK\inc\w32\gtest\gtest_prod.h
+CNCSDK\inc\w32\gtest\internal\gtest-death-test-internal.h
+CNCSDK\inc\w32\gtest\internal\gtest-filepath.h
+CNCSDK\inc\w32\gtest\internal\gtest-internal.h
+CNCSDK\inc\w32\gtest\internal\gtest-linked_ptr.h
+CNCSDK\inc\w32\gtest\internal\gtest-param-util-generated.h
+CNCSDK\inc\w32\gtest\internal\gtest-param-util-generated.h.pump
+CNCSDK\inc\w32\gtest\internal\gtest-param-util.h
+CNCSDK\inc\w32\gtest\internal\gtest-port.h
+CNCSDK\inc\w32\gtest\internal\gtest-string.h
+CNCSDK\inc\w32\gtest\internal\gtest-tuple.h
+CNCSDK\inc\w32\gtest\internal\gtest-tuple.h.pump
+CNCSDK\inc\w32\gtest\internal\gtest-type-util.h
+CNCSDK\inc\w32\gtest\internal\gtest-type-util.h.pump
+CNCSDK\inc\w64\nstdlib.h
+CNCSDK\inc\w64\RTMutex.h
+CNCSDK\inc\w64\ThreadAPI.h
+CNCSDK\lib\w32\ModbusComm.exp
+CNCSDK\lib\w32\ModbusComm.lib
+CNCSDK\lib\w32\OCKrnl.exp
+CNCSDK\lib\w32\OCKrnl.lib
+CNCSDK\lib\w32\Debug\Event.lib
+CNCSDK\lib\w32\Debug\EventAP.lib
+CNCSDK\lib\w32\Debug\FFTransform.lib
+CNCSDK\lib\w32\Debug\gmock.lib
+CNCSDK\lib\w32\Debug\gmock.pdb
+CNCSDK\lib\w32\Debug\gmock_main.lib
+CNCSDK\lib\w32\Debug\InternalCNCAPI.lib
+CNCSDK\lib\w32\Debug\KePLC.lib
+CNCSDK\lib\w32\Debug\main.pdb
+CNCSDK\lib\w32\Debug\MotUtility.lib
+CNCSDK\lib\w32\Debug\SecurityUtil.lib
+CNCSDK\lib\w32\Debug\Utility.lib
+CNCSDK\lib\w32\Debug\WinPAL.lib
+CNCSDK\lib\w32\Release\DataLog.lib
+CNCSDK\lib\w32\Release\Event.lib
+CNCSDK\lib\w32\Release\EventAP.lib
+CNCSDK\lib\w32\Release\FFTransform.lib
+CNCSDK\lib\w32\Release\gmock.lib
+CNCSDK\lib\w32\Release\gmock.pdb
+CNCSDK\lib\w32\Release\gmock_main.lib
+CNCSDK\lib\w32\Release\InternalCNCAPI.lib
+CNCSDK\lib\w32\Release\KePLC.lib
+CNCSDK\lib\w32\Release\main.pdb
+CNCSDK\lib\w32\Release\MotUtility.lib
+CNCSDK\lib\w32\Release\ProductInfo.lib
+CNCSDK\lib\w32\Release\SecurityUtil.lib
+CNCSDK\lib\w32\Release\Utility.lib
+CNCSDK\lib\w32\Release\WinPAL.lib
+CNCSDK\lib\w64\Debug\Event.lib
+CNCSDK\lib\w64\Debug\EventAP.lib
+CNCSDK\lib\w64\Debug\KePLC.lib
+CNCSDK\lib\w64\Debug\Utility.lib
+CNCSDK\lib\w64\Debug\WinPAL.lib
+CNCSDK\lib\w64\Release\Event.lib
+CNCSDK\lib\w64\Release\EventAP.lib
+CNCSDK\lib\w64\Release\KePLC.lib
+CNCSDK\lib\w64\Release\Utility.lib
+CNCSDK\lib\w64\Release\WinPAL.lib
+CNCSDK\lib\wce600\DataLog.lib
+CNCSDK\lib\wce600\Event.lib
+CNCSDK\lib\wce600\EventAP.lib
+CNCSDK\lib\wce600\FFTransform.lib
+CNCSDK\lib\wce600\InternalCNCAPI.lib
+CNCSDK\lib\wce600\KePLC.lib
+CNCSDK\lib\wce600\ModbusComm.lib
+CNCSDK\lib\wce600\MotUtility.lib
+CNCSDK\lib\wce600\OCKrnl.lib
+CNCSDK\lib\wce600\PlatformAPI.lib
+CNCSDK\lib\wce600\PLC_COMM.lib
+CNCSDK\lib\wce600\ProductInfo.lib
+CNCSDK\lib\wce600\SecurityUtil.lib
+CNCSDK\lib\wce600\Utility.lib
+CNCSDK\lib\wce600\WinPAL.lib
+CNCSDK\lib\wce700arm\DataLog.lib
+CNCSDK\lib\wce700arm\Event.lib
+CNCSDK\lib\wce700arm\EventAP.lib
+CNCSDK\lib\wce700arm\FFTransform.lib
+CNCSDK\lib\wce700arm\InternalCNCAPI.lib
+CNCSDK\lib\wce700arm\KePLC.lib
+CNCSDK\lib\wce700arm\ModbusComm.lib
+CNCSDK\lib\wce700arm\MotUtility.lib
+CNCSDK\lib\wce700arm\OCKrnl.lib
+CNCSDK\lib\wce700arm\PlatformAPI.lib
+CNCSDK\lib\wce700arm\PLC_COMM.lib
+CNCSDK\lib\wce700arm\ProductInfo.lib
+CNCSDK\lib\wce700arm\SecurityUtil.lib
+CNCSDK\lib\wce700arm\Utility.lib
+CNCSDK\lib\wce700arm\WinPAL.lib
+½Æ»s 427 ­ÓÀÉ®×
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 2560903 bytes (2501 KiB)
+
+Extracting archive: APISDK.zip
+--
+Path = APISDK.zip
+Type = zip
+Physical Size = 2560903
+
+Everything is Ok
+
+Folders: 26
+Files: 29
+Size:       9673054
+Compressed: 2560903
+APISDK\version.txt
+APISDK\bin\w32\OCAPI.dll
+APISDK\bin\w32\OCKrnlDrv.dll
+APISDK\bin\w64\OCAPI.dll
+APISDK\bin\wce600\OCKrnlDrv.dll
+APISDK\bin\wce600\Dipole\OCAPI.dll
+APISDK\bin\wce700arm\OCKrnlDrv.dll
+APISDK\bin\wce700arm\Dipole\OCAPI.dll
+APISDK\inc\BridgeAPI.h
+APISDK\inc\krnlapi.h
+APISDK\inc\OCAPI.h
+APISDK\lib\w32\OCAPI.lib
+APISDK\lib\w32\SocketUtility.lib
+APISDK\lib\w32\Debug\BridgeAPI.lib
+APISDK\lib\w32\Debug\KrnlAPI.lib
+APISDK\lib\w32\Release\BridgeAPI.lib
+APISDK\lib\w32\Release\KrnlAPI.lib
+APISDK\lib\w64\OCAPI.lib
+APISDK\lib\w64\SocketUtility.lib
+APISDK\lib\w64\Debug\BridgeAPI.lib
+APISDK\lib\w64\Debug\KrnlAPI.lib
+APISDK\lib\w64\Release\BridgeAPI.lib
+APISDK\lib\w64\Release\KrnlAPI.lib
+APISDK\lib\wce600\BridgeAPI.lib
+APISDK\lib\wce600\KrnlAPI.lib
+APISDK\lib\wce600\OCAPI.lib
+APISDK\lib\wce700arm\BridgeAPI.lib
+APISDK\lib\wce700arm\KrnlAPI.lib
+APISDK\lib\wce700arm\OCAPI.lib
+½Æ»s 29 ­ÓÀÉ®×
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s 13 ­ÓÀÉ®×
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+packing keypad patch for Window CE 6.00 ...
+Windows CE CAB Wizard
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s 16 ­ÓÀÉ®×
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+packing keypad patch for Window CE 7.00 ARM ...
+Windows CE CAB Wizard
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/******************************************/
+/* Compile CEMMIAPI for Win32 */
+/******************************************/
+/******************************************/
+/* Compile CEMMIAPI for WinCE6 */
+/******************************************/
+/******************************************/
+/* Compile CEMMIAPI for WinCE7 */
+/******************************************/
+/******************************************/
+/* Compile MMI Application for WinCE 6.00 */
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile MMI Application for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Copy RemoteCNC file for Win64 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/******************************************/
+/* Compile MMI Application for WinCE 6.00 */
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile MMI Application for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/******************************************/
+/* Compile MMI Application for WinCE 6.00 */
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile MMI Application for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile AutoTest Module for WinCE */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile AutoTest Module for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/**********************************************/
+/******* Re-Create Directorys And Files *******/
+/**********************************************/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/******************************************/
+/******* Compile RobotDLL for WinCE *******/
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/******************************************/
+/******* Compile RobotDLL for Win32 *******/
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile PlugIn Module for WinCE */
+/*************************************/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/***** Build FileClean*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile File Clean Plugin for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile File Clean for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build 60DB*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile BuiltInDrillCAMCE Plugin for Win32 */
+/*************************************/
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+¤l¥Ø¿ý©ÎÀÉ®× ..\..\..\..\Res\_Arm\_Drill\Common\Plugin\DLL ¤w¸g¦s¦b¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile BuiltInDrillCAMCE for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build LaserScanningCADCAM*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile BuiltInLaserAction32 Plugin for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile BuiltInLaserActionCE for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build LaserCutting*****/
+/***********************************************/
+/* Compile LaserCutting Plugin for Win32 */
+/***********************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile LaserCutting Plugin for WinCE */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build PrintLabelWorker*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile Labeling Plugin for Win32 */
+/*************************************/
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+¤l¥Ø¿ý©ÎÀÉ®× ..\..\..\Res\_Arm\_Print\Common\Plugin\DLL ¤w¸g¦s¦b¡C
+¤l¥Ø¿ý©ÎÀÉ®× ..\..\..\Res\_Arm\_Print\Common\Plugin\DLL\32 ¤w¸g¦s¦b¡C
+¤l¥Ø¿ý©ÎÀÉ®× ..\..\..\Res\_Arm\_Print\Common\Plugin\DLL\CE ¤w¸g¦s¦b¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile LabelingCE for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build Wood Software*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile Wood SoftWare Plugin for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile Wood SoftWare for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Check D:\Jenkins\workspace\MMI_trunk\error...
+No Error Found...
+2018/07/27 ¬P´Á¤­ 15:14:52
+Compile Succeeded!
+
+D:\Jenkins\workspace\MMI_trunk\Build>if /compileE == /compileE goto lend 
+
+D:\Jenkins\workspace\MMI_trunk\Build>if not exist D:\Jenkins\workspace\MMI_trunk\Build\..\Error (md D:\Jenkins\workspace\MMI_trunk\Build\..\Error ) 
+
+D:\Jenkins\workspace\MMI_trunk\Build>move /y D:\Jenkins\workspace\MMI_trunk\Build\Build.log D:\Jenkins\workspace\MMI_trunk\Build\..\Error\Build.log 
+
+D:\Jenkins\workspace\MMI_trunk\Build>rem reset variables 
+
+D:\Jenkins\workspace\MMI_trunk\Build>set XXcpu= 
+
+D:\Jenkins\workspace\MMI_trunk\Build>set XXmachine= 
+
+D:\Jenkins\workspace\MMI_trunk\Build>set XXmodel= 
+
+D:\Jenkins\workspace\MMI_trunk\Build>set XXBuildLog= 
+
+D:\Jenkins\workspace\MMI_trunk\Build>echo on 
+
+D:\Jenkins\workspace\MMI_trunk\Build>echo on 
+
+D:\Jenkins\workspace\MMI_trunk\Build>POPD
+
+D:\Jenkins\workspace\MMI_trunk>for /F %i in ("D:\Jenkins\workspace\MMI_trunk\error\check.log") do (
+echo %~zi  
+ if %~zi GTR 0 (
+echo Bulid Failed Due to http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/trunk at 198545  
+ exit 1  
+ POPD
+) 
+) 
+
+D:\Jenkins\workspace\MMI_trunk>(
+echo 0  
+ if 0 GTR 0 (
+echo Bulid Failed Due to http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/trunk at 198545  
+ exit 1  
+ POPD
+) 
+) 
+0
+
+D:\Jenkins\workspace\MMI_trunk>POPD
+
+D:\Jenkins\workspace\MMI_trunk>exit 0 
+[description-setter] Description set: <a href="http://jira.syntecclub.com.tw:8080/browse/ISSUE-12976">http://jira.syntecclub.com.tw:8080/browse/ISSUE-12976</a>
+Set build name.
+New build name is '#862 ISSUE-12976 at rev198545 by ·NÞ±
+'
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#862  at rev198545 by ·NÞ±
+', new value: '#862 ISSUE-12976 at rev198545 by ·NÞ±
+'
+Post-Build Update: Updated Dashboard DB
+«Ê¦s¦¨«~
+°O¿ý«ü¯¾
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  1 minute 3 second
+Finished: SUCCESS
