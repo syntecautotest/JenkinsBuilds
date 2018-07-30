@@ -1,0 +1,203 @@
+------ Rebuild All started: Project: Swingw, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+XSmCursor.cpp
+XPathSimuBase.cpp
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\win32graphicspeer.cpp(597) : warning C4244: 'initializing' : conversion from 'float' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\win32graphicspeer.cpp(598) : warning C4244: 'initializing' : conversion from 'float' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\win32graphicspeer.cpp(655) : warning C4244: 'argument' : conversion from 'float' to 'OLE_YSIZE_HIMETRIC', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\win32graphicspeer.cpp(655) : warning C4244: 'argument' : conversion from 'float' to 'OLE_XSIZE_HIMETRIC', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\win32graphicspeer.cpp(667) : warning C4244: 'initializing' : conversion from 'double' to 'BYTE', possible loss of data
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\textmanager.cpp(397) : warning C4018: '>' : signed/unsigned mismatch
+TDisplay.cpp
+TComponentFactory.cpp
+TComponent.cpp
+SimuStorage.cpp
+SimuServiceProxy.cpp
+Rectangle.cpp
+OCImage.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ocimage.cpp(185) : warning C4076: 'unsigned' : can not be used with type 'double'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ocimage.cpp(185) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ocimage.cpp(210) : warning C4076: 'unsigned' : can not be used with type 'double'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ocimage.cpp(210) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ocimage.cpp(240) : warning C4076: 'unsigned' : can not be used with type 'double'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ocimage.cpp(240) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\loadladder.cpp(645) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\loadladder.cpp(645) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\loadladder.cpp(680) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+Line3d.cpp
+JXmlStringTable.cpp
+JXMLPreConfig.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jxmlpreconfig.cpp(240) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jxmlpreconfig.cpp(246) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jxmlpreconfig.cpp(252) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+JXMLPreCompiler.cpp
+JWin32ProcThunk.cpp
+JTemplateFactory.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jtemplatefactory.cpp(24) : warning C4101: 'lpszValue' : unreferenced local variable
+JTemplateComponent.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jtemplatecomponent.cpp(2) : warning C4067: unexpected tokens following preprocessor directive - expected a newline
+JTable.cpp
+JStringConnectRule.cpp
+JSelectButton.cpp
+JPreCompilerRule.cpp
+JPicture.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jpicture.cpp(171) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jpicture.cpp(171) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JPanel.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jpanel.cpp(47) : warning C4996: 'wcsicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _wcsicmp. See online help for details.
+        c:\program files\microsoft visual studio 8\vc\include\string.h(354) : see declaration of 'wcsicmp'
+JPageRegistry.cpp
+JPagePool.cpp
+JPageDeviceTable.cpp
+JPage.cpp
+JOCText.cpp
+JOCSimu.cpp
+Generating Code...
+Compiling...
+JNativeWindow.cpp
+JMeter.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1594) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1795) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1795) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1796) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1796) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1839) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1872) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1884) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1898) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1911) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(1917) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(2004) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(2035) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(2049) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmeter.cpp(2057) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+JMarquee.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmarquee.cpp(67) : warning C4018: '>=' : signed/unsigned mismatch
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jmarquee.cpp(192) : warning C4018: '>' : signed/unsigned mismatch
+JListInputEditor.cpp
+JListInput.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jlistinput.cpp(505) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JLink.cpp
+JLamp.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jlamp.cpp(180) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jlamp.cpp(180) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JLabel.cpp
+JInputline.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputline.cpp(71) : warning C4018: '<' : signed/unsigned mismatch
+JInputEditor.cpp
+JInputBase.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(299) : warning C4018: '<' : signed/unsigned mismatch
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(346) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(349) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(352) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(356) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(360) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(564) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(571) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(576) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(580) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(550) : warning C4101: 'lpszActiveRange' : unreferenced local variable
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(551) : warning C4101: 'hr' : unreferenced local variable
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(595) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(649) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinputbase.cpp(696) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+JInput.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinput.cpp(96) : warning C4018: '<' : signed/unsigned mismatch
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinput.cpp(342) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JIncludePage.cpp
+JGroup.cpp
+JGrid.cpp
+JFileList.cpp
+JFenuContextManager.cpp
+JFenuContext.cpp
+JFenu.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jfenu.cpp(45) : warning C4018: '<' : signed/unsigned mismatch
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jfenu.cpp(487) : warning C4018: '<' : signed/unsigned mismatch
+JDynamicPicture.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jdynamicpicture.cpp(148) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jdynamicpicture.cpp(148) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Generating Code...
+Compiling...
+JDisplay.cpp
+JDeviceControl.cpp
+JCycleTable.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jcycletable.cpp(848) : warning C4101: 'nCandidateTopLine' : unreferenced local variable
+JCycleEditor.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jcycleeditor.cpp(1731) : warning C4244: 'initializing' : conversion from 'LONGLONG' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jcycleeditor.cpp(1717) : warning C4101: 'ptLineHeaderSize' : unreferenced local variable
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jcycleeditor.cpp(1718) : warning C4101: 'backupRECT' : unreferenced local variable
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jcycleeditor.cpp(1716) : warning C4101: 'lpszValueBuf' : unreferenced local variable
+JCustomControl.cpp
+JCoordBox.cpp
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+JComponent.cpp
+JButton.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(702) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(702) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(728) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(992) : warning C4101: 'BtnOrgEdgeColor' : unreferenced local variable
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1146) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1147) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1155) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1156) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1167) : warning C4018: '>=' : signed/unsigned mismatch
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1175) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1176) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1206) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1207) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1215) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1216) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1227) : warning C4018: '>=' : signed/unsigned mismatch
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1235) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jbutton.cpp(1236) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\formatconverter.cpp(162) : warning C4018: '<' : signed/unsigned mismatch
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\formatconverter.cpp(168) : warning C4018: '<' : signed/unsigned mismatch
+DoAction.cpp
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ctinput.cpp(69) : warning C4101: 'lpValue' : unreferenced local variable
+CTDisplay.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ctdisplay.cpp(62) : warning C4101: 'lpValue' : unreferenced local variable
+Generating Code...
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ctdisplay.cpp(37) : warning C4715: 'CTDisplay::set_Property' : not all control paths return a value
+Compiling...
+CncDevice.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\cncdevice.cpp(1159) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\cncdevice.cpp(1183) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\cncdevice.cpp(1201) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\cncdevice.cpp(1123) : warning C4101: 'chVal' : unreferenced local variable
+AxCube.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\Debug\BuildLog.htm"
+Swingw - 0 error(s), 97 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

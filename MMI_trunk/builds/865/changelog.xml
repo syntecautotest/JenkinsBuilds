@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198741"><author>colingsta</author><date>2018-07-30T09:28:24.263089Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Scr_TxtEditor.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_TxtEditor.cs</path></paths><msg>merge appkernel/ISSUE_11886_b_FocusErr r197065 to 10.118.12, by 玲巧
+
+修正 
+    插入循環頁面切到Reset狀態會卡住問題</msg></logentry></log>

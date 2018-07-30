@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198736"><author>colingsta</author><date>2018-07-30T09:19:37.450164Z</date><paths><path action="M" localPath="OCUser\Source\Swingw\JButton.cpp" kind="file">/appkernel/trunk/OCUser/Source/Swingw/JButton.cpp</path><path action="M" localPath="OCUser\Source\Swingw\JButton.h" kind="file">/appkernel/trunk/OCUser/Source/Swingw/JButton.h</path></paths><msg>merge appkernel/ISSUE_12121_b_DeviceInvalid r195915-r197995 to 10.118.12, by 禮芳
+
+修正
+  『ButtonUp/ButtonDown中Actions後面的設定失效』的問題</msg></logentry></log>

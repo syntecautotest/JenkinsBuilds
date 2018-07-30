@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198745"><author>colingsta</author><date>2018-07-30T09:33:29.898826Z</date><paths><path action="M" localPath="MMICommon\Source\OBControl\OBFileListData.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/OBControl/OBFileListData.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/OBControl/OBFileListData.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Init/Init.cs</path><path action="M" localPath="MMICommon\Source\Init\Init.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Init/Init.cs</path></paths><msg>merge appkernel/ISSUE_13058_b_EncrypedFileBug_54x r198589 to 10.116.54S,
+merge appkernel/ISSUE_13058_b_EncrypedFileBug r198582-r198583 to 10.118.12, by 鎮宇
+
+修正
+    有加密檔案造成檔案列表全空的問題</msg></logentry></log>

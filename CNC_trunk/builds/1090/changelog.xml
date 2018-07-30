@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198693"><author>mark.chen</author><date>2018-07-30T07:13:05.119629Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\DumpDbg.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/DumpDbg.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\M2Driver.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/M2Driver.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\SvoDef.h" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/SvoDef.h</path><path action="M" localPath="OCDevice\Source\MciM3\M3Driver.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3Driver.cpp</path></paths><msg>merge: CNCKL_2344_f_M2M3InitErrorCode, 198342-198496 to 10.118.12
+by 孟學
+
+feature
+
+1. 將M2/M3 串列通訊初始化的error code 填到診斷變數53 
+2. 移除初始化失敗跳出的console 視窗</msg></logentry></log>

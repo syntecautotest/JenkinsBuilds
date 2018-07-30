@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198685"><author>colingsta</author><date>2018-07-30T07:01:26.129201Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Scr_CustomXml.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_CustomXml.cs</path><path action="M" localPath="MMICommon\Source\Machine\Machine.cs" kind="file">/appkernel/trunk/MMICommon/Source/Machine/Machine.cs</path></paths><msg>merge appkernel/ROBOT_3_f_RobotMMIRebuild_Phase2_ver2 r198601~r198631 to 10.118.12 by 存澤
+
+修正:
+   移除機器人在Scr_Customxml開得不必要介面</msg></logentry></log>
