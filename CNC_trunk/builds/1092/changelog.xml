@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198790"><author>1200</author><date>2018-07-31T00:58:15.629406Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\cncapi.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/cncapi.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\cncapi.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/cncapi.h</path><path action="M" localPath="OCKrnl\Source\PathPlan\ICoordinate.h" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/ICoordinate.h</path></paths><msg>merge: ROBOT_130_b_RobotTCP4PtTeachingNotWorking_118_11, 198646, to 10.118.12
+by 俊昇
+
+修正六關節機器人(Pr3201=106, 107, 108)工具座標系四點教導按下計算沒有作用的錯誤。</msg></logentry></log>

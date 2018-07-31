@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="198963"><author>mark.chen</author><date>2018-07-31T07:49:34.946677Z</date><paths><path action="M" localPath="OCDevice\Source\RTCommDriver\EtherCAT.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/EtherCAT.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path><path action="M" localPath="." kind="dir">/cnckernel/trunk</path><path action="M" localPath="OCDevice\Source" kind="dir">/cnckernel/trunk/OCDevice/Source</path><path action="M" localPath="OCDevice" kind="dir">/cnckernel/trunk/OCDevice</path></paths><msg>merge: CNCKL_2473_f_EtherCAT_header_CodingStyle_v2, 198946-198955 to 10.118.12
+by 侑庭
+
+feature
+
+整理 EtherCAT.h 變數命名與coding style</msg></logentry></log>
