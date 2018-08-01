@@ -1,0 +1,326 @@
+------ Rebuild All started: Project: Swingw, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+XSmCursor.cpp
+XPathSimuBase.cpp
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+.\WIN32GraphicsPeer.cpp(597) : warning C4244: 'initializing' : conversion from 'float' to 'LONG', possible loss of data
+.\WIN32GraphicsPeer.cpp(598) : warning C4244: 'initializing' : conversion from 'float' to 'LONG', possible loss of data
+.\WIN32GraphicsPeer.cpp(655) : warning C4244: 'argument' : conversion from 'float' to 'OLE_YSIZE_HIMETRIC', possible loss of data
+.\WIN32GraphicsPeer.cpp(655) : warning C4244: 'argument' : conversion from 'float' to 'OLE_XSIZE_HIMETRIC', possible loss of data
+.\WIN32GraphicsPeer.cpp(667) : warning C4244: 'initializing' : conversion from 'double' to 'BYTE', possible loss of data
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+.\TextManager.cpp(222) : warning C4267: 'return' : conversion from 'size_t' to 'LONG', possible loss of data
+.\TextManager.cpp(244) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TextManager.cpp(283) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TextManager.cpp(377) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TextManager.cpp(397) : warning C4018: '>' : signed/unsigned mismatch
+TDisplay.cpp
+TComponentFactory.cpp
+.\TComponentFactory.cpp(24) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+TComponent.cpp
+.\TComponent.cpp(43) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+SimuStorage.cpp
+SimuServiceProxy.cpp
+Rectangle.cpp
+OCImage.cpp
+.\OCImage.cpp(185) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(185) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+.\OCImage.cpp(210) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(210) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+.\OCImage.cpp(240) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(240) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+.\LoadLadder.cpp(51) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(79) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(105) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(393) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(434) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(467) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(615) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(645) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+.\LoadLadder.cpp(645) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+.\LoadLadder.cpp(665) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(675) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(680) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+.\LoadLadder.cpp(811) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(851) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(1068) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(1614) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Line3d.cpp
+JXmlStringTable.cpp
+.\JXmlStringTable.cpp(91) : warning C4267: 'argument' : conversion from 'size_t' to 'DWORD', possible loss of data
+.\JXmlStringTable.cpp(92) : warning C4267: 'argument' : conversion from 'size_t' to 'DWORD', possible loss of data
+JXMLPreConfig.cpp
+.\JXMLPreConfig.cpp(159) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JXMLPreConfig.cpp(240) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JXMLPreConfig.cpp(246) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JXMLPreConfig.cpp(252) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+JXMLPreCompiler.cpp
+.\JXMLPreCompiler.cpp(29) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+JWin32ProcThunk.cpp
+JTemplateFactory.cpp
+.\JTemplateFactory.cpp(24) : warning C4101: 'lpszValue' : unreferenced local variable
+JTemplateComponent.cpp
+.\JTemplateComponent.cpp(2) : warning C4067: unexpected tokens following preprocessor directive - expected a newline
+JTable.cpp
+.\JTable.cpp(81) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JTable.cpp(110) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JTable.cpp(232) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JTable.cpp(276) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+JStringConnectRule.cpp
+JSelectButton.cpp
+JPreCompilerRule.cpp
+JPicture.cpp
+.\JPicture.cpp(171) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JPicture.cpp(171) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JPanel.cpp
+.\JPanel.cpp(47) : warning C4996: 'wcsicmp': The POSIX name for this item is deprecated. Instead, use the ISO C++ conformant name: _wcsicmp. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(354) : see declaration of 'wcsicmp'
+.\JPanel.cpp(140) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+.\JPanel.cpp(143) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+.\JPanel.cpp(146) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+JPageRegistry.cpp
+JPagePool.cpp
+JPageDeviceTable.cpp
+.\JPageDeviceTable.cpp(31) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'LONG', possible loss of data
+JPage.cpp
+.\JPage.cpp(320) : warning C4244: 'initializing' : conversion from '__int64' to 'UINT', possible loss of data
+.\JPage.cpp(378) : warning C4244: 'initializing' : conversion from '__int64' to 'UINT', possible loss of data
+.\JPage.cpp(417) : warning C4244: 'initializing' : conversion from '__int64' to 'UINT', possible loss of data
+.\JPage.cpp(2194) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+JOCText.cpp
+JOCSimu.cpp
+Generating Code...
+Compiling...
+JNativeWindow.cpp
+.\JNativeWindow.cpp(49) : warning C4244: '=' : conversion from 'LONG_PTR' to 'LONG', possible loss of data
+JMeter.cpp
+.\JMeter.cpp(1594) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1795) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1795) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1796) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1796) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1839) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(1872) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(1879) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1884) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1893) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1898) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1906) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1911) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1917) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(1925) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1938) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1951) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(2004) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(2035) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(2044) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(2049) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(2057) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(2066) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+JMarquee.cpp
+.\JMarquee.cpp(67) : warning C4018: '>=' : signed/unsigned mismatch
+.\JMarquee.cpp(192) : warning C4018: '>' : signed/unsigned mismatch
+JListInputEditor.cpp
+.\JListInputEditor.cpp(221) : warning C4244: 'return' : conversion from 'LRESULT' to 'LONG', possible loss of data
+.\JListInputEditor.cpp(476) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JListInputEditor.cpp(496) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+JListInput.cpp
+.\JListInput.cpp(505) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JLink.cpp
+JLamp.cpp
+.\JLamp.cpp(180) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JLamp.cpp(180) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JLabel.cpp
+JInputline.cpp
+.\JInputline.cpp(85) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+JInputEditor.cpp
+.\JInputEditor.cpp(84) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'UINT', possible loss of data
+JInputBase.cpp
+.\JInputBase.cpp(298) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JInputBase.cpp(299) : warning C4018: '<' : signed/unsigned mismatch
+.\JInputBase.cpp(346) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(349) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(352) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(356) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(360) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(564) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(571) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(576) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(580) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(550) : warning C4101: 'lpszActiveRange' : unreferenced local variable
+.\JInputBase.cpp(551) : warning C4101: 'hr' : unreferenced local variable
+.\JInputBase.cpp(595) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(649) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(696) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+JInput.cpp
+.\JInput.cpp(342) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JIncludePage.cpp
+JGroup.cpp
+.\JGroup.cpp(444) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(455) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(461) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(491) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(498) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(539) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(550) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(557) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+JGrid.cpp
+JFileList.cpp
+.\JFileList.cpp(55) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+JFenuContextManager.cpp
+.\JFenuContextManager.cpp(13) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContextManager.cpp(40) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContextManager.cpp(91) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+JFenuContext.cpp
+.\JFenuContext.cpp(251) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(266) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(280) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(294) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(303) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(332) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(358) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(891) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(916) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(934) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(946) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+JFenu.cpp
+.\JFenu.cpp(45) : warning C4018: '<' : signed/unsigned mismatch
+.\JFenu.cpp(114) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(156) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(165) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(176) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(187) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(225) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(298) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(310) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(487) : warning C4018: '<' : signed/unsigned mismatch
+.\JFenu.cpp(559) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JFenu.cpp(572) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(603) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JFenu.cpp(618) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(627) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(643) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(652) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+JDynamicPicture.cpp
+.\JDynamicPicture.cpp(148) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JDynamicPicture.cpp(148) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Generating Code...
+Compiling...
+JDisplay.cpp
+JDeviceControl.cpp
+JCycleTable.cpp
+.\JCycleTable.cpp(848) : warning C4101: 'nCandidateTopLine' : unreferenced local variable
+.\JCycleTable.cpp(1199) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\JCycleTable.cpp(1216) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+JCycleEditor.cpp
+.\JCycleEditor.cpp(1114) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleEditor.cpp(1613) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\JCycleEditor.cpp(1630) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleEditor.cpp(1731) : warning C4244: 'initializing' : conversion from 'LONGLONG' to 'LONG', possible loss of data
+.\JCycleEditor.cpp(1779) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleEditor.cpp(1717) : warning C4101: 'ptLineHeaderSize' : unreferenced local variable
+.\JCycleEditor.cpp(1718) : warning C4101: 'backupRECT' : unreferenced local variable
+.\JCycleEditor.cpp(1716) : warning C4101: 'lpszValueBuf' : unreferenced local variable
+.\JCycleEditor.cpp(1979) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+JCustomControl.cpp
+JCoordBox.cpp
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+.\JControl.cpp(319) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\JControl.cpp(322) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\JControl.cpp(890) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+JComponent.cpp
+JButton.cpp
+.\JButton.cpp(468) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\JButton.cpp(489) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\JButton.cpp(513) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\JButton.cpp(541) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\JButton.cpp(702) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JButton.cpp(702) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JButton.cpp(728) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JButton.cpp(992) : warning C4101: 'BtnOrgEdgeColor' : unreferenced local variable
+.\JButton.cpp(1146) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1147) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1155) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1156) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1167) : warning C4018: '>=' : signed/unsigned mismatch
+.\JButton.cpp(1175) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1176) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1206) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1207) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1215) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1216) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1227) : warning C4018: '>=' : signed/unsigned mismatch
+.\JButton.cpp(1235) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1236) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1287) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JButton.cpp(1307) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+.\FormatConverter.cpp(11) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(78) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(226) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(249) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(312) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+DoAction.cpp
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+.\CTInput.cpp(69) : warning C4101: 'lpValue' : unreferenced local variable
+CTDisplay.cpp
+.\CTDisplay.cpp(62) : warning C4101: 'lpValue' : unreferenced local variable
+Generating Code...
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\ctdisplay.cpp(37) : warning C4715: 'CTDisplay::set_Property' : not all control paths return a value
+Compiling...
+CncDevice.cpp
+.\CncDevice.cpp(158) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(180) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(202) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(224) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(246) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(398) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(426) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(454) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(482) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(510) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(664) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(685) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(706) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(727) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(748) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(791) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(1137) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(1156) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1180) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1198) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1119) : warning C4101: 'chVal' : unreferenced local variable
+.\CncDevice.cpp(1500) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+AxCube.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\x64\Debug\BuildLog.htm"
+Swingw - 0 error(s), 220 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

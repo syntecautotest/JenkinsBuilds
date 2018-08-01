@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199243"><author>swdjojo</author><date>2018-08-01T09:52:08.027069Z</date><paths><path action="M" localPath="Bin\SyntecEagleEye\WinCE_ARM\SEE_Station.exe" kind="file">/appkernel/trunk/Bin/SyntecEagleEye/WinCE_ARM/SEE_Station.exe</path></paths><msg>merge appkernel/MMI_3537_f_AddSEEStation102, 199213 to 10.118.11
+by 維軒
+
+note:
+  * 更新SEE_Station v1.0.2版.
+</msg></logentry></log>

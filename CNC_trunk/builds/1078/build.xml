@@ -104,6 +104,10 @@
     <hudson.tasks.Fingerprinter_-FingerprintAction>
       <record>
         <entry>
+          <string>CNCSDK10.118.11.zip</string>
+          <string>005d1ab87b64bec7f358960c1d46c6c4</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.11\CECNC\EXE\CncKernel_CE6_10.118.11.zip</string>
           <string>8eed71c0af148b0736045ef30003b712</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCTEST-802</id>
+          <title>根據控制器檔案架構規範，新增自動測試腳本指令從MachineData取得檔案</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>285</queueId>
   <timestamp>1532500202233</timestamp>

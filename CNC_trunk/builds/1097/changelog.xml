@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199135"><author>jwlee</author><date>2018-08-01T04:20:07.182080Z</date><paths><path action="M" localPath="res\_Arm\_GANTRY\_81R\Res\ParamDef.xml" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/_81R/Res/ParamDef.xml</path></paths><msg>fix XML format error from Revision 199100</msg></logentry></log>

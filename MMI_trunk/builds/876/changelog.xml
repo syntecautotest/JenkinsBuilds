@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199195"><author>colingsta</author><date>2018-08-01T07:40:09.000760Z</date><paths><path action="M" localPath="MMICommon\Source\OBControl\OBFileListDataBase.cs" kind="file">/appkernel/trunk/MMICommon/Source/OBControl/OBFileListDataBase.cs</path></paths><msg>merge appkernel/MMI_3631_b_fixISSUE12133 r196222 to 10.118.12 by 禮芳
+
+修正
+    『木工機檔案列表在Dipole下，前台顯示會少二個檔案』的問題</msg></logentry></log>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199204"><author>simon</author><date>2018-08-01T08:08:14.677321Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\InverterSpindle.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/InverterSpindle.cpp</path></paths><msg>merge: HSHP_2413_f_RotaryInvSpdAutoTuning, 199098, to 10.118.12
+by 書豪
+
+add:
+	新增串列旋轉主軸支援新代驅動器自動調機</msg></logentry><logentry revision="199205"><author>simon</author><date>2018-08-01T08:12:19.550951Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\SyncOutManager.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/SyncOutManager.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\SyncOutManager.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/SyncOutManager.cpp</path></paths><msg>merge: HSHP_2356_f_3DArcMRP_10, 197623-199025, to 10.118.12
+by 彥融
+
+add:
+	新增將G10L1800(Macro I/O功能)在G2.4/G3.4下支援跨單節 I/O 觸發功能。 
+	1. 使用者下G10L1800的位置在G02.4/G03.4之前。 
+	2. 新增P引數在G2.4/G3.4 中，P引數可以跨到下下個單節(第二段圓弧)，而K引數無法提前/延後超過P引數所在圓弧。</msg></logentry></log>

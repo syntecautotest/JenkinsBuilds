@@ -104,6 +104,10 @@
     <hudson.tasks.Fingerprinter_-FingerprintAction>
       <record>
         <entry>
+          <string>CNCSDK10.118.11.zip</string>
+          <string>2616f3521a4bbcc9ec4c7ca93b0856fe</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.11\CECNC\EXE\CncKernel_CE6_10.118.11.zip</string>
           <string>6af25ca9341545b8b604e85591605ac0</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2473</id>
+          <title>EtherCAT.h 統一ESC相關資訊的排版與命名</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>427</queueId>
   <timestamp>1533023448690</timestamp>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199103"><author>colingsta</author><date>2018-08-01T03:06:47.022752Z</date><paths><path action="M" localPath="OCAPI\Source\KrnlAPI\KrnlAPI.cpp" kind="file">/apikernel/trunk/OCAPI/Source/KrnlAPI/KrnlAPI.cpp</path><path action="M" localPath="OCAPI\Source\OCAPI\OCAPI.cpp" kind="file">/apikernel/trunk/OCAPI/Source/OCAPI/OCAPI.cpp</path><path action="M" localPath="OCAPI\Source\KrnlAPI\krnlapi.h" kind="file">/apikernel/trunk/OCAPI/Source/KrnlAPI/krnlapi.h</path></paths><msg>merge apikernel/MMI_3634_f_RemoveGroupAxisParam r197436 to 10.118.12 by 存澤
+merge appkernel/MMI_3634_f_RemoveAxisGroupParam_3rd r199099 to 10.118.12 by 存澤
+
+移除
+    1. 軸群參數相關入口點、畫面 &amp; API 
+    2. 軸群參數相關備份還原、匯入匯出機制 
+
+[畫面異動] 
+    1. 移除軸群參數入口點( 參數設定 -&gt; F10下一頁的軸群參數 ) 
+    2. 匯出畫面說明移除軸群參數檔案說明 
+    3. 使用者參數頁面可再次顯示4001-5000號參數 
+    4. 調整五軸自由度平台軸群參數相關設定畫面(200MA-5 x86機型 only) 
+</msg></logentry></log>

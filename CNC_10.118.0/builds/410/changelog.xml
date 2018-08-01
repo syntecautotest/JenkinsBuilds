@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199100"><author>mark.chen</author><date>2018-08-01T03:04:00.991660Z</date><paths><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0103</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0104</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0105</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0106</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0107</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0108</path><path action="M" localPath="res\_Arm\_GANTRY\_81R\Res\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.118.0/res/_Arm/_GANTRY/_81R/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0109</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0110</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/_81R/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0101</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0102</path></paths><msg>merge: CNCKL_2501_f_Adjust81RGParam_118.x, 198560 to 10.118.12
+merge: CNCKL_2501_f_Adjust81RGParam_118.0, 198561 to 10.118.0L
+by 哲維
+
+feature
+
+修改81RG的參數及巨集內容</msg></logentry></log>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199052"><author>simon</author><date>2018-08-01T02:03:40.521701Z</date><paths><path action="M" localPath="OCKrnl\Source\MotUtility\TimeBase.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotUtility/TimeBase.cpp</path></paths><msg>merge: ISSUE_12725_b_G92JumpG83Rst_8, 192000, to 10.116.54S
+by 彥融
+
+from 10.115.44, HSHP-62
+
+fix:
+	修正因斷點回歸功能搭配車牙時無法暫停(feedhold)或重置(Reset)的錯誤。</msg></logentry></log>

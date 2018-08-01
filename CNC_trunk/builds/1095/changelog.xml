@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199065"><author>mark.chen</author><date>2018-08-01T02:16:42.816275Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/Build/SetProjectEnv.bat</path><path action="M" localPath="Build\SetProjectEnv.bat" kind="file">/cnckernel/trunk/Build/SetProjectEnv.bat</path></paths><msg>merge: CNCKL_2504_f_updateFC1.5.0, 198960 to 10.118.0L, 10.118.12
+by 青杉
+
+feature
+
+更新FC模組韌體版本至1.5.0 
+1. FC_ADDA 使用於QC治具通訊錯誤 
+2. 修正SLSR模組PWM切換造成通訊逾時 
+3. 支援FC手輪模組 
+4. 支援FC Resolver更新FPGA功能 
+5. 支援SPI燒錄Flash功能</msg></logentry></log>

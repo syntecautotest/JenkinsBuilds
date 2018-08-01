@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199017"><author>mstsai0113</author><date>2018-08-01T00:41:32.613446Z</date><paths><path action="M" localPath="OCDevice\Source\MciM3\M3SvoChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3SvoChannel.cpp</path></paths><msg>merge: CNCKL_2495_f_DisableServoOffPullUp, 198819 to 10.118.12
+by 孟學
+
+feature
+關閉斷電台刀功能</msg></logentry></log>

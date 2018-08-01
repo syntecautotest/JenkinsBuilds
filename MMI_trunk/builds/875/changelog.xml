@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199192"><author>colingsta</author><date>2018-08-01T07:36:10.133141Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\ScrTool\Scr_ToolLathe.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrTool/Scr_ToolLathe.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScrTool\Scr_MultiToolMill.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrTool/Scr_MultiToolMill.cs</path></paths><msg>merge appkernel/ISSUE_13227_f_ToolTableCycleStartLimit r198915-r199168 to 10.118.12 by 存澤
+
+修正
+    讓刀表在加工中的情況下，刀長(軸)磨耗和刀徑(尖)磨耗都為可修改的</msg></logentry></log>

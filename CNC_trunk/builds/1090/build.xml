@@ -104,6 +104,10 @@
     <hudson.tasks.Fingerprinter_-FingerprintAction>
       <record>
         <entry>
+          <string>CNCSDK10.118.11.zip</string>
+          <string>bbe556d55924d525cfc1ffa1803d7109</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.11\CECNC\EXE\CncKernel_CE6_10.118.11.zip</string>
           <string>f6b16a2cddd227635bee6d4fca40c933</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2344</id>
+          <title>將M2/M3 串列通訊初始化的error code 填到診斷變數</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>397</queueId>
   <timestamp>1532934829279</timestamp>
