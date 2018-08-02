@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199284"><author>colingsta</author><date>2018-08-02T01:32:31.411896Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\ScrTool\Scr_MultiToolMill.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrTool/Scr_MultiToolMill.cs</path></paths><msg>merge appkernel/ISSUE_12307_b_ToolSettingScrNotAutofit_2nd r199283 to 10.118.12 by 盟仁
+
+fix: build error</msg></logentry></log>

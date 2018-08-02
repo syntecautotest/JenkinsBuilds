@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199397"><author>simon</author><date>2018-08-02T07:42:26.621203Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\DataLogTest\MockDataCatch.h" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/DataLogTest/MockDataCatch.h</path></paths><msg>merge(2nd): HSHP_2405_f_AbsoluteSpdVelCmdAndFbk, 199391, to 10.118.12
+by 書豪
+
+fix:
+    修正GTest建置錯誤的問題</msg></logentry></log>

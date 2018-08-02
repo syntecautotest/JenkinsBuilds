@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199260"><author>mark.chen</author><date>2018-08-02T00:52:40.317696Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/Build/pack_res.bat</path><path action="M" kind="file">/cnckernel/trunk/Build/pack_res.bat</path><path action="M" localPath="Build\pack_res.bat" kind="file">/cnckernel/branches/release_v10.118.0/Build/pack_res.bat</path></paths><msg>merge: CNCKL_2494_f_Modify_pack_res_118x, 199161 to 10.118.12
+merge: CNCKL_2494_f_Modify_pack_res_1180x, 199169 to 10.118.0L
+merge: CNCKL_2494_f_Modify_pack_res_11654x, 199170 to 10.116.54S
+by 振宇
+
+feature
+
+優化 pack_res.bat，自動尋找核心所有產品資料夾</msg></logentry></log>

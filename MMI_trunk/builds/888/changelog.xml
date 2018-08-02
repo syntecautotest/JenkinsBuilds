@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199440"><author>colingsta</author><date>2018-08-02T08:59:09.549687Z</date><paths><path action="M" localPath="Syntec.OpenCNC\Cnc.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/Cnc.cs</path><path action="M" localPath="Syntec.OpenCNC\OcApi.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/OcApi.cs</path><path action="M" localPath="Syntec.OpenCNC\KrnlAPI.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/KrnlAPI.cs</path><path action="M" localPath="Syntec.OpenCNC\ParamEnum.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/ParamEnum.cs</path></paths><msg>merge appkernel/MMI_3575_f_VelGlitchCompensation_2nd r199379-r199435 to 10.118.12 by 景媖
+
+新增
+    分析平台設定尖角補償參數的API</msg></logentry></log>

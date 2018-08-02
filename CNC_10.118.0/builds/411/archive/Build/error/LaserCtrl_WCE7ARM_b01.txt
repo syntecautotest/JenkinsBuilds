@@ -1,0 +1,58 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+ArrayTypeBuffer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TransformManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StageMoveCompensator.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+NulLaserChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ManualJog.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LaserPLCPanel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LaserFileReader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LaserCtrlParamSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LaserCtrl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LaserCmdInterpolator.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LaserAxis.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+GalvoAxisParamSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+GalvoAxis.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DistortionTransform.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DCTLoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DCTCreater.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+StdAfx.obj : warning LNK4221: no public symbols found; archive member will be inaccessible
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.0\LaserCtrl\Source\LaserCtrl\WCE700ARM_Release\BuildLog.htm"
+LaserCtrl - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+LaserCtrlDll.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library d:\Jenkins\workspace\CNC_10.118.0\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\LaserCtrlDll.lib and object d:\Jenkins\workspace\CNC_10.118.0\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\LaserCtrlDll.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.0\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\BuildLog.htm"
+LaserCtrlDll - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+

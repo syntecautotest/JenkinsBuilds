@@ -1,0 +1,735 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b [8mha:////4GinKoDjBILR34f58zb3GJsqCED5kpBr0Z6xvYgtPpyqAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/eDkjNSU0pzUeCdfAOFI0UXKAAAA[0mSchedule_BM ¤W»·ºİ«Ø¸m (BM) ¤u§@°Ï D:\OpenCNC\BM_Local\workspace\CNC_trunk
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\OpenCNC\BM_Local\workspace\CNC_trunk\.
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\OCTest\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\OCTest\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\OCTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\Utility\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\Utility\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\Utility\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\Operation\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\Operation\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest\Source\Operation\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\DllPhysicalDriver\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\DllPhysicalDriver\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\DllPhysicalDriver\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CANDeviceDriver\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CANDeviceDriver\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CANDeviceDriver\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciServo60\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciNull\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciNull\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciNull\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SerialParam\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SerialParam\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SerialParam\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\RTCommDriver\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\RTCommDriver\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\RTCommDriver\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CNC2ASIC\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CNC2ASIC\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioEpcio\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioEpcio\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciM3\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciM2\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciM2\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioPio2\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioPio2\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SvoUtility\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SvoUtility\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SvoUtility\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\BuildAll\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\BuildAll\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioCNC2PIO\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioCNC2PIO\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciNetServo\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciNetServo\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\IODriver\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\IODriver\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\IODriver\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciServo5\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciServo5\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\DeviceAlarm\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\DeviceAlarm\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciRTEX\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciRTEX\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SriDriver\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SriDriver\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\PhysicalDriver\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\PhysicalDriver\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\PhysicalDriver\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\Mci30GM\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\Mci30GM\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoDriver\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoDriver\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoDriver\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciEpcio\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\MciEpcio\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoLink\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoLink\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoLink\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoTuning\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoTuning\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoTuning\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CANObjectDictionary\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CANObjectDictionary\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CANObjectDictionary\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioNull\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioNull\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioNull\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\TPDSDK
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\SerialPLCAxis\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\SerialPLCAxis\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\SerialPLCAxis\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\Rot\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\Rot\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\Rot\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\diskc
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build\error
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\GMock\LaserCtrlTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\LadDLL\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\FFTransform\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\FFTransform\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\FFTransform\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\FFTransform\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PLCNet\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PLCNet\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PLCNet\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\EventAP\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\EventAP\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\EventAP\x64
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\EventAP\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\EventAP\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Operation\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Operation\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Operation\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Comm\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Comm\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Comm\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\WinPAL\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\WinPAL\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\WinPAL\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\WinPAL\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\WinPAL\x64
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\DebugLib\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Utility\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Utility\x64
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Utility\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Utility\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Utility\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\NcLoader\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\NcLoader\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\NcLoader\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\KePLC\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\KePLC\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\KePLC\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\KePLC\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\KePLC\x64
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\XSignal\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\XSignal\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\XSignal\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ProductInfo\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ProductInfo\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ProductInfo\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PathPlan\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PathPlan\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PathPlan\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\DataLog\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\DataLog\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\DataLog\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\LAPACK\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\LAPACK\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\LAPACK\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\TPDAPI\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\TPDAPI\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\TPDAPI\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PLCDevice\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PLCDevice\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\PLCDevice\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Interpolation\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Interpolation\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Interpolation\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MotUtility\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MotUtility\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MotUtility\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MotUtility\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ToolTable\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ToolTable\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ToolTable\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\x64
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Event\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Event\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Event\x64
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Event\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Event\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\OCKrnl\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\OCKrnl\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\OCKrnl\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\MotUtilityTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\DataLogTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\ProductInfoTest\ProductOutput.txt
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\ProductInfoTest\CurrentData.txt
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\ProductInfoTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\InterpolationTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\OperationTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\KinematicTransformTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\UtilityTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\PathPlanTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\MotionPlanTest\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCProtocol\Source\release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\WCE600Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\WCE700ARM_Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\GMock\Source\Debug
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\GMock\Source\Release
+Deleting D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCSDK
+Updating http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk at revision '2018-08-02T10:49:26.562 +0800'
+U         res\_Arm\_Lathe\_220B\Res\ParamDef.xml
+U         res\_Arm\_Lathe\_220B-5\Res\ParamDef.xml
+U         res\_Arm\_Lathe\_22A\Res\ParamDef.xml
+U         res\_Arm\_Lathe\_22B\Res\ParamDef.xml
+U         res\_Arm\_Mill\_220A\Res\ParamDef.xml
+U         res\_Arm\_Mill\_220B\Res\ParamDef.xml
+U         res\_Arm\_Mill\_220A-5\Res\ParamDef.xml
+U         res\_Arm\_Mill\_220B-5\Res\ParamDef.xml
+U         res\_Arm\_Mill\_22A\Res\ParamDef.xml
+At revision 199308
+
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Executing and processing the following script content: 
+svn log %SVN_URL% -r %SVN_REVISION%
+
+[CNC_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins6035506338968417107.bat
+
+D:\OpenCNC\BM_Local\workspace\CNC_trunk>svn log http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk -r 199296 
+------------------------------------------------------------------------
+r199296 | mark.chen | 2018-08-02 10:11:48 +0800 (¬P´Á¥|, 02 ¤K¤ë 2018) | 6 lines
+
+merge: CNCKL_2507_f_ModifyPr3205String, 199137 to 10.118.12
+by ­õºû
+
+feature
+
+­×§ïPr3205ªº¦r¦ê»¡©ú(2:18­ÓÁä¡A§ï¬°2:10­ÓÁä)
+------------------------------------------------------------------------
+
+D:\OpenCNC\BM_Local\workspace\CNC_trunk>exit 0 
+[EnvInject] - Script executed successfully.
+Set build name.
+New build name is '#1104  at rev199296 by ­õºû
+'
+[JIRA] Setting JIRA_ISSUES to CNCKL-2507.
+[CNC_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins2011409483706658170.bat
+D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 77136 bytes (76 KiB)
+
+Extracting archive: \\file\DeveloperZone\PlatformSDK\PlatformSDK1.39.0.zip
+--
+Path = \\file\DeveloperZone\PlatformSDK\PlatformSDK1.39.0.zip
+Type = zip
+Physical Size = 77136
+
+Everything is Ok
+
+Folders: 5
+Files: 5
+Size:       284962
+Compressed: 77136
+PlatformSDK\ReleaseNote.txt
+PlatformSDK\inc\PlatformAPI.h
+PlatformSDK\inc\PlatformDrv.h
+PlatformSDK\lib\wce600\PlatformAPI.lib
+PlatformSDK\lib\wce700arm\PlatformAPI.lib
+½Æ»s 5 ­ÓÀÉ®×
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 677219 bytes (662 KiB)
+
+Extracting archive: \\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+WARNING:
+\\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+Can not open the file as [zip] archive
+The file is open as [Rar] archive
+
+--
+Path = \\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+Open WARNING: Can not open the file as [zip] archive
+Type = Rar
+Physical Size = 677219
+Solid = -
+Blocks = 16
+Multivolume = -
+Volumes = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Folders: 8
+Files: 8
+Size:       10783099
+Compressed: 677219
+SecuritySDK\release.txt
+SecuritySDK\inc\PasswordBitsFunc.h
+SecuritySDK\inc\UseTimeProtect.h
+SecuritySDK\inc\ValidityProtect.h
+SecuritySDK\lib\w32\Debug\SecurityUtil.lib
+SecuritySDK\lib\w32\release\SecurityUtil.lib
+SecuritySDK\lib\wce600\SecurityUtil.lib
+SecuritySDK\lib\wce700arm\SecurityUtil.lib
+½Æ»s 8 ­ÓÀÉ®×
+make header directory
+¤l¥Ø¿ı©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build\..\OCSDK ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build\..\OCSDK\inc ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build\..\OCSDK\inc\w32 ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build\..\OCSDK\inc\w64 ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build\..\TPDSDK ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build\..\TPDSDK\inc ¤w¸g¦s¦b¡C
+copy D:\OpenCNC\BM_Local\workspace\CNC_trunk\GMock header to OCSDK
+inc\gmock\gmock-actions.h
+inc\gmock\gmock-cardinalities.h
+inc\gmock\gmock-generated-actions.h
+inc\gmock\gmock-generated-actions.h.pump
+inc\gmock\gmock-generated-function-mockers.h
+inc\gmock\gmock-generated-function-mockers.h.pump
+inc\gmock\gmock-generated-matchers.h
+inc\gmock\gmock-generated-matchers.h.pump
+inc\gmock\gmock-generated-nice-strict.h
+inc\gmock\gmock-generated-nice-strict.h.pump
+inc\gmock\gmock-matchers.h
+inc\gmock\gmock-more-actions.h
+inc\gmock\gmock-more-matchers.h
+inc\gmock\gmock-spec-builders.h
+inc\gmock\gmock.h
+inc\gmock\internal\gmock-generated-internal-utils.h
+inc\gmock\internal\gmock-generated-internal-utils.h.pump
+inc\gmock\internal\gmock-internal-utils.h
+inc\gmock\internal\gmock-port.h
+inc\gtest\gtest-death-test.h
+inc\gtest\gtest-message.h
+inc\gtest\gtest-param-test.h
+inc\gtest\gtest-param-test.h.pump
+inc\gtest\gtest-printers.h
+inc\gtest\gtest-spi.h
+inc\gtest\gtest-test-part.h
+inc\gtest\gtest-typed-test.h
+inc\gtest\gtest.h
+inc\gtest\gtest_pred_impl.h
+inc\gtest\gtest_prod.h
+inc\gtest\internal\gtest-death-test-internal.h
+inc\gtest\internal\gtest-filepath.h
+inc\gtest\internal\gtest-internal.h
+inc\gtest\internal\gtest-linked_ptr.h
+inc\gtest\internal\gtest-param-util-generated.h
+inc\gtest\internal\gtest-param-util-generated.h.pump
+inc\gtest\internal\gtest-param-util.h
+inc\gtest\internal\gtest-port.h
+inc\gtest\internal\gtest-string.h
+inc\gtest\internal\gtest-tuple.h
+inc\gtest\internal\gtest-tuple.h.pump
+inc\gtest\internal\gtest-type-util.h
+inc\gtest\internal\gtest-type-util.h.pump
+½Æ»s 43 ­ÓÀÉ®×
+copy D:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCProtocol header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCTest header to OCSDK
+copy D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/makew32 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library FIles
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library FIles
+/makew32 binary files ...
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Run GTEST
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+/makew64 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop Win64 Library Files
+/makew64 binary files ...
+/makewce600 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop windows CE 600 Library Files
+Microsoft (R) Library Manager Version 8.00.50727.762
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+   Creating library ModbusComm\WCE600Release\ModbusComm.lib and object ModbusComm\WCE600Release\ModbusComm.exp
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Compile and Copy Desktop windows CE 600 Library Files
+Microsoft (R) Library Manager Version 8.00.50727.762
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+   Creating library OCKrnl\WCE600Release\OCKrnl.lib and object OCKrnl\WCE600Release\OCKrnl.exp
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Compile and Copy Desktop windows CE 600 Library FIles
+Compile and Copy Desktop windows CE 600 Library Files
+Compile and Copy Desktop windows CE 600 Library Files
+Compile and Copy Desktop windows CE 600 Library FIles
+/makewce600 binary files ...
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+/makewce700arm library files ...
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+Compile and Copy Desktop windows CE 700 ARM Library Files
+Microsoft (R) Library Manager Version 9.00.30729.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+   Creating library ModbusComm\WCE700ARM_Release\ModbusComm.lib and object ModbusComm\WCE700ARM_Release\ModbusComm.exp
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Compile and Copy Desktop windows CE 700 ARM Library Files
+Microsoft (R) Library Manager Version 9.00.30729.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+   Creating library OCKrnl\WCE700ARM_Release\OCKrnl.lib and object OCKrnl\WCE700ARM_Release\OCKrnl.exp
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Compile and Copy Desktop windows CE 700 ARM Library FIles
+Compile and Copy Desktop windows CE 700 ARM Library Files
+Compile and Copy Desktop windows CE 700 ARM Library Files
+Compile and Copy Desktop windows CE 700 ARM Library FIles
+/makewce700arm binary files ...
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Check D:\OpenCNC\BM_Local\workspace\CNC_trunk\Build\error...
+2018/08/02 ¬P´Á¥| 11:40:55
+Compile Failed!
+327
+Bulid Failed Due to http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk at 199296
+Build step '°õ¦æ Windows §å¦¸«ü¥O' marked build as failure
+Set build name.
+New build name is '#1104 CNCKL-2507 at rev199296 by ­õºû
+'
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#1104  at rev199296 by ­õºû
+', new value: '#1104 CNCKL-2507 at rev199296 by ­õºû
+'
+Post-Build Update: Updated Dashboard DB
+«Ê¦s¦¨«~
+°O¿ı«ü¯¾
+Sending e-mails to: WeiJen@syntecclub.com.tw marskao@syntecclub.com.tw albert1002@syntecclub.com.tw hebe.am96g@g2.nctu.edu.tw yoana.shih@syntecclub.com.tw chengwei.lin@syntecclub.com.tw evolution6423@yahoo.com.tw JWLee@syntecclub.com.tw simon@syntecclub.com.tw alpha0729@syntecclub.com.tw edonis.chen@syntecclub.com.tw mstsai0113@syntecclub.com.tw
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  1 minute 8 second
+Finished: FAILURE
