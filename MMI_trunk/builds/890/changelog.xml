@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199477"><author>shockspy</author><date>2018-08-03T00:43:57.994579Z</date><paths><path action="M" localPath="MMICommon\Source\MMICommon.csproj" kind="file">/appkernel/trunk/MMICommon/Source/MMICommon.csproj</path><path action="A" localPath="MMICommon\Source\Component\WndProcHook" copyfrom-path="/appkernel/branches/ISSUE_12673_f_EnhanceCheckboxClick/MMICommon/Source/Component/WndProcHook" copyfrom-rev="199365" kind="dir">/appkernel/trunk/MMICommon/Source/Component/WndProcHook</path><path action="M" localPath="MMICommon\Source\MMICommon32.csproj" kind="file">/appkernel/trunk/MMICommon/Source/MMICommon32.csproj</path><path action="A" localPath="MMICommon\Source\Component\OCListView.cs" copyfrom-path="/appkernel/branches/ISSUE_12673_f_EnhanceCheckboxClick/MMICommon/Source/Component/OCListView.cs" copyfrom-rev="199365" kind="file">/appkernel/trunk/MMICommon/Source/Component/OCListView.cs</path><path action="M" localPath="MMICommon\Source\OBControl\OBFileListViewBase.cs" kind="file">/appkernel/trunk/MMICommon/Source/OBControl/OBFileListViewBase.cs</path></paths><msg>merge ISSUE_12673_f_EnhanceCheckboxClick, 188539-199365 to 10.118.12
+by 英傑
+
+
+修改 
+	在木工檔案列表中，可以透過點選檔案的任何一部份即可視為點選檔案，解決觸控螢幕點選不到checkbox的問題</msg></logentry></log>

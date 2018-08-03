@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199551"><author>jwlee</author><date>2018-08-03T06:42:07.203923Z</date><paths><path action="M" localPath="res\Common\Data\ParamDef.xml" kind="file">/cnckernel/trunk/res/Common/Data/ParamDef.xml</path></paths><msg>merge(2nd): CNCKL_2507_f_ModifyPr3205String, 199547 to 10.118.12
+by 哲維
+
+feature
+
+修改Pr3205的字串說明(2:18個鍵，改為2:10個鍵)</msg></logentry></log>

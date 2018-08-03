@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199533"><author>simon</author><date>2018-08-03T05:07:29.339950Z</date><paths><path action="M" kind="file">/cnckernel/tags/release_v10.116.54R/OCKrnl/Source/MotUtility/PlayModeInterpolator.cpp</path><path action="M" localPath="OCKrnl\Source\MotUtility\PlayModeInterpolator.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotUtility/PlayModeInterpolator.cpp</path></paths><msg>merge: HSHP_1996_PlayerModeWrong_118.11, 199129, to 10.116.54R, 10.116.54S
+by 佩吟
+
+from 10.116.36U, 10.116.49, 10.117.49, HSHP-1573
+
+fix:
+	修正高速預解模式最終結束座標錯誤現象</msg></logentry></log>

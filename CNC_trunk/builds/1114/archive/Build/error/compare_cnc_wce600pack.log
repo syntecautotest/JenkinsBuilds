@@ -1,0 +1,11 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\ESI\MELSERVO_MR_J4_TM_Syntec.xml
+DiskC\OpenCNC\firmware\FC - MPG.bin
+DiskC\OpenCNC\firmware\FC-AD-DA.bin
+DiskC\OpenCNC\firmware\FC-RESVR.bin
+DiskC\OpenCNC\firmware\FC-TMPSR.bin
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------

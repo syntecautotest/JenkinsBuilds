@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199486"><author>simon</author><date>2018-08-03T01:15:08.952665Z</date><paths><path action="M" localPath="Syntec.OpenCNC\Cnc.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/Cnc.cs</path><path action="M" localPath="Syntec.OpenCNC\OcApi.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/OcApi.cs</path><path action="M" localPath="Syntec.OpenCNC\KrnlAPI.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/KrnlAPI.cs</path><path action="M" localPath="Syntec.OpenCNC\RemoteCNC.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/RemoteCNC.cs</path></paths><msg>merge: HSHP_2353_f_DataListenerEvtTrigger_198096, 198986-199457, to 10.118.12
+by 糧安
+
+add:
+	Finish HSHP-2353 DataListenerEvtTrigger MMI.</msg></logentry></log>

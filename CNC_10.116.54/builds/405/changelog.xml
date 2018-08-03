@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199553"><author>jwlee</author><date>2018-08-03T06:45:47.647910Z</date><paths><path action="M" localPath="res\Common\Data\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.116.54/res/Common/Data/ParamDef.xml</path><path action="M" kind="file">/cnckernel/trunk/res/Common/Data/ParamDef.xml</path></paths><msg>merge(2nd): ISSUE_13155_f_ImproveSearchAbsHome_118x, 199548 to 10.118.12
+merge(2nd): ISSUE_13155_f_ImproveSearchAbsHome_11654x, 199548 to 10.116.54S
+
+by 哲維
+
+feature
+
+補充修改參數定義檔</msg></logentry></log>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199605"><author>simon</author><date>2018-08-03T10:06:23.053449Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/Axis.h</path></paths><msg>merge(2nd): HSHP_2417_RemoveDelayFilterInAxis_118.11, 199430, to 10.118.12
+by 旭沅
+
+add:
+	remove implementation of delay filter in CAxis.</msg></logentry></log>
