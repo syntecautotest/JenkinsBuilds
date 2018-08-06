@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199813"><author>mark.chen</author><date>2018-08-06T10:09:55.425258Z</date><paths><path action="M" localPath="res\WinCE\Tools\SyntecDosToCE\SyntecDosToCE\Form2.cs" kind="file">/cnckernel/trunk/res/WinCE/Tools/SyntecDosToCE/SyntecDosToCE/Form2.cs</path><path action="A" localPath="res\Common\Data\ASName_Text_COM.xml" copyfrom-path="/cnckernel/branches/CNCKL/ATEST_946_b_TuningNameMissing/res/Common/Data/ASName_Text_COM.xml" copyfrom-rev="199809" kind="file">/cnckernel/trunk/res/Common/Data/ASName_Text_COM.xml</path><path action="M" localPath="Build\PackingTools\SyntecDosToCE.exe" kind="file">/cnckernel/trunk/Build/PackingTools/SyntecDosToCE.exe</path><path action="D" localPath="res\Common\Data\AxisSpdName_Text_COM.xml" kind="file">/cnckernel/trunk/res/Common/Data/AxisSpdName_Text_COM.xml</path></paths><msg>merge: ATEST_946_b_TuningNameMissing, 199782-199809 to 10.118.12
+by 竺晏
+
+from 10.118.12, CNCKL-2337
+
+修正裝置名稱字串檔漏打包的問題</msg></logentry></log>

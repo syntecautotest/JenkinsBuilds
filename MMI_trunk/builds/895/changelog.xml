@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199808"><author>colingsta</author><date>2018-08-06T09:58:12.394423Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\AutoTunning\Scr_AutoTune.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/AutoTunning/Scr_AutoTune.cs</path></paths><msg>merge appkernel/ATEST_945_b_AutoTuneCoordError r199801-r199806 to 10.118.12 by 鎮宇
+
+修正
+    自動調機座標值顯示錯誤的問題</msg></logentry></log>

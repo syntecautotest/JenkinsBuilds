@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199664"><author>mark.chen</author><date>2018-08-06T00:52:15.831289Z</date><paths><path action="M" localPath="res\Common\Data\ParamDef.xml" kind="file">/cnckernel/trunk/res/Common/Data/ParamDef.xml</path></paths><msg>merge(2nd): CNCKL_2396_deleteCoordParamForMerge, 199661 to 10.118.12
+by 柏維
+
+fix
+
+修正自動測試過不了的問題</msg></logentry></log>

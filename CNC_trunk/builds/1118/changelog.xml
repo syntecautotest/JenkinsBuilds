@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199740"><author>jwlee</author><date>2018-08-06T07:07:32.411637Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\SerialDeviceCtrl.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/SerialDeviceCtrl.cpp</path></paths><msg>merge: ATEST_944_f_OpenW32SimulatorErr, 199724-199734 to 10.118.12
+by 哲維
+
+from 10.118.11, MMI-3572
+
+修正開啟模擬器發生異常關閉的問題</msg></logentry></log>

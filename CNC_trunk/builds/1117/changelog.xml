@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199736"><author>marskao</author><date>2018-08-06T06:58:37.018697Z</date><paths><path action="M" localPath="OCTest\Source\Operation\LOG.cpp" kind="file">/cnckernel/trunk/OCTest/Source/Operation/LOG.cpp</path><path action="M" localPath="OCTest" kind="dir">/cnckernel/trunk/OCTest</path><path action="M" localPath="." kind="dir">/cnckernel/trunk</path></paths><msg>merge: CNCTEST_812_f_InverterSkipSpindleOff, 199704-199722 to 10.118.12
+by 禹廷
+
+note:
+ *當主軸為變頻主軸，自動測試初始化時，不切換到Spindle Off</msg></logentry></log>
