@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199927"><author>simon</author><date>2018-08-07T05:41:07.890409Z</date><paths><path action="M" localPath="res\WinCE\Tools\SyntecDosToCE\SyntecDosToCE\Form2.cs" kind="file">/cnckernel/trunk/res/WinCE/Tools/SyntecDosToCE/SyntecDosToCE/Form2.cs</path><path action="M" localPath="Build\PackingTools\SyntecDosToCE.exe" kind="file">/cnckernel/trunk/Build/PackingTools/SyntecDosToCE.exe</path><path action="A" localPath="res\Common\Data\VelGlitchComp_Text_CHT.xml" copyfrom-path="/cnckernel/branches/HSHP/HSHP_2362_f_VelGlitchCompAPI_ReopenV2_118.x/res/Common/Data/VelGlitchComp_Text_CHT.xml" copyfrom-rev="199926" kind="file">/cnckernel/trunk/res/Common/Data/VelGlitchComp_Text_CHT.xml</path><path action="A" localPath="res\Common\Data\VelGlitchComp_Text_COM.xml" copyfrom-path="/cnckernel/branches/HSHP/HSHP_2362_f_VelGlitchCompAPI_ReopenV2_118.x/res/Common/Data/VelGlitchComp_Text_COM.xml" copyfrom-rev="199926" kind="file">/cnckernel/trunk/res/Common/Data/VelGlitchComp_Text_COM.xml</path></paths><msg>merge(3rd): HSHP_2362_f_VelGlitchCompAPI_ReopenV2_118.x, 199926, to 10.118.12
+by 昱辰
+
+add:
+    1. 上傳兩個xml檔, 為速度尖角供人機查找參數內容的字串xml檔
+    2. 修改SyntecDosToCE的Form2.cs, 使之能自動生出速度尖角供人機讀取的xml字串
+    3. 呈1, build release mode, 將SyntecDosToCE.exe上傳</msg></logentry></log>

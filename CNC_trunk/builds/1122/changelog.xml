@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="200011"><author>1200</author><date>2018-08-07T08:57:38.157117Z</date><paths><path action="M" localPath="OCTest\Data\TurningCycle\Params\Pr4014_0\param.dat" kind="file">/cnckernel/trunk/OCTest/Data/TurningCycle/Params/Pr4014_0/param.dat</path><path action="M" localPath="OCTest\Data\TurningCycle\Params\Pr4014_1\param.dat" kind="file">/cnckernel/trunk/OCTest/Data/TurningCycle/Params/Pr4014_1/param.dat</path></paths><msg>merge: ATEST_947_b_TurningCycleParamSettingErr_118_12, 199894, to 10.118.12
+by 柏維
+
+from 10.118.12, CNCKL-2396
+
+[自動測試]修正TurningCycle腳本參數Pr9【軸版型態】誤設定為1之問題。</msg></logentry></log>

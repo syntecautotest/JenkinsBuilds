@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="199951"><author>colingsta</author><date>2018-08-07T06:18:06.791506Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\ScrTool\Scr_ToolLathe.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrTool/Scr_ToolLathe.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScrTool\Scr_MultiToolMill.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrTool/Scr_MultiToolMill.cs</path></paths><msg>merge appkernel/ATEST_948_b_ToolWearModifiedFailed r199918-r199931 to 10.118.12 by 存澤
+
+修正
+    刀表磨耗加工中無法編輯問題</msg></logentry></log>
