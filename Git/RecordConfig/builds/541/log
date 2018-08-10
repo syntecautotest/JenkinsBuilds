@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1865292936832903366.bat
+Product: Test-11TB
+<FileConfig ProductName="TEST-11TB" PackageHead="11BLatheCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.55.0</Version><Name>WCE7_AM335x_7.55.0.bin</Name><Hash>32cea1effb04f7cdb7d49c6064d70eae</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.55.0/ARMCE7_Image/WCE7_AM335x_7.55.0.bin</URL></File><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.7.0</Version><Name>WCE7_I.MX6_9.7.0.bin</Name><Hash>41adcc1eda61a285f88031038ebd889b</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.7.0/ARMCE7_Image/WCE7_I.MX6_9.7.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>package_fa32301a.zip</Name><Hash>1938d7edeccc952ea23aaba086b05c62</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TEST_11TB/Software/Test/Common/package_fa32301a.zip</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>package_26321e1d.zip</Name><Hash>9e6996d02ddaa677b106445364b88eb1</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TEST_11TB/Software/Delivery/Common/package_26321e1d.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Hash>70b105eb6f1705652e660aa35daa29ba</Hash></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Hash>f9a644b8a021623d7a26ce6517900c0a</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

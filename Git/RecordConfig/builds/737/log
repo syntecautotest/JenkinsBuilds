@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3904958234746145977.bat
+Product: 11TB
+<FileConfig ProductName="11TB" PackageHead="11BLatheCE7_ARM"><Files><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>package_40e0b338.zip</Name><Hash>4bff7b3b7fb52cf35fe9f9411436affe</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/11TB/Software/Test/Common/package_40e0b338.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>Test.zip</Name><Hash>ca12bfac99d4a682b1e4e00ab2ea94ae</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>package_ef39de56.zip</Name><Hash>abde161ed1e5f6c3f2e8d6ee72c6e176</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/11TB/Software/Delivery/Common/package_ef39de56.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>Delivery.zip</Name><Hash>f1395556a330b065aff650f1c6067c99</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

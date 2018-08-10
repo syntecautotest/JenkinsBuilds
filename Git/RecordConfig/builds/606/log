@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5813881653216401988.bat
+Product: 6MD
+<FileConfig ProductName="6MD" PackageHead="6DMillCE7_ARM"><Files><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>package_1f884911.zip</Name><Hash>6a36f9c4ee4963f18fbdab200ecb8916</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/6MD/Software/Test/Common/package_1f884911.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>Test.zip</Name><Hash>2bcf5af5351a8022feecf11e1ec7463a</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>package_46123f25.zip</Name><Hash>a05fe9cedf7fcf24ef46c9e8383e34d5</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/6MD/Software/Delivery/Common/package_46123f25.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>Delivery.zip</Name><Hash>5a98ff2772061f84c47cceb9d515eb13</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
