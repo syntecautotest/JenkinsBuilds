@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5062117875899142354.bat
+Product: 220MB5
+<FileConfig ProductName="220MB5" PackageHead="220B-5MillCE7_ARM"><Files><File Category="Packing" Usage="Common" Hardware="Common"><Version>10.116.38N</Version></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.38N</Version><Name>package_42944825.zip</Name><Hash>dc35edaefbdb2481fcf3a78688a4a343</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/220MB5/Software/Test/Common/package_42944825.zip</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.38N</Version><Name>package_fc840fd0.zip</Name><Hash>d80e029bf159c11c55cf1dd19b647266</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/220MB5/Software/Delivery/Common/package_fc840fd0.zip</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

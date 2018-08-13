@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2686938340362275090.bat
+Product: 60PC
+<FileConfig ProductName="60PC" PackageHead="60CPrintCE7_ARM"><Files><File Category="Packing" Usage="Common" Hardware="Common"><Version>10.116.38N</Version></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.38N</Version><Name>package_5285e65a.zip</Name><Hash>4962ac96610cdcde9b4b4e5621c797b8</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/60PC/Software/Test/Common/package_5285e65a.zip</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.38N</Version><Name>package_feb286d6.zip</Name><Hash>01f96944cf1b5966f7e17b20d9c04d72</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/60PC/Software/Delivery/Common/package_feb286d6.zip</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8154681362675789168.bat
+Product: 21TA-H
+<FileConfig ProductName="21TA-H" PackageHead="21A-HLatheCE7_ARM"><Files><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>package_13026f5d.zip</Name><Hash>9bd884bd350c60e6498c77b0a4ac4993</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/21TA_H/Software/Test/Common/package_13026f5d.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>Test.zip</Name><Hash>93ed1ba954d527321f97e1c372f76f22</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>package_b1e7ce86.zip</Name><Hash>3fcab3ad6300612d348ba1350bd41d74</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/21TA_H/Software/Delivery/Common/package_b1e7ce86.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>Delivery.zip</Name><Hash>4cf3b8dc456d69eadabdf144d9981cba</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
