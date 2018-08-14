@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="200772"><author>mark.chen</author><date>2018-08-14T06:18:05.824591Z</date><paths><path action="M" localPath="OCDevice\Source\ServoDriver\NetServoChannel.h" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/NetServoChannel.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/NetServoChannel.h</path><path action="M" localPath="OCDevice\Source\ServoDriver\NetServoChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/NetServoChannel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/NetServoChannel.cpp</path></paths><msg>merge: CNCKL_2497_f_ServoOnStateMachine, 198586-199799, to 10.118.12A, 10.118.13
+by 青杉
+
+feature
+
+優化EtherCAT處理Servo On的流程(可解決連接非官方支援驅動器，無法Servo On的問題)。</msg></logentry></log>

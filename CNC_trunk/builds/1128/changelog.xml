@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="200782"><author>mark.chen</author><date>2018-08-14T07:03:03.568529Z</date><paths><path action="M" localPath="res\SRI\SriModule.xml" kind="file">/cnckernel/trunk/res/SRI/SriModule.xml</path><path action="M" localPath="OCDevice\Source\SriDriver\SriDeviceLoader.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/SriDriver/SriDeviceLoader.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/SRI/SriModule.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/SriDriver/SriDeviceLoader.cpp</path></paths><msg>merge: CNCKL_2404_f_FCIOMapping_Resolver_ADDA_v2, 199796-200174, to 10.118.12A, 10.118.13
+by 侑庭
+
+feature
+
+SRI 客製 IO Mapping可支援 FC-AD-DA &amp; FC-RESVR 模組。</msg></logentry></log>

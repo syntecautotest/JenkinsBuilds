@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7399723434209295191.bat
+Product: HC-10C
+<FileConfig ProductName="HC-10C" PackageHead="HC_10C_K"><Files><File Category="Packing" Usage="Common" Hardware="Common"><Version>10.116.38M</Version></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.38M</Version><Name>package_e3a4b7cc.zip</Name><Hash>0aad1243e883e2a98acef88ec326b350</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_10C/Software/Test/Common/package_e3a4b7cc.zip</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.38M</Version><Name>package_104e07f1.zip</Name><Hash>dc19a6b70f138528764729b92012cba9</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_10C/Software/Delivery/Common/package_104e07f1.zip</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
