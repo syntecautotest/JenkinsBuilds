@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="200885"><author>mark.chen</author><date>2018-08-15T05:09:42.308261Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\OpParamSync.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/OpParamSync.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Operation/OpParamSync.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/OpParamSync.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\OpParamSync.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/OpParamSync.h</path><path action="M" localPath="OCKrnl\Source\Operation\CNCCenter.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/CNCCenter.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/OpParamSync.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Operation/OpParamSync.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/CNCCenter.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Operation/CNCCenter.cpp</path></paths><msg>merge: ISSUE_13232_b_EXT1Signal_R30_prob, 198757-199684, to 10.118.12A, 10.118.13
+merge: ISSUE_13232_b_EXT1Signal_R30_prob_11654, 200880, to 10.116.54S
+by 青杉
+
+from 10.116.36Y, 10.116.51, 10.117.51, ISSUE-10652
+
+修正Pr3266、P3267(監測驅動器IO訊號，對應R30、R5291) 重開機後失效的問題。</msg></logentry></log>
