@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201130"><author>mark.chen</author><date>2018-08-16T05:42:32.095475Z</date><paths><path action="M" localPath="OCDevice\Source\ServoDriver\M2Channel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/M2Channel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/M2Channel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/ServoDriver/M2Channel.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\M2Channel.h" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/M2Channel.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/M2Channel.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/ServoDriver/M2Channel.h</path></paths><msg>merge: ISSUE_13307_b_G31NoSkip, 199889-200726, to 10.116.54S, 10.118.12A, 10.118.13
+by 儀禕
+
+from 10.116.32, 10.117.32, HSHP-1020
+
+修正M2通訊下，使用G31外部訊號跳脫，偶發失效的問題，
+
+</msg></logentry></log>
