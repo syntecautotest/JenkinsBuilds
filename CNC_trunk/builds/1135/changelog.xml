@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201235"><author>simon</author><date>2018-08-17T02:02:59.950093Z</date><paths><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path></paths><msg>merge: HSHP_2430_f_RemovePOBERedundantCode, 201163, to 10.118.13
+by 芝峰
+
+add:
+	移除
+	1. POBE Func ID 48 的判斷
+	2. G05 E_ 引數處理, 等同下 G05 P10000</msg></logentry></log>

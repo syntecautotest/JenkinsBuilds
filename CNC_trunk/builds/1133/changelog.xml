@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201220"><author>mark.chen</author><date>2018-08-17T00:57:16.200766Z</date><paths><path action="M" localPath="OCDevice\Source\RTCommDriver\ESIManager.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ESIManager.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\EthercatDrv.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/EthercatDrv.cpp</path><path action="M" localPath="." kind="dir">/cnckernel/trunk</path><path action="M" localPath="OCDevice\Source" kind="dir">/cnckernel/trunk/OCDevice/Source</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ESIManager.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ESIManager.cpp</path><path action="M" localPath="OCDevice" kind="dir">/cnckernel/trunk/OCDevice</path></paths><msg>merge: CNCKL_2459_f_LoadCusESI_v2, 199695-200647, to 10.118.13
+by 侑庭
+
+feature
+
+支援讀取待測試廠商EtherCAT驅動器的ESI檔
+
+</msg></logentry></log>
