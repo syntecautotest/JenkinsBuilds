@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Schedule/ScheduleCheck_cnckernel_118_12</upstreamProject>
+            <upstreamUrl>job/Schedule/job/ScheduleCheck_cnckernel_118_12/</upstreamUrl>
+            <upstreamBuild>2</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>Schedule/ScheduleCheck_pipe</upstreamProject>
+                <upstreamUrl>job/Schedule/job/ScheduleCheck_pipe/</upstreamUrl>
+                <upstreamBuild>492</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>6617</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.model.Cause$UpstreamCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.model.Cause_-UpstreamCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9">
+      <downstreamBuilds class="concurrent-hash-map">
+        <entry>
+          <string>Schedule/ScheduleCheck_appkernel_118_12</string>
+          <int>2</int>
+        </entry>
+      </downstreamBuilds>
+    </org.jvnet.hudson.plugins.DownstreamBuildViewAction>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+    <hudson.tasks.MailMessageIdAction plugin="mailer@1.20">
+      <messageId>&lt;25377425.23.1534554049727.JavaMail.user1@TESTMAN2&gt;</messageId>
+    </hudson.tasks.MailMessageIdAction>
+  </actions>
+  <queueId>2343</queueId>
+  <timestamp>1534554049490</timestamp>
+  <startTime>1534554049491</startTime>
+  <result>FAILURE</result>
+  <duration>2641</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Jenkins\jobs\Schedule\jobs\ScheduleCheck_apikernel_118_12\workspace</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>
