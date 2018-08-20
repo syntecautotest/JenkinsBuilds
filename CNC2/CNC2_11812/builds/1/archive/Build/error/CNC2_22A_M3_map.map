@@ -1,0 +1,486 @@
+Release 14.7 Map P.20131013 (nt)
+Xilinx Map Application Log File for Design 'CNC2_22A_M3'
+
+Design Information
+------------------
+Command Line   : map -filter iseconfig/filter.filter -intstyle ise -p
+xc6slx25-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication
+off -r 4 -global_opt off -mt off -detail -ir off -pr off -lc off -power off -o
+CNC2_22A_M3_map.ncd CNC2_22A_M3.ngd CNC2_22A_M3.pcf 
+Target Device  : xc6slx25
+Target Package : ftg256
+Target Speed   : -3
+Mapper Version : spartan6 -- $Revision: 1.55 $
+Mapped Date    : Mon Aug 20 09:58:46 2018
+
+Mapping design into LUTs...
+Running directed packing...
+Running delay-based LUT packing...
+Updating timing models...
+WARNING:Timing:3224 - The clock PHY25MHz associated with OFFSET = OUT 40 ns AFTER COMP "PHY25MHz" does not clock any registered output
+   components.
+WARNING:Timing:3225 - Timing constraint OFFSET = OUT 40 ns AFTER COMP "PHY25MHz" ignored during timing analysis
+INFO:Map:215 - The Interim Design Summary has been generated in the MAP Report
+   (.mrp).
+Running timing-driven placement...
+Total REAL time at the beginning of Placer: 21 secs 
+Total CPU  time at the beginning of Placer: 21 secs 
+
+Phase 1.1  Initial Placement Analysis
+Phase 1.1  Initial Placement Analysis (Checksum:ee12c755) REAL time: 23 secs 
+
+Phase 2.7  Design Feasibility Check
+Phase 2.7  Design Feasibility Check (Checksum:ee12c755) REAL time: 23 secs 
+
+Phase 3.31  Local Placement Optimization
+Phase 3.31  Local Placement Optimization (Checksum:ee12c755) REAL time: 23 secs 
+
+Phase 4.2  Initial Placement for Architecture Specific Features
+
+Phase 4.2  Initial Placement for Architecture Specific Features
+(Checksum:e3b52385) REAL time: 34 secs 
+
+Phase 5.36  Local Placement Optimization
+Phase 5.36  Local Placement Optimization (Checksum:e3b52385) REAL time: 34 secs 
+
+Phase 6.30  Global Clock Region Assignment
+Phase 6.30  Global Clock Region Assignment (Checksum:e3b52385) REAL time: 34 secs 
+
+Phase 7.3  Local Placement Optimization
+Phase 7.3  Local Placement Optimization (Checksum:e3b52385) REAL time: 34 secs 
+
+Phase 8.5  Local Placement Optimization
+Phase 8.5  Local Placement Optimization (Checksum:e3b52385) REAL time: 34 secs 
+
+Phase 9.8  Global Placement
+................
+..........................................................................................................................
+............................................................................................................................................................................................................
+............................................................................................................................................................................................................
+...................................................................................................
+Phase 9.8  Global Placement (Checksum:63cd6d15) REAL time: 2 mins 22 secs 
+
+Phase 10.5  Local Placement Optimization
+Phase 10.5  Local Placement Optimization (Checksum:63cd6d15) REAL time: 2 mins 22 secs 
+
+Phase 11.18  Placement Optimization
+Phase 11.18  Placement Optimization (Checksum:f7e5a316) REAL time: 2 mins 45 secs 
+
+Phase 12.5  Local Placement Optimization
+Phase 12.5  Local Placement Optimization (Checksum:f7e5a316) REAL time: 2 mins 45 secs 
+
+Phase 13.34  Placement Validation
+Phase 13.34  Placement Validation (Checksum:e105c35d) REAL time: 2 mins 46 secs 
+
+Total REAL time to Placer completion: 2 mins 46 secs 
+Total CPU  time to Placer completion: 2 mins 46 secs 
+Running post-placement packing...
+Writing output files...
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   LocalBusBridgeAleDec_inst/iLBALEDEC_ALE_iLBALEDEC_WRn_AND_4_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   CNC2_22A/IOENC_Partition_1/IBUS_Select_GND_556_o_AND_165_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   CNC2_22A/HK_Scan_Partition_1/HK_FILTER_CLK is sourced by a combinatorial pin.
+   This is not good design practice. Use the CE pin to control the loading of
+   data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/m_ProtocolReady_m_DataWrEN_OR_
+   605_o is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/m_ProtocolReady_m_DataWrEN_OR_
+   605_o is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net g_reset_i is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Reset_n_WEB1[1]_AND_550_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Reset_n_WEB1[1]_AND_550_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_WrMultiReg_1/m_State[1]_GND_810_o_Mux_63_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_WrMultiReg_1/m_State[1]_GND_810_o_Mux_63_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_ReadHoldingReg_1/m_State[1]_GND_800_o_Mux_62_o is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_ReadHoldingReg_1/m_State[1]_GND_800_o_Mux_62_o is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Reset_n_WEB1[0]_AND_552_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Reset_n_WEB1[0]_AND_552_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/iEN_iTim
+   eOut[31]_MUX_2239_o is sourced by a combinatorial pin. This is not good
+   design practice. Use the CE pin to control the loading of data into the
+   flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/m_CRCErr
+   orFlag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/m_1_5Tou
+   tflag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/iEN_iTim
+   eOut[31]_MUX_2239_o is sourced by a combinatorial pin. This is not good
+   design practice. Use the CE pin to control the loading of data into the
+   flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/m_1_5Tou
+   tflag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/m_CRCErr
+   orFlag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/fifo_eth_1/U0/xst_fifo_generato
+   r/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.mem/gdm.dm/Mram_RAM_RAMD_D1_O> is
+   incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_a3_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_a1_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_a2_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_a4_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_b4_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_a3_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/fifo_eth_0/U0/xst_fifo_generato
+   r/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.mem/gdm.dm/Mram_RAM_RAMD_D1_O> is
+   incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_b2_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_b3_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_b1_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_b1_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_a1_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_a2_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_b2_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_b3_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_a4_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_b4_RAMD_O>
+   is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram5_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram3_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram8_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram40_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram4_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram34_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram37_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram36_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram1_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram39_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram35_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram33_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram2_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram6_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram7_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram38_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <ML3MST_inst/ml3_logic_root/ml3_flame_control/ml3_transmitter0/Mram_bufwrsize
+   _m1_RAMD_D1_O> is incomplete. The signal does not drive any load pins in the
+   design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram30_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram10_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram11_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram14_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram23_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram22_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram19_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram12_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram13_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram9_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram29_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram25_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram21_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram16_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram31_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram32_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram27_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram28_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram26_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram24_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram18_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram20_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_22A/DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.
+   dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram17_RAMD_O> is incomplete. The
+   signal does not drive any load pins in the design.
+
+Design Summary
+--------------
+
+Design Summary:
+Number of errors:      0
+Number of warnings:   81
+Slice Logic Utilization:
+  Number of Slice Registers:                 7,964 out of  30,064   26%
+    Number used as Flip Flops:               7,518
+    Number used as Latches:                    400
+    Number used as Latch-thrus:                  0
+    Number used as AND/OR logics:               46
+  Number of Slice LUTs:                     12,937 out of  15,032   86%
+    Number used as logic:                   12,528 out of  15,032   83%
+      Number using O6 output only:           9,221
+      Number using O5 output only:             733
+      Number using O5 and O6:                2,574
+      Number used as ROM:                        0
+    Number used as Memory:                     362 out of   3,664    9%
+      Number used as Dual Port RAM:            304
+        Number using O6 output only:           288
+        Number using O5 output only:             4
+        Number using O5 and O6:                 12
+      Number used as Single Port RAM:           54
+        Number using O6 output only:            54
+        Number using O5 output only:             0
+        Number using O5 and O6:                  0
+      Number used as Shift Register:             4
+        Number using O6 output only:             4
+        Number using O5 output only:             0
+        Number using O5 and O6:                  0
+    Number used exclusively as route-thrus:     47
+      Number with same-slice register load:      2
+      Number with same-slice carry load:        45
+      Number with other load:                    0
+
+Slice Logic Distribution:
+  Number of occupied Slices:                 3,701 out of   3,758   98%
+  Number of MUXCYs used:                     2,904 out of   7,516   38%
+  Number of LUT Flip Flop pairs used:       13,468
+    Number with an unused Flip Flop:         6,114 out of  13,468   45%
+    Number with an unused LUT:                 531 out of  13,468    3%
+    Number of fully used LUT-FF pairs:       6,823 out of  13,468   50%
+    Number of unique control sets:             481
+    Number of slice register sites lost
+      to control set restrictions:           1,732 out of  30,064    5%
+
+  A LUT Flip Flop pair for this architecture represents one LUT paired with
+  one Flip Flop within a slice.  A control set is a unique combination of
+  clock, reset, set, and enable signals for a registered element.
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+
+IO Utilization:
+  Number of bonded IOBs:                        75 out of     186   40%
+    Number of LOCed IOBs:                       75 out of      75  100%
+    IOB Flip Flops:                              5
+    IOB Latches:                                22
+
+Specific Feature Utilization:
+  Number of RAMB16BWERs:                        24 out of      52   46%
+  Number of RAMB8BWERs:                          0 out of     104    0%
+  Number of BUFIO2/BUFIO2_2CLKs:                 2 out of      32    6%
+    Number used as BUFIO2s:                      2
+    Number used as BUFIO2_2CLKs:                 0
+  Number of BUFIO2FB/BUFIO2FB_2CLKs:             2 out of      32    6%
+    Number used as BUFIO2FBs:                    2
+    Number used as BUFIO2FB_2CLKs:               0
+  Number of BUFG/BUFGMUXs:                       8 out of      16   50%
+    Number used as BUFGs:                        8
+    Number used as BUFGMUX:                      0
+  Number of DCM/DCM_CLKGENs:                     2 out of       4   50%
+    Number used as DCMs:                         2
+    Number used as DCM_CLKGENs:                  0
+  Number of ILOGIC2/ISERDES2s:                   6 out of     272    2%
+    Number used as ILOGIC2s:                     6
+    Number used as ISERDES2s:                    0
+  Number of IODELAY2/IODRP2/IODRP2_MCBs:         0 out of     272    0%
+  Number of OLOGIC2/OSERDES2s:                  21 out of     272    7%
+    Number used as OLOGIC2s:                    21
+    Number used as OSERDES2s:                    0
+  Number of BSCANs:                              0 out of       4    0%
+  Number of BUFHs:                               0 out of     160    0%
+  Number of BUFPLLs:                             0 out of       8    0%
+  Number of BUFPLL_MCBs:                         0 out of       4    0%
+  Number of DSP48A1s:                            0 out of      38    0%
+  Number of ICAPs:                               0 out of       1    0%
+  Number of MCBs:                                0 out of       2    0%
+  Number of PCILOGICSEs:                         0 out of       2    0%
+  Number of PLL_ADVs:                            0 out of       2    0%
+  Number of PMVs:                                0 out of       1    0%
+  Number of STARTUPs:                            0 out of       1    0%
+  Number of SUSPEND_SYNCs:                       0 out of       1    0%
+
+Average Fanout of Non-Clock Nets:                4.41
+
+Peak Memory Usage:  436 MB
+Total REAL time to MAP completion:  2 mins 54 secs 
+Total CPU time to MAP completion:   2 mins 54 secs 
+
+Mapping completed.
+See MAP report file "CNC2_22A_M3_map.mrp" for details.

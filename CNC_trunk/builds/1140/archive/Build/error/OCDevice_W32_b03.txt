@@ -1,0 +1,263 @@
+------ Rebuild All started: Project: ServoTuning, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ChTuningControl.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoTuning\Release\BuildLog.htm"
+ServoTuning - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoLink, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoLink', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ServoLink.cpp
+ServoCommHost.cpp
+SerialPort.cpp
+SanyoServo.cpp
+RS232Export.cpp
+MitsubishiComm.cpp
+Linking...
+   Creating library D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\Release\ServoLink.lib and object D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\Release\ServoLink.exp
+Generating code
+Finished generating code
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoLink\Release\BuildLog.htm"
+ServoLink - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SvoUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SvoUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CtrlParam.cpp
+MotorInfoResMap.cpp
+.\MotorInfoResMap.cpp(57) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(74) : see declaration of 'strcpy'
+.\MotorInfoResMap.cpp(97) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\MotorInfoResMap.cpp(102) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\MotorInfoResMap.cpp(103) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\MotorInfoResMap.cpp(160) : warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(157) : see declaration of 'strncpy'
+.\MotorInfoResMap.cpp(164) : warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(157) : see declaration of 'strncpy'
+MotorInfoLoader.cpp
+.\MotorInfoLoader.cpp(70) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(74) : see declaration of 'strcpy'
+LatchFunction.cpp
+DelayCount.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SvoUtility\Release\BuildLog.htm"
+SvoUtility - 0 error(s), 7 warning(s)
+------ Rebuild All started: Project: SerialParam, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SerialParam', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+DeviceParamSync.cpp
+SyntecMemoryMap.cpp
+SerialParamTable.cpp
+.\SerialParamTable.cpp(872) : warning C4244: '=' : conversion from '__w64 int' to 'long', possible loss of data
+SerialParamSync.cpp
+SerialParamLoader.cpp
+SerialParamInit.cpp
+SerialParamDefManager.cpp
+ParamAttrMapManager.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SerialParam\Release\BuildLog.htm"
+SerialParam - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: ServoDriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoDriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+30gmASIC.cpp
+XY2Channel.cpp
+VirtaulServo5.cpp
+TnCtrlChannel.cpp
+SvoRtl.cpp
+SvoMultiplier.cpp
+SvoMinAbsFilter.cpp
+SvoFineDDA.cpp
+SvoDriver.cpp
+SvoChannel.cpp
+ServoDevice.cpp
+Servo60Driver.cpp
+Servo60Channel.cpp
+Servo5Driver.cpp
+Servo5Channel.cpp
+RadioFrequency.cpp
+NulMCIChannel.cpp
+NullDriver.cpp
+NullChannel.cpp
+NetServoDriver.cpp
+Generating Code...
+Compiling...
+NetServoChannel.cpp
+M2JL098Driver.cpp
+M2JL080Driver.cpp
+M2Driver.cpp
+M2Channel.cpp
+M2ASICCommDriver.cpp
+LaserChannel.cpp
+FineInterpolation.cpp
+EPCIOSVO5.cpp
+EPCIORIO.cpp
+EPCIOPCL.cpp
+EPCIOLIO.cpp
+EPCIOENC.cpp
+EPCIOEDM.cpp
+EPCIODriver.cpp
+EPCIODDA.cpp
+EPCIODAC.cpp
+EPCIOChannel.cpp
+EPCIOASIC.cpp
+EPCIOADC.cpp
+Generating Code...
+Compiling...
+DAChannel.cpp
+CANSvtnx.cpp
+CANPana.cpp
+CANOpenHomeSearch.cpp
+CANDelta.cpp
+30gmDriver.cpp
+30gmChannel.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoDriver\Release\BuildLog.htm"
+ServoDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: IODriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'IODriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+IOCh.cpp
+NullLatchIBitChannel.cpp
+NullIoCh.cpp
+MpgIoChannel.cpp
+IoMapFile.cpp
+.\IoMapFile.cpp(49) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(74) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(85) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(121) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(132) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(300) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(74) : see declaration of 'strcpy'
+.\IoMapFile.cpp(339) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(74) : see declaration of 'strcpy'
+.\IoMapFile.cpp(344) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(74) : see declaration of 'strcpy'
+.\IoMapFile.cpp(600) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(604) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(608) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(612) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(616) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(620) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(621) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(628) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(629) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(630) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(631) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(638) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(679) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(691) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(704) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(713) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(716) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(719) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\IoMapFile.cpp(722) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\IoMapFile.cpp(725) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+IoMap.cpp
+IoEPCIO.cpp
+IoCNC2PIO.cpp
+.\IoCNC2PIO.cpp(66) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(67) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(68) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(1065) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(1066) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(1484) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(74) : see declaration of 'strcpy'
+.\IoCNC2PIO.cpp(1485) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(74) : see declaration of 'strcpy'
+.\IoCNC2PIO.cpp(1580) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(1581) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(1689) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(1693) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\IoCNC2PIO.cpp(1697) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+IoChRly2.cpp
+IoChRly1.cpp
+IoChHardkey96.cpp
+IoChHardkey.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\IODriver\Release\BuildLog.htm"
+IODriver - 0 error(s), 40 warning(s)
+------ Rebuild All started: Project: CioNull, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'CioNull', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CioNull.cpp
+Linking...
+   Creating library .\Release/NullIO.lib and object .\Release/NullIO.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioNull\Release\BuildLog.htm"
+CioNull - 0 error(s), 0 warning(s)
+========== Rebuild All: 7 succeeded, 0 failed, 0 skipped ==========
+

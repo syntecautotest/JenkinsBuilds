@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201387"><author>simon</author><date>2018-08-20T05:19:13.674274Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ManualAxis.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ManualAxis.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/ManualAxis.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ManualAxis.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ManualAxis.h</path></paths><msg>merge: ISSUE_12923_b_ZPECOffFFInhibitTooFast_116.54.x, 200557, to 10.116.54S, 10.118.12A, 10.118.13
+by 芝峰
+
+fix:
+	修正手動模式下( 尋原點、JOG、INC JOG、手輪移動、PLC MoveTo )，當 Pr3808 開啟時，快停住時會出現劇烈抖動問題。</msg></logentry></log>
