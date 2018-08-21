@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201466"><author>mark.chen</author><date>2018-08-21T00:49:12.775095Z</date><paths><path action="M" localPath="OCDevice\Source\IODriver\IoMapFile.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/IODriver/IoMapFile.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/IODriver/IoMapFile.cpp</path><path action="M" localPath="OCDevice\Source\IODriver\IoMapFile.h" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/IODriver/IoMapFile.h</path><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/IODriver/IoMapFile.h</path></paths><msg>merge: CNCKL_2516_b_OP67, 200628-201091, to 10.118.12A, 10.118.13
+by 儀禕
+
+from 10.118.11, CNCKL-2314
+
+修正開機跳OP-67與無線手持盒(RFHHB)不能使用的問題。</msg></logentry></log>

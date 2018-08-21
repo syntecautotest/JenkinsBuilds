@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201536"><author>1200</author><date>2018-08-21T06:56:26.175795Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotMoveL.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotMoveL.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/RobotMoveL.cpp</path><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/PathPlan/MacroCore.cpp</path></paths><msg>merge: HSHP_2327_b_MOVCMemoryExecess_118_11, 199116-201135, to 10.118.12A, 10.118.13
+by 家豪
+
+from 10.118.8, HSHP-1663
+
+1.新增機器人產品(ARTIC、DELTA、SCARA) MOVC指令於第一點或第二點只要有一點沒下指令，就會跳COR-023 語意錯誤 警報
+2.修正機器人產品(ARTIC、DELTA、SCARA) MOVC指令點重合時(起始點、第一點、第二點任兩個重合)，會導致程式crash的錯誤</msg></logentry></log>

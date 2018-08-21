@@ -1,0 +1,46 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4LXHb/oeqLGZKiu79IeWTCjC5xxGd5Cn52H18GnUCQ1TAAAAsh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAz1EgZD/az8JP3g5IzUlNKcVBSOc0ZqcnZ8cl5ydmpRXmpOvKGhRbyhkT4AGb1SJOYAAAA=[0mSchedule/ScheduleCheck_cnckernel_118_12" ªº²Ä [8mha:////4JBMcmwuMp+wxT5gxrB1ty8+6od1PwQ4gNrsaamCrNbmAAAAsh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLQIwSBiP9rPwk/eDkjNSU0pxUFI5zRmpydnxyXnJ2alFeak68oaFFvKGRvgkAxTCjI+cAAAA=[0m4 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¤W¶Ç±M®× "[8mha:////4KHPaB+ykHQOi2WrzQYw4QjQAT5Tf24RtW38Say6e1ZNAAAAph+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzpEgZV/az8JP3g5IzUlNKcVBSOc0ZqcnZ8QWZBqj4AT5Vso9oAAAA=[0mSchedule/ScheduleCheck_pipe" ªº²Ä [8mha:////4MoIdaWjcqchX6nuzCeKjXhMXXzm8tevhxHZPyh3B88UAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYN/az8JP3g5IzUlNKcVBSOc0ZqcnZ8QWZBqr6JpQkAOn8UVt0AAAA=[0m494 ¦¸«Ø¸m±Ò°Ê
+ ­ì¦]¬°:
+  ¥Ñ­p®É¾¹±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Schedule\jobs\ScheduleCheck_apikernel_118_12\workspace
+Run condition [Always] enabling prebuild for step [Trigger/call builds on other projects]
+Run condition [Strings match] enabling prebuild for step [Set the build result]
+Run condition [Strings match] enabling prebuild for step [Set the build result]
+Run condition [Strings match] enabling prebuild for step [Set the build result]
+Run condition [Always] enabling perform for step [Trigger/call builds on other projects]
+ERROR: Build step failed with exception
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mjava.lang.IllegalArgumentException: Illegal choice for parameter BRANCH_VER: v10_118_12
+	at hudson.model.ChoiceParameterDefinition.checkValue(ChoiceParameterDefinition.java:80)
+	at hudson.model.ChoiceParameterDefinition.createValue(ChoiceParameterDefinition.java:92)
+	at hudson.model.ChoiceParameterDefinition.createValue(ChoiceParameterDefinition.java:20)
+	at hudson.plugins.parameterizedtrigger.ProjectSpecificParameterValuesActionTransform.convertToDefinedType(ProjectSpecificParameterValuesActionTransform.java:82)
+	at hudson.plugins.parameterizedtrigger.ProjectSpecificParameterValuesActionTransform.transformParametersAction(ProjectSpecificParameterValuesActionTransform.java:33)
+	at hudson.plugins.parameterizedtrigger.ProjectSpecificParametersActionFactory.getProjectSpecificBuildActions(ProjectSpecificParametersActionFactory.java:33)
+	at hudson.plugins.parameterizedtrigger.BuildTriggerConfig.getBuildActions(BuildTriggerConfig.java:370)
+	at hudson.plugins.parameterizedtrigger.BuildTriggerConfig.perform3(BuildTriggerConfig.java:438)
+	at hudson.plugins.parameterizedtrigger.BlockableBuildTriggerConfig.perform3(BlockableBuildTriggerConfig.java:66)
+	at hudson.plugins.parameterizedtrigger.TriggerBuilder.perform(TriggerBuilder.java:88)
+	at org.jenkins_ci.plugins.run_condition.BuildStepRunner$2.run(BuildStepRunner.java:110)
+	at org.jenkins_ci.plugins.run_condition.BuildStepRunner$Fail.conditionalRun(BuildStepRunner.java:154)
+	at org.jenkins_ci.plugins.run_condition.BuildStepRunner.perform(BuildStepRunner.java:105)
+	at org.jenkinsci.plugins.conditionalbuildstep.singlestep.SingleConditionalBuilder.perform(SingleConditionalBuilder.java:109)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:779)
+	at hudson.model.Build$BuildExecution.build(Build.java:206)
+	at hudson.model.Build$BuildExecution.doRun(Build.java:163)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:534)
+	at hudson.model.Run.execute(Run.java:1733)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:405)
+Build step 'Conditional step (single)' marked build as failure
+Sending e-mails to: wppqqppq@gmail.com swdjojo@gmail.com chieh-hao.chang@syntecclub.com.tw Young@syntecclub.com.tw
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4D2dHpPnHmMVWOdicTzMdMiUyoOxfYKZYqLMUlVyQKuKAAAAsh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzNEgZD/az8JP3g5IzUlNKcVBSOc0ZqcnZ8YkFBdmpRXmpOvKGhRbyhkT4AkDlR/uYAAAA=[0mSchedule ? ScheduleCheck_appkernel_118_12 ªº·s«Ø¸m
+Finished: FAILURE

@@ -1,0 +1,12 @@
+Files that are found in folder Current_sdk but NOT in folder Previous_sdk :
+
+CNCSDK\inc\ICustomPLC.h
+CNCSDK\inc\IRotState.h
+CNCSDK\inc\ISPLCState.h
+CNCSDK\inc\ISvoDevComState.h
+CNCSDK\inc\ITuningDevice.h
+CNCSDK\inc\PLCDef.h
+----------------------------------------------------------------------
+Files that are found in folder Previous_sdk but NOT in folder Current_sdk :
+
+----------------------------------------------------------------------

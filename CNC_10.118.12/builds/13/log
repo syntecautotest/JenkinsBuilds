@@ -1,0 +1,772 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b [8mha:////4L6m+png2V+kALXX69h43CRBCWCsXAghmV0TRlvD2ws/AAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/RDX4BBfRz/jeCdfAPc2A1vKAAAA[0mTESTMAN3_BM ¤W»·ºİ«Ø¸m (BM) ¤u§@°Ï D:\Jenkins\workspace\CNC_10.118.12
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\Jenkins\workspace\CNC_10.118.12\.
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\OCTest\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\OCTest\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\OCTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Operation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Operation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Operation\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Common\Data\BgndAlarmMsgChi.Xml
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Common\Data\sedvvUdlx
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Common\Data\AlarmMsgEng.Xml
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Common\Data\BgndAlarmMsgEng.Xml
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Common\Data\AlarmMsgChi.Xml
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Common\Data\sedUaJXWa
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\108_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\107_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\118_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\106_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\117_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\226_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\116_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\227_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\151_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\152_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\121_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\111_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\101_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\122_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\176_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\123_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\177_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\226_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\151_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\227_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\124_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\121_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\117_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\106_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\101_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\107_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\116_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\118_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\123_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\108_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\124_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\152_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\177_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\176_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\122_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\res\Robot\Data\111_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\DllPhysicalDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\DllPhysicalDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\DllPhysicalDriver\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CANDeviceDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CANDeviceDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CANDeviceDriver\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciServo60\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciNull\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciNull\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciNull\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\SerialParam\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\SerialParam\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\SerialParam\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\RTCommDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\RTCommDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\RTCommDriver\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CNC2ASIC\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CNC2ASIC\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioEpcio\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioEpcio\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciM3\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciM2\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciM2\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioPio2\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioPio2\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\SvoUtility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\SvoUtility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\SvoUtility\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\BuildAll\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\BuildAll\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioCNC2PIO\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioCNC2PIO\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciNetServo\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciNetServo\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\IODriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\IODriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\IODriver\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciServo5\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciServo5\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\DeviceAlarm\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\DeviceAlarm\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciRTEX\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciRTEX\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\SriDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\SriDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\PhysicalDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\PhysicalDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\PhysicalDriver\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\Mci30GM\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\Mci30GM\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoDriver\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciEpcio\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\MciEpcio\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoLink\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoLink\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoLink\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoTuning\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoTuning\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\ServoTuning\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CANObjectDictionary\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CANObjectDictionary\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CANObjectDictionary\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioNull\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioNull\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCDevice\Source\CioNull\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\TPDSDK
+Deleting D:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis\Source\SerialPLCAxis\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis\Source\SerialPLCAxis\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis\Source\SerialPLCAxis\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis\Source\Rot\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis\Source\Rot\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis\Source\Rot\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis\Source\release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\diskc
+Deleting D:\Jenkins\workspace\CNC_10.118.12\Build\error
+Deleting D:\Jenkins\workspace\CNC_10.118.12\Build\Packing
+Deleting D:\Jenkins\workspace\CNC_10.118.12\Build\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrl\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrl\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrl\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrlDll\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrlDll\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\GMock\LaserCtrlTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\LadDLL\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\FFTransform\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\FFTransform\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\FFTransform\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\FFTransform\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PLCNet\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PLCNet\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PLCNet\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\x64
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotionPlan\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotionPlan\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotionPlan\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Operation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Operation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Operation\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Comm\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Comm\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Comm\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\InternalCNCAPI\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\InternalCNCAPI\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\InternalCNCAPI\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\InternalCNCAPI\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\WinPAL\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\WinPAL\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\WinPAL\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\WinPAL\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\WinPAL\x64
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\DebugLib\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Utility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Utility\x64
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Utility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Utility\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Utility\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\NcLoader\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\NcLoader\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\NcLoader\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KinematicTransformation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KinematicTransformation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KinematicTransformation\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MSTExeChannel\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MSTExeChannel\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MSTExeChannel\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KePLC\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KePLC\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KePLC\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KePLC\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KePLC\x64
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\XSignal\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\XSignal\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\XSignal\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ProductInfo\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ProductInfo\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ProductInfo\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PathPlan\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PathPlan\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PathPlan\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\DataLog\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\DataLog\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\DataLog\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\LAPACK\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\LAPACK\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\LAPACK\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\NurbsInterpolation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\NurbsInterpolation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\NurbsInterpolation\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\TPDAPI\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\TPDAPI\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\TPDAPI\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PLCDevice\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PLCDevice\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PLCDevice\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Interpolation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Interpolation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Interpolation\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotUtility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotUtility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotUtility\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotUtility\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ToolTable\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ToolTable\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ToolTable\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\x64
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\x64
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\OCKrnl\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\OCKrnl\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\OCKrnl\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\MotUtilityTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\DataLogTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\ProductInfoTest\ProductOutput.txt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\ProductInfoTest\CurrentData.txt
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\ProductInfoTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\InterpolationTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\OperationTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\KinematicTransformTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\UtilityTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\PathPlanTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\MotionPlanTest\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RemotePanel\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RemotePanel\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RemotePanel\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ServoTuning\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ServoTuning\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ServoTuning\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCProtocol\Source\release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCProtocol\Source\ModbusComm\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCProtocol\Source\ModbusComm\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCProtocol\Source\ModbusComm\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\GMock\Source\Debug
+Deleting D:\Jenkins\workspace\CNC_10.118.12\GMock\Source\Release
+Deleting D:\Jenkins\workspace\CNC_10.118.12\OCSDK
+Updating http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/branches/release_v10.118.12 at revision '2018-08-21T18:44:26.764 +0800'
+U         OCDevice\Source\SerialParam\SerialParamTable.cpp
+U         OCDevice\Source\SerialParam\SerialParamDefManager.h
+U         OCDevice\Source\IODriver\IoMapFile.cpp
+U         OCDevice\Source\IODriver\IoMapFile.h
+U         OCKrnl\Source\MotionPlan\RobotMoveL.cpp
+U         OCKrnl\Source\LadDLL\LadderParserService.h
+U         OCKrnl\Source\LadDLL\LadDLL.h
+U         OCKrnl\Source\LadDLL\LadderParserService.cpp
+U         OCKrnl\Source\LadDLL\laddll.cpp
+U         OCKrnl\Source\PathPlan\MacroCore.cpp
+U         OCKrnl\Source\KePLC\PLCScanner.cpp
+U         OCKrnl\Source\KePLC\PLCScanner.h
+U         res\Robot\Data\RawPxt\_151_rbpmchi.pxt
+U         res\Robot\Data\RawPxt\_152_rbpmchi.pxt
+U         res\Robot\Data\RawPxt\_151_rbpmeng.pxt
+U         res\Robot\Data\RawPxt\_176_rbpmchi.pxt
+U         res\Robot\Data\RawPxt\_152_rbpmeng.pxt
+U         res\Robot\Data\RawPxt\_177_rbpmchi.pxt
+U         res\Robot\Data\RawPxt\_176_rbpmeng.pxt
+U         res\Robot\Data\RawPxt\_177_rbpmeng.pxt
+U         res\Robot\Data\RawPxt\_101_rbpmchi.pxt
+U         res\Robot\Data\RawPxt\_101_rbpmeng.pxt
+U         res\SerialDriver\Data\SerialAlarm_ECATPana_CHT.Xml
+U         res\SerialDriver\Data\SerialAlarm_RTEXPana_COM.Xml
+A         res\SerialDriver\Data\M3_Yaskawa_Preload_Tuning_7W.xml
+U         res\SerialDriver\Data\SerialAlarm_RTEXPana_CHT.Xml
+U         res\SerialDriver\Data\SerialAlarm_ECATPana_COM.Xml
+U         res\WinCE\INI\CNCBASE_Common.ini
+U         res\_Arm\_ARTIC\_80R\Res\ParamDef.xml
+U         res\_Arm\_ARTIC\_81R\Res\ParamDef.xml
+U         res\_Arm\_ARTIC\_HHB\Res\ParamDef.xml
+U         res\_Arm\_DELTA\_HHB\Res\ParamDef.xml
+U         res\_Arm\_DELTA\_80R\Res\ParamDef.xml
+U         res\_Arm\_DELTA\_81R\Res\ParamDef.xml
+U         res\_Arm\_SCARA\_HHB\Res\ParamDef.xml
+U         res\_Arm\_SCARA\_80R\Res\ParamDef.xml
+U         res\_Arm\_SCARA\_81R\Res\ParamDef.xml
+At revision 201590
+
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Executing and processing the following script content: 
+svn log %SVN_URL% -r %SVN_REVISION%
+
+[CNC_10.118.12] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins1559745270949044034.bat
+
+D:\Jenkins\workspace\CNC_10.118.12>svn log http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/branches/release_v10.118.12 -r 201590 
+------------------------------------------------------------------------
+r201590 | mark.chen | 2018-08-21 18:42:59 +0800 (¬P´Á¤G, 21 ¤K¤ë 2018) | 6 lines
+
+merge: CNCKL_2532_b_fixPLCEditSimuErr, 201525, to 10.118.12A, 10.118.13
+by «Ø©ú
+
+from 10.116.45, 10.117.45, CNCKL-1582
+
+­×¥¿PLC Editor¼ÒÀÀ¥\¯à¥¢®Äªº°İÃD¡C
+------------------------------------------------------------------------
+
+D:\Jenkins\workspace\CNC_10.118.12>exit 0 
+[EnvInject] - Script executed successfully.
+Set build name.
+New build name is '#13  at rev201590 by «Ø©ú
+'
+[JIRA] Setting JIRA_ISSUES to CNCKL-2532.
+[CNC_10.118.12] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins5326787903200575635.bat
+D:\Jenkins\workspace\CNC_10.118.12\Build
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 77136 bytes (76 KiB)
+
+Extracting archive: \\file\DeveloperZone\PlatformSDK\PlatformSDK1.39.0.zip
+--
+Path = \\file\DeveloperZone\PlatformSDK\PlatformSDK1.39.0.zip
+Type = zip
+Physical Size = 77136
+
+Everything is Ok
+
+Folders: 5
+Files: 5
+Size:       284962
+Compressed: 77136
+PlatformSDK\ReleaseNote.txt
+PlatformSDK\inc\PlatformAPI.h
+PlatformSDK\inc\PlatformDrv.h
+PlatformSDK\lib\wce600\PlatformAPI.lib
+PlatformSDK\lib\wce700arm\PlatformAPI.lib
+½Æ»s 5 ­ÓÀÉ®×
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 677219 bytes (662 KiB)
+
+Extracting archive: \\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+WARNING:
+\\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+Can not open the file as [zip] archive
+The file is open as [Rar] archive
+
+--
+Path = \\file\DeveloperZone\SecuritySDK\SecuritySDK1.0.8.zip
+Open WARNING: Can not open the file as [zip] archive
+Type = Rar
+Physical Size = 677219
+Solid = -
+Blocks = 16
+Multivolume = -
+Volumes = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Folders: 8
+Files: 8
+Size:       10783099
+Compressed: 677219
+SecuritySDK\release.txt
+SecuritySDK\inc\PasswordBitsFunc.h
+SecuritySDK\inc\UseTimeProtect.h
+SecuritySDK\inc\ValidityProtect.h
+SecuritySDK\lib\w32\Debug\SecurityUtil.lib
+SecuritySDK\lib\w32\release\SecurityUtil.lib
+SecuritySDK\lib\wce600\SecurityUtil.lib
+SecuritySDK\lib\wce700arm\SecurityUtil.lib
+½Æ»s 8 ­ÓÀÉ®×
+make header directory
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_10.118.12\Build\..\OCSDK ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_10.118.12\Build\..\OCSDK\inc ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_10.118.12\Build\..\OCSDK\inc\w32 ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_10.118.12\Build\..\OCSDK\inc\w64 ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_10.118.12\Build\..\TPDSDK ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_10.118.12\Build\..\TPDSDK\inc ¤w¸g¦s¦b¡C
+copy D:\Jenkins\workspace\CNC_10.118.12\GMock header to OCSDK
+inc\gmock\gmock-actions.h
+inc\gmock\gmock-cardinalities.h
+inc\gmock\gmock-generated-actions.h
+inc\gmock\gmock-generated-actions.h.pump
+inc\gmock\gmock-generated-function-mockers.h
+inc\gmock\gmock-generated-function-mockers.h.pump
+inc\gmock\gmock-generated-matchers.h
+inc\gmock\gmock-generated-matchers.h.pump
+inc\gmock\gmock-generated-nice-strict.h
+inc\gmock\gmock-generated-nice-strict.h.pump
+inc\gmock\gmock-matchers.h
+inc\gmock\gmock-more-actions.h
+inc\gmock\gmock-more-matchers.h
+inc\gmock\gmock-spec-builders.h
+inc\gmock\gmock.h
+inc\gmock\internal\gmock-generated-internal-utils.h
+inc\gmock\internal\gmock-generated-internal-utils.h.pump
+inc\gmock\internal\gmock-internal-utils.h
+inc\gmock\internal\gmock-port.h
+inc\gtest\gtest-death-test.h
+inc\gtest\gtest-message.h
+inc\gtest\gtest-param-test.h
+inc\gtest\gtest-param-test.h.pump
+inc\gtest\gtest-printers.h
+inc\gtest\gtest-spi.h
+inc\gtest\gtest-test-part.h
+inc\gtest\gtest-typed-test.h
+inc\gtest\gtest.h
+inc\gtest\gtest_pred_impl.h
+inc\gtest\gtest_prod.h
+inc\gtest\internal\gtest-death-test-internal.h
+inc\gtest\internal\gtest-filepath.h
+inc\gtest\internal\gtest-internal.h
+inc\gtest\internal\gtest-linked_ptr.h
+inc\gtest\internal\gtest-param-util-generated.h
+inc\gtest\internal\gtest-param-util-generated.h.pump
+inc\gtest\internal\gtest-param-util.h
+inc\gtest\internal\gtest-port.h
+inc\gtest\internal\gtest-string.h
+inc\gtest\internal\gtest-tuple.h
+inc\gtest\internal\gtest-tuple.h.pump
+inc\gtest\internal\gtest-type-util.h
+inc\gtest\internal\gtest-type-util.h.pump
+½Æ»s 43 ­ÓÀÉ®×
+copy D:\Jenkins\workspace\CNC_10.118.12\LaserCtrl header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\Jenkins\workspace\CNC_10.118.12\OCDevice header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\Jenkins\workspace\CNC_10.118.12\OCKrnl header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\Jenkins\workspace\CNC_10.118.12\OCProtocol header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\Jenkins\workspace\CNC_10.118.12\OCTest header to OCSDK
+copy D:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/makew32 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library FIles
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library FIles
+/makew32 binary files ...
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+FATAL: «ü¥O°õ¦æ¥¢±Ñ
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mjava.nio.channels.ClosedChannelException
+	at org.jenkinsci.remoting.protocol.impl.ChannelApplicationLayer.onReadClosed(ChannelApplicationLayer.java:208)
+	at org.jenkinsci.remoting.protocol.ApplicationLayer.onRecvClosed(ApplicationLayer.java:222)
+	at org.jenkinsci.remoting.protocol.ProtocolStack$Ptr.onRecvClosed(ProtocolStack.java:832)
+	at org.jenkinsci.remoting.protocol.FilterLayer.onRecvClosed(FilterLayer.java:287)
+	at org.jenkinsci.remoting.protocol.impl.SSLEngineFilterLayer.onRecvClosed(SSLEngineFilterLayer.java:181)
+	at org.jenkinsci.remoting.protocol.impl.SSLEngineFilterLayer.switchToNoSecure(SSLEngineFilterLayer.java:283)
+	at org.jenkinsci.remoting.protocol.impl.SSLEngineFilterLayer.processWrite(SSLEngineFilterLayer.java:503)
+	at org.jenkinsci.remoting.protocol.impl.SSLEngineFilterLayer.processQueuedWrites(SSLEngineFilterLayer.java:248)
+	at org.jenkinsci.remoting.protocol.impl.SSLEngineFilterLayer.doSend(SSLEngineFilterLayer.java:200)
+	at org.jenkinsci.remoting.protocol.impl.SSLEngineFilterLayer.doCloseSend(SSLEngineFilterLayer.java:213)
+	at org.jenkinsci.remoting.protocol.ProtocolStack$Ptr.doCloseSend(ProtocolStack.java:800)
+	at org.jenkinsci.remoting.protocol.ApplicationLayer.doCloseWrite(ApplicationLayer.java:173)
+	at org.jenkinsci.remoting.protocol.impl.ChannelApplicationLayer$ByteBufferCommandTransport.closeWrite(ChannelApplicationLayer.java:311)
+	at hudson.remoting.Channel.close(Channel.java:1295)
+	at hudson.slaves.ChannelPinger$1.onDead(ChannelPinger.java:180)
+	at hudson.remoting.PingThread.ping(PingThread.java:130)
+	at hudson.remoting.PingThread.run(PingThread.java:86)
+Caused: java.io.IOException: Backing channel 'JNLP4-connect connection from TESTMAN3/10.10.40.213:52585' is disconnected.
+	at hudson.remoting.RemoteInvocationHandler.channelOrFail(RemoteInvocationHandler.java:192)
+	at hudson.remoting.RemoteInvocationHandler.invoke(RemoteInvocationHandler.java:257)
+	at com.sun.proxy.$Proxy76.isAlive(Unknown Source)
+	at hudson.Launcher$RemoteLauncher$ProcImpl.isAlive(Launcher.java:1043)
+	at hudson.Launcher$RemoteLauncher$ProcImpl.join(Launcher.java:1035)
+	at hudson.tasks.CommandInterpreter.join(CommandInterpreter.java:155)
+	at hudson.tasks.CommandInterpreter.perform(CommandInterpreter.java:109)
+	at hudson.tasks.CommandInterpreter.perform(CommandInterpreter.java:66)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:779)
+	at hudson.model.Build$BuildExecution.build(Build.java:206)
+	at hudson.model.Build$BuildExecution.doRun(Build.java:163)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.run(AbstractBuild.java:534)
+	at hudson.model.Run.execute(Run.java:1733)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:405)
+Build step '°õ¦æ Windows §å¦¸«ü¥O' marked build as failure
+Set build name.
+Workspace is not accessible
+Post-Build Update: Updated Dashboard DB
+ERROR: Step ¡¥«Ê¦s¦¨«~¡¦ failed: no workspace for CNC_10.118.12 #13
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mERROR: Step ¡¥°O¿ıÀÉ®×«ü¯¾¡A¥H«K°lÂÜ¨Ï¥Îª¬ªp¡¦ failed: no workspace for CNC_10.118.12 #13
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mERROR: Step ¡¥¹q¤l¶l¥ó³qª¾¡¦ failed: no workspace for CNC_10.118.12 #13
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mStarted calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Finished: FAILURE

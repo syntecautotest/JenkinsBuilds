@@ -1,0 +1,246 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterValue plugin="nodelabelparameter@1.7.2">
+          <name>NODELABEL</name>
+          <description></description>
+          <label>CNC2</label>
+        </org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterDefinition plugin="nodelabelparameter@1.7.2">
+              <name></name>
+              <description></description>
+              <defaultValue>CNC2</defaultValue>
+              <allNodesMatchingLabel>false</allNodesMatchingLabel>
+              <triggerIfResult>allCases</triggerIfResult>
+              <nodeEligibility class="org.jvnet.jenkins.plugins.nodelabelparameter.node.AllNodeEligibility"/>
+            </org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>wppqqppq</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>7</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.model.Cause$UserIdCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.model.Cause_-UserIdCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9"/>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+    <hudson.scm.SubversionTagAction plugin="subversion@2.7.2">
+      <tags class="hudson.util.CopyOnWriteMap$Tree">
+        <entry>
+          <hudson.scm.SubversionSCM_-SvnInfo>
+            <url>http://developer.syntecclub.com.tw:815/OpenCNC/hardware/CNC2/branches/release_CNC2_v10.118.12</url>
+            <revision>201531</revision>
+          </hudson.scm.SubversionSCM_-SvnInfo>
+          <list/>
+        </entry>
+      </tags>
+    </hudson.scm.SubversionTagAction>
+    <hudson.scm.SVNRevisionState plugin="subversion@2.7.2">
+      <revisions>
+        <entry>
+          <string>http://developer.syntecclub.com.tw:815/OpenCNC/hardware/CNC2/branches/release_CNC2_v10.118.12</string>
+          <long>201531</long>
+        </entry>
+      </revisions>
+    </hudson.scm.SVNRevisionState>
+    <org.jenkinsci.plugins.EnvironmentVarSetter plugin="build-name-setter@1.6.5">
+      <log>
+        <autoFlush>false</autoFlush>
+        <trouble>false</trouble>
+        <closing>true</closing>
+      </log>
+      <envVars>
+        <entry>
+          <string>BUILD_DISPLAY_NAME</string>
+          <string>#5  No changes
+ by logic (pull-up yes): m_BusDataOut&lt;0&gt;, m_BusDataOut&lt;10&gt;, m_BusDataOut&lt;11&gt;, m_BusDataOut&lt;12&gt;, m_BusDataOut&lt;13&gt;, m_BusDataOut&lt;14&gt;, m_BusDataOut&lt;15&gt;, m_BusDataOut&lt;1&gt;, m_BusDataOut&lt;2&gt;, m_BusDataOut&lt;3&gt;, m_BusDataOut&lt;4&gt;, m_BusDataOut&lt;5&gt;, m_BusDataOut&lt;6&gt;, m_BusDataOut&lt;7&gt;, m_BusDataOut&lt;8&gt;, m_BusDataOut&lt;9&gt;.
+</string>
+        </entry>
+      </envVars>
+    </org.jenkinsci.plugins.EnvironmentVarSetter>
+    <hudson.plugins.jira.JiraEnvironmentContributingAction plugin="jira@2.2.1">
+      <issuesList></issuesList>
+      <jiraUrl>http://jira.syntecclub.com.tw:8080/</jiraUrl>
+    </hudson.plugins.jira.JiraEnvironmentContributingAction>
+    <hudson.plugins.descriptionsetter.DescriptionSetterAction plugin="description-setter@1.10">
+      <description>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/&lt;/a&gt;</description>
+    </hudson.plugins.descriptionsetter.DescriptionSetterAction>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>DESCRIPTION_SETTER_DESCRIPTION</name>
+          <value>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/&lt;/a&gt;</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class reference="../../../hudson.model.ParametersAction/parameterDefinitionNames/outer-class"/>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>Build\release\cnc2_22a_m3.bin</string>
+          <string>f00d0e505c426e54a39121d4f1960d8c</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_30gm.bin</string>
+          <string>581c789af899a475f25e06dc98318f8f</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_ethercat.bin</string>
+          <string>324e6f5324cfcf99a8ec6d4ed311adf7</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_v2_m3.bin</string>
+          <string>f710072f7ebde15f1114e19d92aee1f9</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_m3_marking.bin</string>
+          <string>9fc4950357d14975d994d8b2f71464b5</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_v2.bin</string>
+          <string>bb5dec4c0f3da01fdb4375ff8db91384</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_21a.bin</string>
+          <string>1c7fb930b8b9f700d711cead5a3ac045</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_galvomotor_m3.bin</string>
+          <string>c436e62e404eebc7ac61576dd55ec5af</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_22a_m2.bin</string>
+          <string>10c78ce87ea4a75c6cac780f6d1df8df</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_hhb_m3.bin</string>
+          <string>8bd4a361441514d982630c96f2f6bc8c</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_galvomotor_ethercat.bin</string>
+          <string>68c6bcc6fbc68505c381d35a8712e5d9</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_v2_ethercat_marking.bin</string>
+          <string>689df574121fba4b8668e016ed5d1ec3</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_starm2.bin</string>
+          <string>2303546e417ca314afef1fe6e25d1822</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_11b.bin</string>
+          <string>51b79fe27a87edc95ff05e47f6108076</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_22a_ethercat.bin</string>
+          <string>3bc9aa5a14f173cccc090aca458355e4</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_starm_ethercat.bin</string>
+          <string>c7ca3ed28685450e0cad5f629c212c85</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_starm_lx45_ethercat.bin</string>
+          <string>55ffca18108ec8c1b2acfbab2915b61e</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2.bin</string>
+          <string>d5dbbeffd76e8364057fed3673be9573</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_v2_ethercat.bin</string>
+          <string>5fca71d5143b3057e84e0bcc8566c88a</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_4in1driver.bin</string>
+          <string>0e51d32b3efaaeed95d92f349d1f81bc</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_ethercat_marking.bin</string>
+          <string>ef9625004a039abf614474fed2b9e609</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_hhb_ethercat.bin</string>
+          <string>a2d0859b580d5d63de3761252e6d5ada</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_rtex.bin</string>
+          <string>0ea3f614826baba9df76884077cf850c</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_20d.bin</string>
+          <string>ceaa0278303afe0334a4a4a3e60b8579</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_v2_m3_marking.bin</string>
+          <string>96928683c1daf428729fdc0c97ba02bf</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc.bin</string>
+          <string>0036ddab00728aae4044464e91e6953f</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_starm2_lx45.bin</string>
+          <string>25219321fb6fe684f159464a63e4904c</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_ehmc_step_top.bin</string>
+          <string>a0ccbefa2fe5979ea3b7e8833a44eccf</string>
+        </entry>
+        <entry>
+          <string>Build\release\cnc2_fc_m3.bin</string>
+          <string>8bcc1840ce2351b7b6f9cdeb03e8aecc</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.tasks.MailMessageIdAction plugin="mailer@1.20">
+      <messageId>&lt;18920822.35.1534850724064.JavaMail.user1@TESTMAN2&gt;</messageId>
+    </hudson.tasks.MailMessageIdAction>
+  </actions>
+  <queueId>2721</queueId>
+  <timestamp>1534836573799</timestamp>
+  <startTime>1534836573804</startTime>
+  <result>SUCCESS</result>
+  <description>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/&lt;/a&gt;</description>
+  <displayName>#5  No changes
+ by logic (pull-up yes): m_BusDataOut&lt;0&gt;, m_BusDataOut&lt;10&gt;, m_BusDataOut&lt;11&gt;, m_BusDataOut&lt;12&gt;, m_BusDataOut&lt;13&gt;, m_BusDataOut&lt;14&gt;, m_BusDataOut&lt;15&gt;, m_BusDataOut&lt;1&gt;, m_BusDataOut&lt;2&gt;, m_BusDataOut&lt;3&gt;, m_BusDataOut&lt;4&gt;, m_BusDataOut&lt;5&gt;, m_BusDataOut&lt;6&gt;, m_BusDataOut&lt;7&gt;, m_BusDataOut&lt;8&gt;, m_BusDataOut&lt;9&gt;.
+</displayName>
+  <duration>14154302</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn>CNC2_BM_1</builtOn>
+  <workspace>F:\Jenkins\workspace\CNC2\CNC2_11812</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
+    <ignoreDirPropChanges>false</ignoreDirPropChanges>
+  </scm>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

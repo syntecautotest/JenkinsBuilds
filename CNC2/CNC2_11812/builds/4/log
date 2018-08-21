@@ -1,0 +1,18 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4HQ8rx0KufhmNHaz4bvCwU3XOeynes5WBc+FRAJjolSgAAAAnx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgZh/eT83ILSktQifWc/Z6N4J994QwC46encyAAAAA==[0mCNC2_BM_1 ¤W»·ºÝ«Ø¸m (CNC2) ¤u§@°Ï F:\Jenkins
+[WS-CLEANUP] Deleting project workspace...
+ERROR: [WS-CLEANUP] Cannot delete workspace: remote file operation failed: F:\Jenkins at hudson.remoting.Channel@14d28e6:JNLP4-connect connection from 10.10.40.106/10.10.40.106:53925: java.io.IOException: Unable to delete 'F:\Jenkins\slave.jar'. Tried 3 times (of a maximum of 3) waiting 0.1 ¬í between attempts.
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mERROR: Cannot delete workspace: remote file operation failed: F:\Jenkins at hudson.remoting.Channel@14d28e6:JNLP4-connect connection from 10.10.40.106/10.10.40.106:53925: java.io.IOException: Unable to delete 'F:\Jenkins\slave.jar'. Tried 3 times (of a maximum of 3) waiting 0.1 ¬í between attempts.
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0m«Ê¦s¦¨«~
+°O¿ý«ü¯¾
+Sending e-mails to: WeiJen@syntecclub.com.tw marskao@syntecclub.com.tw albert1002@syntecclub.com.tw hebe.am96g@g2.nctu.edu.tw yoana.shih@syntecclub.com.tw chengwei.lin@syntecclub.com.tw evolution6423@yahoo.com.tw firticket@syntecclub.com.tw mark.chen@syntecclub.com.tw alpha0729@syntecclub.com.tw jameslin@syntecclub.com.tw
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  1 second
+Finished: FAILURE
