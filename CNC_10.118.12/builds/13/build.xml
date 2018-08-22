@@ -91,6 +91,15 @@
       <issuesList>CNCKL-2532</issuesList>
       <jiraUrl>http://jira.syntecclub.com.tw:8080/</jiraUrl>
     </hudson.plugins.jira.JiraEnvironmentContributingAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2532</id>
+          <title>執行PLC模擬功能失效</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>2724</queueId>
   <timestamp>1534848266764</timestamp>

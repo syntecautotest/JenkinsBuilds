@@ -1,0 +1,454 @@
+Release 14.7 par P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+WIN-QF1HLTEA2D0::  Wed Aug 22 12:39:58 2018
+
+par -filter iseconfig/filter.filter -w -intstyle ise -ol high -mt off
+CNC2_4in1Driver_map.ncd CNC2_4in1Driver.ncd CNC2_4in1Driver.pcf 
+
+
+Constraints file: CNC2_4in1Driver.pcf.
+Loading device for application Rf_Device from file '6slx25.nph' in environment C:\Xilinx\14.7\ISE_DS\ISE\.
+   "CNC2_4in1Driver" is an NCD, version 3.2, device xc6slx25, package ftg256, speed -3
+
+Initializing temperature to 85.000 Celsius. (default - Range: 0.000 to 85.000 Celsius)
+Initializing voltage to 1.140 Volts. (default - Range: 1.140 to 1.260 Volts)
+
+
+Device speed data version:  "PRODUCTION 1.23 2013-10-13".
+
+
+
+Device Utilization Summary:
+
+Slice Logic Utilization:
+  Number of Slice Registers:                 5,828 out of  30,064   19%
+    Number used as Flip Flops:               5,656
+    Number used as Latches:                    126
+    Number used as Latch-thrus:                  0
+    Number used as AND/OR logics:               46
+  Number of Slice LUTs:                     10,450 out of  15,032   69%
+    Number used as logic:                   10,151 out of  15,032   67%
+      Number using O6 output only:           7,124
+      Number using O5 output only:             723
+      Number using O5 and O6:                2,304
+      Number used as ROM:                        0
+    Number used as Memory:                     182 out of   3,664    4%
+      Number used as Dual Port RAM:            128
+        Number using O6 output only:           112
+        Number using O5 output only:             4
+        Number using O5 and O6:                 12
+      Number used as Single Port RAM:           54
+        Number using O6 output only:            54
+        Number using O5 output only:             0
+        Number using O5 and O6:                  0
+      Number used as Shift Register:             0
+    Number used exclusively as route-thrus:    117
+      Number with same-slice register load:     73
+      Number with same-slice carry load:        44
+      Number with other load:                    0
+
+Slice Logic Distribution:
+  Number of occupied Slices:                 3,363 out of   3,758   89%
+  Number of MUXCYs used:                     2,664 out of   7,516   35%
+  Number of LUT Flip Flop pairs used:       11,079
+    Number with an unused Flip Flop:         5,801 out of  11,079   52%
+    Number with an unused LUT:                 629 out of  11,079    5%
+    Number of fully used LUT-FF pairs:       4,649 out of  11,079   41%
+    Number of slice register sites lost
+      to control set restrictions:               0 out of  30,064    0%
+
+  A LUT Flip Flop pair for this architecture represents one LUT paired with
+  one Flip Flop within a slice.  A control set is a unique combination of
+  clock, reset, set, and enable signals for a registered element.
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+
+IO Utilization:
+  Number of bonded IOBs:                        65 out of     186   34%
+    Number of LOCed IOBs:                       65 out of      65  100%
+    IOB Flip Flops:                              5
+    IOB Latches:                                22
+
+Specific Feature Utilization:
+  Number of RAMB16BWERs:                        24 out of      52   46%
+  Number of RAMB8BWERs:                          0 out of     104    0%
+  Number of BUFIO2/BUFIO2_2CLKs:                 2 out of      32    6%
+    Number used as BUFIO2s:                      2
+    Number used as BUFIO2_2CLKs:                 0
+  Number of BUFIO2FB/BUFIO2FB_2CLKs:             2 out of      32    6%
+    Number used as BUFIO2FBs:                    2
+    Number used as BUFIO2FB_2CLKs:               0
+  Number of BUFG/BUFGMUXs:                       8 out of      16   50%
+    Number used as BUFGs:                        8
+    Number used as BUFGMUX:                      0
+  Number of DCM/DCM_CLKGENs:                     2 out of       4   50%
+    Number used as DCMs:                         2
+    Number used as DCM_CLKGENs:                  0
+  Number of ILOGIC2/ISERDES2s:                   6 out of     272    2%
+    Number used as ILOGIC2s:                     6
+    Number used as ISERDES2s:                    0
+  Number of IODELAY2/IODRP2/IODRP2_MCBs:         0 out of     272    0%
+  Number of OLOGIC2/OSERDES2s:                  21 out of     272    7%
+    Number used as OLOGIC2s:                    21
+    Number used as OSERDES2s:                    0
+  Number of BSCANs:                              0 out of       4    0%
+  Number of BUFHs:                               0 out of     160    0%
+  Number of BUFPLLs:                             0 out of       8    0%
+  Number of BUFPLL_MCBs:                         0 out of       4    0%
+  Number of DSP48A1s:                            0 out of      38    0%
+  Number of ICAPs:                               0 out of       1    0%
+  Number of MCBs:                                0 out of       2    0%
+  Number of PCILOGICSEs:                         0 out of       2    0%
+  Number of PLL_ADVs:                            0 out of       2    0%
+  Number of PMVs:                                0 out of       1    0%
+  Number of STARTUPs:                            0 out of       1    0%
+  Number of SUSPEND_SYNCs:                       0 out of       1    0%
+
+
+Overall effort level (-ol):   High 
+Router effort level (-rl):    High 
+
+Starting initial Timing Analysis.  REAL time: 8 secs 
+Finished initial Timing Analysis.  REAL time: 8 secs 
+
+WARNING:Par:288 - The signal MDC_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal SPI_MISO_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal lb_addr<0>_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal lb_addr<7>_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal lb_addr<8>_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal lb_addr<9>_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_b2_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_a2_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_a3_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_a1_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_b1_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_a2_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_a3_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_b3_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_a1_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_b3_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_b2_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_b1_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_b4_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_a4_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/ml3_transmitter0/Mram_bufwrsize_m1_RAMD_D1_O has no load.  PAR
+   will not attempt to route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_tx_cyclic_buf_a4_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal ML3MST_inst/ml3_logic_root/ml3_flame_control/Mram_rx_cyclic_buf_b4_RAMD_O has no load.  PAR will not attempt to
+   route this signal.
+WARNING:Par:288 - The signal
+   ML3MST_inst/ml3_logic_root/ml3_flame_control/fifo_eth_1/U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.mem/gdm.dm/Mram_RAM_R
+   AMD_D1_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   ML3MST_inst/ml3_logic_root/ml3_flame_control/fifo_eth_0/U0/xst_fifo_generator/gconvfifo.rf/grf.rf/gntv_or_sync_fifo.mem/gdm.dm/Mram_RAM_R
+   AMD_D1_O has no load.  PAR will not attempt to route this signal.
+Starting Router
+
+
+Phase  1  : 61596 unrouted;      REAL time: 9 secs 
+
+Phase  2  : 55258 unrouted;      REAL time: 10 secs 
+
+Phase  3  : 33478 unrouted;      REAL time: 1 mins 1 secs 
+
+Phase  4  : 33478 unrouted; (Setup:0, Hold:10865, Component Switching Limit:0)     REAL time: 1 mins 3 secs 
+
+Updating file: CNC2_4in1Driver.ncd with current fully routed design.
+
+Phase  5  : 0 unrouted; (Setup:0, Hold:8432, Component Switching Limit:0)     REAL time: 25 mins 35 secs 
+
+Phase  6  : 0 unrouted; (Setup:0, Hold:8432, Component Switching Limit:0)     REAL time: 25 mins 35 secs 
+
+Phase  7  : 0 unrouted; (Setup:0, Hold:8432, Component Switching Limit:0)     REAL time: 25 mins 35 secs 
+
+Phase  8  : 0 unrouted; (Setup:0, Hold:8432, Component Switching Limit:0)     REAL time: 25 mins 35 secs 
+
+Phase  9  : 0 unrouted; (Setup:0, Hold:0, Component Switching Limit:0)     REAL time: 25 mins 36 secs 
+
+Phase 10  : 0 unrouted; (Setup:0, Hold:0, Component Switching Limit:0)     REAL time: 25 mins 39 secs 
+Total REAL time to Router completion: 25 mins 39 secs 
+Total CPU time to Router completion: 25 mins 30 secs 
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+Generating "PAR" statistics.
+
+**************************
+Generating Clock Report
+**************************
+
++---------------------+--------------+------+------+------------+-------------+
+|        Clock Net    |   Resource   |Locked|Fanout|Net Skew(ns)|Max Delay(ns)|
++---------------------+--------------+------+------+------------+-------------+
+|      BUFG_CLK_50MHz | BUFGMUX_X2Y12| No   |  786 |  0.239     |  1.280      |
++---------------------+--------------+------+------+------------+-------------+
+|ML3MST_inst/ml3_logi |              |      |      |            |             |
+|c_root/ml3_flame_con |              |      |      |            |             |
+|        trol/clk_25m |  BUFGMUX_X2Y4| No   |   83 |  0.115     |  1.167      |
++---------------------+--------------+------+------+------------+-------------+
+|      BUFG_CLK_40MHz | BUFGMUX_X3Y16| No   |   99 |  0.156     |  1.197      |
++---------------------+--------------+------+------+------------+-------------+
+|      BUFG_CLK_80MHz |  BUFGMUX_X2Y1| No   |  863 |  0.225     |  1.266      |
++---------------------+--------------+------+------+------------+-------------+
+|   BUFG_CLK_Tx_25MHz |  BUFGMUX_X3Y8| No   |   46 |  0.577     |  1.638      |
++---------------------+--------------+------+------+------------+-------------+
+|   BUFG_CLK_Rx_25MHz |  BUFGMUX_X2Y3| No   |   15 |  0.106     |  1.160      |
++---------------------+--------------+------+------+------------+-------------+
+|LocalBusBridgeAleDec |              |      |      |            |             |
+|   _inst/m_ClientCSn |         Local|      |   21 |  1.659     |  3.022      |
++---------------------+--------------+------+------+------------+-------------+
+|ML3MST_inst/ml3_logi |              |      |      |            |             |
+|c_root/mdio_clock_di |              |      |      |            |             |
+|             vide<8> |         Local|      |   32 |  2.484     |  3.327      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[1].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/ModbusFuncM |              |      |      |            |             |
+|anager_1/Modbus_Read |              |      |      |            |             |
+|HoldingReg_1/m_State |              |      |      |            |             |
+|[1]_GND_478_o_Mux_62 |              |      |      |            |             |
+|                  _o |         Local|      |    3 |  0.414     |  1.058      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/ModbusFuncM |              |      |      |            |             |
+|anager_1/Modbus_Read |              |      |      |            |             |
+|HoldingReg_1/m_State |              |      |      |            |             |
+|[1]_GND_478_o_Mux_62 |              |      |      |            |             |
+|                  _o |         Local|      |    3 |  0.331     |  0.622      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[1].SRIComParti |              |      |      |            |             |
+|tion_1/m_ProtocolRea |              |      |      |            |             |
+|dy_m_DataWrEN_OR_601 |              |      |      |            |             |
+|                  _o |         Local|      |    7 |  0.750     |  1.519      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/m_ProtocolRea |              |      |      |            |             |
+|dy_m_DataWrEN_OR_601 |              |      |      |            |             |
+|                  _o |         Local|      |    7 |  0.833     |  1.820      |
++---------------------+--------------+------+------+------------+-------------+
+|         lb_ale_IBUF |         Local|      |   11 |  2.194     |  5.777      |
++---------------------+--------------+------+------+------------+-------------+
+|LocalBusBridgeAleDec |              |      |      |            |             |
+|_inst/iLBALEDEC_ALE_ |              |      |      |            |             |
+|iLBALEDEC_WRn_AND_4_ |              |      |      |            |             |
+|                   o |         Local|      |    4 |  1.009     |  2.432      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[1].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Reset_n_W |              |      |      |            |             |
+|    EB1[0]_AND_567_o |         Local|      |    2 |  0.000     |  0.505      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Reset_n_W |              |      |      |            |             |
+|    EB1[0]_AND_567_o |         Local|      |    2 |  0.000     |  0.505      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/ModbusFuncM |              |      |      |            |             |
+|anager_1/Modbus_WrMu |              |      |      |            |             |
+|ltiReg_1/m_State[1]_ |              |      |      |            |             |
+|  GND_488_o_Mux_63_o |         Local|      |    2 |  0.009     |  0.827      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[1].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/ModbusFuncM |              |      |      |            |             |
+|anager_1/Modbus_WrMu |              |      |      |            |             |
+|ltiReg_1/m_State[1]_ |              |      |      |            |             |
+|  GND_488_o_Mux_63_o |         Local|      |    2 |  0.449     |  0.734      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[1].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Reset_n_W |              |      |      |            |             |
+|    EB1[1]_AND_565_o |         Local|      |    2 |  0.000     |  0.505      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Reset_n_W |              |      |      |            |             |
+|    EB1[1]_AND_565_o |         Local|      |    2 |  0.000     |  0.323      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[1].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/m_1_5Toutfl |              |      |      |            |             |
+|                ag_G |         Local|      |    1 |  0.000     |  0.302      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[1].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/iEN_iTimeOu |              |      |      |            |             |
+|    t[31]_MUX_1457_o |         Local|      |    1 |  0.000     |  0.811      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/m_1_5Toutfl |              |      |      |            |             |
+|                ag_G |         Local|      |    1 |  0.000     |  0.302      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[1].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/m_CRCErrorF |              |      |      |            |             |
+|               lag_G |         Local|      |    1 |  0.000     |  0.302      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/m_CRCErrorF |              |      |      |            |             |
+|               lag_G |         Local|      |    1 |  0.000     |  0.302      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/iEN_iTimeOu |              |      |      |            |             |
+|    t[31]_MUX_1457_o |         Local|      |    1 |  0.000     |  0.811      |
++---------------------+--------------+------+------+------------+-------------+
+
+* Net Skew is the difference between the minimum and maximum routing
+only delays for the net. Note this is different from Clock Skew which
+is reported in TRCE timing report. Clock Skew is the difference between
+the minimum and maximum path delays which includes logic delays.
+
+* The fanout is the number of component pins not the individual BEL loads,
+for example SLICE loads not FF loads.
+
+Timing Score: 0 (Setup: 0, Hold: 0, Component Switching Limit: 0)
+
+Number of Timing Constraints that were not applied: 1
+
+Asterisk (*) preceding a constraint indicates it was not met.
+   This may be due to a setup or hold violation.
+
+----------------------------------------------------------------------------------------------------------
+  Constraint                                |    Check    | Worst Case |  Best Case | Timing |   Timing   
+                                            |             |    Slack   | Achievable | Errors |    Score   
+----------------------------------------------------------------------------------------------------------
+  TS_CLK_80MHz = PERIOD TIMEGRP "CLK_80MHz" | SETUP       |     0.215ns|    12.285ns|       0|           0
+   TS_g_clk / 2 HIGH 50%                    | HOLD        |     0.386ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_CLK_50MHz = PERIOD TIMEGRP "CLK_50MHz" | SETUP       |     0.431ns|    19.569ns|       0|           0
+   TS_PHY25MHz / 2 HIGH 50%                 | HOLD        |     0.273ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_g_clk = PERIOD TIMEGRP "g_clk" 25 ns H | SETUP       |     1.257ns|    22.486ns|       0|           0
+  IGH 50%                                   | HOLD        |     0.112ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = OUT 10 ns AFTER COMP "TX_CLK1"   | MAXDELAY    |     2.579ns|     7.421ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = IN 6 ns VALID 40 ns BEFORE COMP  | SETUP       |     4.720ns|     1.280ns|       0|           0
+  "RX_CLK1"                                 | HOLD        |    33.457ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  NET "IBUFG_CLK_Tx_25MHz" MAXSKEW = 6 ns   | NETSKEW     |     5.607ns|     0.393ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  NET "IBUFG_CLK_Rx_25MHz" MAXSKEW = 6 ns   | NETSKEW     |     5.607ns|     0.393ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = IN 25 ns VALID 25 ns BEFORE COMP | SETUP       |     9.236ns|    15.764ns|       0|           0
+   "g_clk" "RISING"                         | HOLD        |     0.232ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = OUT 25 ns AFTER COMP "g_clk"     | MAXDELAY    |    13.506ns|    11.494ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_TX_CLK1 = PERIOD TIMEGRP "TX_CLK1" 40  | SETUP       |    17.119ns|    17.983ns|       0|           0
+  ns HIGH 50%                               | HOLD        |     0.412ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_PHY25MHz = PERIOD TIMEGRP "PHY25MHz" 4 | MINLOWPULSE |    24.000ns|    16.000ns|       0|           0
+  0 ns HIGH 50%                             |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  OFFSET = IN 40 ns VALID 40 ns BEFORE COMP | SETUP       |    24.364ns|    15.636ns|       0|           0
+   "PHY25MHz" "RISING"                      | HOLD        |     7.890ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = OUT 40 ns AFTER COMP "PHY25MHz"  | MAXDELAY    |    35.974ns|     4.026ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_RX_CLK1 = PERIOD TIMEGRP "RX_CLK1" 40  | SETUP       |    36.683ns|     3.317ns|       0|           0
+  ns HIGH 50%                               | HOLD        |     0.381ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  PATH "TS_ML3_50MHz_to_ML3_HOSTCLK_path" T | SETUP       |         N/A|    25.080ns|     N/A|           0
+  IG                                        |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  PATH "TS_ML3_HOSTCLK_to_ML3_50MHz_path" T | SETUP       |         N/A|    18.021ns|     N/A|           0
+  IG                                        |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+
+
+Derived Constraint Report
+Review Timing Report for more details on the following derived constraints.
+To create a Timing Report, run "trce -v 12 -fastpaths -o design_timing_report design.ncd design.pcf"
+or "Run Timing Analysis" from Timing Analyzer (timingan).
+Derived Constraints for TS_g_clk
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|                               |   Period    |       Actual Period       |      Timing Errors        |      Paths Analyzed       |
+|           Constraint          | Requirement |-------------+-------------|-------------+-------------|-------------+-------------|
+|                               |             |   Direct    | Derivative  |   Direct    | Derivative  |   Direct    | Derivative  |
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|TS_g_clk                       |     25.000ns|     22.486ns|     24.570ns|            0|            0|     36970683|       487272|
+| TS_CLK_80MHz                  |     12.500ns|     12.285ns|          N/A|            0|            0|       487272|            0|
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+
+Derived Constraints for TS_PHY25MHz
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|                               |   Period    |       Actual Period       |      Timing Errors        |      Paths Analyzed       |
+|           Constraint          | Requirement |-------------+-------------|-------------+-------------|-------------+-------------|
+|                               |             |   Direct    | Derivative  |   Direct    | Derivative  |   Direct    | Derivative  |
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|TS_PHY25MHz                    |     40.000ns|     16.000ns|     39.138ns|            0|            0|            0|      1538823|
+| TS_CLK_50MHz                  |     20.000ns|     19.569ns|          N/A|            0|            0|      1538823|            0|
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+
+All constraints were met.
+INFO:Timing:2761 - N/A entries in the Constraints List may indicate that the 
+   constraint is not analyzed due to the following: No paths covered by this 
+   constraint; Other constraints intersect with this constraint; or This 
+   constraint was disabled by a Path Tracing Control. Please run the Timespec 
+   Interaction Report (TSI) via command line (trce tsi) or Timing Analyzer GUI.
+
+
+Generating Pad Report.
+
+All signals are completely routed.
+
+WARNING:Par:283 - There are 25 loadless signals in this design. This design will cause Bitgen to issue DRC warnings.
+
+Total REAL time to PAR completion: 25 mins 43 secs 
+Total CPU time to PAR completion: 25 mins 34 secs 
+
+Peak Memory Usage:  433 MB
+
+Placer: Placement generated during map.
+Routing: Completed - No errors found.
+Timing: Completed - No errors found.
+
+Number of error messages: 0
+Number of warning messages: 27
+Number of info messages: 0
+
+Writing design to file CNC2_4in1Driver.ncd
+
+
+
+PAR done!

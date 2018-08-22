@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201596"><author>mark.chen</author><date>2018-08-21T11:24:37.401258Z</date><paths><path action="M" localPath="Bin\cnc2_starm2_lx45.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm2_lx45.bin</path><path action="M" localPath="Bin\cnc2_fc.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc.bin</path><path action="M" localPath="Bin\cnc2_fc_v2_m3_marking.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2_m3_marking.bin</path><path action="M" localPath="Bin\cnc2_4in1driver.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_4in1driver.bin</path><path action="M" localPath="Bin\cnc2_galvomotor_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_galvomotor_m3.bin</path><path action="M" localPath="Bin\cnc2_hhb_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_hhb_m3.bin</path><path action="M" localPath="Bin\cnc2_30gm.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_30gm.bin</path><path action="M" localPath="Bin\cnc2_22a_m2.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_22a_m2.bin</path><path action="M" localPath="Bin\cnc2_22a_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_22a_m3.bin</path><path action="M" localPath="Bin\cnc2_fc_m3_marking.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_m3_marking.bin</path><path action="M" localPath="Bin\cnc2_fc_v2.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2.bin</path><path action="M" localPath="Bin\cnc2_starm_lx45_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm_lx45_ethercat.bin</path><path action="M" localPath="Bin\cnc2_fc_v2_ethercat_marking.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2_ethercat_marking.bin</path><path action="M" localPath="Bin\cnc2_fc_v2_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2_m3.bin</path><path action="M" localPath="Bin\cnc2.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2.bin</path><path action="M" localPath="Bin\cnc2_21a.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_21a.bin</path><path action="M" localPath="Bin\cnc2_galvomotor_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_galvomotor_ethercat.bin</path><path action="M" localPath="Bin\cnc2_hhb_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_hhb_ethercat.bin</path><path action="M" localPath="Bin\cnc2_22a_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_22a_ethercat.bin</path><path action="M" localPath="Bin\cnc2_fc_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_m3.bin</path><path action="M" localPath="Bin\cnc2_ehmc_step_top.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_ehmc_step_top.bin</path><path action="M" localPath="Bin\cnc2_fc_ethercat_marking.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_ethercat_marking.bin</path><path action="M" localPath="Bin\cnc2_fc_v2_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2_ethercat.bin</path><path action="M" localPath="Bin\cnc2_starm_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm_ethercat.bin</path><path action="M" localPath="Bin\cnc2_rtex.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_rtex.bin</path><path action="M" localPath="Bin\cnc2_starm2.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm2.bin</path><path action="M" localPath="Bin\cnc2_fc_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_ethercat.bin</path></paths><msg>merge CNC2:
+CNC2 Build Time: 2018-08-21 15:30
+CNC2 Version: 00008
+
+the logs are in the following:
+
+fix: 修正自動merge核心SVN位置
+
+fix: 更新版號
+
+copy to
+
+merge: ATEST_923_b_FCRebootFail, 193849, to trunk
+by 儀禕
+
+fix
+
+修正FC系列reboot無效問題
+
+merge: CNCKL_2334_f_AddLX45_v3, 191899-192114, to trunk
+by 儀禕
+
+feature
+
+1. 新增0x22, 0x25韌體。
+2. 新增單板(0xFF) LX45韌體。
+
+merge: CNCKL_2186_f_RemovePinout, 190611-191780, to trunk
+by 儀禕
+
+feature
+
+[內部] 移除多餘的CNC2 pin define。
+
+merge: CNCKL_2232_f_DCMOut, 179088-179420, to trunk, 10.118.0, 10.116.54, 10.116.36
+by 儀禕
+
+feature
+
+[內部] 優化ECAT時鐘模組管理。
+
+merge: CNCKL_2231_f_FCM350MHz, 178105-178107, to trunk
+merge: CNCKL_2231_f_FCM350MHz, 178105, to 10.118.0, 10.116.54, to 10.116.36
+by 儀禕
+
+feature
+
+優化FC-B、60WA、60DB、71SA韌體時鐘架構。
+
+merge: CNCKL_2125_f_BUFG, 177042-177687, to trunk
+merge: CNCKL_2125_f_BUFG_118_0x, 177241-177689, to 10.118.0
+merge: CNCKL_2125_f_BUFG_116_54x, 177251-177690, to 10.116.54
+merge: CNCKL_2125_f_BUFG_116_36x, 177253-177691, to 10.116.36
+by 儀禕
+
+feature
+
+改善韌體時脈穩定性。
+
+fix: timing error
+
+fix: CNCKL-2120 版號+1
+
+merge: CNCKL_2120_f_TimingConstraint, 176328-176518, to trunk
+merge: CNCKL_2120_f_TimingConstraint_118_0x, 176761-176866, to 10.118.0
+merge: CNCKL_2120_f_TimingConstraint_116_54x, 176768-176867, to 10.116.54
+merge: CNCKL_2120_f_TimingConstraint_116_36x, 176773-176868, to 10.116.36
+by 儀禕
+
+feature
+
+增加控制器韌體(CNC2)時脈限制，確保韌體運作時序。
+
+merge: CNCKL_2115_f_MergeKrnlAddCNC2Log, 173476-175058, to trunk
+merge: CNCKL_2115_f_MergeKrnlAddCNC2Log_118_0x, 173481-175059, to 10.118.0
+merge: CNCKL_2115_f_MergeKrnlAddCNC2Log_116_54x, 173482-175060, to 10.116.54
+merge: CNCKL_2115_f_MergeKrnlAddCNC2Log_116_36x, 174885-175061, to 10.116.36
+by 儀禕
+
+feature
+
+[內部] 調整CNC2 merge流程，自動撈回CNC2 log，並在commit回kernel時一起寫到commit log。
+
+</msg></logentry></log>

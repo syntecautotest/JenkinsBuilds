@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201715"><author>simon</author><date>2018-08-22T07:42:29.411602Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/Axis.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/Axis.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/Axis.h</path></paths><msg>merge: ISSUE_13440_b_BacklashErrorAtServoOn_118.12, 201534-201592, to 10.116.54S, 10.118.12A, 10.118.13
+by 昱辰
+
+from 10.116.38G, 10.116.54E, 10.118.0C, 10.118.3, ISSUE-11833
+
+fix:
+	修正Servo Off再Servo On，會多發一次背隙補償命令的錯誤</msg></logentry></log>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201705"><author>colingsta</author><date>2018-08-22T07:18:03.461427Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_GantryRobotProgram.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_GantryRobotProgram.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/RobotPlugin/Plugin/Scr_RobotProgram.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_GantryRobotProgram.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_ArticRobotProgram.cs</path><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_ArticRobotProgram.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_ArticRobotProgram.cs</path></paths><msg>merge appkernel/ISSUE_13033_b_NotreadyRobotProgramClickPopToPage1_118.0x r201244 to 10.118.0M,
+merge appkernel/ISSUE_13033_b_NotreadyRobotProgramClickPopToPage1_118.12x r201205-r201206 to 10.118.12A, 
+merge appkernel/ISSUE_13033_b_NotreadyRobotProgramClickPopToPage1 r200778-r201499 to 10.118.13, by 瑞鴻
+
+修正
+    機器人產品 Artic, Delta, Scara, Gantry 
+      未就緒點擊程式指令時會自動跳轉第一頁的BUG </msg></logentry></log>

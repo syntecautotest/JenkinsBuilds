@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201671"><author>colingsta</author><date>2018-08-22T06:09:03.884956Z</date><paths><path action="M" localPath="Res\Build\MDCore.exe" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/Build/MDCore.exe</path><path action="M" kind="file">/appkernel/trunk/Res/Build/MDCore.exe</path><path action="M" localPath="MMICommon\Source\Tools\MMIApi.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Tools/MMIApi.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Tools/MMIApi.cs</path></paths><msg>merge appkernel/MMI_3659_f_AddAlarmHelpSection r200495-r201273 to 10.118.12A, 10.118.13, by 景媖
+
+新增
+    ROT/SERIALPLCAXIS/SRI/LASERCTRL/PANASONIC/ECAT警報OnlineHelp顯示</msg></logentry></log>
