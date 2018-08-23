@@ -1,0 +1,35 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7979646714427990785.bat
+ID:1 Date:2018/08/23 16:02:28
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 142acc5] 2018/08/23 16:02:28 by 1, Modified Products: TEST-11TB
+ 11 files changed, 0 insertions(+), 0 deletions(-)
+ rename 11MA/Software/Test/Common/{package_be217f73.zip => package_8d13188b.zip} (64%)
+ rename 11MB/Software/Test/Common/{package_4277009c.zip => package_72dd9d58.zip} (64%)
+ rename 11TA/Software/Test/Common/{package_74c467c5.zip => package_65653645.zip} (64%)
+ rename 11TB/Software/Test/Common/{package_40e0b338.zip => package_f6ba1db5.zip} (64%)
+ rename 21MA/Software/Test/Common/{package_2a44c506.zip => package_283ae64a.zip} (64%)
+ rename 21MA_H/Software/Test/Common/{package_eddf312d.zip => package_7ca718a0.zip} (64%)
+ rename 21TA/Software/Test/Common/{package_9aff76cf.zip => package_e0d57b3e.zip} (64%)
+ rename 60PB/Software/Test/Common/{package_270a1706.zip => package_d17728ad.zip} (65%)
+ rename 6MD/Software/Test/Common/{package_1f884911.zip => package_f049483c.zip} (64%)
+ rename 6TD_H/Software/Test/Common/{package_f145cb32.zip => package_1a929dc8.zip} (64%)
+ rename Test_11TB/Software/Test/Common/{package_fa32301a.zip => package_65108d48.zip} (64%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   63405ce..142acc5  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
