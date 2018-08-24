@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="201970"><author>1200</author><date>2018-08-24T05:21:27.062370Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/PathPlan/MacroCore.cpp</path></paths><msg>merge: ATEST_966_b_RobotMOVCAlarmCOR23_10.118.12A, 201926, to 10.118.12A, 10.118.13
+by 家豪
+
+from 10.118.12A, HSHP-2327
+
+機器人產品(ARTIC、SCARA、DELTA)拔除MOVC指令沒下P1、P2點位時會跳警報的機制</msg></logentry></log>
