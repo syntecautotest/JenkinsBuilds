@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="202201"><author>colingsta</author><date>2018-08-27T09:16:56.031647Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Parameter\Scr_Param.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Parameter/Scr_Param.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Parameter/Scr_Param.cs</path></paths><msg>merge appkernel/ATEST_967_b_GotoParamFail r202179-r202193 to 10.118.12A, 10.118.13, by 景媖
+
+修正
+    x86控制器部分參數搜尋不到的問題
+</msg></logentry></log>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="202200"><author>mark.chen</author><date>2018-08-27T09:15:29.529495Z</date><paths><path action="M" localPath="OCKrnl\Source\Utility\ParamStore.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Utility/ParamStore.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/ParamStore.h</path><path action="M" localPath="OCKrnl\Source\Utility\ParamStore.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Utility/ParamStore.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/ParamStore.cpp</path></paths><msg>merge: ATEST_965_b_FixNullPointerInParamStore, 201840-201843, to 10.118.12A, 10.118.13
+by 竺晏
+
+from 10.117.8, CNCKL-248
+
+修正修改控制器參數，跳錯誤視窗的問題。</msg></logentry><logentry revision="202207"><author>marskao</author><date>2018-08-27T09:35:12.120772Z</date><paths><path action="M" localPath="Build\Release_utf8.txt" kind="file">/cnckernel/branches/release_v10.118.12/Build/Release_utf8.txt</path></paths><msg>publish : 10.118.12A</msg></logentry></log>
