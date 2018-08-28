@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8983969815557334859.bat
+Product: NewGroup
+<FileConfig ProductName="NEWGROUP" PackageHead="21A-HMillCE7_ARM"><Files><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54R</Version><Name>package_9cb01b6c.zip</Name><Hash>a9fa940848a0393cda4c913ea44bd6ee</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/NEWGROUP/Software/Delivery/Common/package_9cb01b6c.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54R</Version><Name>Delivery.zip</Name><Hash>f134557e00904b5eb62082129e0d5f96</Hash></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54R</Version><Name>package_67a75111.zip</Name><Hash>f2dc7439d8af8ab33ba3ab88612b0086</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/NEWGROUP/Software/Test/Common/package_67a75111.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54R</Version><Name>Test.zip</Name><Hash>c8519f4607aaf591206eed5a9661a769</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
