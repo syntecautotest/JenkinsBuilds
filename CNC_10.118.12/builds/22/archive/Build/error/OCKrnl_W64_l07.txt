@@ -1,0 +1,275 @@
+------ Rebuild All started: Project: Event, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'Event', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventTrigger.cpp
+.\EventTrigger.cpp(21) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+MixListener.cpp
+.\MixListener.cpp(14) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+.\EventTriggerGroup.cpp(18) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCKrnl\Source\Event\x64\Debug\BuildLog.htm"
+Event - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: Utility, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'Utility', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+_UNCC.cpp
+.\_UNCC.cpp(106) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(107) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(108) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(109) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(110) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+.\_UNCC.cpp(156) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+.\_UNCC.cpp(182) : warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+.\_UNCC.cpp(193) : warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+.\_UNCC.cpp(348) : warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+.\_UNCC.cpp(378) : warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+.\_UNCC.cpp(408) : warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+.\_UNCC.cpp(458) : warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+.\_UNCC.cpp(579) : warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+.\_UNCC.cpp(604) : warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+.\_UNCC.cpp(630) : warning C4244: '=' : conversion from '__int64' to 'int', possible loss of data
+ZRtl.cpp
+.\ZRtl.cpp(615) : warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+.\ZRtl.cpp(712) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\ZRtl.cpp(775) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\ZRtl.cpp(790) : warning C4244: 'initializing' : conversion from '__int64' to 'LONG', possible loss of data
+.\ZRtl.cpp(893) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+ZMath.cpp
+ZipArch.cpp
+.\ZipArch.cpp(124) : warning C4244: 'argument' : conversion from '__int64' to 'unsigned int', possible loss of data
+.\ZipArch.cpp(144) : warning C4244: '-=' : conversion from '__int64' to 'unsigned long', possible loss of data
+ZCRC32.cpp
+x86Platform.cpp
+.\x86Platform.cpp(120) : warning C4267: '=' : conversion from 'size_t' to 'ULONG', possible loss of data
+VStack.cpp
+Vector4d.cpp
+Vector3d.cpp
+Vector2d.cpp
+VArray.cpp
+Variant.cpp
+Unzip.cpp
+.\Unzip.cpp(114) : warning C4267: 'return' : conversion from 'size_t' to 'unsigned int', possible loss of data
+TZPlex.cpp
+Tuple4d.cpp
+Tuple3d.cpp
+Tuple2d.cpp
+Test_HugeFileEditor.cpp
+.\Test_HugeFileEditor.cpp(96) : warning C4267: 'initializing' : conversion from 'size_t' to 'DWORD', possible loss of data
+.\Test_HugeFileEditor.cpp(202) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\Test_HugeFileEditor.cpp(209) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+StringConverter.cpp
+Stream.cpp
+Generating Code...
+Compiling...
+Stack.cpp
+Sphere.cpp
+SmallFileEditor.cpp
+.\SmallFileEditor.cpp(107) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\SmallFileEditor.cpp(231) : warning C4267: 'initializing' : conversion from 'size_t' to 'DWORD', possible loss of data
+.\SmallFileEditor.cpp(251) : warning C4267: 'initializing' : conversion from 'size_t' to 'DWORD', possible loss of data
+.\SmallFileEditor.cpp(330) : warning C4267: 'initializing' : conversion from 'size_t' to 'DWORD', possible loss of data
+.\SmallFileEditor.cpp(350) : warning C4267: 'initializing' : conversion from 'size_t' to 'DWORD', possible loss of data
+.\SmallFileEditor.cpp(413) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\SmallFileEditor.cpp(451) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+ShapeData.cpp
+SetupPacking.cpp
+.\SetupPacking.cpp(161) : warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+QuickMatrixN.cpp
+Quaternion.cpp
+PropertyBag.cpp
+PolynomialRootSolver.cpp
+Point3d.cpp
+Point2d.cpp
+Platform.cpp
+PID.cpp
+ParamStore.cpp
+ParamCracker.cpp
+.\ParamCracker.cpp(330) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\ParamCracker.cpp(418) : warning C4267: '=' : conversion from 'size_t' to 'long', possible loss of data
+PalStdLib.cpp
+OcStreamReader.cpp
+OcFileReader.cpp
+OcDesFileReader.cpp
+NumericalRecipes.cpp
+Generating Code...
+Compiling...
+NumberBag.cpp
+MiddleVoteFilter.cpp
+MatrixN.cpp
+Matrix4d.cpp
+Matrix3d.cpp
+Matrix2d.cpp
+LinkedListPool.cpp
+LinePage.cpp
+LineMap.cpp
+KStringMap.cpp
+.\KStringMap.cpp(90) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\KStringMap.cpp(189) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\KStringMap.cpp(244) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+JXmlTextWriter.cpp
+.\JXmlTextWriter.cpp(374) : warning C4267: '=' : conversion from 'size_t' to 'INT', possible loss of data
+JXmlTextReader.cpp
+.\JXmlTextReader.cpp(129) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\JXmlTextReader.cpp(195) : warning C4267: '=' : conversion from 'size_t' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(257) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(747) : warning C4244: 'return' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(760) : warning C4244: 'return' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(773) : warning C4244: 'return' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(856) : warning C4244: 'return' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(870) : warning C4244: 'return' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(883) : warning C4244: 'return' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(953) : warning C4244: 'argument' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(955) : warning C4244: 'argument' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(961) : warning C4244: 'argument' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(970) : warning C4244: 'argument' : conversion from '__int64' to 'DWORD', possible loss of data
+.\JXmlTextReader.cpp(973) : warning C4244: 'argument' : conversion from '__int64' to 'DWORD', possible loss of data
+.\JXmlTextReader.cpp(988) : warning C4267: 'return' : conversion from 'size_t' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(1030) : warning C4244: '=' : conversion from '__int64' to 'INT', possible loss of data
+.\JXmlTextReader.cpp(1055) : warning C4244: '=' : conversion from '__int64' to 'INT', possible loss of data
+JReplication.cpp
+JRectLayout.cpp
+JFileInfo.cpp
+.\JFileInfo.cpp(272) : warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+JCycleValue.cpp
+.\JCycleValue.cpp(65) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\JCycleValue.cpp(86) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\JCycleValue.cpp(390) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+JCycleSchemaPool.cpp
+JCycleSchema.cpp
+.\JCycleSchema.cpp(127) : warning C4267: 'initializing' : conversion from 'size_t' to 'long', possible loss of data
+JCycleDocument.cpp
+.\JCycleDocument.cpp(213) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleDocument.cpp(226) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JCycleDocument.cpp(338) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JCycleDocument.cpp(342) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JCycleDocument.cpp(380) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+JAllocateOnlyHeap.cpp
+Generating Code...
+Compiling...
+IntervalChecker.cpp
+IntegerQueue.cpp
+IniRegManager.cpp
+IniReg.cpp
+.\IniReg.cpp(353) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\IniReg.cpp(655) : warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+.\IniReg.cpp(666) : warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+HugeFileSharedEditor.cpp
+HugeFileReader.cpp
+HugeFileEditor.cpp
+.\HugeFileEditor.cpp(88) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeFileEditor.cpp(127) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeFileEditor.cpp(286) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\HugeFileEditor.cpp(306) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeFileEditor.cpp(371) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\HugeFileEditor.cpp(392) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+HighPerformanceTimer.cpp
+GVector.cpp
+GuardStore.cpp
+GuardRegistry.cpp
+.\GuardRegistry.cpp(157) : warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+GMatrix.cpp
+Geometry2d.cpp
+FramStore.cpp
+Frame3d.cpp
+FRAM_Parallel.cpp
+FileDirInfo.cpp
+FIFOQueue.cpp
+EventCPBase.cpp
+DocStoreAPI.cpp
+Generating Code...
+Compiling...
+DNCChannel.cpp
+.\DNCChannel.cpp(142) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+DeviceInfoManager.cpp
+DeviceInfo.cpp
+DESObj.cpp
+Cylinder.cpp
+Complex.cpp
+CommPort.cpp
+CharQueue.cpp
+Box.cpp
+BitSet.cpp
+BitFilter.cpp
+BinFileLoader.cpp
+.\BinFileLoader.cpp(289) : warning C4267: '=' : conversion from 'size_t' to 'unsigned long', possible loss of data
+.\BinFileLoader.cpp(307) : warning C4267: '=' : conversion from 'size_t' to 'unsigned long', possible loss of data
+AxisDimension.cpp
+AxisAngle4d.cpp
+AxFrame.cpp
+AsynQueue.cpp
+Argument.cpp
+ArchMgr.cpp
+.\ArchMgr.cpp(322) : warning C4244: '=' : conversion from '__int64' to 'long', possible loss of data
+.\ArchMgr.cpp(349) : warning C4267: 'return' : conversion from 'size_t' to 'int', possible loss of data
+.\ArchMgr.cpp(360) : warning C4244: '=' : conversion from '__int64' to 'unsigned int', possible loss of data
+.\ArchMgr.cpp(402) : warning C4244: '=' : conversion from '__int64' to 'unsigned int', possible loss of data
+.\ArchMgr.cpp(495) : warning C4267: 'return' : conversion from 'size_t' to 'unsigned int', possible loss of data
+AlarmFlags.cpp
+AlarmCode.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCKrnl\Source\Utility\x64\Debug\BuildLog.htm"
+Utility - 0 error(s), 89 warning(s)
+------ Rebuild All started: Project: EventAP, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventAP.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\x64\Debug\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KePLC, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'KePLC', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+LadderCompiler.cpp
+PLCUtility.cpp
+PLCScanner.cpp
+.\PLCScanner.cpp(1648) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+PLCDeviceManager.cpp
+PLCAlarmDef.cpp
+LadderWRPool.cpp
+LadderParser.cpp
+.\LadderParser.cpp(137) : warning C4244: 'return' : conversion from '__int64' to 'int', possible loss of data
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCKrnl\Source\KePLC\x64\Debug\BuildLog.htm"
+KePLC - 0 error(s), 2 warning(s)
+========== Rebuild All: 4 succeeded, 0 failed, 0 skipped ==========
+
