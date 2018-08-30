@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="202635"><author>mark.chen</author><date>2018-08-30T08:30:20.416044Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\GoldenData.txt" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" localPath="OCKrnl\Source\ProductInfo\OptionDef.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/ProductInfo/OptionDef.h</path><path action="M" localPath="OCKrnl\Source\ProductInfo\ProductTable.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/ProductInfo/ProductTable.h</path></paths><msg>merge: CNCKL_2538_f_Add_20TA-R_11654x, 202218, to 10.116.54T
+by 振宇
+
+feature
+
+核心新增 20TA-R 機型。</msg></logentry></log>
