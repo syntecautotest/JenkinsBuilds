@@ -1,0 +1,80 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins6620233528413504843.bat
+ID:9999 Date:2018/08/31 10:02:06
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 3d858e8] 2018/08/31 10:02:06 by 9999, Modified Products: 6TB,6MB,6MA,6TA,6GB-G,IQC,HC-8C,HC-10C,22TA,7MA,7TA,22TB,220MB,220MA,220TB,220MA5,220MB5,60PC,HC-15C,220TB5,HC-80MI
+ 89 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 11MA/Delivery_old_180831.zip
+ create mode 100644 11MA/Test_old_180831.zip
+ create mode 100644 11MB/Delivery_old_180831.zip
+ create mode 100644 11MB/Test_old_180831.zip
+ create mode 100644 11TA/Delivery_old_180831.zip
+ create mode 100644 11TA/Test_old_180831.zip
+ create mode 100644 11TB/Delivery_old_180831.zip
+ create mode 100644 11TB/Test_old_180831.zip
+ create mode 100644 21MA/Delivery_old_180831.zip
+ create mode 100644 21MA/Test_old_180831.zip
+ create mode 100644 21MA_H/Delivery_old_180831.zip
+ create mode 100644 21MA_H/Test_old_180831.zip
+ create mode 100644 21TA/Delivery_old_180831.zip
+ create mode 100644 21TA/Test_old_180831.zip
+ create mode 100644 21TA_H/Delivery_old_180831.zip
+ create mode 100644 21TA_H/Test_old_180831.zip
+ create mode 100644 21TB/Delivery_old_180831.zip
+ create mode 100644 21TB/Test_old_180831.zip
+ create mode 100644 21TB_H/Delivery_old_180831.zip
+ create mode 100644 21TB_H/Test_old_180831.zip
+ create mode 100644 60PB/Delivery_old_180831.zip
+ create mode 100644 60PB/Test_old_180831.zip
+ create mode 100644 6GB_G/Delivery.zip
+ create mode 100644 6GB_G/Test.zip
+ rename 6MA/Software/Delivery/Common/{package_66f08d89.zip => old_180831_package_66f08d89.zip} (100%)
+ create mode 100644 6MA/Software/Delivery/Common/package_97bf82bc.zip
+ rename 6MB/Software/Delivery/Common/{package_a04d7f14.zip => old_180831_package_a04d7f14.zip} (100%)
+ create mode 100644 6MB/Software/Delivery/Common/package_a068632b.zip
+ create mode 100644 6MD/Delivery_old_180831.zip
+ create mode 100644 6MD/Test_old_180831.zip
+ create mode 100644 6MD_H/Delivery_old_180831.zip
+ create mode 100644 6MD_H/Test_old_180831.zip
+ rename 6TA/Software/Delivery/Common/{package_4fded83c.zip => old_180831_package_4fded83c.zip} (100%)
+ create mode 100644 6TA/Software/Delivery/Common/package_d8ff1f2b.zip
+ rewrite 6TA_E/Delivery.zip (99%)
+ copy 6TA_E/{Delivery.zip => Delivery_old_180831.zip} (100%)
+ rewrite 6TA_E/Test.zip (99%)
+ copy 6TA_E/{Test.zip => Test_old_180831.zip} (100%)
+ rename 6TB/Software/Delivery/Common/{package_bafaff48.zip => old_180831_package_bafaff48.zip} (100%)
+ create mode 100644 6TB/Software/Delivery/Common/package_d2f5fad1.zip
+ create mode 100644 6TD_H/Delivery_old_180831.zip
+ create mode 100644 6TD_H/Test_old_180831.zip
+ create mode 100644 HC_10A/Delivery_old_180831.zip
+ create mode 100644 HC_10A/TEST_old_180831.zip
+ create mode 100644 HC_10B/Delivery_old_180831.zip
+ create mode 100644 HC_10B/TEST_old_180831.zip
+ create mode 100644 HC_15A/Delivery_old_180831.zip
+ create mode 100644 HC_15A/TEST_old_180831.zip
+ create mode 100644 HC_15B/Delivery_old_180831.zip
+ create mode 100644 HC_15B/TEST_old_180831.zip
+ create mode 100644 HC_8A/Delivery_old_180831.zip
+ create mode 100644 HC_8A/TEST_old_180831.zip
+ create mode 100644 HC_8B/Delivery_old_180831.zip
+ create mode 100644 HC_8B/TEST_old_180831.zip
+ create mode 100644 HC_8S/Delivery_old_180831.zip
+ create mode 100644 HC_8S/TEST_old_180831.zip
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   59af3df..3d858e8  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
