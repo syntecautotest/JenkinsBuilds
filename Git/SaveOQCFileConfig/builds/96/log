@@ -1,0 +1,51 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4Pk02Lxi2RGBC5ZwjfIKjDw517tmrtztjJobyOA85HXhAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9oYA4A1xAjCs8AAAA=[0m107 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8630736056590656645.bat
+ID:9999 Date:2018/09/04 12:10:37
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   11MA.xml
+	modified:   11MB.xml
+	modified:   11TA.xml
+	modified:   11TB.xml
+	modified:   21MA-H.xml
+	modified:   21MA.xml
+	modified:   21TA-H.xml
+	modified:   21TA.xml
+	modified:   21TB-H.xml
+	modified:   21TB.xml
+	modified:   60PB.xml
+	modified:   6MD-H.xml
+	modified:   6MD.xml
+	modified:   6TA-E.xml
+	modified:   6TD-H.xml
+	modified:   HC-10A.xml
+	modified:   HC-10B.xml
+	modified:   HC-15A.xml
+	modified:   HC-15B.xml
+	modified:   HC-8A.xml
+	modified:   HC-8B.xml
+	modified:   REV.props
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master f8505bb] 2018/09/04 12:10:37 by 9999, Modified Products: 11TB,21MA,HC-10B,HC-8A,6TB,11MA,6MB,6MA,21TB,6TA,21TA,60PB,6GB-G,6MD,11MB,HC-8B,IQC,11TA,21MA-H,6TD-H,6MD-H,21TA-H,21TB-H,HC-10A,HC-8C,HC-10C,HC-15B,22TA,7MA,7TA,22TB,220MB,220MA,220TB,220MA5,220MB5,HC-15A,60PC,HC-15C,220TB5,HC-80MI,6TA-E
+ 22 files changed, 22 insertions(+), 22 deletions(-)
+ rewrite 21MA-H.xml (74%)
+ rewrite 21TA-H.xml (89%)
+ rewrite 6TD-H.xml (74%)
+To github.com:syntecautotest/OQCFileConfig.git
+   80e4e8d..f8505bb  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

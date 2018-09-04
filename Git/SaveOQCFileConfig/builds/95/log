@@ -1,0 +1,28 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4FOiHcRYqyCJhJ8oyBvXtOY9fCSgVIJir8vfZgAy51X2AAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9oYAYAQSAkfc8AAAA=[0m106 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5922584707300846687.bat
+ID:9999 Date:2018/09/04 11:40:53
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   21TB.xml
+	modified:   REV.props
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 80e4e8d] 2018/09/04 11:40:53 by 9999, Modified Products: 21TB
+ 2 files changed, 2 insertions(+), 2 deletions(-)
+To github.com:syntecautotest/OQCFileConfig.git
+   a75fbdf..80e4e8d  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

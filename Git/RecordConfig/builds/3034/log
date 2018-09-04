@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7880810629395244994.bat
+Product: HC-15B
+<FileConfig ProductName="HC-15B" PackageHead="HC_15B_K"><Files><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>package_56a462a0.zip</Name><Hash>709988b234aa816f68d67391b42217de</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_15B/Software/Test/Common/package_56a462a0.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54P</Version><Name>Test.zip</Name><Hash>15a4a176759abc622ca196106f6486c5</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>package_986f868d.zip</Name><Hash>e70d058146d1af269a3f97d1cf220cf2</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_15B/Software/Delivery/Common/package_986f868d.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54P</Version><Name>Delivery.zip</Name><Hash>3811912f74383360a2ef71760c2788e5</Hash></File><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.55.0</Version><Name>WCE7_AM335x_7.55.0.bin</Name><Hash>32cea1effb04f7cdb7d49c6064d70eae</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.55.0/ARMCE7_Image/WCE7_AM335x_7.55.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

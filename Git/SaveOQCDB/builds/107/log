@@ -1,0 +1,103 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5908641272110295603.bat
+ID:9999 Date:2018/09/04 12:10:37
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 5cbd222] 2018/09/04 12:10:37 by 9999, Modified Products: 11TB,21MA,HC-10B,HC-8A,6TB,11MA,6MB,6MA,21TB,6TA,21TA,60PB,6GB-G,6MD,11MB,HC-8B,IQC,11TA,21MA-H,6TD-H,6MD-H,21TA-H,21TB-H,HC-10A,HC-8C,HC-10C,HC-15B,22TA,7MA,7TA,22TB,220MB,220MA,220TB,220MA5,220MB5,HC-15A,60PC,HC-15C,220TB5,HC-80MI,6TA-E
+ 112 files changed, 1 insertion(+)
+ delete mode 100644 11MA/Software/Delivery/Common/Delivery.zip
+ rename 11MA/Software/Delivery/Common/{package_10c5de07.zip => package_78e0a2e4.zip} (82%)
+ delete mode 100644 11MA/Software/Test/Common/Test.zip
+ delete mode 100644 11MB/Software/Delivery/Common/Delivery.zip
+ rename 11MB/Software/Delivery/Common/{package_ed1bd7bb.zip => package_8609d45.zip} (77%)
+ delete mode 100644 11MB/Software/Test/Common/Test.zip
+ delete mode 100644 11TA/Software/Delivery/Common/Delivery.zip
+ rename 11TA/Software/Delivery/Common/{package_22ed1f3f.zip => package_9c9229fb.zip} (83%)
+ delete mode 100644 11TA/Software/Test/Common/Test.zip
+ delete mode 100644 11TB/Software/Delivery/Common/Delivery.zip
+ rename 11TB/Software/Delivery/Common/{package_ef39de56.zip => package_c2e71f6d.zip} (77%)
+ delete mode 100644 11TB/Software/Test/Common/Test.zip
+ delete mode 100644 21MA/Software/Delivery/Common/Delivery.zip
+ rename 21MA/Software/Delivery/Common/{package_4747c6bc.zip => package_96072c7e.zip} (80%)
+ delete mode 100644 21MA/Software/Test/Common/Test.zip
+ rename 21MA/Software/Test/Common/{package_283ae64a.zip => package_26e4f02e.zip} (99%)
+ delete mode 100644 21MA_H/Software/Delivery/Common/Delivery.zip
+ rename 21MA_H/Software/Delivery/Common/{package_3f46ea0.zip => package_87e88568.zip} (80%)
+ delete mode 100644 21MA_H/Software/Test/Common/Test.zip
+ rename 21MA_H/Software/Test/Common/{package_7ca718a0.zip => package_3a63bce8.zip} (99%)
+ delete mode 100644 21TA/Software/Delivery/Common/Delivery.zip
+ rename 21TA/Software/Delivery/Common/{package_76f8043f.zip => package_8a84ba00.zip} (80%)
+ delete mode 100644 21TA/Software/Test/Common/Test.zip
+ rename 21TA/Software/Test/Common/{package_e0d57b3e.zip => package_c1f86f04.zip} (99%)
+ delete mode 100644 21TA_H/Software/Delivery/Common/Delivery.zip
+ rename 21TA_H/Software/Delivery/Common/{package_b1e7ce86.zip => package_67b2f40f.zip} (80%)
+ delete mode 100644 21TA_H/Software/Test/Common/Test.zip
+ rename 21TA_H/Software/Test/Common/{package_e122b25f.zip => package_bd9a253.zip} (99%)
+ rename 21TB/Software/Delivery/Common/{package_11ba6acd.zip => package_78924c5c.zip} (80%)
+ rename 21TB/Software/Test/Common/{package_9dc85e96.zip => package_f8341e2d.zip} (99%)
+ delete mode 100644 21TB/Software/Test/Test.zip
+ delete mode 100644 21TB_H/Software/Delivery/Common/Delivery.zip
+ rename 21TB_H/Software/Delivery/Common/{package_b91596a8.zip => package_d92fc440.zip} (80%)
+ delete mode 100644 21TB_H/Software/Test/Common/Test.zip
+ rename 21TB_H/Software/Test/Common/{package_a7817643.zip => package_2ce00779.zip} (99%)
+ delete mode 100644 60PB/Software/Delivery/Common/Delivery.zip
+ rename 60PB/Software/Delivery/Common/{package_9a227c81.zip => package_33c3bf8b.zip} (80%)
+ delete mode 100644 60PB/Software/Test/Common/Test.zip
+ rename 60PB/Software/Test/Common/{package_d17728ad.zip => package_ecb4f10c.zip} (99%)
+ delete mode 100644 6MD/Software/Delivery/Common/Delivery.zip
+ rename 6MD/Software/Delivery/Common/{package_46123f25.zip => package_2ecf8c36.zip} (80%)
+ delete mode 100644 6MD/Software/Test/Common/Test.zip
+ rename 6MD/Software/Test/Common/{package_f049483c.zip => package_45aa6963.zip} (99%)
+ delete mode 100644 6MD_H/Software/Delivery/Common/Delivery.zip
+ rename 6MD_H/Software/Delivery/Common/{package_5ab0b622.zip => package_c9c41946.zip} (80%)
+ delete mode 100644 6MD_H/Software/Test/Common/Test.zip
+ rename 6MD_H/Software/Test/Common/{package_d4d9fc5b.zip => package_1b3ade0d.zip} (99%)
+ rename 6TA_E/{Software => Packing}/Delivery/Common/Delivery.zip (100%)
+ rename 6TA_E/{Software => Packing}/Test/Common/Test.zip (100%)
+ rename 6TA_E/Software/Delivery/Common/{package_6fe8f024.zip => package_99b40599.zip} (82%)
+ rename 6TA_E/Software/Test/Common/{package_7a248a2c.zip => package_f933755a.zip} (99%)
+ delete mode 100644 6TD_H/Software/Delivery/Common/Delivery.zip
+ rename 6TD_H/Software/Delivery/Common/{package_a137a29.zip => package_abfa68a3.zip} (80%)
+ delete mode 100644 6TD_H/Software/Test/Common/Test.zip
+ rename 6TD_H/Software/Test/Common/{package_1a929dc8.zip => package_4b15efa5.zip} (99%)
+ delete mode 100644 HC_10A/Software/Delivery/Common/Delivery.zip
+ rename HC_10A/Software/Delivery/Common/{package_14d41bc6.zip => package_e1cfbe53.zip} (82%)
+ delete mode 100644 HC_10A/Software/Test/Common/Test.zip
+ delete mode 100644 HC_10B/Software/Delivery/Common/Delivery.zip
+ rename HC_15B/Software/Delivery/Common/package_986f868d.zip => HC_10B/Software/Delivery/Common/package_75423658.zip (80%)
+ delete mode 100644 HC_10B/Software/Test/Common/Test.zip
+ rename HC_10B/Software/Test/Common/{package_a3cdaac0.zip => package_8bbf2070.zip} (99%)
+ delete mode 100644 HC_15A/Software/Delivery/Common/Delivery.zip
+ rename HC_15A/Software/Delivery/Common/{package_14d41bc6.zip => package_e1cfbe53.zip} (82%)
+ delete mode 100644 HC_15A/Software/Test/Common/Test.zip
+ delete mode 100644 HC_15B/Software/Delivery/Common/Delivery.zip
+ rename HC_10B/Software/Delivery/Common/package_986f868d.zip => HC_15B/Software/Delivery/Common/package_75423658.zip (80%)
+ delete mode 100644 HC_15B/Software/Test/Common/Test.zip
+ rename HC_15B/Software/Test/Common/{package_56a462a0.zip => package_ab117a07.zip} (99%)
+ delete mode 100644 HC_8A/Software/Delivery/Common/Delivery.zip
+ rename HC_8A/Software/Delivery/Common/{package_932c7a70.zip => package_32ae59a4.zip} (86%)
+ delete mode 100644 HC_8A/Software/Test/Common/Test.zip
+ delete mode 100644 HC_8B/Software/Delivery/Common/Delivery.zip
+ rename HC_8B/Software/Delivery/Common/{package_8ea2f257.zip => package_683b12ee.zip} (80%)
+ delete mode 100644 HC_8B/Software/Test/Common/Test.zip
+ rename HC_8B/Software/Test/Common/{package_96545794.zip => package_2b270fd1.zip} (99%)
+ delete mode 100644 HC_8S/Software/Delivery/Common/Delivery.zip
+ delete mode 100644 HC_8S/Software/Test/Common/Test.zip
+ create mode 100644 LOCK
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   e02ae8e..5cbd222  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
