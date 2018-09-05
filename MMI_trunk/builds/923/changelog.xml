@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203184"><author>colingsta</author><date>2018-09-05T05:12:59.254232Z</date><paths><path action="M" localPath="OCUser\Source\OCUser\HugeEdit.h" kind="file">/appkernel/trunk/OCUser/Source/OCUser/HugeEdit.h</path><path action="M" localPath="OCUser\Source\OCUser\HugeEdit.cpp" kind="file">/appkernel/trunk/OCUser/Source/OCUser/HugeEdit.cpp</path></paths><msg>merge appkernel/ISSUE_13302_b_LoadFileSlow r201242-r202211 to 10.118.13, by 禮芳
+
+修正
+    "加工監控頁面載入檔案比程式編輯慢很多"的問題</msg></logentry></log>

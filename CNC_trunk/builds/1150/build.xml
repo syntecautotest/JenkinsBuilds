@@ -108,6 +108,10 @@
           <string>3692ca243c513bd9aa24b9fd0b76c873</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.12.zip</string>
+          <string>ef85a86b2bb2f1ac48ce9c0ba0884f60</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.12\CECNC\SDK\OCRes_10.118.12.zip</string>
           <string>1782a5df7edca28796507d83139ecbbd</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2482</id>
+          <title>控制器支援RTEX</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>4020</queueId>
   <timestamp>1536042788072</timestamp>
