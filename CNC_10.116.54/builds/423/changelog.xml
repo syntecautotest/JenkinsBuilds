@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203322"><author>mark.chen</author><date>2018-09-06T06:21:23.087041Z</date><paths><path action="A" localPath="Bin\cnc2_22a_rtex.bin" kind="file">/cnckernel/branches/release_v10.116.54/Bin/cnc2_22a_rtex.bin</path></paths><msg>merge CNC2:
+CNC2 Build Time: 2018-09-06 12:30
+CNC2 Version: 00008
+
+the logs are in the following:
+
+merge: CNCKL_2490_f_RTEXBatch, 200292-202019, to 10.118.13
+merge: CNCKL_2490_f_RTEXBatch_118_12x, 202020-202022, to 10.118.12B
+merge: CNCKL_2490_f_RTEXBatch_116_54x, 202769-203034, to 10.116.54T
+by 儀禕
+
+feature
+
+新增RTEX相關韌體自動build與解密機制
+
+merge: CNCKL_2447_f_RTEXipCore, 197376-203111, to trunk
+merge: CNCKL_2447_f_RTEXipCore_118_12x, 201738-201857, to 10.118.12
+merge: CNCKL_2447_f_RTEXipCore_116_54x, 202493-203035, to 10.116.54
+by 儀禕
+
+feature
+
+[10.118.12.x, 10.118.x] 
+新增韌體，HwID 0x0B, 0xFF支援RTEX通訊。 
+
+[10.116.54.x] 
+新增韌體，HwID 0x0BF支援RTEX通訊。
+
+</msg></logentry></log>

@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203375"><author>mark.chen</author><date>2018-09-06T08:34:11.581037Z</date><paths><path action="M" localPath="Bin\cnc2_starm2_lx45.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm2_lx45.bin</path><path action="M" localPath="Bin\cnc2_fc.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc.bin</path><path action="M" localPath="Bin\cnc2_fc_v2_m3_marking.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2_m3_marking.bin</path><path action="M" localPath="Bin\cnc2_4in1driver.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_4in1driver.bin</path><path action="M" localPath="Bin\cnc2_galvomotor_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_galvomotor_m3.bin</path><path action="M" localPath="Bin\cnc2_hhb_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_hhb_m3.bin</path><path action="M" localPath="Bin\cnc2_30gm.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_30gm.bin</path><path action="M" localPath="Bin\cnc2_22a_m2.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_22a_m2.bin</path><path action="M" localPath="Bin\cnc2_22a_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_22a_m3.bin</path><path action="M" localPath="Bin\cnc2_fc_m3_marking.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_m3_marking.bin</path><path action="M" localPath="Bin\cnc2_fc_v2.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2.bin</path><path action="M" localPath="Bin\cnc2_starm_lx45_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm_lx45_ethercat.bin</path><path action="M" localPath="Bin\cnc2_fc_v2_ethercat_marking.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2_ethercat_marking.bin</path><path action="M" localPath="Bin\cnc2_fc_v2_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2_m3.bin</path><path action="M" localPath="Bin\cnc2.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2.bin</path><path action="M" localPath="Bin\cnc2_21a.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_21a.bin</path><path action="A" localPath="Bin\cnc2_starm_lx45_rtex.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm_lx45_rtex.bin</path><path action="M" localPath="Bin\cnc2_galvomotor_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_galvomotor_ethercat.bin</path><path action="M" localPath="Bin\cnc2_hhb_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_hhb_ethercat.bin</path><path action="M" localPath="Bin\cnc2_22a_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_22a_ethercat.bin</path><path action="M" localPath="Bin\cnc2_fc_m3.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_m3.bin</path><path action="M" localPath="Bin\cnc2_ehmc_step_top.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_ehmc_step_top.bin</path><path action="M" localPath="Bin\cnc2_fc_ethercat_marking.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_ethercat_marking.bin</path><path action="M" localPath="Bin\cnc2_fc_v2_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_v2_ethercat.bin</path><path action="A" localPath="Bin\cnc2_22a_rtex.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_22a_rtex.bin</path><path action="M" localPath="Bin\cnc2_starm_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm_ethercat.bin</path><path action="M" localPath="Bin\cnc2_rtex.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_rtex.bin</path><path action="M" localPath="Bin\cnc2_starm2.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm2.bin</path><path action="A" localPath="Bin\cnc2_starm_rtex.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_starm_rtex.bin</path><path action="M" localPath="Bin\cnc2_fc_ethercat.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_fc_ethercat.bin</path></paths><msg>merge CNC2:
+CNC2 Build Time: 2018-09-06 14:22
+CNC2 Version: 00009
+
+the logs are in the following:
+
+merge: CNCKL_2490_f_RTEXBatch, 200292-202019, to 10.118.13
+merge: CNCKL_2490_f_RTEXBatch_118_12x, 202020-202022, to 10.118.12B
+merge: CNCKL_2490_f_RTEXBatch_116_54x, 202769-203034, to 10.116.54T
+by 儀禕
+
+feature
+
+新增RTEX相關韌體自動build與解密機制
+
+merge: CNCKL_2447_f_RTEXipCore, 197376-203111, to trunk
+merge: CNCKL_2447_f_RTEXipCore_118_12x, 201738-201857, to 10.118.12
+merge: CNCKL_2447_f_RTEXipCore_116_54x, 202493-203035, to 10.116.54
+by 儀禕
+
+feature
+
+[10.118.12.x, 10.118.x] 
+新增韌體，HwID 0x0B, 0xFF支援RTEX通訊。 
+
+[10.116.54.x] 
+新增韌體，HwID 0x0BF支援RTEX通訊。
+
+</msg></logentry></log>

@@ -1,0 +1,216 @@
+cnc2 error log 
+=========================== 
+.\cnc2.bld:30:  Number of errors:     0
+.\cnc2.syr:2830:Number of errors   :    0 (   0 filtered)
+.\cnc2_map.map:594:Number of errors:      0
+.\cnc2.par:586:Number of error messages: 0
+.\cnc2.twr:753:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+cnc2_21A error log 
+=========================== 
+.\cnc2_21A.bld:30:  Number of errors:     0
+.\cnc2_21A.syr:2881:Number of errors   :    0 (   0 filtered)
+.\cnc2_21A_map.map:242:Number of errors:      0
+.\cnc2_21A.par:326:Number of error messages: 0
+.\cnc2_21A.twr:709:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+cnc2_30GM error log 
+=========================== 
+.\cnc2_30GM.bld:30:  Number of errors:     0
+.\cnc2_30GM.syr:1859:Number of errors   :    0 (   0 filtered)
+.\cnc2_30GM_map.map:602:Number of errors:      0
+.\cnc2_30GM.par:546:Number of error messages: 0
+.\cnc2_30GM.twr:762:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+cnc2_RTEX error log 
+=========================== 
+.\cnc2_RTEX.bld:30:  Number of errors:     0
+.\cnc2_RTEX.syr:2677:Number of errors   :    0 (   0 filtered)
+.\cnc2_RTEX_map.map:255:Number of errors:      0
+.\cnc2_RTEX.par:322:Number of error messages: 0
+.\cnc2_RTEX.twr:691:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_4in1Driver error log 
+=========================== 
+.\CNC2_4in1Driver.bld:45:  Number of errors:     0
+.\CNC2_4in1Driver.syr:4293:Number of errors   :    0 (   0 filtered)
+.\CNC2_4in1Driver_map.map:215:Number of errors:      0
+.\CNC2_4in1Driver.par:446:Number of error messages: 0
+.\CNC2_4in1Driver.twr:6361:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_22A_EtherCAT error log 
+=========================== 
+.\CNC2_22A_EtherCAT.bld:80:  Number of errors:     0
+.\CNC2_22A_EtherCAT.syr:5187:Number of errors   :    0 (   0 filtered)
+.\CNC2_22A_EtherCAT_map.map:323:Number of errors:      0
+.\CNC2_22A_EtherCAT.par:578:Number of error messages: 0
+.\CNC2_22A_EtherCAT.twr:6071:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_22A_M2 error log 
+=========================== 
+.\CNC2_22A_M2.bld:36:  Number of errors:     0
+.\CNC2_22A_M2.syr:4923:Number of errors   :    0 (   0 filtered)
+.\CNC2_22A_M2_map.map:307:Number of errors:      0
+.\CNC2_22A_M2.par:519:Number of error messages: 0
+.\CNC2_22A_M2.twr:3322:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_22A_M3 error log 
+=========================== 
+.\CNC2_22A_M3.bld:44:  Number of errors:     0
+.\CNC2_22A_M3.syr:5414:Number of errors   :    0 (   0 filtered)
+.\CNC2_22A_M3_map.map:393:Number of errors:      0
+.\CNC2_22A_M3.par:591:Number of error messages: 0
+.\CNC2_22A_M3.twr:6464:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_EHMC_STEP_TOP error log 
+=========================== 
+.\CNC2_EHMC_STEP_TOP.bld:37:  Number of errors:     0
+.\CNC2_EHMC_STEP_TOP.syr:3673:Number of errors   :    0 (   0 filtered)
+.\CNC2_EHMC_STEP_TOP_map.map:951:Number of errors:      0
+.\CNC2_EHMC_STEP_TOP.par:979:Number of error messages: 0
+.\CNC2_EHMC_STEP_TOP.twr:3153:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC error log 
+=========================== 
+.\CNC2_FC.bld:36:  Number of errors:     0
+.\CNC2_FC.syr:4458:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_map.map:1618:Number of errors:      0
+.\CNC2_FC.par:1537:Number of error messages: 0
+.\CNC2_FC.twr:3749:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_EtherCAT error log 
+=========================== 
+.\CNC2_FC_EtherCAT.bld:80:  Number of errors:     0
+.\CNC2_FC_EtherCAT.syr:4844:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_EtherCAT_map.map:1133:Number of errors:      0
+.\CNC2_FC_EtherCAT.par:1056:Number of error messages: 0
+.\CNC2_FC_EtherCAT.twr:6453:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_EtherCAT_MARKING error log 
+=========================== 
+.\CNC2_FC_EtherCAT_MARKING.bld:81:  Number of errors:     0
+.\CNC2_FC_EtherCAT_MARKING.syr:4741:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_EtherCAT_MARKING_map.map:1126:Number of errors:      0
+.\CNC2_FC_EtherCAT_MARKING.par:989:Number of error messages: 0
+.\CNC2_FC_EtherCAT_MARKING.twr:5758:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_M3 error log 
+=========================== 
+.\CNC2_FC_M3.bld:44:  Number of errors:     0
+.\CNC2_FC_M3.syr:4833:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_M3_map.map:1023:Number of errors:      0
+.\CNC2_FC_M3.par:1048:Number of error messages: 0
+.\CNC2_FC_M3.twr:5678:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_M3_MARKING error log 
+=========================== 
+.\CNC2_FC_M3_MARKING.bld:45:  Number of errors:     0
+.\CNC2_FC_M3_MARKING.syr:4731:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_M3_MARKING_map.map:1189:Number of errors:      0
+.\CNC2_FC_M3_MARKING.par:998:Number of error messages: 0
+.\CNC2_FC_M3_MARKING.twr:5529:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_GalvoMotor_EtherCAT error log 
+=========================== 
+.\CNC2_GalvoMotor_EtherCAT.bld:84:  Number of errors:     0
+.\CNC2_GalvoMotor_EtherCAT.syr:6207:Number of errors   :    0 (   0 filtered)
+.\CNC2_GalvoMotor_EtherCAT_map.map:1146:Number of errors:      0
+.\CNC2_GalvoMotor_EtherCAT.par:1010:Number of error messages: 0
+.\CNC2_GalvoMotor_EtherCAT.twr:6219:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_GalvoMotor_M3 error log 
+=========================== 
+.\CNC2_GalvoMotor_M3.bld:48:  Number of errors:     0
+.\CNC2_GalvoMotor_M3.syr:6254:Number of errors   :    0 (   0 filtered)
+.\CNC2_GalvoMotor_M3_map.map:1212:Number of errors:      0
+.\CNC2_GalvoMotor_M3.par:1037:Number of error messages: 0
+.\CNC2_GalvoMotor_M3.twr:6564:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_HHB_etherCAT error log 
+=========================== 
+.\CNC2_HHB_etherCAT.bld:80:  Number of errors:     0
+.\CNC2_HHB_etherCAT.syr:4246:Number of errors   :    0 (   0 filtered)
+.\CNC2_HHB_etherCAT_map.map:120:Number of errors:      0
+.\CNC2_HHB_etherCAT.par:373:Number of error messages: 0
+.\CNC2_HHB_etherCAT.twr:5833:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_HHB_M3 error log 
+=========================== 
+.\CNC2_HHB_M3.bld:44:  Number of errors:     0
+.\CNC2_HHB_M3.syr:4286:Number of errors   :    0 (   0 filtered)
+.\CNC2_HHB_M3_map.map:190:Number of errors:      0
+.\CNC2_HHB_M3.par:405:Number of error messages: 0
+.\CNC2_HHB_M3.twr:5675:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_V2 error log 
+=========================== 
+.\CNC2_FC_V2.bld:36:  Number of errors:     0
+.\CNC2_FC_V2.syr:4455:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_V2_map.map:1618:Number of errors:      0
+.\CNC2_FC_V2.par:1533:Number of error messages: 0
+.\CNC2_FC_V2.twr:3800:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_V2_EtherCAT error log 
+=========================== 
+.\CNC2_FC_V2_EtherCAT.bld:80:  Number of errors:     0
+.\CNC2_FC_V2_EtherCAT.syr:4837:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_V2_EtherCAT_map.map:1160:Number of errors:      0
+.\CNC2_FC_V2_EtherCAT.par:1049:Number of error messages: 0
+.\CNC2_FC_V2_EtherCAT.twr:6420:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_V2_EtherCAT_MARKING error log 
+=========================== 
+.\CNC2_FC_V2_EtherCAT_MARKING.bld:82:  Number of errors:     0
+.\CNC2_FC_V2_EtherCAT_MARKING.syr:4733:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_V2_EtherCAT_MARKING_map.map:1126:Number of errors:      0
+.\CNC2_FC_V2_EtherCAT_MARKING.par:982:Number of error messages: 0
+.\CNC2_FC_V2_EtherCAT_MARKING.twr:5609:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_V2_M3 error log 
+=========================== 
+.\CNC2_FC_V2_M3.bld:44:  Number of errors:     0
+.\CNC2_FC_V2_M3.syr:4822:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_V2_M3_map.map:1024:Number of errors:      0
+.\CNC2_FC_V2_M3.par:1040:Number of error messages: 0
+.\CNC2_FC_V2_M3.twr:5275:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_FC_V2_M3_MARKING error log 
+=========================== 
+.\CNC2_FC_V2_M3_MARKING.bld:45:  Number of errors:     0
+.\CNC2_FC_V2_M3_MARKING.syr:4721:Number of errors   :    0 (   0 filtered)
+.\CNC2_FC_V2_M3_MARKING_map.map:1190:Number of errors:      0
+.\CNC2_FC_V2_M3_MARKING.par:991:Number of error messages: 0
+.\CNC2_FC_V2_M3_MARKING.twr:5577:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_STARM_ETHERCAT error log 
+=========================== 
+.\CNC2_STARM_ETHERCAT.bld:80:  Number of errors:     0
+.\CNC2_STARM_ETHERCAT.syr:4909:Number of errors   :    0 (   0 filtered)
+.\CNC2_STARM_ETHERCAT_map.map:128:Number of errors:      0
+.\CNC2_STARM_ETHERCAT.par:390:Number of error messages: 0
+.\CNC2_STARM_ETHERCAT.twr:5772:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_STARM2 error log 
+=========================== 
+.\CNC2_STARM2.bld:44:  Number of errors:     0
+.\CNC2_STARM2.syr:5074:Number of errors   :    0 (   0 filtered)
+.\CNC2_STARM2_map.map:194:Number of errors:      0
+.\CNC2_STARM2.par:421:Number of error messages: 0
+.\CNC2_STARM2.twr:5958:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_STARM_LX45_ETHERCAT error log 
+=========================== 
+.\CNC2_STARM_LX45_ETHERCAT.bld:81:  Number of errors:     0
+.\CNC2_STARM_LX45_ETHERCAT.syr:4909:Number of errors   :    0 (   0 filtered)
+.\CNC2_STARM_LX45_ETHERCAT_map.map:129:Number of errors:      0
+.\CNC2_STARM_LX45_ETHERCAT.par:391:Number of error messages: 0
+.\CNC2_STARM_LX45_ETHERCAT.twr:5151:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 
+CNC2_STARM2_LX45 error log 
+=========================== 
+.\CNC2_STARM2_LX45.bld:45:  Number of errors:     0
+.\CNC2_STARM2_LX45.syr:5074:Number of errors   :    0 (   0 filtered)
+.\CNC2_STARM2_LX45_map.map:194:Number of errors:      0
+.\CNC2_STARM2_LX45.par:421:Number of error messages: 0
+.\CNC2_STARM2_LX45.twr:6171:Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+=========================== 

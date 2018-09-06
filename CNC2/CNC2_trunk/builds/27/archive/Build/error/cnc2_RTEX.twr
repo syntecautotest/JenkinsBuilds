@@ -1,0 +1,684 @@
+--------------------------------------------------------------------------------
+Release 14.7 Trace  (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\trce.exe -filter
+iseconfig/filter.filter -intstyle ise -v 3 -s 3 -n 3 -fastpaths -xml
+cnc2_RTEX.twx cnc2_RTEX.ncd -o cnc2_RTEX.twr cnc2_RTEX.pcf -ucf cnc2_RTEX.ucf
+
+Design file:              cnc2_RTEX.ncd
+Physical constraint file: cnc2_RTEX.pcf
+Device,package,speed:     xc6slx9,tqg144,C,-3 (PRODUCTION 1.23 2013-10-13)
+Report level:             verbose report
+
+Environment Variable      Effect 
+--------------------      ------ 
+NONE                      No environment variables were set
+--------------------------------------------------------------------------------
+
+INFO:Timing:3412 - To improve timing, see the Timing Closure User Guide (UG612).
+INFO:Timing:2752 - To get complete path coverage, use the unconstrained paths 
+   option. All paths that are not constrained will be reported in the 
+   unconstrained paths section(s) of the report.
+INFO:Timing:3339 - The clock-to-out numbers in this timing report are based on 
+   a 50 Ohm transmission line loading model.  For the details of this model, 
+   and for more information on accounting for different loading conditions, 
+   please see the device datasheet.
+
+================================================================================
+Timing constraint: TS_g_clk = PERIOD TIMEGRP "g_clk" 20 ns HIGH 50%;
+For more information, see Period Analysis in the Timing Closure User Guide (UG612).
+
+ 216256573 paths analyzed, 11038 endpoints analyzed, 0 failing endpoints
+ 0 timing errors detected. (0 setup errors, 0 hold errors, 0 component switching limit errors)
+ Minimum period is  14.733ns.
+--------------------------------------------------------------------------------
+
+Paths for end point SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212 (SLICE_X10Y2.D4), 374724 paths
+--------------------------------------------------------------------------------
+Slack (setup path):     5.267ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.682ns (Levels of Logic = 9)
+  Clock Path Skew:      -0.016ns (0.694 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y53.A2      net (fanout=245)      2.002   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y53.COUT    Topcya                0.379   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase1411
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CIN     net (fanout=1)        0.082   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CMUX    Tcinc                 0.261   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.440   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lut<9>
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X10Y2.D4       net (fanout=16)       1.011   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X10Y2.CLK      Tas                   0.341   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<212>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[7][23]_m_DataIn[23]_mux_9_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212
+    -------------------------------------------------  ---------------------------
+    Total                                     14.682ns (2.631ns logic, 12.051ns route)
+                                                       (17.9% logic, 82.1% route)
+
+--------------------------------------------------------------------------------
+Slack (setup path):     5.296ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.653ns (Levels of Logic = 9)
+  Clock Path Skew:      -0.016ns (0.694 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y53.A2      net (fanout=245)      2.002   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y53.COUT    Topcya                0.379   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase1411
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CIN     net (fanout=1)        0.082   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CMUX    Tcinc                 0.261   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.411   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lutdi9
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X10Y2.D4       net (fanout=16)       1.011   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X10Y2.CLK      Tas                   0.341   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<212>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[7][23]_m_DataIn[23]_mux_9_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212
+    -------------------------------------------------  ---------------------------
+    Total                                     14.653ns (2.602ns logic, 12.051ns route)
+                                                       (17.8% logic, 82.2% route)
+
+--------------------------------------------------------------------------------
+Slack (setup path):     5.347ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.602ns (Levels of Logic = 6)
+  Clock Path Skew:      -0.016ns (0.694 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y56.A5      net (fanout=245)      2.265   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y56.CMUX    Topac                 0.537   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase811
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.440   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lut<9>
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X10Y2.D4       net (fanout=16)       1.011   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X10Y2.CLK      Tas                   0.341   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<212>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[7][23]_m_DataIn[23]_mux_9_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_212
+    -------------------------------------------------  ---------------------------
+    Total                                     14.602ns (2.376ns logic, 12.226ns route)
+                                                       (16.3% logic, 83.7% route)
+
+--------------------------------------------------------------------------------
+
+Paths for end point SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236 (SLICE_X11Y2.D4), 374724 paths
+--------------------------------------------------------------------------------
+Slack (setup path):     5.280ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.669ns (Levels of Logic = 9)
+  Clock Path Skew:      -0.016ns (0.694 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y53.A2      net (fanout=245)      2.002   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y53.COUT    Topcya                0.379   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase1411
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CIN     net (fanout=1)        0.082   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CMUX    Tcinc                 0.261   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.440   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lut<9>
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X11Y2.D4       net (fanout=16)       1.017   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X11Y2.CLK      Tas                   0.322   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<236>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[6][23]_m_DataIn[23]_mux_10_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236
+    -------------------------------------------------  ---------------------------
+    Total                                     14.669ns (2.612ns logic, 12.057ns route)
+                                                       (17.8% logic, 82.2% route)
+
+--------------------------------------------------------------------------------
+Slack (setup path):     5.309ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.640ns (Levels of Logic = 9)
+  Clock Path Skew:      -0.016ns (0.694 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y53.A2      net (fanout=245)      2.002   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y53.COUT    Topcya                0.379   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase1411
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CIN     net (fanout=1)        0.082   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CMUX    Tcinc                 0.261   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.411   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lutdi9
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X11Y2.D4       net (fanout=16)       1.017   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X11Y2.CLK      Tas                   0.322   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<236>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[6][23]_m_DataIn[23]_mux_10_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236
+    -------------------------------------------------  ---------------------------
+    Total                                     14.640ns (2.583ns logic, 12.057ns route)
+                                                       (17.6% logic, 82.4% route)
+
+--------------------------------------------------------------------------------
+Slack (setup path):     5.360ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.589ns (Levels of Logic = 6)
+  Clock Path Skew:      -0.016ns (0.694 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y56.A5      net (fanout=245)      2.265   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y56.CMUX    Topac                 0.537   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase811
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.440   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lut<9>
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X11Y2.D4       net (fanout=16)       1.017   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X11Y2.CLK      Tas                   0.322   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<236>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[6][23]_m_DataIn[23]_mux_10_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_236
+    -------------------------------------------------  ---------------------------
+    Total                                     14.589ns (2.357ns logic, 12.232ns route)
+                                                       (16.2% logic, 83.8% route)
+
+--------------------------------------------------------------------------------
+
+Paths for end point SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116 (SLICE_X8Y2.C4), 374724 paths
+--------------------------------------------------------------------------------
+Slack (setup path):     5.321ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.629ns (Levels of Logic = 9)
+  Clock Path Skew:      -0.015ns (0.695 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y53.A2      net (fanout=245)      2.002   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y53.COUT    Topcya                0.379   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase1411
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CIN     net (fanout=1)        0.082   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CMUX    Tcinc                 0.261   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.440   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lut<9>
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X8Y2.C4        net (fanout=16)       1.010   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X8Y2.CLK       Tas                   0.289   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<120>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[11][23]_m_DataIn[23]_mux_5_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116
+    -------------------------------------------------  ---------------------------
+    Total                                     14.629ns (2.579ns logic, 12.050ns route)
+                                                       (17.6% logic, 82.4% route)
+
+--------------------------------------------------------------------------------
+Slack (setup path):     5.350ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.600ns (Levels of Logic = 9)
+  Clock Path Skew:      -0.015ns (0.695 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y53.A2      net (fanout=245)      2.002   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y53.COUT    Topcya                0.379   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase1411
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<7>
+    SLICE_X12Y54.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.CIN     net (fanout=1)        0.003   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<11>
+    SLICE_X12Y55.COUT    Tbyp                  0.076   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CIN     net (fanout=1)        0.082   DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_cy<15>
+    SLICE_X12Y56.CMUX    Tcinc                 0.261   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.411   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lutdi9
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X8Y2.C4        net (fanout=16)       1.010   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X8Y2.CLK       Tas                   0.289   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<120>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[11][23]_m_DataIn[23]_mux_5_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116
+    -------------------------------------------------  ---------------------------
+    Total                                     14.600ns (2.550ns logic, 12.050ns route)
+                                                       (17.5% logic, 82.5% route)
+
+--------------------------------------------------------------------------------
+Slack (setup path):     5.401ns (requirement - (data path - clock path skew + uncertainty))
+  Source:               DDA_Partition_1/m_DDATimeBase_11 (FF)
+  Destination:          SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116 (FF)
+  Requirement:          20.000ns
+  Data Path Delay:      14.549ns (Levels of Logic = 6)
+  Clock Path Skew:      -0.015ns (0.695 - 0.710)
+  Source Clock:         g_clk_BUFGP rising at 0.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.035ns
+
+  Clock Uncertainty:          0.035ns  ((TSJ^2 + TIJ^2)^1/2 + DJ) / 2 + PE
+    Total System Jitter (TSJ):  0.070ns
+    Total Input Jitter (TIJ):   0.000ns
+    Discrete Jitter (DJ):       0.000ns
+    Phase Error (PE):           0.000ns
+
+  Maximum Data Path at Slow Process Corner: DDA_Partition_1/m_DDATimeBase_11 to SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X11Y57.DQ      Tcko                  0.391   DDA_Partition_1/m_DDATimeBase<11>
+                                                       DDA_Partition_1/m_DDATimeBase_11
+    SLICE_X11Y53.B1      net (fanout=10)       1.767   DDA_Partition_1/m_DDATimeBase<11>
+    SLICE_X11Y53.B       Tilo                  0.259   N146
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4_SW0
+    SLICE_X10Y38.B5      net (fanout=1)        1.222   N146
+    SLICE_X10Y38.B       Tilo                  0.205   RemoteIO_Partition_1/IOLink/Receiver/Shifter/m_Q<15>
+                                                       DDA_Partition_1/Controller/m_DistributorEnable4
+    SLICE_X12Y56.A5      net (fanout=245)      2.265   DDA_Partition_1/m_DistributorEnable
+    SLICE_X12Y56.CMUX    Topac                 0.537   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+                                                       DDA_Partition_1/Controller/Mmux_m_RealDDACountBase811
+                                                       DDA_Partition_1/Controller/SubSynGenerator/Madd_oModifiedDDABase_xor<18>
+    SLICE_X14Y55.B2      net (fanout=1)        0.707   DDA_Partition_1/Controller/m_ModifiedRealDDACountBase<18>
+    SLICE_X14Y55.BMUX    Topbb                 0.440   DDA_Partition_1/_n0170_inv
+                                                       DDA_Partition_1/Controller/Mcompar_n0021_lut<9>
+                                                       DDA_Partition_1/_n0170_inv_cy1
+    SLICE_X4Y4.B3        net (fanout=163)      5.254   DDA_Partition_1/Controller/Mcompar_n0021_cy<9>
+    SLICE_X4Y4.B         Tilo                  0.203   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<288>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_DataIn171
+    SLICE_X8Y2.C4        net (fanout=16)       1.010   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_DataIn<20>
+    SLICE_X8Y2.CLK       Tas                   0.289   SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15<120>
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/Mmux_m_Queue[11][23]_m_DataIn[23]_mux_5_OUT131
+                                                       SPI_DAC_Partition_1/DAC_CTRL_SPI_1/m_Queue_15_116
+    -------------------------------------------------  ---------------------------
+    Total                                     14.549ns (2.324ns logic, 12.225ns route)
+                                                       (16.0% logic, 84.0% route)
+
+--------------------------------------------------------------------------------
+
+Hold Paths: TS_g_clk = PERIOD TIMEGRP "g_clk" 20 ns HIGH 50%;
+--------------------------------------------------------------------------------
+
+Paths for end point DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram41/DP (SLICE_X16Y58.D1), 1 path
+--------------------------------------------------------------------------------
+Slack (hold path):      0.339ns (requirement - (clock path skew + uncertainty - data path))
+  Source:               DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress_0 (FF)
+  Destination:          DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram41/DP (RAM)
+  Requirement:          0.000ns
+  Data Path Delay:      0.338ns (Levels of Logic = 0)
+  Clock Path Skew:      -0.001ns (0.036 - 0.037)
+  Source Clock:         g_clk_BUFGP rising at 20.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.000ns
+
+  Minimum Data Path at Fast Process Corner: DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress_0 to DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram41/DP
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X16Y59.AQ      Tcko                  0.234   DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress<3>
+                                                       DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress_0
+    SLICE_X16Y58.D1      net (fanout=50)       0.397   DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress<0>
+    SLICE_X16Y58.CLK     Tah         (-Th)     0.293   DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/N251
+                                                       DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram41/DP
+    -------------------------------------------------  ---------------------------
+    Total                                      0.338ns (-0.059ns logic, 0.397ns route)
+                                                       (-17.5% logic, 117.5% route)
+
+--------------------------------------------------------------------------------
+
+Paths for end point DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram41/SP (SLICE_X16Y58.D1), 1 path
+--------------------------------------------------------------------------------
+Slack (hold path):      0.339ns (requirement - (clock path skew + uncertainty - data path))
+  Source:               DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress_0 (FF)
+  Destination:          DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram41/SP (RAM)
+  Requirement:          0.000ns
+  Data Path Delay:      0.338ns (Levels of Logic = 0)
+  Clock Path Skew:      -0.001ns (0.036 - 0.037)
+  Source Clock:         g_clk_BUFGP rising at 20.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.000ns
+
+  Minimum Data Path at Fast Process Corner: DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress_0 to DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram41/SP
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X16Y59.AQ      Tcko                  0.234   DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress<3>
+                                                       DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress_0
+    SLICE_X16Y58.D1      net (fanout=50)       0.397   DDA_Partition_1/G1.Channel[0].DDACmdFIFO/m_TailAddress<0>
+    SLICE_X16Y58.CLK     Tah         (-Th)     0.293   DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/N251
+                                                       DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram41/SP
+    -------------------------------------------------  ---------------------------
+    Total                                      0.338ns (-0.059ns logic, 0.397ns route)
+                                                       (-17.5% logic, 117.5% route)
+
+--------------------------------------------------------------------------------
+
+Paths for end point RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/Mshreg_m_Q_4 (SLICE_X0Y20.BI), 1 path
+--------------------------------------------------------------------------------
+Slack (hold path):      0.349ns (requirement - (clock path skew + uncertainty - data path))
+  Source:               RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/m_Q_0 (FF)
+  Destination:          RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/Mshreg_m_Q_4 (FF)
+  Requirement:          0.000ns
+  Data Path Delay:      0.352ns (Levels of Logic = 0)
+  Clock Path Skew:      0.003ns (0.116 - 0.113)
+  Source Clock:         g_clk_BUFGP rising at 20.000ns
+  Destination Clock:    g_clk_BUFGP rising at 20.000ns
+  Clock Uncertainty:    0.000ns
+
+  Minimum Data Path at Fast Process Corner: RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/m_Q_0 to RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/Mshreg_m_Q_4
+    Location             Delay type         Delay(ns)  Physical Resource
+                                                       Logical Resource(s)
+    -------------------------------------------------  -------------------
+    SLICE_X2Y20.AQ       Tcko                  0.200   RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/m_Q<12>
+                                                       RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/m_Q_0
+    SLICE_X0Y20.BI       net (fanout=1)        0.123   RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/m_Q<0>
+    SLICE_X0Y20.CLK      Tdh         (-Th)    -0.029   RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/m_Q_111
+                                                       RemoteIO_Partition_2/IOLink/Transmitter/CRCGenerator/Mshreg_m_Q_4
+    -------------------------------------------------  ---------------------------
+    Total                                      0.352ns (0.229ns logic, 0.123ns route)
+                                                       (65.1% logic, 34.9% route)
+
+--------------------------------------------------------------------------------
+
+Component Switching Limit Checks: TS_g_clk = PERIOD TIMEGRP "g_clk" 20 ns HIGH 50%;
+--------------------------------------------------------------------------------
+Slack: 18.270ns (period - min period limit)
+  Period: 20.000ns
+  Min period limit: 1.730ns (578.035MHz) (Tbcper_I)
+  Physical resource: g_clk_BUFGP/BUFG/I0
+  Logical resource: g_clk_BUFGP/BUFG/I0
+  Location pin: BUFGMUX_X2Y3.I0
+  Clock network: g_clk_BUFGP/IBUFG
+--------------------------------------------------------------------------------
+Slack: 18.962ns (period - min period limit)
+  Period: 20.000ns
+  Min period limit: 1.038ns (963.391MHz) (Tcp)
+  Physical resource: DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_RAMD_O/CLK
+  Logical resource: DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_RAMA/CLK
+  Location pin: SLICE_X0Y47.CLK
+  Clock network: g_clk_BUFGP
+--------------------------------------------------------------------------------
+Slack: 18.962ns (period - min period limit)
+  Period: 20.000ns
+  Min period limit: 1.038ns (963.391MHz) (Tcp)
+  Physical resource: DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_RAMD_O/CLK
+  Logical resource: DDA_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_RAMB/CLK
+  Location pin: SLICE_X0Y47.CLK
+  Clock network: g_clk_BUFGP
+--------------------------------------------------------------------------------
+
+
+All constraints were met.
+
+
+Data Sheet report:
+-----------------
+All values displayed in nanoseconds (ns)
+
+Clock to Setup on destination clock g_clk
+---------------+---------+---------+---------+---------+
+               | Src:Rise| Src:Fall| Src:Rise| Src:Fall|
+Source Clock   |Dest:Rise|Dest:Rise|Dest:Fall|Dest:Fall|
+---------------+---------+---------+---------+---------+
+g_clk          |   14.733|         |         |         |
+---------------+---------+---------+---------+---------+
+
+
+Timing summary:
+---------------
+
+Timing errors: 0  Score: 0  (Setup/Max: 0, Hold: 0)
+
+Constraints cover 216256573 paths, 0 nets, and 13404 connections
+
+Design statistics:
+   Minimum period:  14.733ns{1}   (Maximum frequency:  67.875MHz)
+
+
+------------------------------------Footnotes-----------------------------------
+1)  The minimum period statistic assumes all single cycle delays.
+
+Analysis completed Thu Sep 06 12:36:26 2018 
+--------------------------------------------------------------------------------
+
+Trace Settings:
+-------------------------
+Trace Settings 
+
+Peak Memory Usage: 195 MB
+
+
+
