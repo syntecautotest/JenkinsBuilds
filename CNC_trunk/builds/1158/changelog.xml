@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203446"><author>simon</author><date>2018-09-07T03:19:32.602431Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\cncapi.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/cncapi.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/cncapi.cpp</path></paths><msg>fix merge error from merge: HSHP_2376_f_ImproveMACROIO, 197756-202794, to 10.118.12B, 10.118.13
+by 旭沅
+
+fix:
+    RegisterOpPLCScanInfo() 直接 return 0; 錯誤.</msg></logentry></log>

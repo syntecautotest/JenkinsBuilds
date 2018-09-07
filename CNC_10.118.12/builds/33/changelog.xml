@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203473"><author>simon</author><date>2018-09-07T06:52:46.730903Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\CNCCenter.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/CNCCenter.h</path></paths><msg>fix merge error from merge: HSHP_2044_f_FractionalDelay_V2_116.26.x, 195352-203311, to 10.116.26M
+	                    HSHP_2044_f_FractionalDelay_V3_118.x, 203214-203312, 10.118.12B, 10.118.13
+by 昱辰
+
+fix:
+    merge error.</msg></logentry></log>
