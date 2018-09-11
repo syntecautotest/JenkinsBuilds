@@ -108,6 +108,10 @@
           <string>f89d20c8964351fc09a839d3e6864842</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.12.zip</string>
+          <string>e8a5e1d7d441467dc890e5fdfbf2a71f</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.12\CECNC\SDK\OCRes_10.118.12.zip</string>
           <string>ca40c72edc588553780ee8b1d2ab573f</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-965</id>
+          <title>10.118.12模擬器在開啟雙軸群的情形下修改參數會報錯</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>3147</queueId>
   <timestamp>1535361438030</timestamp>

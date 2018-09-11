@@ -1,0 +1,81 @@
+------ Rebuild All started: Project: BridgeAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\BridgeAPI\Release\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KrnlAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\Release\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+TCPFunction.cpp
+TCPClient.cpp
+.\TCPClient.cpp(254) : warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\SocketUtility\Release\BuildLog.htm"
+SocketUtility - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+.\OCKrnlDrv.cpp(557) : error C2039: 'NCEV_UpdatePLCFinish' : is not a member of 'IOnCncEvent'
+        D:\Jenkins\workspace\API_trunk\OCSDK\inc\IOnCncEvent.h(9) : see declaration of 'IOnCncEvent'
+.\OCKrnlDrv.cpp(557) : error C2065: 'NCEV_UpdatePLCFinish' : undeclared identifier
+.\OCKrnlDrv.cpp(557) : error C2051: case expression not constant
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\Release\BuildLog.htm"
+OCKrnlDrv - 3 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(349) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+.\TCPAlarmServer.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcXmlTextReader.cpp
+.\OcXmlTextReader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcKrnlDrvDll32.cpp
+.\OcKrnlDrvDll32.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+DipoleDeviceBuffer.cpp
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+Generating Code...
+Compiling...
+OCAPI.cpp
+.\OCAPI.cpp(441) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(441) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(1401) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+.\OCAPI.cpp(1464) : warning C4018: '<=' : signed/unsigned mismatch
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'OCKrnlDrv.lib'
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\OCAPI\Release\BuildLog.htm"
+OCAPI - 1 error(s), 13 warning(s)
+========== Rebuild All: 3 succeeded, 2 failed, 0 skipped ==========
+

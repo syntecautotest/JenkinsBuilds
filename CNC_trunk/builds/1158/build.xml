@@ -108,6 +108,10 @@
           <string>88a512fa40d3b9df6b51f5081e1d110c</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.12.zip</string>
+          <string>71622fb01ccd7de33b137e4823233667</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.12\CECNC\SDK\OCRes_10.118.12.zip</string>
           <string>1c6b8f207d8dca556eb8f4681b965323</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>HSHP-2376</id>
+          <title>MACRO IO後續規格優化</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>4192</queueId>
   <timestamp>1536290470754</timestamp>

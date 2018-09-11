@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203785"><author>simon</author><date>2018-09-11T10:06:46.453095Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/FrictionAdjust/Data/VelGlitchCompChi.pxt</path><path action="M" localPath="res\FrictionAdjust\Data\VelGlitchCompChi.pxt" kind="file">/cnckernel/trunk/res/FrictionAdjust/Data/VelGlitchCompChi.pxt</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/FrictionAdjust/Data/VelGlitchCompEng.pxt</path><path action="M" localPath="res\FrictionAdjust\Data\VelGlitchCompEng.pxt" kind="file">/cnckernel/trunk/res/FrictionAdjust/Data/VelGlitchCompEng.pxt</path></paths><msg>merge: HSHP_2441_b_ModifyVelGlitchParamDefault_118.x, 203384, to 10.118.12B, 10.118.13
+by 昱辰
+
+from 10.118.12, 10.118.12A, HSHP-2362
+
+fix:
+	修正速度尖角補償參數沒有設定預設值的錯誤</msg></logentry><logentry revision="203786"><author>simon</author><date>2018-09-11T10:10:24.759878Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/NCExecutive.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/NCExecutive.h</path></paths><msg>merge: ISSUE_13005_Knock_202200_118_13, 203607, to 10.118.12B, 10.118.13
+by 糧安
+
+from 10.116.4, 10.117.4, CNCKL-132
+
+fix:
+	修正 Pr3852 設置為0時，暫停點復歸會有爆震現象</msg></logentry></log>

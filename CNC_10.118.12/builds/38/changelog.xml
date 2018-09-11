@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203723"><author>mark.chen</author><date>2018-09-11T05:59:47.826543Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/SvoDriver.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/EPCIODriver.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\SvoDriver.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/SvoDriver.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/ServoDriver/SvoDriver.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/ServoDriver/EPCIODriver.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\EPCIODriver.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/EPCIODriver.cpp</path></paths><msg>merge: ISSUE_13574_b_Pr13Problem, 203238-203546, to 10.116.54T, 10.118.12B, 10.118.13
+by 青杉
+
+from 10.116.38D, 10.116.54B, 10.118.0A, 10.118.1, CNCKL-1978
+
+修正Pr13軸版數目設成4的時候無法正常開機。</msg></logentry></log>

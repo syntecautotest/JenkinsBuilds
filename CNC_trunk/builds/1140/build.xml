@@ -108,6 +108,10 @@
           <string>3b6a4559863ee239ef9edd14f07c77f6</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.12.zip</string>
+          <string>ddb8ff2e546047a6edc90966bc79aa31</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.12\CECNC\SDK\OCRes_10.118.12.zip</string>
           <string>a2ac814f9f05340c604be0d6099a4130</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2517</id>
+          <title>新增Ethernet-base控制器機型  核心工作</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>2582</queueId>
   <timestamp>1534754122996</timestamp>

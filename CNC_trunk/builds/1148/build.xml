@@ -108,6 +108,10 @@
           <string>b73524af093922e7d8f1e96ae737166b</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.12.zip</string>
+          <string>141388e1f8b0b4ffddff3a7433ce3782</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.12\CECNC\SDK\OCRes_10.118.12.zip</string>
           <string>59e8c3d37a68f813b542af9b9bf1297b</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-966</id>
+          <title>執行機器人指令 MOVC，跳COR-23 語義錯誤</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>3020</queueId>
   <timestamp>1535088147261</timestamp>

@@ -1,0 +1,24 @@
+------ Rebuild All started: Project: Event, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'Event', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventTrigger.cpp
+.\EventTrigger.cpp(21) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+MixListener.cpp
+.\MixListener.cpp(14) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+.\EventTriggerGroup.cpp(18) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\x64\Debug\BuildLog.htm"
+Event - 0 error(s), 3 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

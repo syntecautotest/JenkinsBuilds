@@ -108,6 +108,10 @@
           <string>f024ea08686ed49083db37b2e026b1ed</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.12.zip</string>
+          <string>a318864acffbc37a8190bc2b1f30f498</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.12\CECNC\SDK\OCRes_10.118.12.zip</string>
           <string>6e5998c355c0ca576994812b02e02eff</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13233</id>
+          <title>选择跳跃功能导致系统一直显示加工中CRM-71560</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>4242</queueId>
   <timestamp>1536546601364</timestamp>
