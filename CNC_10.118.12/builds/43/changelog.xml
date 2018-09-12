@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203816"><author>mark.chen</author><date>2018-09-12T00:47:32.064269Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3IOProfile.cpp</path><path action="M" localPath="OCDevice\Source\MciM3\M3IOProfile.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciM3/M3IOProfile.cpp</path></paths><msg>merge: CNCKL_2417_b_ErrPostOP68, 203703, to 10.118.12B, 10.118.13
+by 哲維
+
+from 10.118.10, CNCKL-2384
+
+修正使用者啟用M3-IO擴充卡參數，卻移除M3-IO擴充卡時，控制器誤發OP68的問題（仍會發OP52）。</msg></logentry></log>

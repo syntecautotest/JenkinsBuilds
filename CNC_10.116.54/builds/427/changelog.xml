@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203946"><author>jwlee</author><date>2018-09-12T07:27:35.576829Z</date><paths><path action="M" localPath="Build\copy-release.bat" kind="file">/cnckernel/branches/release_v10.116.54/Build/copy-release.bat</path></paths><msg>merge: ISSUE_13217_b_UserParamMissing_11654x, 203624-203759, to 10.116.54T
+by 嘉倫
+
+from 10.116.24N, 10.116.33, 10.117.33, CNCKL-1164
+
+修正60A系列產品無法中文顯示使用者參數的問題。</msg></logentry></log>

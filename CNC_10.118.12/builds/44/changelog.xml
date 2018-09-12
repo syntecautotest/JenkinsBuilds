@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="203817"><author>mark.chen</author><date>2018-09-12T00:51:34.816296Z</date><paths><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_Drill/_60B/Res/ParamDef.xml</path><path action="M" localPath="res\_Arm\_WOOD\_60A\Res\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_WOOD/_60A/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/_Arm/_WOOD/_60A/Res/ParamDef.xml</path><path action="M" localPath="res\_Arm\_Drill\_60B\Res\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_Drill/_60B/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_WOOD/_60A/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/_Arm/_Drill/_60B/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/_Arm/_Cutting/_70A/Res/ParamDef.xml</path></paths><msg>merge: CNCKL_2547_b_Modify_Wood_Drill_LoderParam_118x, 203561, to 10.118.12B, 10.118.13
+merge: CNCKL_2547_b_Modify_Wood_Drill_LoderParam_11654x, 203564, to 10.116.54T
+by 振宇
+
+from 10.116.54S, 10.118.12A, 10.118.13, CNCKL-2517
+
+修正 60WA / 60DB 看不到 Loader 軸群參數的問題。</msg></logentry><logentry revision="203829"><author>1200</author><date>2018-09-12T01:33:18.495893Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/KinematicTransformation/RobotFiveAxisTypeA.cpp</path><path action="M" localPath="OCKrnl\Source\KinematicTransformation\RobotFiveAxisTypeA.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/KinematicTransformation/RobotFiveAxisTypeA.cpp</path></paths><msg>merge: ROBOT_181_b_FiveAxisTypeAOrientationErr, 203550, to 10.118.12B, 10.118.13
+by 亭諭
+
+from 10.118.11, HSHP-1709
+
+修正標準五關節手臂A型，執行末端移動到目標點，姿態AB可能錯誤的問題。 </msg></logentry><logentry revision="203846"><author>mark.chen</author><date>2018-09-12T02:43:52.109329Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/M2Channel.cpp</path><path action="M" localPath="OCDevice\Source\ServoDriver\M2Channel.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/M2Channel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/ServoDriver/M2Channel.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/M2Channel.h</path><path action="M" localPath="OCKrnl\Source\Utility\SerialParamDef.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Utility/SerialParamDef.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Utility/SerialParamDef.h</path><path action="M" localPath="OCDevice\Source\ServoDriver\M2Channel.h" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/M2Channel.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/ServoDriver/M2Channel.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/SerialParamDef.h</path></paths><msg>merge: CNCKL_2552_b_SyntecM2V2AutoTuningFailed, 203711-203814, to 10.116.54T, 10.118.12B, 10.118.13
+by 孟學
+
+from 10.116.38A, 10.116.53, 10.117.53, CNCKL-1907
+
+1.修正新代M2 二代驅動器調機動作異常 
+2.修正新代M2 二代驅動器 串列參數還原權限處理錯誤
+</msg></logentry></log>

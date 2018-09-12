@@ -1,0 +1,19 @@
+Files that are found in folder Current_sdk but NOT in folder Previous_sdk :
+
+CNCSDK\lib\wce700arm\EnIP.lib
+CNCSDK\lib\wce600\EnIP.lib
+CNCSDK\lib\w32\Release\EnIP.lib
+CNCSDK\lib\w32\Debug\EnIP.lib
+CNCSDK\inc\ByteOrder.h
+CNCSDK\inc\EnIP_API.h
+CNCSDK\inc\Internet.h
+CNCSDK\inc\IPlatform.h
+CNCSDK\inc\LANAdapterInfo.h
+CNCSDK\bin\wce700arm\EnIP.dll
+CNCSDK\bin\wce600\EnIP.dll
+CNCSDK\bin\w32\EnIP.dll
+----------------------------------------------------------------------
+Files that are found in folder Previous_sdk but NOT in folder Current_sdk :
+
+CNCSDK\inc\Platform.h
+----------------------------------------------------------------------

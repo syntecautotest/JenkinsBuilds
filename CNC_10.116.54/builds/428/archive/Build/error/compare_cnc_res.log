@@ -1,0 +1,12 @@
+Files that are found in folder Current_res but NOT in folder Previous_res :
+
+Wood\OCRes\Common\String\SysAlarmMsgCom_MILL.Xml
+Wood\OCRes\Common\String\SysParamCom_MILL.Xml
+Wood\OCRes\CHT\String\SysAlarmMsgCht_MILL.Xml
+Wood\OCRes\CHT\String\SysParamCht_MILL.Xml
+Wood\OCRes\CHS\String\SysAlarmMsgChs_MILL.Xml
+Wood\OCRes\CHS\String\SysParamChs_MILL.Xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_res but NOT in folder Current_res :
+
+----------------------------------------------------------------------
