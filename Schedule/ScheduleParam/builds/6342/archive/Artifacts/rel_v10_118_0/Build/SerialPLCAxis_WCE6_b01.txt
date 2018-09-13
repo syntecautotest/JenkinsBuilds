@@ -1,0 +1,19 @@
+------ Rebuild All started: Project: SerialPLCAxis, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'SerialPLCAxis', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+SerialPLCParamSync.cpp
+SerialPLCPanel.cpp
+SerialPLCCenter.cpp
+SerialPLCAxis.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\SerialPLCAxis.lib and object WCE600Release\SerialPLCAxis.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\rel_v10_118_0\SerialPLCAxis\Source\SerialPLCAxis\WCE600Release\BuildLog.htm"
+SerialPLCAxis - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+
