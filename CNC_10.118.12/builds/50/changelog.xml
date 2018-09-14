@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="204194"><author>mark.chen</author><date>2018-09-14T06:45:23.098988Z</date><paths><path action="M" localPath="OCDevice\Source\IODriver\IoMapFile.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/IODriver/IoMapFile.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/IODriver/IoMapFile.cpp</path></paths><msg>merge: ATEST_982_b_IOMappingNull, 204178, to 10.118.12B, 10.118.13
+by 儀禕
+
+from 10.118.12A, 10.118.13, CNCKL-2516
+
+修正IO Mapping恢復預設值會跳錯誤視窗的問題。</msg></logentry></log>
