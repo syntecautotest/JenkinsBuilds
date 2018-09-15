@@ -1,0 +1,32 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1343231126929119940.bat
+ID:9999 Date:2018/09/15 08:40:42
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 390c5fa] 2018/09/15 08:40:42 by 9999, Modified Products: 11TB,21MA,HC-10B,HC-8A,6TB,11MA,6MB,6MA,21TB,6TA,21TA,60PB,6MD,11MB,HC-8B,IQC,11TA,21MA-H,6TD-H,6MD-H,21TA-H,21TB-H,HC-10A,HC-15B,HC-15A,6TD-E,6TA-E
+ 27 files changed, 0 insertions(+), 0 deletions(-)
+ rename 6MA/Software/Delivery/Common/{package_97bf82bc.zip => old_180914_package_97bf82bc.zip} (100%)
+ create mode 100644 6MA/Software/Delivery/Common/package_b9ffbbbc.zip
+ rename 6MB/Software/Delivery/Common/{package_a068632b.zip => old_180914_package_a068632b.zip} (100%)
+ create mode 100644 6MB/Software/Delivery/Common/package_5fa2a2af.zip
+ rename 6TA/Software/Delivery/Common/{package_d8ff1f2b.zip => old_180914_package_d8ff1f2b.zip} (100%)
+ create mode 100644 6TA/Software/Delivery/Common/package_f20ffc4d.zip
+ rename 6TB/Software/Delivery/Common/{package_d2f5fad1.zip => old_180914_package_d2f5fad1.zip} (100%)
+ create mode 100644 6TB/Software/Delivery/Common/package_a7d7ab0d.zip
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   4e5c135..390c5fa  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

@@ -1,0 +1,43 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3572385482084062094.bat
+ID:1193 Date:2018/09/15 09:53:14
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master cba4e1f] 2018/09/15 09:53:14 by 1193, Modified Products: 21MA,HC-10B,HC-8A,6TB,6MB,6MA,21TB,6TA,21TA,6GB-G,6MD,11MB,HC-8B,IQC,11TA,21MA-H,6TD-H,6MD-H,21TA-H,21TB-H,HC-10A,HC-8C,HC-10C,HC-15B,22TA,7MA,7TA,22TB,220MB,220MA,220TB,220MA5,220MB5,HC-15A,60PC,HC-15C,220TB5,HC-80MI,6TA-E
+ 19 files changed, 1 insertion(+)
+ rename 11MB/Software/Delivery/Common/{package_71b319dd.zip => package_591ac29d.zip} (85%)
+ rename 11TA/Software/Delivery/Common/{package_9c9229fb.zip => package_6cabb351.zip} (86%)
+ rename 21MA/Software/Delivery/Common/{package_96072c7e.zip => package_25ab3933.zip} (86%)
+ rename 21MA_H/Software/Delivery/Common/{package_87e88568.zip => package_b8d3bba6.zip} (86%)
+ rename 21TA/Software/Delivery/Common/{package_8a84ba00.zip => package_f1a00beb.zip} (86%)
+ rename 21TA_H/Software/Delivery/Common/{package_67b2f40f.zip => package_8bd036a9.zip} (86%)
+ rename 21TB/Software/Delivery/Common/{package_78924c5c.zip => package_1c17788e.zip} (86%)
+ rename 21TB_H/Software/Delivery/Common/{package_d92fc440.zip => package_1b230f38.zip} (86%)
+ rename 6MD/Software/Delivery/Common/{package_2ecf8c36.zip => package_8eab3662.zip} (85%)
+ rename 6MD_H/Software/Delivery/Common/{package_c9c41946.zip => package_ecdf9938.zip} (85%)
+ rename 6TA_E/Software/Delivery/Common/{package_99b40599.zip => package_2a498c5a.zip} (85%)
+ rename 6TD_H/Software/Delivery/Common/{package_abfa68a3.zip => package_bb94b1f8.zip} (85%)
+ rename HC_10A/Software/Delivery/Common/{package_e1cfbe53.zip => package_57120d41.zip} (85%)
+ rename HC_10B/Software/Delivery/Common/{package_75423658.zip => package_6d64e37.zip} (85%)
+ rename HC_15A/Software/Delivery/Common/{package_e1cfbe53.zip => package_57120d41.zip} (85%)
+ rename HC_15B/Software/Delivery/Common/{package_75423658.zip => package_6d64e37.zip} (85%)
+ rename HC_8A/Software/Delivery/Common/{package_32ae59a4.zip => package_33a7baac.zip} (85%)
+ rename HC_8B/Software/Delivery/Common/{package_683b12ee.zip => package_30516551.zip} (85%)
+ create mode 100644 LOCK
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   ad0ef7d..cba4e1f  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
