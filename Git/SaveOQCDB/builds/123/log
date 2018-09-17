@@ -1,0 +1,73 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8200511065333672456.bat
+ID:1193 Date:2018/09/17 12:46:56
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 5b225b9] 2018/09/17 12:46:56 by 1193, Modified Products: 6TD-H,6MD-H,21TA-H,21TB-H,HC-10A,HC-8C,HC-10C,HC-15B,22TA,22MA,7MA,7TA,22TB,220MB,220MA,220TB,220MA5,220MB5,HC-15A,60PC,HC-8S,HC-15C,220TB5,HC-80MI,6TD-E,6TA-E
+ 49 files changed, 1 deletion(-)
+ rename 11MA/Software/Delivery/Common/{package_78e0a2e4.zip => package_e8d390a7.zip} (87%)
+ rename 11MA/Software/Test/Common/{package_8d13188b.zip => package_52b993eb.zip} (99%)
+ rename 11MB/Software/Delivery/Common/{package_591ac29d.zip => package_f7519b30.zip} (87%)
+ rename 11MB/Software/Test/Common/{package_72dd9d58.zip => package_2d9722c9.zip} (99%)
+ rename 11TA/Software/Delivery/Common/{package_6cabb351.zip => package_9c1c7167.zip} (88%)
+ rename 11TA/Software/Test/Common/{package_65653645.zip => package_40f799e4.zip} (99%)
+ rename 11TB/Software/Delivery/Common/{package_b82e3f8d.zip => package_a8070368.zip} (87%)
+ rename 11TB/Software/Test/Common/{package_f6ba1db5.zip => package_77035f21.zip} (99%)
+ rename 21MA/Software/Delivery/Common/{package_25ab3933.zip => package_8e1caef0.zip} (87%)
+ rename 21MA/Software/Test/Common/{package_26e4f02e.zip => package_a6bb0fc4.zip} (99%)
+ rename 21MA_H/Software/Delivery/Common/{package_b8d3bba6.zip => package_15e837a.zip} (87%)
+ rename 21MA_H/Software/Test/Common/{package_3a63bce8.zip => package_29bdf169.zip} (99%)
+ rename 21TA/Software/Delivery/Common/{package_f1a00beb.zip => package_8bd36af.zip} (87%)
+ rename 21TA/Software/Test/Common/{package_c1f86f04.zip => package_c8226fd9.zip} (99%)
+ rename 21TA_H/Software/Delivery/Common/{package_8bd036a9.zip => package_a4b0ce.zip} (87%)
+ rename 21TA_H/Software/Test/Common/{package_bd9a253.zip => package_52f813a8.zip} (99%)
+ rename 21TB/Software/Delivery/Common/{package_1c17788e.zip => package_1584484b.zip} (87%)
+ rename 21TB/Software/Test/Common/{package_f8341e2d.zip => package_452489eb.zip} (99%)
+ rename 21TB_H/Software/Delivery/Common/{package_1b230f38.zip => package_74b67c0d.zip} (87%)
+ rename 21TB_H/Software/Test/Common/{package_2ce00779.zip => package_c98a564.zip} (99%)
+ rename 22MA/Software/Delivery/Common/{package_d1119120.zip => package_861cacbb.zip} (87%)
+ rename 22MA/Software/Test/Common/{package_daa7b50d.zip => package_ed208c5.zip} (99%)
+ rename 60PB/Software/Delivery/Common/{package_33c3bf8b.zip => package_2fa9ecb7.zip} (87%)
+ rename 60PB/Software/Test/Common/{package_ecb4f10c.zip => package_ed9ceeba.zip} (99%)
+ rename 6MD/Software/Delivery/Common/{package_8eab3662.zip => package_d0a0bb95.zip} (87%)
+ rename 6MD/Software/Test/Common/{package_45aa6963.zip => package_313e2ff9.zip} (99%)
+ rename 6MD_H/Software/Delivery/Common/{package_ecdf9938.zip => package_46423c21.zip} (87%)
+ rename 6MD_H/Software/Test/Common/{package_1b3ade0d.zip => package_20b63e52.zip} (99%)
+ rename 6TA_E/Software/Delivery/Common/{package_2a498c5a.zip => package_c11206b9.zip} (87%)
+ rename 6TA_E/Software/Test/Common/{package_f933755a.zip => package_61877be6.zip} (99%)
+ rename 6TD_E/Software/Delivery/Common/{package_c648abe7.zip => package_44f4235.zip} (86%)
+ rename 6TD_E/Software/Test/Common/{package_110412df.zip => package_319434fb.zip} (99%)
+ rename 6TD_H/Software/Delivery/Common/{package_bb94b1f8.zip => package_52cb34a4.zip} (87%)
+ rename 6TD_H/Software/Test/Common/{package_4b15efa5.zip => package_c096079d.zip} (99%)
+ rename HC_15A/Software/Delivery/Common/package_57120d41.zip => HC_10A/Software/Delivery/Common/package_c39e8d7b.zip (87%)
+ rename HC_10A/Software/Test/Common/{package_3898c439.zip => package_252495f3.zip} (99%)
+ rename HC_10B/Software/Delivery/Common/{package_6d64e37.zip => package_b8b47645.zip} (87%)
+ rename HC_10B/Software/Test/Common/{package_8bbf2070.zip => package_a6a36d86.zip} (99%)
+ rename HC_10A/Software/Delivery/Common/package_57120d41.zip => HC_15A/Software/Delivery/Common/package_c39e8d7b.zip (87%)
+ rename HC_15A/Software/Test/Common/{package_8d869642.zip => package_a6b94937.zip} (99%)
+ rename HC_15B/Software/Delivery/Common/{package_6d64e37.zip => package_b8b47645.zip} (87%)
+ rename HC_15B/Software/Test/Common/{package_ab117a07.zip => package_a8f04f9f.zip} (99%)
+ rename HC_8A/Software/Delivery/Common/{package_33a7baac.zip => package_a16879f4.zip} (87%)
+ rename HC_8A/Software/Test/Common/{package_1aa1ef8a.zip => package_64115c9.zip} (99%)
+ rename HC_8B/Software/Delivery/Common/{package_30516551.zip => package_894957f4.zip} (87%)
+ rename HC_8B/Software/Test/Common/{package_2b270fd1.zip => package_81b4626a.zip} (99%)
+ rename HC_8S/Software/Delivery/Common/{package_1c5dda9b.zip => package_2c328006.zip} (92%)
+ rename HC_8S/Software/Test/Common/{package_81149e01.zip => package_e350e532.zip} (99%)
+ delete mode 100644 LOCK
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   cba4e1f..5b225b9  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="204311"><author>colingsta</author><date>2018-09-17T07:58:39.268829Z</date><paths><path action="M" localPath="MMICommon\Source\Install_Backup\Package.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Install_Backup/Package.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.12A/MMICommon/Source/Install_Backup/Package.cs</path></paths><msg>merge appkernel/ATEST_926_b_DriverInstallErr_10.116.54 r194221-r194244 to 10.118.12A, 10.118.12B, by 禮芳
+
+修正
+    『驅動器安裝包在人機中會檢查不通過，導致無法進行更新』的問題</msg></logentry></log>
