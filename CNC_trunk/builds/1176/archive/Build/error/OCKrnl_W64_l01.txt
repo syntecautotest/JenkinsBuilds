@@ -1,0 +1,25 @@
+------ Rebuild All started: Project: WinPAL, Configuration: Release x64 ------
+Deleting intermediate and output files for project 'WinPAL', configuration 'Release|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CommAPI.cpp
+WinXSignal.cpp
+WinRTTimer.cpp
+VersionInfo.cpp
+ThreadAPI.cpp
+RTMutex.cpp
+Pal.cpp
+.\Pal.cpp(122) : warning C4267: '=' : conversion from 'size_t' to 'unsigned int', possible loss of data
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\x64\Release\BuildLog.htm"
+WinPAL - 0 error(s), 1 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+
