@@ -1,0 +1,21 @@
+------ Rebuild All started: Project: PREP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PREP', configuration 'Release|Win32'
+Compiling...
+StreamReader.cpp
+StdAfx.cpp
+PrepTx.cpp
+PrepRule.cpp
+PREP.cpp
+Generating Code...
+Linking...
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _memmove already defined in LIBCMT.lib(memmove.obj)
+msvcrt.lib(MSVCR80.dll) : error LNK2005: _printf already defined in LIBCMT.lib(printf.obj)
+msvcrt.lib(ti_inst.obj) : error LNK2005: "private: __thiscall type_info::type_info(class type_info const &)" (??0type_info@@AAE@ABV0@@Z) already defined in LIBCMT.lib(typinfo.obj)
+msvcrt.lib(ti_inst.obj) : error LNK2005: "private: class type_info & __thiscall type_info::operator=(class type_info const &)" (??4type_info@@AAEAAV0@ABV0@@Z) already defined in LIBCMT.lib(typinfo.obj)
+   Creating library .\Release/PREP.lib and object .\Release/PREP.exp
+LINK : warning LNK4098: defaultlib 'msvcrt.lib' conflicts with use of other libs; use /NODEFAULTLIB:library
+.\Release/PREP.dll : fatal error LNK1169: one or more multiply defined symbols found
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\Preprocessor\Source\PREP\Release\BuildLog.htm"
+PREP - 5 error(s), 1 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

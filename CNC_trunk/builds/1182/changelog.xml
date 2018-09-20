@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="204743"><author>simon</author><date>2018-09-20T07:09:26.467864Z</date><paths><path action="M" localPath="OCKrnl\Source\DataLog\DataRecorder.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/DataLog/DataRecorder.cpp</path></paths><msg>merge: HSHP_2193_f_TransmissionImprove_118_12, 202350-203195, to 10.118.14
+by 世棠
+
+add:
+	提升控制器資料交換效率</msg></logentry></log>

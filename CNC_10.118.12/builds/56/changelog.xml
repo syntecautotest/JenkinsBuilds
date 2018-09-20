@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="204780"><author>simon</author><date>2018-09-20T09:37:19.518972Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\RapidTravel.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/RapidTravel.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.12B/OCKrnl/Source/MotionPlan/RapidTravel.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RapidTravel.cpp</path></paths><msg>merge: HSHP_2456_b_G00CauseMemoryCrash, 204610, to 10.118.12B(2nd), 10.118.12C, 10.118.14
+by 芝峰
+
+fix:
+	連續使用 G00 或車牙循環時，造成記憶體破壞的問題。</msg></logentry></log>

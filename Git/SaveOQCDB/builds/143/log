@@ -1,0 +1,33 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7958322115260883081.bat
+ID:1345 Date:2018/09/20 12:33:55
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 128d7f7] 2018/09/20 12:33:55 by 1345, Modified Products: HC-10A,HC-15B,22MA,HC-15A
+ 9 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 21MA_E/Software/Test/Common/package_8da26136.zip
+ create mode 100644 21TA_E/Software/Delivery/Common/package_e68a1c75.zip
+ create mode 100644 21TA_E/Software/Test/Common/package_72fe34.zip
+ create mode 100644 21TB_E/Software/Delivery/Common/package_22edb95.zip
+ create mode 100644 21TB_E/Software/Test/Common/package_1958e3ab.zip
+ rename 22MA/Software/Test/Common/{package_dbc07bb6.zip => package_3b400b2b.zip} (74%)
+ rename HC_10A/Software/Test/Common/{package_e7cce49.zip => package_f2ff2e54.zip} (64%)
+ rename HC_15A/Software/Test/Common/{package_d6ec632d.zip => package_60f4b9ec.zip} (63%)
+ rename HC_15B/Software/Test/Common/{package_5bd98ec8.zip => package_c63eb789.zip} (63%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   d9484d8..128d7f7  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

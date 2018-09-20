@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="204698"><author>young</author><date>2018-09-20T02:48:28.439559Z</date><paths><path action="M" localPath="MMICommon\Source\OBControl\OBFileListData.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/OBControl/OBFileListData.cs</path><path action="M" kind="dir">/appkernel/trunk</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/OBControl/OBFileListData.cs</path><path action="M" localPath="." kind="dir">/appkernel/branches/AppKernel_10.118.12</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.12B/MMICommon/Source/OBControl/OBFileList.cs</path><path action="M" kind="dir">/appkernel/tags/MMIComm_10.118.12B</path><path action="M" localPath="MMICommon\Source\OBControl\OBFileList.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/OBControl/OBFileList.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.12B/MMICommon/Source/OBControl/OBFileListData.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/OBControl/OBFileList.cs</path></paths><msg>merge appkernel/ATEST_964_b_MultiMark r204293-r204468 to 10.118.12B (2nd),
+merge appkernel/ATEST_964_b_MultiMark r204293-r204468 to 10.118.14, by 禮芳
+
+修正
+    修正『單機多軸群系統下, 檔案列表中未顯示註解, 並且多軸群檔案未顯示圈號』的問題
+</msg></logentry></log>

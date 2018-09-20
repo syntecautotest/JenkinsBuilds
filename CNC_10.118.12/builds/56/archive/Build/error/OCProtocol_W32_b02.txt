@@ -1,0 +1,22 @@
+------ Rebuild All started: Project: EnIP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'EnIP', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+EnIP_MsgEncoder.cpp
+EnIP_MsgDecoder.cpp
+EnIP_MRPacket.cpp
+EnIP_Device_Manager.cpp
+EnIP_Device.cpp
+EnIP_API.cpp
+Generating Code...
+Linking...
+   Creating library D:\Jenkins\workspace\CNC_10.118.12\OCProtocol\Source\Release\EnIP.lib and object D:\Jenkins\workspace\CNC_10.118.12\OCProtocol\Source\Release\EnIP.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCProtocol\Source\EnIP\Release\BuildLog.htm"
+EnIP - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

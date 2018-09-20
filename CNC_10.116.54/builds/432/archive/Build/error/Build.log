@@ -1,0 +1,89 @@
+Date: 2018/09/20 星期四	 8:01:09 
+OCBuildVersion: 10.116.54T 
+PlatformSDKVersion: 1.36.0 
+SecuritySDKVersion: 1.0.7 
+FirmwareVersion: 1143 
+FCVersion: 1.4.2 
+ 
+Build Configuration: 
+	W32=1 
+	CE6=1 
+	CE7 ARM=1 
+ 
+Execute Both Compile and Packing Sections 
+ 
+/* Clean Output Working Directory */ 
+ 
+/* Build Executable Files */ 
+Prepare to Compile Files ... 
+	Init OCSDK Directory 
+	Download Platform SDK 
+	Download Security SDK 
+Start to Sync Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\GMock Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\LaserCtrl Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\OCDevice Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\OCKrnl Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\OCProtocol Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\OCTest Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\Preprocessor Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\SerialPLCAxis Header 
+Start to Sync /makew32 Library 
+	Sync GMock Library 
+	Sync OCProtocol Library 
+	Sync OCKrnl Library 
+	Sync SerialPLCAxis Library 
+	Sync LaserCtrl Library 
+	Sync OCDevice Library 
+	Sync OCTest Library 
+	Sync Preprocessor Library 
+Start to Compile /makew32 Executable Files 
+	Compile GMock Executable Files 
+	Compile OCProtocol Executable Files 
+	Compile OCKrnl Executable Files 
+	Compile SerialPLCAxis Executable Files 
+	Compile LaserCtrl Executable Files 
+	Compile OCDevice Executable Files 
+	Compile OCTest Executable Files 
+	Compile Preprocessor Executable Files 
+Start to Sync /makewce600 Library 
+	Sync GMock Library 
+	Sync OCProtocol Library 
+	Sync OCKrnl Library 
+	Sync SerialPLCAxis Library 
+	Sync LaserCtrl Library 
+	Sync OCDevice Library 
+	Sync OCTest Library 
+	Sync Preprocessor Library 
+Start to Compile /makewce600 Executable Files 
+	Compile GMock Executable Files 
+	Compile OCProtocol Executable Files 
+	Compile OCKrnl Executable Files 
+	Compile SerialPLCAxis Executable Files 
+	Compile LaserCtrl Executable Files 
+	Compile OCDevice Executable Files 
+	Compile OCTest Executable Files 
+	Compile Preprocessor Executable Files 
+Start to Sync /makewce700arm Library 
+	Sync GMock Library 
+	Sync OCProtocol Library 
+	Sync OCKrnl Library 
+	Sync SerialPLCAxis Library 
+	Sync LaserCtrl Library 
+	Sync OCDevice Library 
+	Sync OCTest Library 
+	Sync Preprocessor Library 
+Start to Compile /makewce700arm Executable Files 
+	Compile GMock Executable Files 
+	Compile OCProtocol Executable Files 
+	Compile OCKrnl Executable Files 
+	Compile SerialPLCAxis Executable Files 
+	Compile LaserCtrl Executable Files 
+	Compile OCDevice Executable Files 
+	Compile OCTest Executable Files 
+	Compile Preprocessor Executable Files 
+ 
+/* Check Error Logs */ 
+Compile Failed! 
+Process Terminated due to Compile Error 
+Process Finished at 2018/09/20 星期四	 8:30:24 
