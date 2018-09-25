@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="204796"><author>mark.chen</author><date>2018-09-20T14:16:41.436412Z</date><paths><path action="M" localPath="Preprocessor\Source\PREP\PREP.vcproj" kind="file">/cnckernel/branches/release_v10.116.54/Preprocessor/Source/PREP/PREP.vcproj</path></paths><msg>fix(2nd): 修正ISSUE-13580 compile error</msg></logentry></log>

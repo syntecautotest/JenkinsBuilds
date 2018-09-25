@@ -137,6 +137,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13169</id>
+          <title>Pr221~旋轉軸型態設1卻沒有走最短路徑</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>4332</queueId>
   <timestamp>1536665187384</timestamp>
@@ -154,7 +163,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.SingletonImmutableSet">
     <string>simon</string>
   </culprits>
 </build>

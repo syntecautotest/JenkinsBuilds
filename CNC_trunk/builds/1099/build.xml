@@ -97,6 +97,19 @@
     <hudson.tasks.MailMessageIdAction plugin="mailer@1.20">
       <messageId>&lt;5518554.4.1533119269551.JavaMail.user1@TESTMAN2&gt;</messageId>
     </hudson.tasks.MailMessageIdAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>HSHP-2356</id>
+          <title>提升空間圓弧與G10L1800使用規格之友善性</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>HSHP-2413</id>
+          <title>動力刀主軸支援自動調機</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>465</queueId>
   <timestamp>1533113583235</timestamp>
@@ -113,7 +126,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.RegularImmutableSet">
     <string>jwlee</string>
     <string>mark.chen</string>
     <string>simon</string>

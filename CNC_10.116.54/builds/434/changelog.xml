@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="204806"><author>jwlee</author><date>2018-09-21T00:45:02.521831Z</date><paths><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_Lathe/_6A-E/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/tags/release_v10.116.54T/res/_Arm/_Lathe/_6A-E/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_Lathe/_6A-E/Res/ParamDef.xml</path><path action="M" localPath="res\_Arm\_Lathe\_6A-E\Res\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.116.54/res/_Arm/_Lathe/_6A-E/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.12B/res/_Arm/_Lathe/_6A-E/Res/ParamDef.xml</path></paths><msg>merge: ISSUE_13602_b_6TA-ECannotUseLoaderCoord, 204773, to 10.116.54T(2nd), 10.118.12B(2nd), 10.118.14
+by 哲維
+
+from 10.116.54R, 10.118.12, CNCKL-2487
+
+修正6TA-E的Pr733 *第一Loader軸群只能設定0~1的問題，正確範圍為0~4
+</msg></logentry></log>

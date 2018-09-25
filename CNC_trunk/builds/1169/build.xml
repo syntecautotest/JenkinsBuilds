@@ -137,6 +137,19 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2552</id>
+          <title>新代控制器未支援新代驅動M2/V2調機</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>HSHP-2388</id>
+          <title>修改JOG模式下的動程規劃</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>4346</queueId>
   <timestamp>1536723731045</timestamp>
@@ -154,7 +167,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.RegularImmutableSet">
     <string>mark.chen</string>
     <string>simon</string>
   </culprits>

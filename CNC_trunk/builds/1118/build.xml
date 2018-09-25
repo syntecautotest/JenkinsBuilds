@@ -91,6 +91,15 @@
       <issuesList>ATEST-944</issuesList>
       <jiraUrl>http://jira.syntecclub.com.tw:8080/</jiraUrl>
     </hudson.plugins.jira.JiraEnvironmentContributingAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-944</id>
+          <title>W32 模擬器開機跳錯誤</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>679</queueId>
   <timestamp>1533539320594</timestamp>
@@ -107,7 +116,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.SingletonImmutableSet">
     <string>jwlee</string>
   </culprits>
 </build>

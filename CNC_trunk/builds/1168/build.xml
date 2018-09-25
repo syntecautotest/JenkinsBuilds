@@ -137,6 +137,19 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-959</id>
+          <title>OCDevice的W32在Debug模式下會build不過</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2547</id>
+          <title>修正 Wood, Drill 看不到 Loader 軸群參數問題</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>4343</queueId>
   <timestamp>1536717258103</timestamp>
@@ -154,7 +167,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.RegularImmutableSet">
     <string>1200</string>
     <string>mark.chen</string>
   </culprits>

@@ -137,6 +137,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCTEST-812</id>
+          <title>OCTEST 新增判斷主軸類型</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>678</queueId>
   <timestamp>1533538780527</timestamp>
@@ -154,7 +163,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.SingletonImmutableSet">
     <string>marskao</string>
   </culprits>
 </build>

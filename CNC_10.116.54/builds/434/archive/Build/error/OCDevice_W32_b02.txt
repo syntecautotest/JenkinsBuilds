@@ -1,0 +1,89 @@
+------ Rebuild All started: Project: RTCommDriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RTCommDriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Socket.cpp
+RTCommNetDrv.cpp
+MessageQueue.cpp
+FlexrayDrv.cpp
+Flexray4310NetDriver.cpp
+Flexray4200NetDriver.cpp
+EthercatDrv.cpp
+ESIManager.cpp
+ESILoader.cpp
+.\ESILoader.cpp(41) : warning C4996: '_swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\ESILoader.cpp(61) : warning C4996: '_swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\ESILoader.cpp(160) : warning C4996: '_swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\ESILoader.cpp(204) : warning C4996: '_swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\ESILoader.cpp(398) : warning C4996: '_swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\ESILoader.cpp(421) : warning C4996: '_swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+.\ESILoader.cpp(702) : warning C4996: '_swprintf': swprintf has been changed to conform with the ISO C standard, adding an extra character count parameter. To use traditional Microsoft swprintf, set _CRT_NON_CONFORMING_SWPRINTFS.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+ESIDevice.cpp
+ErrorCodeStack.cpp
+CANopenDrv.cpp
+CANnullDrv.cpp
+CANNetMgr.cpp
+CANCookie.cpp
+CANbusDrv.cpp
+CANAPI.cpp
+Generating Code...
+Linking...
+   Creating library d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\release\RTCommDriver.lib and object d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\release\RTCommDriver.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\RTCommDriver\Release\BuildLog.htm"
+RTCommDriver - 0 error(s), 7 warning(s)
+------ Rebuild All started: Project: CANObjectDictionary, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'CANObjectDictionary', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CANObjDicLoader.cpp
+CANObjDictionary.cpp
+.\CANObjDictionary.cpp(87) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\CANObjDictionary.cpp(92) : warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\stdio.h(345) : see declaration of 'sprintf'
+.\CANObjDictionary.cpp(97) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\string.h(252) : see declaration of 'wcscpy'
+.\CANObjDictionary.cpp(98) : warning C4996: '_swprintf': This function or variable may be unsafe. Consider using _swprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        C:\Program Files\Microsoft Visual Studio 8\VC\include\wchar.h(773) : see declaration of '_swprintf'
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CANObjectDictionary\Release\BuildLog.htm"
+CANObjectDictionary - 0 error(s), 4 warning(s)
+------ Rebuild All started: Project: CANDeviceDriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'CANDeviceDriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+XmlReaderAgent.cpp
+ORXAPI.cpp
+CANDeviceManager.cpp
+CANDeviceDriver.cpp
+CANDevice_CONFIG.cpp
+CANDEVAPI.cpp
+Generating Code...
+Linking...
+   Creating library d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\release\CANDeviceDriver.lib and object d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\release\CANDeviceDriver.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CANDeviceDriver\Release\BuildLog.htm"
+CANDeviceDriver - 0 error(s), 0 warning(s)
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========
+

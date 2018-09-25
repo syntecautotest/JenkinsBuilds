@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205032"><author>mark.chen</author><date>2018-09-25T05:20:51.998516Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/NcParser/MPYACC.CPP</path><path action="M" localPath="OCKrnl\Source\NcParser\motprog.y" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/NcParser/motprog.y</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/NcParser/motprog.y</path><path action="M" localPath="OCKrnl\Source\NcParser\MPYACC.CPP" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/NcParser/MPYACC.CPP</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/NcParser/MPYACC.CPP</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/NcParser/motprog.y</path></paths><msg>merge: ISSUE_13473_b_SyntexErrorSessionNoWrong, 203599, to 10.116.54U, 10.118.12C, 10.118.14
+by 青杉
+
+from 10.116.38K, 10.116.54I, 10.118.0E, 10.118.5, ISSUE-12171
+
+修正多程式下語法錯誤的警報顯示軸群ID錯誤的問題。
+</msg></logentry></log>

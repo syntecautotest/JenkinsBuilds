@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205022"><author>mark.chen</author><date>2018-09-25T02:50:37.897083Z</date><paths><path action="M" localPath="OCProtocol\Build\BUILD.bat" kind="file">/cnckernel/trunk/OCProtocol/Build/BUILD.bat</path><path action="M" localPath="SerialPLCAxis\Build\BUILD.bat" kind="file">/cnckernel/trunk/SerialPLCAxis/Build/BUILD.bat</path></paths><msg>merge(2nd): CNCKL_2221_f_EnIPORX_Project_118x, 205020, to 10.118.14
+by 振宇
+
+fix
+
+修正batch檔造成的compile error
+</msg></logentry></log>
