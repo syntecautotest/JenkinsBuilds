@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205561"><author>mark.chen</author><date>2018-09-28T09:35:57.302661Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/PathPlan/MacroCore.cpp</path></paths><msg>merge: ISSUE_7908_f_MacroPrintVarible, 204069, to 10.118.12C, 10.118.14
+by 孟學
+
+feature
+
+修正使用#、@變數轉換成字串，小數點輸出位數，改成與 Pr17 連動。
+</msg></logentry></log>
