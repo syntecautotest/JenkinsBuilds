@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205646"><author>simon</author><date>2018-10-01T07:51:24.487663Z</date><paths><path action="M" localPath="res\Lathe\Macro\G0078.nc" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/G0078.nc</path><path action="M" kind="file">/cnckernel/trunk/res/Lathe/Macro/G0078.nc</path></paths><msg>merge: ISSUE_13654_b_SIGNWithoutCapital, 204158-205012, to 10.118.12C, 10.118.14
+by 芝峰
+
+from 10.116.26I, 10.116.36W, 10.116.50, 10.117.50, ISSUE-10667
+
+fix:
+	優化 G78-复合型螺纹切削固定循环(C-Type) MACRO 寫法</msg></logentry></log>
