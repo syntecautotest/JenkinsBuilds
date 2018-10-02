@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205683"><author>1200</author><date>2018-10-02T00:52:24.516060Z</date><paths><path action="M" localPath="res\_Arm\_DELTA\Macro\G0100" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_DELTA/Macro/G0100</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_ARTIC/Macro/G0100</path><path action="M" localPath="res\_Arm\_ARTIC\Macro\G0100" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_ARTIC/Macro/G0100</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_SCARA/Macro/G0100</path><path action="M" localPath="res\_Arm\_SCARA\Macro\G0100" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_SCARA/Macro/G0100</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_DELTA/Macro/G0100</path></paths><msg>merge: ROBOT_211_b_UpdateRobotMacroG100_118_13, 205257-205278, to 10.118.12C, 10.118.14
+by 柏維
+
+from 10.118.0B, 10.118.2, CNCKL-2093
+
+修正機器人產品( ARTIC, SCARA, DELTA )，料盤動作支援周邊副程式功能。</msg></logentry></log>

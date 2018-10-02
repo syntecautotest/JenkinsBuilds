@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205687"><author>hebenctu</author><date>2018-10-02T01:14:24.621579Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\UtilityTest\PolynomialRootSolverTest.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/UtilityTest/PolynomialRootSolverTest.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/GMock/UtilityTest/PolynomialRootSolverTest.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/GMock/UtilityTest/PolynomialRootSolverTest.cpp</path></paths><msg>merge: CNCTEST_741_b_PolynomialRootSolverTestFailOccasionally, r205649, to 10.118.0N, 10.118.12C, 10.118.14
+by 其樺
+
+note:
+* 關閉PolynomialRootSolverTest中偶發失敗的測試案例</msg></logentry></log>

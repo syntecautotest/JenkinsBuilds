@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205783"><author>simon</author><date>2018-10-02T09:16:52.126023Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/LaserCtrl/Source/LaserCtrl/LaserCtrl.cpp</path><path action="M" localPath="LaserCtrl\Source\LaserCtrl\LaserCtrl.cpp" kind="file">/cnckernel/trunk/LaserCtrl/Source/LaserCtrl/LaserCtrl.cpp</path></paths><msg>merge: HSHP_2418_b_MsgLaserStop_13, 204672-205741, to 10.118.12C, 10.118.14
+by 彥融
+
+add:
+	修正雷射打標控制器Macro下MSG()而觸發雷射核心暫停。</msg></logentry></log>
