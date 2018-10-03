@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205918"><author>mstsai0113</author><date>2018-10-03T08:33:29.857206Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/MciRTEX/RTEXChannel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciRTEX/RTEXChannel.cpp</path><path action="M" localPath="OCDevice\Source\MciRTEX\RTEXChannel.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/MciRTEX/RTEXChannel.cpp</path></paths><msg>merge: ISSUE_13643_b_CATOAlarm27.4 r205056 to 10.116.54U, 10.118.12C, 10.118.14
+by 孟學
+
+from 10.116.51, 10.117.51, CNCKL-1783
+修正RTEX A6N當軸向設為增量式，可能開機Servo on遇到驅動器警報27.4</msg></logentry></log>

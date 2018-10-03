@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205853"><author>simon</author><date>2018-10-03T02:10:31.999647Z</date><paths><path action="M" localPath="res\Lathe\Macro\O999973.nc" kind="file">/cnckernel/trunk/res/Lathe/Macro/O999973.nc</path></paths><msg>fix macro compile error from HSHP_2283_f_AddG73TorelanceAtXDir_118, 205616-205668, to 10.118.14
+by 旭沅.
+
+fix:
+    macro compile error because extra #.
+</msg></logentry></log>
