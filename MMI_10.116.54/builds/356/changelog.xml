@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="206041"><author>colingsta</author><date>2018-10-04T08:21:31.827221Z</date><paths><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/AutoTunning/FlowChart_SyntecM3_SPD.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/AutoTunning/FlowChart_SyntecM3_SPD.cs</path><path action="M" localPath="MMICommon\Source\Screen\SerialServo\AutoTunning\FlowChart_SyntecM3_SPD.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Screen/SerialServo/AutoTunning/FlowChart_SyntecM3_SPD.cs</path></paths><msg>merge appkernel/MMI_3662_M3SpindleAndRotAutoTuneFailed r205650 to 10.116.54U, 10.118.12C, 10.118.14 by 存澤
+
+修正
+    新代M3主軸&amp;ROT軸無法自動調機問題</msg></logentry></log>

@@ -1,0 +1,17 @@
+------ Rebuild All started: Project: SerialPLCAxis, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'SerialPLCAxis', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+SerialPLCParamSync.cpp
+SerialPLCPanel.cpp
+SerialPLCCenter.cpp
+SerialPLCAxis.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'MotUtility.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\SerialPLCAxis\WCE600Release\BuildLog.htm"
+SerialPLCAxis - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

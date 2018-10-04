@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="205997"><author>simon</author><date>2018-10-04T06:09:20.305290Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/CJerkLineInt.h</path><path action="M" localPath="OCKrnl\Source\MotUtility\CJerkLineInt.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotUtility/CJerkLineInt.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/CJerkLineInt.cpp</path><path action="M" localPath="OCKrnl\Source\MotUtility\CJerkLineInt.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotUtility/CJerkLineInt.cpp</path></paths><msg>merge: HSHP_2398_f_ImpRaiseRTCPEff_12.X, 203594-205937, to 10.118.14
+	   merge: HSHP_2398_f_ImpRaiseRTCPEff_12, 203594-205933, to 10.118.12C
+by 彥融
+
+fix:
+	1. 修正因118.x m_C 有用到去算 Acc，不能砍掉，加回去m_C。
+	2. 修正因為118.12x 不需要用到m_C，刪除節省記憶體。</msg></logentry></log>
