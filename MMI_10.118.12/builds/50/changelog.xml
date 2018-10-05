@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="206201"><author>jason.yang</author><date>2018-10-05T07:02:12.675703Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/LaserCutting/Source/Build/BuildBin.bat</path><path action="M" localPath="PlugIn\LaserCutting\Source\Build\BuildBin.bat" kind="file">/appkernel/branches/AppKernel_10.118.12/PlugIn/LaserCutting/Source/Build/BuildBin.bat</path></paths><msg>merge Laser_1440_b_70CBPluginPathError 206179 to 10.118.12C, 10.118.14 by 子權
+
+修正
+1.70CB, 70CB-5 開機跳Plugin error</msg></logentry></log>

@@ -1,0 +1,8 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\Bin\EnIP.dll
+DiskC\OpenCNC\Bin\EnIPModule.dll
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------

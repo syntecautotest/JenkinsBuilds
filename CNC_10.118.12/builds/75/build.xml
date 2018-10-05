@@ -131,6 +131,10 @@
           <string>938204a32fc519cbed79e6be5da4325f</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.12B.zip</string>
+          <string>3fcff4b53616832dd7e87d3e37beb335</string>
+        </entry>
+        <entry>
           <string>Build\Release\PrdParam_10.118.12B.zip</string>
           <string>c70f6546b2ef6d67e0e539daa4b4a364</string>
         </entry>
@@ -139,6 +143,15 @@
     <hudson.tasks.MailMessageIdAction plugin="mailer@1.20">
       <messageId>&lt;21784344.7.1538658607578.JavaMail.user1@TESTMAN2&gt;</messageId>
     </hudson.tasks.MailMessageIdAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2555</id>
+          <title>提供自動同步硬體不符資訊到FRAM與登錄檔的機型/使用期限資料區塊功能</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>529</queueId>
   <timestamp>1538650089682</timestamp>

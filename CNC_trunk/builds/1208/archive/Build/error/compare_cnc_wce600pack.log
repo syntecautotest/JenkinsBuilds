@@ -1,0 +1,14 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+Windows\EnIP.dll
+DiskC\Shared\Windows\EnIP.dll
+DiskC\OpenCNC\Bin\cnc2_22a_rtex.bin
+DiskC\OpenCNC\Bin\cnc2_starm_lx45_rtex.bin
+DiskC\OpenCNC\Bin\cnc2_starm_rtex.bin
+DiskC\OpenCNC\Bin\EnIPModule.dll
+DiskC\OpenCNC\Bin\Prep.dll
+DiskC\OpenCNC\Bin\RFDriver.dll
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------

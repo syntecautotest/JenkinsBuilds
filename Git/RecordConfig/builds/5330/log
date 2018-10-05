@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3063917200754972551.bat
+Product: 22MA
+<FileConfig ProductName="22MA" PackageHead="22AMillCE7_ARM"><Files><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54S</Version><Name>package_3b400b2b.zip</Name><Hash>0558068034bae368fc4219733f46aed8</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/22MA/Software/Test/Common/package_3b400b2b.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54S</Version><Name>Test.zip</Name><Hash>08941c1c2021ac3e5e9af494046ae54e</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54S</Version><Name>package_21840301.zip</Name><Hash>e380f0839aec9a84c3da59e525c67916</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/22MA/Software/Delivery/Common/package_21840301.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54S</Version><Name>Delivery.zip</Name><Hash>fdb2f77343b3663dd48040d8be1fe82c</Hash></File><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.10.0</Version><Name>WCE7_I.MX6_9.10.0.bin</Name><Hash>1b1f1f123036e798a6105d9a77ee7a7b</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.10.0/ARMCE7_Image/WCE7_I.MX6_9.10.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

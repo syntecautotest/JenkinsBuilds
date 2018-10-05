@@ -1,0 +1,15 @@
+Files that are found in folder Current_sdk but NOT in folder Previous_sdk :
+
+CNCSDK\inc\EnIP_DEF.h
+CNCSDK\inc\IEnIPCenter.h
+CNCSDK\inc\IRFDriver.h
+CNCSDK\inc\TrajectoryOscillator.h
+CNCSDK\bin\wce700arm\EnIPModule.dll
+CNCSDK\bin\wce700arm\RFDriver.dll
+CNCSDK\bin\wce600\EnIPModule.dll
+CNCSDK\bin\wce600\RFDriver.dll
+CNCSDK\bin\w32\EnIPModule.dll
+----------------------------------------------------------------------
+Files that are found in folder Previous_sdk but NOT in folder Current_sdk :
+
+----------------------------------------------------------------------

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="206146"><author>mstsai0113</author><date>2018-10-05T03:40:39.728976Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/NCExecutive.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/NCExecutive.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/NCExecutive.h</path></paths><msg>merge: ISSUE_13660_b_FeedholdProblem, 205887-206116 to 10.116.54U, 10.118.12C, 10.118.14
+by 竺晏
+
+from 10.116.38I, 10.116.54G, 10.118.0D,10.118.4, CNCKL-433
+修正在軸向屬於多個軸群時，因為軸群暫停點時機不同，導致再次觸發C0軸向動作不符預期的問題。</msg></logentry></log>

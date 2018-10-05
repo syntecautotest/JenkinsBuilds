@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="206145"><author>mstsai0113</author><date>2018-10-05T03:35:01.364381Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\cncctrl.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/cncctrl.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Operation/cncctrl.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/CNCCenter.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\CNCCenter.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/CNCCenter.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Operation/CNCCenter.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/cncctrl.cpp</path></paths><msg>merge: CNCKL_2582_b_HistoryAlarmErr, 206060 to 10.116.54U, 10.118.12C, 10.118.14
+by 建明
+
+from 10.116.54Q, 10.118.0K, 10.118.11, CNCKL-2401
+修正歷史警報解除時間錯誤的問題(給雲端計算稼動率使用)</msg></logentry></log>
