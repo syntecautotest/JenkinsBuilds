@@ -1,0 +1,10 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+Windows\EnIP.dll
+DiskC\Shared\Windows\EnIP.dll
+DiskC\OpenCNC\Bin\EnIPModule.dll
+DiskC\OpenCNC\Bin\RFDriver.dll
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------
