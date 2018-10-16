@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="206751"><author>1212</author><date>2018-10-15T08:09:44.493793Z</date><paths><path action="M" localPath="." kind="dir">/appkernel/branches/AppKernel_10.118.12</path><path action="M" localPath="Res\_Arm\_Scanning\Common\AppData\mainF3.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scanning/Common/AppData/mainF3.xml</path></paths><msg>merge appkernel/ISSUE_13552_b_StopButtonNoFunction r204452-r204452 to 10.118.12D, 10.118.14, by 禹安
+
+修正
+    雷射打標畫面停止加工鈕失效的問題</msg></logentry></log>
