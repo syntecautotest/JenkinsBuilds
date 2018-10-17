@@ -1,0 +1,36 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4Nreb51cQw3sGGsvXA9J9x+etaYfRUqhus/wreEmrZB5AAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzOEgY+/dLi1CL98oKCwkIgBgB2StjmwwAAAA==[0mYoanaShih ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\TestGithub\workspace
+ > git.exe rev-parse --is-inside-work-tree # timeout=10
+Fetching changes from the remote Git repository
+ > git.exe config remote.origin.url git@github.com:wppqqppq/Git101.git # timeout=10
+Fetching upstream changes from git@github.com:wppqqppq/Git101.git
+ > git.exe --version # timeout=10
+ > git.exe fetch --tags --progress git@github.com:wppqqppq/Git101.git +refs/heads/*:refs/remotes/origin/*
+ > git.exe rev-parse "refs/remotes/origin/master^{commit}" # timeout=10
+ > git.exe rev-parse "refs/remotes/origin/origin/master^{commit}" # timeout=10
+Checking out Revision 9059e9313a6e075e1a845945ca03d5846f91d425 (refs/remotes/origin/master)
+ > git.exe config core.sparsecheckout # timeout=10
+ > git.exe checkout -f 9059e9313a6e075e1a845945ca03d5846f91d425
+Commit message: "revert test"
+ > git.exe rev-list --no-walk 9059e9313a6e075e1a845945ca03d5846f91d425 # timeout=10
+[Set GitHub commit status (universal)] PENDING on repos [GHRepository@1a455ea[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=279,milestones={},language=<null>,commits={},source=<null>,parent=<null>,responseHeaderFields={null=[HTTP/1.1 200 OK], Access-Control-Allow-Origin=[*], Access-Control-Expose-Headers=[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval], Cache-Control=[private, max-age=60, s-maxage=60], Content-Encoding=[gzip], Content-Security-Policy=[default-src 'none'], Content-Type=[application/json; charset=utf-8], Date=[Tue, 16 Oct 2018 23:09:20 GMT], ETag=[W/"63eccde66ee54dfd860388776e21891c"], Last-Modified=[Thu, 26 Jul 2018 03:14:52 GMT], OkHttp-Received-Millis=[1539731364598], OkHttp-Response-Source=[NETWORK 200], OkHttp-Selected-Protocol=[http/1.1], OkHttp-Sent-Millis=[1539731364094], Referrer-Policy=[origin-when-cross-origin, strict-origin-when-cross-origin], Server=[GitHub.com], Status=[200 OK], Strict-Transport-Security=[max-age=31536000; includeSubdomains; preload], Transfer-Encoding=[chunked], Vary=[Accept, Authorization, Cookie, X-GitHub-OTP], X-Accepted-OAuth-Scopes=[repo], X-Content-Type-Options=[nosniff], X-Frame-Options=[deny], X-GitHub-Media-Type=[github.v3; format=json], X-GitHub-Request-Id=[F172:7944:1BA899F:3D4277F:5BC66F9F], X-OAuth-Scopes=[admin:repo_hook, repo], X-RateLimit-Limit=[5000], X-RateLimit-Remaining=[4998], X-RateLimit-Reset=[1539734959], X-XSS-Protection=[1; mode=block]},url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:9059e93) with context:master
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/9059e9313a6e075e1a845945ca03d5846f91d425
+ERROR: [GitHub Commit Status Setter] Failed to update commit state on GitHub. Ignoring exception [{"message":"Not Found","documentation_url":"https://developer.github.com/v3/repos/statuses/#create-a-status"}]
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0m[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins6811176275551889773.bat
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>echo Test123 
+Test123
+
+C:\Jenkins\jobs\Git\jobs\TestGithub\workspace>exit 0 
+Setting result to [¤£Ã­©w]
+Build step 'Set the build result' changed build result to UNSTABLE
+[Set GitHub commit status (universal)] FAILURE on repos [GHRepository@d86250[description=Test for Git tutorial,homepage=<null>,name=Git101,license=<null>,fork=false,size=279,milestones={},language=<null>,commits={},source=<null>,parent=<null>,responseHeaderFields={null=[HTTP/1.1 200 OK], Access-Control-Allow-Origin=[*], Access-Control-Expose-Headers=[ETag, Link, Retry-After, X-GitHub-OTP, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset, X-OAuth-Scopes, X-Accepted-OAuth-Scopes, X-Poll-Interval], Cache-Control=[private, max-age=60, s-maxage=60], Content-Encoding=[gzip], Content-Security-Policy=[default-src 'none'], Content-Type=[application/json; charset=utf-8], Date=[Tue, 16 Oct 2018 23:09:20 GMT], ETag=[W/"63eccde66ee54dfd860388776e21891c"], Last-Modified=[Thu, 26 Jul 2018 03:14:52 GMT], OkHttp-Received-Millis=[1539731364598], OkHttp-Response-Source=[CACHE 200], OkHttp-Selected-Protocol=[http/1.1], OkHttp-Sent-Millis=[1539731364094], Referrer-Policy=[origin-when-cross-origin, strict-origin-when-cross-origin], Server=[GitHub.com], Status=[200 OK], Strict-Transport-Security=[max-age=31536000; includeSubdomains; preload], Transfer-Encoding=[chunked], Vary=[Accept, Authorization, Cookie, X-GitHub-OTP], X-Accepted-OAuth-Scopes=[repo], X-Content-Type-Options=[nosniff], X-Frame-Options=[deny], X-GitHub-Media-Type=[github.v3; format=json], X-GitHub-Request-Id=[F172:7944:1BA899F:3D4277F:5BC66F9F], X-OAuth-Scopes=[admin:repo_hook, repo], X-RateLimit-Limit=[5000], X-RateLimit-Remaining=[4998], X-RateLimit-Reset=[1539734959], X-XSS-Protection=[1; mode=block]},url=https://api.github.com/repos/wppqqppq/Git101,id=133198544]] (sha:9059e93) with context:master
+Setting commit status on GitHub for https://github.com/wppqqppq/Git101/commit/9059e9313a6e075e1a845945ca03d5846f91d425
+ERROR: [GitHub Commit Status Setter] - {"message":"Not Found","documentation_url":"https://developer.github.com/v3/repos/statuses/#create-a-status"}, setting build result to FAILURE
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mBuild step 'Set GitHub commit status (universal)' changed build result to FAILURE
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: FAILURE

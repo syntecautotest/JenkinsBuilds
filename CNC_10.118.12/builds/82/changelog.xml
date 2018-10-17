@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="206897"><author>simon</author><date>2018-10-17T01:24:42.027786Z</date><paths><path action="M" localPath="res\Lathe\Macro\G0075.nc" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/G0075.nc</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/G0075.nc</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/G0074.nc</path><path action="M" localPath="res\Lathe\Macro\O999174.nc" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/O999174.nc</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/O999174.nc</path><path action="M" localPath="res\Lathe\Macro\G0074.nc" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/G0074.nc</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/G0073.nc</path><path action="M" localPath="res\Lathe\Macro\G0073.nc" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/G0073.nc</path><path action="M" kind="file">/cnckernel/trunk/res/Lathe/Macro/G0075.nc</path><path action="M" localPath="res\Lathe\Macro\O999072.nc" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/O999072.nc</path><path action="M" kind="file">/cnckernel/trunk/res/Lathe/Macro/O999174.nc</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/O999072.nc</path><path action="M" kind="file">/cnckernel/trunk/res/Lathe/Macro/G0074.nc</path><path action="M" kind="file">/cnckernel/trunk/res/Lathe/Macro/G0073.nc</path><path action="M" kind="file">/cnckernel/trunk/res/Lathe/Macro/O999072.nc</path></paths><msg>merge: ISSUE_12715_b_G72G74LastMove_116_54, 205549-205574, to 10.116.54V, 10.118.12D, 10.118.15
+by 世棠
+
+from start
+
+fix:
+	改善G72搭配G74時可能會發生的下列問題
+	1. G72完成輪廓切削後，在回刀至呼叫G72的位置時發生撞刀
+	2. G72調用G42時因回刀路徑和切削路徑構成無法刀補的輪廓而造成路徑異常</msg></logentry></log>

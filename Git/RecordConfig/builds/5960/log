@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1228773950026435284.bat
+Product: 21TB
+<FileConfig ProductName="21TB" PackageHead="21BLatheCE7_ARM"><Files><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54S</Version><Name>package_2ae55376.zip</Name><Hash>89922017a07962a3cdc371968af60342</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/21TB/Software/Test/Common/package_2ae55376.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54S</Version><Name>Test.zip</Name><Hash>d63c67786dcdc7e93fa7f62db9de6eda</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54S</Version><Name>package_4fb37671.zip</Name><Hash>3a1453472172a779143bac4afddab462</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/21TB/Software/Delivery/Common/package_4fb37671.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54S</Version><Name>Delivery.zip</Name><Hash>5a667d0871b222251f31d49af21dd46d</Hash></File><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.58.0</Version><Name>WCE7_AM335x_7.58.0.bin</Name><Hash>f87faab036905296bd77556047fbc7fd</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

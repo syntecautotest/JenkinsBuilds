@@ -1,0 +1,12 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3980686360326037237.bat
+Product: 22TA
+<FileConfig ProductName="22TA" PackageHead="22ALatheCE7_ARM"><Files><File Category="Packing" Usage="Common" Hardware="Common"><Version>10.116.38N</Version></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.38N</Version><Name>package_cba3438f.zip</Name><Hash>3c2b1ffcf9c36add452eaaceb5ff0575</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/22TA/Software/Test/Common/package_cba3438f.zip</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.38N</Version><Name>package_d6dcd5b1.zip</Name><Hash>21ae77aa7a5359ff8181ecd76572fcf6</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/22TA/Software/Delivery/Common/package_d6dcd5b1.zip</URL></File><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.10.0</Version><Name>WCE7_I.MX6_9.10.0.bin</Name><Hash>1b1f1f123036e798a6105d9a77ee7a7b</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.10.0/ARMCE7_Image/WCE7_I.MX6_9.10.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

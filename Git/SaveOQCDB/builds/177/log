@@ -1,0 +1,69 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins32878287498618391.bat
+ID:1345 Date:2018/10/17 21:17:47
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 4b8ec54] 2018/10/17 21:17:47 by 1345, Modified Products: HC-8C,HC-10C,22TA,22MA,22TB,220MB,220MA,220TB,220MA5,220MB5,HC-15C
+ 46 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 220MA/Software/Delivery/Common/package_8917429d.zip
+ create mode 100644 220MA/Software/Delivery/Common/package_b7a74373.zip
+ delete mode 100644 220MA/Software/Test/Common/package_4d6d6412.zip
+ rename 220MB5/Software/Delivery/Common/package_fc840fd0.zip => 220MA/Software/Test/Common/package_66ad8d95.zip (62%)
+ create mode 100644 220MA5/Software/Delivery/Common/package_b71a58f0.zip
+ delete mode 100644 220MA5/Software/Delivery/Common/package_eda16da7.zip
+ delete mode 100644 220MA5/Software/Test/Common/package_f215eb8e.zip
+ create mode 100644 220MA5/Software/Test/Common/package_f748c40d.zip
+ create mode 100644 220MB/Software/Delivery/Common/package_5215d558.zip
+ delete mode 100644 220MB/Software/Delivery/Common/package_967703c3.zip
+ create mode 100644 220MB/Software/Test/Common/package_46902e7d.zip
+ delete mode 100644 220MB/Software/Test/Common/package_a44cba5e.zip
+ create mode 100644 220MB5/Software/Delivery/Common/package_13bf3670.zip
+ delete mode 100644 220MB5/Software/Test/Common/package_42944825.zip
+ create mode 100644 220MB5/Software/Test/Common/package_e391c1b4.zip
+ create mode 100644 220TB/Software/Delivery/Common/package_2ab7f8b2.zip
+ rename 220TB/Software/{Delivery/Common/package_b9d7dc73.zip => Test/Common/package_9edcec16.zip} (62%)
+ delete mode 100644 220TB/Software/Test/Common/package_f4947424.zip
+ rewrite 22MA/Packing/Delivery/Common/Delivery.zip (99%)
+ create mode 100644 22MA/Software/Delivery/Common/package_b1a7ca1d.zip
+ create mode 100644 22TA/Software/Delivery/Common/package_d2d212a5.zip
+ rename 22TA/Software/{Delivery/Common/package_d6dcd5b1.zip => Test/Common/package_c50fec90.zip} (62%)
+ delete mode 100644 22TA/Software/Test/Common/package_cba3438f.zip
+ delete mode 100644 22TB/Software/Delivery/Common/package_35084c77.zip
+ create mode 100644 22TB/Software/Delivery/Common/package_903b1e97.zip
+ delete mode 100644 22TB/Software/Test/Common/package_0f262f49.zip
+ create mode 100644 22TB/Software/Test/Common/package_e1de7ade.zip
+ create mode 100644 HC_10C/Software/Delivery/Common/package_64e6b3e9.zip
+ create mode 100644 HC_10C/Software/Test/Common/package_cbea72e7.zip
+ create mode 100644 HC_10C5/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 HC_10C5/Packing/Test/Common/Test.zip
+ rename {HC_10C => HC_10C5}/Software/Delivery/Common/package_104e07f1.zip (100%)
+ rename {HC_10C => HC_10C5}/Software/Test/Common/package_e3a4b7cc.zip (100%)
+ create mode 100644 HC_15C/Software/Delivery/Common/package_545c3e91.zip
+ create mode 100644 HC_15C/Software/Test/Common/package_969ea7d7.zip
+ create mode 100644 HC_15C5/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 HC_15C5/Packing/Test/Common/Test.zip
+ rename {HC_15C => HC_15C5}/Software/Delivery/Common/package_ce749c1f.zip (100%)
+ rename {HC_15C => HC_15C5}/Software/Test/Common/package_35d979ad.zip (100%)
+ rename 22MA/Software/Delivery/Common/package_21840301.zip => HC_8C/Software/Delivery/Common/package_7b3e1b4f.zip (78%)
+ create mode 100644 HC_8C/Software/Test/Common/package_5927ac05.zip
+ create mode 100644 HC_8C5/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 HC_8C5/Packing/Test/Common/Test.zip
+ rename {HC_8C => HC_8C5}/Software/Delivery/Common/package_482ccac3.zip (100%)
+ rename {HC_8C => HC_8C5}/Software/Test/Common/package_caf0fc41.zip (100%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   9aac0b7..4b8ec54  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

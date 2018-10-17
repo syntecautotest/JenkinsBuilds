@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="206941"><author>swdjojo</author><date>2018-10-17T05:58:43.931789Z</date><paths><path action="M" localPath="MMICommon\Source\BackupRestore\AutoBackup\AB.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/BackupRestore/AutoBackup/AB.cs</path></paths><msg>merge appkernel/MMI_3713_f_ABsetR900Status_54x, 206798 to 116.54V
+by 存澤
+
+note:
+  * 提供R3分析AB備份路徑異常使用的PLC狀態(R900)
+</msg></logentry></log>
