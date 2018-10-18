@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="207078"><author>mstsai0113</author><date>2018-10-18T05:32:51.404416Z</date><paths><path action="M" localPath="OCDevice\Source\PhysicalDriver\PhysicalDriver.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/PhysicalDriver/PhysicalDriver.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.116.54U/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/PhysicalDriver/PhysicalDriver.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" localPath="OCKrnl\Source\NcLoader\NcProgMgr.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\cncctrl.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/cncctrl.cpp</path></paths><msg>merge: ATEST_1001_b_W32SimulatorError, 207056-207070 to 10.118.12D, 10.118.15
+merge: ATEST_1001_b_W32SimulatorError, 207056 to 10.116.54U
+by孟學
+
+from 10.116.54U, 10.118.12C, 10.118.14, CNCKL-2546
+1. 修正檔名太長 或 路徑太深 造成模擬器異常問題 
+2. 修正10.118.14 W32 debug 模式會被ASSERT擋掉</msg></logentry></log>

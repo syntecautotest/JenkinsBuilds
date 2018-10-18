@@ -1,0 +1,40 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ArrayTypeBuffer.cpp
+TransformManager.cpp
+StageMoveCompensator.cpp
+NulLaserChannel.cpp
+ManualJog.cpp
+LaserPLCPanel.cpp
+LaserFileReader.cpp
+LaserCtrlParamSync.cpp
+LaserCtrl.cpp
+LaserCmdInterpolator.cpp
+LaserAxis.cpp
+GalvoAxisParamSync.cpp
+GalvoAxis.cpp
+DistortionTransform.cpp
+DCTLoader.cpp
+DCTCreater.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\LaserCtrl\Source\LaserCtrl\WCE600Release\BuildLog.htm"
+LaserCtrl - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+LaserCtrlDll.cpp
+Linking...
+   Creating library WCE600Release\LaserCtrlDll.lib and object WCE600Release\LaserCtrlDll.exp
+LaserCtrlDll.exp : warning LNK4070: /OUT:LaserCtrl.DLL directive in .EXP differs from output filename 'WCE600Release\LaserCtrlDll.dll'; ignoring directive
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\LaserCtrl\Source\LaserCtrlDll\WCE600Release\BuildLog.htm"
+LaserCtrlDll - 0 error(s), 1 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+
