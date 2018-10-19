@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="207158"><author>colingsta</author><date>2018-10-19T01:20:58.109909Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Monitor\Scr_MonitorS1.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Monitor/Scr_MonitorS1.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScreenBase.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Monitor/Scr_MonitorS1.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScreenBase.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/ScreenBase.cs</path></paths><msg>merge appkernel/ATEST_963_b_MonitorBug r204767-r206370 to 10.118.12D, 10.118.15 by 禮芳
+
+修正
+    『雙程式系統下, 圖形模擬元件覆蓋文字資訊』的問題</msg></logentry></log>
