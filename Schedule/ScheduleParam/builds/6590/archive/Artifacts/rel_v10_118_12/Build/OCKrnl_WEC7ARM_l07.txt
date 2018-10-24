@@ -1,0 +1,14 @@
+------ Rebuild All started: Project: FFTransform, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'FFTransform', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+FFT.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\rel_v10_118_12\OCKrnl\Source\FFTransform\WCE700ARM_Release\BuildLog.htm"
+FFTransform - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

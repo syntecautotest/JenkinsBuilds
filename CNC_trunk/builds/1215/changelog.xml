@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="207672"><author>mstsai0113</author><date>2018-10-24T03:26:04.718116Z</date><paths><path action="M" localPath="OCKrnl\Source\KinematicTransformation\_RTCPKinematicUtility.h" kind="file">/cnckernel/trunk/OCKrnl/Source/KinematicTransformation/_RTCPKinematicUtility.h</path></paths><msg>fix build errp from merge: CNCKL_2475_f_MitsubishiAlarm_v2, 206344-207476 to 10.118.15
+by 孟學</msg></logentry></log>

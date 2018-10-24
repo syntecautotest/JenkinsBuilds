@@ -1,0 +1,31 @@
+------ Rebuild All started: Project: gmock, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'gmock', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+gtest-all.cc
+D:\OpenCNC\Schedule\trunk\GMock\Source\src/gtest-death-test.cc(727) : warning C4267: 'argument' : conversion from 'size_t' to 'const unsigned int', possible loss of data
+D:\OpenCNC\Schedule\trunk\GMock\Source\src/gtest-death-test.cc(728) : warning C4267: 'argument' : conversion from 'size_t' to 'const unsigned int', possible loss of data
+gmock-all.cc
+D:\OpenCNC\Schedule\trunk\GMock\Source\src/gmock-matchers.cc : warning C4819: The file contains a character that cannot be represented in the current code page (950). Save the file in Unicode format to prevent data loss
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\GMock\Source\Debug\BuildLog.htm"
+gmock - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: main, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'main', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+gmock_main.cc
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\GMock\Source\Debug\BuildLog.htm"
+main - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+

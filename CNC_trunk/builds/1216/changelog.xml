@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="207689"><author>mstsai0113</author><date>2018-10-24T05:23:14.511663Z</date><paths><path action="M" localPath="LaserCtrl\Source\LaserCtrl\GalvoAxis.cpp" kind="file">/cnckernel/trunk/LaserCtrl/Source/LaserCtrl/GalvoAxis.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/LaserCtrl/Source/LaserCtrl/GalvoAxis.cpp</path></paths><msg>merge(2nd): ISSUE_13761_b_safenewSPDfail, 207687 to 10.118.12D, 10.118.15
+by 竺晏
+
+fix laser control GTest Failed</msg></logentry></log>

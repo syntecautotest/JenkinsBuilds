@@ -1,0 +1,12 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+Windows\EnIP.dll
+DiskC\Shared\Windows\EnIP.dll
+DiskC\OpenCNC\Data\ECAT_OD_MITSUBISHI_MR.xml
+DiskC\OpenCNC\Data\ECAT_PM_MITSUBISHI_J4.xml
+DiskC\OpenCNC\Bin\EnIPModule.dll
+DiskC\OpenCNC\Bin\RFDriver.dll
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------
