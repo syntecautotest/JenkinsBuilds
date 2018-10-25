@@ -1,0 +1,262 @@
+------ Rebuild All started: Project: BridgeAPI, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Debug|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\BridgeAPI\Debug\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KrnlAPI, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\KrnlAPI\Debug\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Debug|Win32'
+Compiling...
+TCPClient.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\socketutility\tcpclient.cpp(254) : warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\opencnc\schedule\api_trunk\ocapi\source\socketutility\tcpclient.cpp(281) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+d:\opencnc\schedule\api_trunk\ocapi\source\socketutility\tcpclient.cpp(417) : warning C4244: 'argument' : conversion from 'SOCKET' to 'int', possible loss of data
+TCPFunction.cpp
+StdAfx.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\SocketUtility\Debug\BuildLog.htm"
+SocketUtility - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Debug|Win32'
+Performing Pre-Build Event...
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : error C2146: syntax error : missing ';' before identifier 'NcAddOnCncEvent'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : error C2182: 'CNCAPI' : illegal use of type 'void'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(64) : error C2146: syntax error : missing ';' before identifier 'NcRemoveOnCncEvent'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(64) : error C2182: 'CNCAPI' : illegal use of type 'void'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(64) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(64) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(67) : error C2146: syntax error : missing ';' before identifier 'NcNewSimulator'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(67) : error C2040: 'CNCAPI' : 'ISimulator *' differs in levels of indirection from 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(67) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(70) : error C2146: syntax error : missing ';' before identifier 'NcReleaseSimulator'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(70) : error C2182: 'CNCAPI' : illegal use of type 'void'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(70) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(70) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(73) : error C2146: syntax error : missing ';' before identifier 'NcGetSimulator'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(73) : error C2040: 'CNCAPI' : 'ISimulator *' differs in levels of indirection from 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(73) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(76) : error C2146: syntax error : missing ';' before identifier 'NcIsSlotMatchKey'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(76) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(76) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(79) : error C2146: syntax error : missing ';' before identifier 'NcSaveSimuKeyMapping'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(79) : error C2371: 'CNCAPI' : redefinition; different basic types
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(79) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(82) : error C2146: syntax error : missing ';' before identifier 'NcClearSimuKeyMapping'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(82) : error C2040: 'CNCAPI' : 'ISimulator *' differs in levels of indirection from 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(82) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(90) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryIODevice'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(90) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(90) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(93) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryMCDevice'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(93) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(93) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(96) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryUpdDevice'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(96) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(96) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(99) : error C2146: syntax error : missing ';' before identifier 'DrvRegistrySriDevice'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(99) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(99) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(102) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryPhyscialDevice'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(102) : error C2182: 'CNCAPI' : illegal use of type 'void'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(102) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(102) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(105) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryRFDevice'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(105) : error C2086: 'int CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(105) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : error C2146: syntax error : missing ';' before identifier 'AddProvider'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : warning C4183: 'AddProvider': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(118) : error C2146: syntax error : missing ';' before identifier 'RemoveProvider'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(118) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(118) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(118) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(118) : warning C4183: 'RemoveProvider': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(121) : error C2146: syntax error : missing ';' before identifier 'GetProviderCount'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(121) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(121) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(121) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(121) : warning C4183: 'GetProviderCount': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(124) : error C2146: syntax error : missing ';' before identifier 'EnumProvider'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(124) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(124) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(124) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(124) : warning C4183: 'EnumProvider': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(127) : error C2146: syntax error : missing ';' before identifier 'PutValue'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(127) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(127) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(127) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(127) : warning C4183: 'PutValue': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(130) : error C2146: syntax error : missing ';' before identifier 'GetValue'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(130) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(130) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(130) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(130) : warning C4183: 'GetValue': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(115) : error C2253: 'INCGlobalVarContainer::AddProvider' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(118) : error C2253: 'INCGlobalVarContainer::RemoveProvider' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(121) : error C2253: 'INCGlobalVarContainer::GetProviderCount' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(124) : error C2253: 'INCGlobalVarContainer::EnumProvider' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(127) : error C2253: 'INCGlobalVarContainer::PutValue' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(130) : error C2253: 'INCGlobalVarContainer::GetValue' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(146) : error C2146: syntax error : missing ';' before identifier 'GetStorageType'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(146) : error C2433: 'INCGlobalVarProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(146) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(146) : warning C4183: 'GetStorageType': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(149) : error C2146: syntax error : missing ';' before identifier 'GetRange'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(149) : error C2433: 'INCGlobalVarProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(149) : error C2086: 'HRESULT INCGlobalVarProvider::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(146) : see declaration of 'INCGlobalVarProvider::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(149) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(149) : warning C4183: 'GetRange': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(152) : error C2146: syntax error : missing ';' before identifier 'PutValue'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(152) : error C2433: 'INCGlobalVarProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(152) : error C2086: 'HRESULT INCGlobalVarProvider::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(146) : see declaration of 'INCGlobalVarProvider::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(152) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(152) : warning C4183: 'PutValue': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(155) : error C2146: syntax error : missing ';' before identifier 'GetValue'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(155) : error C2433: 'INCGlobalVarProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(155) : error C2086: 'HRESULT INCGlobalVarProvider::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(146) : see declaration of 'INCGlobalVarProvider::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(155) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(155) : warning C4183: 'GetValue': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(146) : error C2253: 'INCGlobalVarProvider::GetStorageType' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(149) : error C2253: 'INCGlobalVarProvider::GetRange' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(152) : error C2253: 'INCGlobalVarProvider::PutValue' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(155) : error C2253: 'INCGlobalVarProvider::GetValue' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(160) : error C2146: syntax error : missing ';' before identifier 'RegGlobalVarProvider'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(160) : error C2371: 'CNCAPI' : redefinition; different basic types
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(160) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(163) : error C2146: syntax error : missing ';' before identifier 'UnregGlobalVarProvider'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(163) : error C2371: 'CNCAPI' : redefinition; different basic types
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(163) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(219) : error C2146: syntax error : missing ';' before identifier 'GetClassID'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(219) : error C2433: 'IPLCDeviceClass::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(219) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(219) : warning C4183: 'GetClassID': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(222) : error C2146: syntax error : missing ';' before identifier 'GetCapacity'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(222) : error C2433: 'IPLCDeviceClass::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(222) : error C2086: 'HRESULT IPLCDeviceClass::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(219) : see declaration of 'IPLCDeviceClass::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(222) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(222) : warning C4183: 'GetCapacity': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(225) : error C2146: syntax error : missing ';' before identifier 'GetOpCodeSpec'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(225) : error C2433: 'IPLCDeviceClass::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(225) : error C2086: 'HRESULT IPLCDeviceClass::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(219) : see declaration of 'IPLCDeviceClass::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(225) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(225) : warning C4183: 'GetOpCodeSpec': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(219) : error C2253: 'IPLCDeviceClass::GetClassID' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(222) : error C2253: 'IPLCDeviceClass::GetCapacity' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(225) : error C2253: 'IPLCDeviceClass::GetOpCodeSpec' : pure specifier or abstract override specifier only allowed on virtual function
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : error C2146: syntax error : missing ';' before identifier 'GetClassID'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : warning C4183: 'GetClassID': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(242) : error C2146: syntax error : missing ';' before identifier 'GetClassInfoW'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(242) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(242) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(242) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(242) : warning C4183: 'GetClassInfoW': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(245) : error C2146: syntax error : missing ';' before identifier 'GetProviderType'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(245) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(245) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(245) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(245) : warning C4183: 'GetProviderType': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(248) : error C2146: syntax error : missing ';' before identifier 'GetDeviceID'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(248) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(248) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(248) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(248) : warning C4183: 'GetDeviceID': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(251) : error C2146: syntax error : missing ';' before identifier 'GetDeviceIDRange'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(251) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(251) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(251) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(251) : warning C4183: 'GetDeviceIDRange': missing return type; assumed to be a member function returning 'int'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(254) : error C2146: syntax error : missing ';' before identifier 'FireEvent'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(254) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(254) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+d:\opencnc\schedule\api_trunk\ocsdk\inc\cncapi.h(254) : fatal error C1003: error count exceeds 100; stopping compilation
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\OCKrnlDrv\Debug\BuildLog.htm"
+OCKrnlDrv - 136 error(s), 18 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Debug|Win32'
+Performing Pre-Build Event...
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\tcpinstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\tcpinstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\tcpinstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\tcpclientlink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\tcpclientlink.cpp(349) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\tcpalarmserver.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcXmlTextReader.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\ocxmltextreader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcKrnlDrvDll32.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\ockrnldrvdll32.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+DipoleDeviceBuffer.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\dipoledevicebuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+Generating Code...
+Compiling...
+OCAPI.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\ocapi.cpp(441) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\ocapi.cpp(441) : warning C4309: '=' : truncation of constant value
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\ocapi.cpp(1401) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+d:\opencnc\schedule\api_trunk\ocapi\source\ocapi\ocapi.cpp(1464) : warning C4018: '<=' : signed/unsigned mismatch
+Compiling manifest to resources...
+Linking...
+LINK : fatal error LNK1104: cannot open file 'OCKrnlDrv.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\OCAPI\Debug\BuildLog.htm"
+OCAPI - 1 error(s), 13 warning(s)
+========== Rebuild All: 3 succeeded, 2 failed, 0 skipped ==========
+
