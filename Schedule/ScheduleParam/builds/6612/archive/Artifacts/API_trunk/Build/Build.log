@@ -1,0 +1,41 @@
+Date: 2018/10/25 星期四	23:23:30 
+OCBuildVersion: 10.118.14 
+PlatformSDKVersion: 1.23.0 
+ 
+Build Configuration: 
+	W32=1 
+	W64=1 
+	CE6=1 
+	CE7 ARM=1 
+ 
+Execute Both Compile and Packing Sections 
+ 
+/* Clean Output Working Directory */ 
+ 
+/* Build Executable Files */ 
+Prepare to Compile Files ... 
+	Init OCSDK Directory 
+	Download CNCSDK 
+Start to Sync Header 
+	Sync D:\OpenCNC\Schedule\API_trunk\OCAPI Header 
+Start to Sync /makew32 Library 
+	Sync OCAPI Library 
+Start to Compile /makew32 Executable Files 
+	Compile OCAPI Executable Files 
+Start to Sync /makew64 Library 
+	Sync OCAPI Library 
+Start to Compile /makew64 Executable Files 
+	Compile OCAPI Executable Files 
+Start to Sync /makewce600 Library 
+	Sync OCAPI Library 
+Start to Compile /makewce600 Executable Files 
+	Compile OCAPI Executable Files 
+Start to Sync /makewce700arm Library 
+	Sync OCAPI Library 
+Start to Compile /makewce700arm Executable Files 
+	Compile OCAPI Executable Files 
+ 
+/* Check Error Logs */ 
+Compile Failed 
+Process Terminated due to Compile Error 
+Process Finished at 2018/10/25 星期四	23:24:40 
