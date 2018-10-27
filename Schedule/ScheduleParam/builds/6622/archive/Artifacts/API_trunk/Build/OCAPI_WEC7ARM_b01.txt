@@ -1,0 +1,300 @@
+------ Rebuild All started: Project: KrnlAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+KrnlAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\KrnlAPI\WCE700ARM_DipoleRelease\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+TCPFunction.cpp
+C:\Program Files\Microsoft Visual Studio 9.0\VC\ce\include\xlocnum(69) : warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(494) : see declaration of 'wcstombs'
+C:\Program Files\Microsoft Visual Studio 9.0\VC\ce\include\xlocnum(98) : warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(489) : see declaration of 'mbstowcs'
+.\TCPFunction.cpp(338) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(168) : see declaration of 'wcscpy'
+.\TCPFunction.cpp(339) : warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(167) : see declaration of 'wcscat'
+.\TCPFunction.cpp(408) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(168) : see declaration of 'wcscpy'
+.\TCPFunction.cpp(409) : warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(167) : see declaration of 'wcscat'
+.\TCPFunction.cpp(573) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPFunction.cpp(574) : warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(489) : see declaration of 'mbstowcs'
+.\TCPFunction.cpp(587) : warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(494) : see declaration of 'wcstombs'
+.\TCPFunction.cpp(588) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(168) : see declaration of 'wcscpy'
+TCPClient.cpp
+C:\Program Files\Microsoft Visual Studio 9.0\VC\ce\include\xlocnum(69) : warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(494) : see declaration of 'wcstombs'
+C:\Program Files\Microsoft Visual Studio 9.0\VC\ce\include\xlocnum(98) : warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(489) : see declaration of 'mbstowcs'
+.\TCPClient.cpp(257) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(258) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(219) : see declaration of 'strcat'
+.\TCPClient.cpp(259) : warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(514) : see declaration of '_itoa'
+.\TCPClient.cpp(260) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(219) : see declaration of 'strcat'
+.\TCPClient.cpp(336) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(337) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(352) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(439) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(451) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(466) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(168) : see declaration of 'wcscpy'
+.\TCPClient.cpp(467) : warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(167) : see declaration of 'wcscat'
+.\TCPClient.cpp(534) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\SocketUtility\WCE700ARM_Release\BuildLog.htm"
+SocketUtility - 0 error(s), 24 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : error C2146: syntax error : missing ';' before identifier 'NcAddOnCncEvent'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : error C2182: 'CNCAPI' : illegal use of type 'void'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(64) : error C2146: syntax error : missing ';' before identifier 'NcRemoveOnCncEvent'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(64) : error C2182: 'CNCAPI' : illegal use of type 'void'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(64) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(64) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(67) : error C2146: syntax error : missing ';' before identifier 'NcNewSimulator'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(67) : error C2040: 'CNCAPI' : 'ISimulator *' differs in levels of indirection from 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(67) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(70) : error C2146: syntax error : missing ';' before identifier 'NcReleaseSimulator'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(70) : error C2182: 'CNCAPI' : illegal use of type 'void'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(70) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(70) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(73) : error C2146: syntax error : missing ';' before identifier 'NcGetSimulator'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(73) : error C2040: 'CNCAPI' : 'ISimulator *' differs in levels of indirection from 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(73) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(76) : error C2146: syntax error : missing ';' before identifier 'NcIsSlotMatchKey'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(76) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(76) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(79) : error C2146: syntax error : missing ';' before identifier 'NcSaveSimuKeyMapping'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(79) : error C2371: 'CNCAPI' : redefinition; different basic types
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(79) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(82) : error C2146: syntax error : missing ';' before identifier 'NcClearSimuKeyMapping'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(82) : error C2040: 'CNCAPI' : 'ISimulator *' differs in levels of indirection from 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(82) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(90) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryIODevice'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(90) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(90) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(93) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryMCDevice'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(93) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(93) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(96) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryUpdDevice'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(96) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(96) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(99) : error C2146: syntax error : missing ';' before identifier 'DrvRegistrySriDevice'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(99) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(99) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(102) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryPhyscialDevice'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(102) : error C2182: 'CNCAPI' : illegal use of type 'void'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(102) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(102) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(105) : error C2146: syntax error : missing ';' before identifier 'DrvRegistryRFDevice'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(105) : error C2086: 'int CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(105) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : error C2146: syntax error : missing ';' before identifier 'AddProvider'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : warning C4183: 'AddProvider': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(118) : error C2146: syntax error : missing ';' before identifier 'RemoveProvider'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(118) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(118) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(118) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(118) : warning C4183: 'RemoveProvider': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(121) : error C2146: syntax error : missing ';' before identifier 'GetProviderCount'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(121) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(121) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(121) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(121) : warning C4183: 'GetProviderCount': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(124) : error C2146: syntax error : missing ';' before identifier 'EnumProvider'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(124) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(124) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(124) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(124) : warning C4183: 'EnumProvider': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(127) : error C2146: syntax error : missing ';' before identifier 'PutValue'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(127) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(127) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(127) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(127) : warning C4183: 'PutValue': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(130) : error C2146: syntax error : missing ';' before identifier 'GetValue'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(130) : error C2433: 'INCGlobalVarContainer::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(130) : error C2086: 'HRESULT INCGlobalVarContainer::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : see declaration of 'INCGlobalVarContainer::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(130) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(130) : warning C4183: 'GetValue': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(115) : error C2253: 'INCGlobalVarContainer::AddProvider' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(118) : error C2253: 'INCGlobalVarContainer::RemoveProvider' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(121) : error C2253: 'INCGlobalVarContainer::GetProviderCount' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(124) : error C2253: 'INCGlobalVarContainer::EnumProvider' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(127) : error C2253: 'INCGlobalVarContainer::PutValue' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(130) : error C2253: 'INCGlobalVarContainer::GetValue' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(146) : error C2146: syntax error : missing ';' before identifier 'GetStorageType'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(146) : error C2433: 'INCGlobalVarProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(146) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(146) : warning C4183: 'GetStorageType': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(149) : error C2146: syntax error : missing ';' before identifier 'GetRange'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(149) : error C2433: 'INCGlobalVarProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(149) : error C2086: 'HRESULT INCGlobalVarProvider::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(146) : see declaration of 'INCGlobalVarProvider::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(149) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(149) : warning C4183: 'GetRange': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(152) : error C2146: syntax error : missing ';' before identifier 'PutValue'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(152) : error C2433: 'INCGlobalVarProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(152) : error C2086: 'HRESULT INCGlobalVarProvider::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(146) : see declaration of 'INCGlobalVarProvider::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(152) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(152) : warning C4183: 'PutValue': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(155) : error C2146: syntax error : missing ';' before identifier 'GetValue'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(155) : error C2433: 'INCGlobalVarProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(155) : error C2086: 'HRESULT INCGlobalVarProvider::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(146) : see declaration of 'INCGlobalVarProvider::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(155) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(155) : warning C4183: 'GetValue': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(146) : error C2253: 'INCGlobalVarProvider::GetStorageType' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(149) : error C2253: 'INCGlobalVarProvider::GetRange' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(152) : error C2253: 'INCGlobalVarProvider::PutValue' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(155) : error C2253: 'INCGlobalVarProvider::GetValue' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(160) : error C2146: syntax error : missing ';' before identifier 'RegGlobalVarProvider'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(160) : error C2371: 'CNCAPI' : redefinition; different basic types
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(160) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(163) : error C2146: syntax error : missing ';' before identifier 'UnregGlobalVarProvider'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(163) : error C2371: 'CNCAPI' : redefinition; different basic types
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(61) : see declaration of 'CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(163) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(219) : error C2146: syntax error : missing ';' before identifier 'GetClassID'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(219) : error C2433: 'IPLCDeviceClass::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(219) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(219) : warning C4183: 'GetClassID': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(222) : error C2146: syntax error : missing ';' before identifier 'GetCapacity'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(222) : error C2433: 'IPLCDeviceClass::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(222) : error C2086: 'HRESULT IPLCDeviceClass::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(219) : see declaration of 'IPLCDeviceClass::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(222) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(222) : warning C4183: 'GetCapacity': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(225) : error C2146: syntax error : missing ';' before identifier 'GetOpCodeSpec'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(225) : error C2433: 'IPLCDeviceClass::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(225) : error C2086: 'HRESULT IPLCDeviceClass::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(219) : see declaration of 'IPLCDeviceClass::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(225) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(225) : warning C4183: 'GetOpCodeSpec': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(219) : error C2253: 'IPLCDeviceClass::GetClassID' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(222) : error C2253: 'IPLCDeviceClass::GetCapacity' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(225) : error C2253: 'IPLCDeviceClass::GetOpCodeSpec' : pure specifier or abstract override specifier only allowed on virtual function
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : error C2146: syntax error : missing ';' before identifier 'GetClassID'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : warning C4183: 'GetClassID': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(242) : error C2146: syntax error : missing ';' before identifier 'GetClassInfoW'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(242) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(242) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(242) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(242) : warning C4183: 'GetClassInfoW': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(245) : error C2146: syntax error : missing ';' before identifier 'GetProviderType'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(245) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(245) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(245) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(245) : warning C4183: 'GetProviderType': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(248) : error C2146: syntax error : missing ';' before identifier 'GetDeviceID'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(248) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(248) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(248) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(248) : warning C4183: 'GetDeviceID': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(251) : error C2146: syntax error : missing ';' before identifier 'GetDeviceIDRange'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(251) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(251) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(251) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(251) : warning C4183: 'GetDeviceIDRange': missing return type; assumed to be a member function returning 'int'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(254) : error C2146: syntax error : missing ';' before identifier 'FireEvent'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(254) : error C2433: 'IPLCDeviceProvider::CNCAPI' : 'virtual' not permitted on data declarations
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(254) : error C2086: 'HRESULT IPLCDeviceProvider::CNCAPI' : redefinition
+        D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(239) : see declaration of 'IPLCDeviceProvider::CNCAPI'
+D:\OpenCNC\Schedule\API_trunk\OCSDK\inc\cncapi.h(254) : fatal error C1003: error count exceeds 100; stopping compilation
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\OCKrnlDrv\WCE700ARM_Release\BuildLog.htm"
+OCKrnlDrv - 136 error(s), 18 warning(s)
+------ Rebuild All started: Project: BridgeAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+cl : Command line warning D9002 : ignoring unknown option '/clr:noAssembly'
+BridgeAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\BridgeAPI\WEC7 (ARMv4I)\DipoleRelease\BuildLog.htm"
+BridgeAPI - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+DipoleDeviceBuffer.cpp
+TCPInstall.cpp
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(349) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+StdAfx.cpp
+OcXmlTextReader.cpp
+OcKrnlDrvDll.cpp
+OCAPI.cpp
+.\OCAPI.cpp(441) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(441) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(1401) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+.\OCAPI.cpp(1464) : warning C4018: '<=' : signed/unsigned mismatch
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\ockrnldrv\wce700arm_release\ockrnldrv.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\OCAPI\WCE700ARM_DipoleRelease\BuildLog.htm"
+OCAPI - 1 error(s), 7 warning(s)
+========== Rebuild All: 3 succeeded, 2 failed, 0 skipped ==========
+
