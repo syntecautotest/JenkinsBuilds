@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="208142"><author>colingsta</author><date>2018-10-29T08:18:16.252537Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\DriverDiag\Scr_DriverDiag.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/DriverDiag/Scr_DriverDiag.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/DriverDiag/Scr_DriverDiag.cs</path></paths><msg>merge appkernel/MMI_3582_f_DriverDiagnostic_11812 r208132 to 10.118.12D, 10.118.15 by 玲巧
+
+修正
+    驅動器常用參數頁面按下下一頁會crash的問題</msg></logentry></log>

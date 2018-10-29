@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="208039"><author>marskao</author><date>2018-10-28T12:58:04.864491Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/SerialParam/SerialParamTable.cpp</path><path action="M" localPath="OCDevice\Source\SerialParam\SerialParamTable.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/SerialParam/SerialParamTable.cpp</path><path action="M" localPath="." kind="dir">/cnckernel/trunk</path><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12/OCDevice</path><path action="M" localPath="OCDevice\Source" kind="dir">/cnckernel/trunk/OCDevice/Source</path><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12</path><path action="M" localPath="OCDevice" kind="dir">/cnckernel/trunk/OCDevice</path><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12/OCDevice/Source</path></paths><msg>merge(2nd): CNCKL_2475_f_MitsubishiAlarm_v2, 208024 to 10.118.15 
+merge(2nd): CNCKL_2475_f_MitsubishiAlarm_118_12x_v2, 208021 to 10.118.12D 
+by 儀禕  
+
+fix 修正新代驅動器診斷頁面資料錯誤問題</msg></logentry></log>
