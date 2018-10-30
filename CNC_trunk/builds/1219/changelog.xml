@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="208289"><author>simon</author><date>2018-10-30T06:35:25.805052Z</date><paths><path action="M" kind="file">/cnckernel/tags/release_v10.118.12D/res/Lathe/Macro/G0078.nc</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/G0078.nc</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.12D/res/Lathe/Macro/G0021.nc</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/G0021.nc</path><path action="M" localPath="res\Lathe\Macro\G0078.nc" kind="file">/cnckernel/trunk/res/Lathe/Macro/G0078.nc</path><path action="M" localPath="res\Lathe\Macro\G0021.nc" kind="file">/cnckernel/trunk/res/Lathe/Macro/G0021.nc</path></paths><msg>merge: HSHP_2389_f_G78ChamferToXStartPos_V2, 204750-207772, to 10.118.12D(2nd), 10.118.12E, 10.118.15
+by 芝峰
+
+add:
+	當 Pr4040=2 時，复合型螺纹切削固定循环車牙(A-Type G76)，參考 Pr4018 角度優化退尾效果。 
+
+	[相容性異動] 
+	當 Pr4040=2 時，复合螺纹切削循环退尾邏輯由拉到 螺牙高度 改成拉到 Pr4018 角度。</msg></logentry></log>

@@ -1,0 +1,180 @@
+------ Rebuild All started: Project: Swingw, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+XSmCursor.cpp
+XPathSimuBase.cpp
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(471) : error C2146: syntax error : missing ';' before identifier 'registerSvoChID'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(471) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(471) : error C2061: syntax error : identifier 'EDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(471) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(474) : error C2146: syntax error : missing ';' before identifier 'unregisterSvoChID'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(474) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(474) : error C2086: 'int ERegSvoChIDResult' : redefinition
+        d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(471) : see declaration of 'ERegSvoChIDResult'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(474) : error C2065: 'EDeviceType' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(474) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(474) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(474) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(477) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(477) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(480) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(480) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1679) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1679) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1679) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1682) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1682) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1682) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1685) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1685) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1685) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1688) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1688) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1688) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1691) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1691) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1691) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1694) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1694) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1694) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1714) : error C2143: syntax error : missing ';' before '__stdcall'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1714) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1714) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1714) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1714) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1714) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1717) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1717) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1717) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1720) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1720) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1720) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1723) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1723) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1723) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1726) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1726) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1726) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1729) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1729) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1729) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1732) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1732) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1732) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1735) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1735) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1735) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1738) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1738) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1738) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1741) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1741) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1741) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1744) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1744) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1744) : error C2059: syntax error : ')'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1760) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1760) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1760) : error C2182: 'BodeStartSampling' : illegal use of type 'void'
+d:\jenkins\workspace\mmi_trunk\ocsdk\inc\cncapi.h(1760) : error C2059: syntax error : ')'
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+TDisplay.cpp
+TComponentFactory.cpp
+TComponent.cpp
+SimuStorage.cpp
+SimuServiceProxy.cpp
+Rectangle.cpp
+OCImage.cpp
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+Line3d.cpp
+JXmlStringTable.cpp
+JXMLPreConfig.cpp
+JXMLPreCompiler.cpp
+JWin32ProcThunk.cpp
+JTemplateFactory.cpp
+JTemplateComponent.cpp
+JTable.cpp
+JStringConnectRule.cpp
+JSelectButton.cpp
+JPreCompilerRule.cpp
+JPicture.cpp
+JPanel.cpp
+JPageRegistry.cpp
+JPagePool.cpp
+JPageDeviceTable.cpp
+JPage.cpp
+JOCText.cpp
+JOCSimu.cpp
+Generating Code...
+Compiling...
+JNativeWindow.cpp
+JMeter.cpp
+JMarquee.cpp
+JListInputEditor.cpp
+JListInput.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jlistinput.cpp(505) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JLink.cpp
+JLamp.cpp
+JLabel.cpp
+JInputline.cpp
+JInputEditor.cpp
+JInputBase.cpp
+JInput.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinput.cpp(342) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JIncludePage.cpp
+JGroup.cpp
+JGrid.cpp
+JFileList.cpp
+JFenuContextManager.cpp
+JFenuContext.cpp
+JFenu.cpp
+JDynamicPicture.cpp
+Generating Code...
+Compiling...
+JDisplay.cpp
+JDeviceControl.cpp
+JCycleTable.cpp
+JCycleEditor.cpp
+JCustomControl.cpp
+JCoordBox.cpp
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+JComponent.cpp
+JButton.cpp
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+DoAction.cpp
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+CTDisplay.cpp
+Generating Code...
+Compiling...
+CncDevice.cpp
+AxCube.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\Debug\BuildLog.htm"
+Swingw - 55 error(s), 20 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+
