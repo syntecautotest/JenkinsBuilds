@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="208502"><author>mstsai0113</author><date>2018-10-31T09:22:35.206022Z</date><paths><path action="M" localPath="OCAPI\Source\OCKrnlDrv\OCKrnlDrv.cpp" kind="file">/apikernel/trunk/OCAPI/Source/OCKrnlDrv/OCKrnlDrv.cpp</path></paths><msg>merge: ATEST_1015_b_includecncapi, 208497 to 10.118.15
+by竺晏
+
+from 10.118.15, CNCKL-2475
+修正OCAPI的build error</msg></logentry></log>
