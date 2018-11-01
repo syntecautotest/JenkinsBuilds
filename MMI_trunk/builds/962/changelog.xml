@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="208831"><author>colingsta</author><date>2018-11-01T09:27:45.720968Z</date><paths><path action="M" localPath="Syntec.OpenCNC\RemoteCNC.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/RemoteCNC.cs</path></paths><msg>merge appkernel/MMI_3638_f_ECatMitsubishi r208746-r208777 to 10.118.15 by 禮芳
+
+修正
+    Build Error</msg></logentry></log>

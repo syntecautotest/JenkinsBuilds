@@ -1,0 +1,5 @@
+1	ESyntec.RemoteCNC.txt			Line 21
+
+Unhandled Exception: System.IndexOutOfRangeException: Index was outside the bounds of the array.
+   at CheckErrorLog.Program.check_result(String root_path)
+   at CheckErrorLog.Program.Main(String[] args)

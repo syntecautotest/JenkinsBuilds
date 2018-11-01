@@ -499,6 +499,39 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13416</id>
+          <title>因應i.MX6作為x86維修方案，PR3521需擴充ARM RS232觸控功能</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13551</id>
+          <title>雷射打標控制器離線加工檔功能鍵問題</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3582</id>
+          <title>控制器人機提供新代驅動器診斷頁面</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3624</id>
+          <title>控制器 Layer 顯示機制建立</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3638</id>
+          <title>三菱ECAT商品化，人機配合事項</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3645</id>
+          <title>改善BuildProduct效能問題</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3710</id>
+          <title>HMF判斷邏輯導致特定硬體組合偶發加工檔案內容讀取異常而撞機</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>5</queueId>
   <timestamp>1540345891244</timestamp>
