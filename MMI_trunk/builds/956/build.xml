@@ -522,6 +522,15 @@
         <outer-class reference="../../../hudson.model.ParametersAction/parameterDefinitionNames/outer-class"/>
       </parameterDefinitionNames>
     </hudson.model.ParametersAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3715</id>
+          <title>新增EHMC Ethernet-base控制器機型  人機工作</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>1222</queueId>
   <timestamp>1539926232736</timestamp>
@@ -539,7 +548,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.SingletonImmutableSet">
     <string>colingsta</string>
   </culprits>
 </build>

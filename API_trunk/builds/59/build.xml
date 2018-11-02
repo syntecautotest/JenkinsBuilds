@@ -89,6 +89,10 @@
     <hudson.tasks.Fingerprinter_-FingerprintAction>
       <record>
         <entry>
+          <string>APISDK10.118.14.zip</string>
+          <string>5d434e9bb7ca209417107ed30404dac0</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.14\CECNC\SDK\APISDK10.118.14.zip</string>
           <string>5d434e9bb7ca209417107ed30404dac0</string>
         </entry>
@@ -125,6 +129,15 @@
         <outer-class reference="../../../hudson.model.ParametersAction/parameterDefinitionNames/outer-class"/>
       </parameterDefinitionNames>
     </hudson.model.ParametersAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-1015</id>
+          <title>10.118.x每日排程Build error，無法正確產生安裝包。</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>160</queueId>
   <timestamp>1540977784480</timestamp>

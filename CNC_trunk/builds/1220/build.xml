@@ -120,6 +120,10 @@
           <string>583ded8234b37921b3868a0f2ed49c6e</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.14.zip</string>
+          <string>80102a816e3d8d4884d2bc7642ef39f7</string>
+        </entry>
+        <entry>
           <string>Build\Release\CNCRel\10.118.14\CECNC\EXE\CncKernel_w32_10.118.14.zip</string>
           <string>c27709c6d1096171b6ae49d887eb1956</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCTEST-871</id>
+          <title>代跑環境穩定性優化：建立ExceptionCode54的retry機制</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>159</queueId>
   <timestamp>1540973043868</timestamp>

@@ -1,0 +1,203 @@
+------ Rebuild All started: Project: Swingw, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+XSmCursor.cpp
+XPathSimuBase.cpp
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(471) : error C2146: syntax error : missing ';' before identifier 'registerSvoChID'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(471) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(471) : error C2061: syntax error : identifier 'EDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(471) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(474) : error C2146: syntax error : missing ';' before identifier 'unregisterSvoChID'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(474) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(474) : error C2086: 'int ERegSvoChIDResult' : redefinition
+        d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(471) : see declaration of 'ERegSvoChIDResult'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(474) : error C2065: 'EDeviceType' : undeclared identifier
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(474) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(474) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(474) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(477) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(477) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(480) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(480) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1679) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1679) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1679) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1682) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1682) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1682) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1685) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1685) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1685) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1688) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1688) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1688) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1691) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1691) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1691) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1694) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1694) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1694) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1714) : error C2143: syntax error : missing ';' before '__stdcall'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1714) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1714) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1714) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1714) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1714) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1717) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1717) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1717) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1720) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1720) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1720) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1723) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1723) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1723) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1726) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1726) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1726) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1729) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1729) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1729) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1732) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1732) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1732) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1735) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1735) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1735) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1738) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1738) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1738) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1741) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1741) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1741) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1744) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1744) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1744) : error C2059: syntax error : ')'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1760) : error C2146: syntax error : missing ')' before identifier 'nDeviceType'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1760) : warning C4229: anachronism used : modifiers on data are ignored
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1760) : error C2182: 'BodeStartSampling' : illegal use of type 'void'
+d:\OpenCNC\Schedule\MMI_trunk\OCSDK\inc\CNCAPI.h(1760) : error C2059: syntax error : ')'
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+TDisplay.cpp
+TComponentFactory.cpp
+TComponent.cpp
+SimuStorage.cpp
+SimuServiceProxy.cpp
+Rectangle.cpp
+OCImage.cpp
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+Line3d.cpp
+JXmlStringTable.cpp
+JXMLPreConfig.cpp
+JXMLPreCompiler.cpp
+JWin32ProcThunk.cpp
+JTemplateFactory.cpp
+JTemplateComponent.cpp
+JTable.cpp
+JStringConnectRule.cpp
+JSelectButton.cpp
+JPreCompilerRule.cpp
+JPicture.cpp
+JPanel.cpp
+JPageRegistry.cpp
+JPagePool.cpp
+JPageDeviceTable.cpp
+JPage.cpp
+JOCText.cpp
+JOCSimu.cpp
+Generating Code...
+Compiling...
+JNativeWindow.cpp
+JMeter.cpp
+JMarquee.cpp
+JListInputEditor.cpp
+JListInput.cpp
+JLink.cpp
+JLamp.cpp
+JLabel.cpp
+JInputline.cpp
+JInputEditor.cpp
+JInputBase.cpp
+JInput.cpp
+JIncludePage.cpp
+JGroup.cpp
+JGrid.cpp
+JFileList.cpp
+JFenuContextManager.cpp
+JFenuContext.cpp
+JFenu.cpp
+JDynamicPicture.cpp
+Generating Code...
+Compiling...
+JDisplay.cpp
+JDeviceControl.cpp
+JCycleTable.cpp
+JCycleEditor.cpp
+JCustomControl.cpp
+JCoordBox.cpp
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+JComponent.cpp
+JButton.cpp
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+DoAction.cpp
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+CTDisplay.cpp
+Generating Code...
+Compiling...
+CncDevice.cpp
+AxCube.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_trunk\OCUser\Source\Swingw\Release\BuildLog.htm"
+Swingw - 55 error(s), 18 warning(s)
+------ Rebuild All started: Project: OCUSER, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCUSER', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+TextWnd.cpp
+StrResMap.cpp
+PathSimuWnd.cpp
+OCUSER.cpp
+OCTextFileMgr.cpp
+OCLabelWnd.cpp
+LadderWnd.cpp
+KbdReceiver.cpp
+HugeEdit.cpp
+FenuWnd.cpp
+.\FenuWnd.cpp(1168) : warning C4172: returning address of local variable or temporary
+CanvasWnd.cpp
+BrowserWnd.cpp
+Generating Code...
+Compiling resources...
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\release\swingw.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_trunk\OCUser\Source\OCUser\Release\BuildLog.htm"
+OCUSER - 1 error(s), 1 warning(s)
+========== Rebuild All: 0 succeeded, 2 failed, 0 skipped ==========
+

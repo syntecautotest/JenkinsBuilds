@@ -475,6 +475,15 @@
     <hudson.tasks.MailMessageIdAction plugin="mailer@1.20">
       <messageId>&lt;17434934.16.1541065488945.JavaMail.user1@TESTMAN2&gt;</messageId>
     </hudson.tasks.MailMessageIdAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3638</id>
+          <title>三菱ECAT商品化，人機配合事項</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>182</queueId>
   <timestamp>1541064546598</timestamp>

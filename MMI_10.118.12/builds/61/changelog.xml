@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="208854"><author>1362</author><date>2018-11-01T13:42:14.559787Z</date><paths><path action="M" localPath="Res\_Arm\_Scara\Screen\Param\Fenu5_Param.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scara/Screen/Param/Fenu5_Param.xml</path><path action="M" localPath="Res\_Arm\_Artic\Screen\Param\Fenu5_Param.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Artic/Screen/Param/Fenu5_Param.xml</path><path action="M" localPath="Res\_Arm\_Delta\Screen\Param\Fenu5_Param.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Delta/Screen/Param/Fenu5_Param.xml</path></paths><msg>merge appkernel/ISSUE_11809_b_AutoTuningFail_118.0x r208260-r208266 to 10.118.0O,
+merge appkernel/ISSUE_11809_b_AutoTuningFail r208215-r208264 to 10.118.12E, 10.118.15, by 瑞鴻
+
+機器人產品(ARTIC、SCARA、DELTA)修改
+   1.確認不支援控制器端一鍵調機功能，已關閉入口。未來請使用分析平台的機器人關節軸慣量調機功能</msg></logentry></log>

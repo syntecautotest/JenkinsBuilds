@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="208916"><author>colingsta</author><date>2018-11-02T03:37:34.561818Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Parameter\RBitParamDisplay.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Parameter/RBitParamDisplay.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Parameter/RBitParamDisplay.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Screen/Parameter/RBitParamDisplay.cs</path></paths><msg>merge appkernel/ISSUE_13753_b_CustomRbitColorFail r208798 to 10.116.54W, 10.118.12E, 10.118.15 by 鎮宇
+
+修正
+    擴充參數畫面，客製輸入框底色無效的問題</msg></logentry></log>
