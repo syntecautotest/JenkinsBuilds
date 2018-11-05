@@ -1,0 +1,11 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\Data\IO\IoMap_FC-B-V2.xml
+DiskC\OpenCNC\Bin\cnc2_fc_v2_ethercat.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_ethercat_marking.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_m3.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_m3_marking.bin
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209137"><author>simon</author><date>2018-11-05T09:23:35.695381Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\CompBlkPlanner.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/CompBlkPlanner.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\CompBlkPlanner.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/CompBlkPlanner.h</path></paths><msg>merge: ATEST-1011_b_ToolRetractDistErr_13, 208491-208757, to 10.116.54W
+by 彥融
+
+from 10.116.12, 10.117.12, ISSUE-1496
+
+fix:
+	修正暫停流程保護錯誤導致刀具回收距離錯誤</msg></logentry></log>
