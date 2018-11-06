@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209218"><author>1362</author><date>2018-11-06T05:49:47.723327Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_GantryRobotProgram.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_GantryRobotProgram.cs</path><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_ArticRobotProgram.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_ArticRobotProgram.cs</path></paths><msg>merge appkernel/branches/ROBOT_210_b_WrongCycFocusWhilePopup_0x r207180-r209191 to 10.118.0O,
+merge appkernel/branches/ROBOT_210_b_WrongCycFocusWhilePopupV2 r208358-r209199 to 10.118.12E, 10.118.15, by 瑞鴻
+
+機器人產品(ARTIC、SCARA、DELTA、GANTRY)
+   1. 修正程式執行前如果先點選任意欄位，執行時光標會有殘留的問題 
+   2. 修正先點選任意欄位後，雙擊指令彈窗 / 點選狀態列彈窗 / 指令教導啟時 可以點擊其他欄位而造成操作到其他欄位的BUG </msg></logentry></log>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209242"><author>simon</author><date>2018-11-06T07:31:33.901652Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\SyncSpindle.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/SyncSpindle.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ServoSpindle.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/SyncSpindle.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ServoSpindle.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ServoSpindle.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ServoSpindle.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ServoSpindle.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ServoSpindle.h</path></paths><msg>merge: ISSUE_13699_b_SyncSpindleTimeAffectedByKp_118.14, 208351-208471, to 10.118.12E, 10.118.15
+by 昱辰
+
+from 10.116.26F, 10.116.36S, 10.116.48, 10.117.48, from ISSUE-10208
+
+fix:
+	1. 修正基礎主軸增益改變時，會不當影響主軸同期與多角料切削加工時間的問題。 
+	2. 解決基礎主軸增益改變，在解除同期會造成同步主軸震動的問題。</msg></logentry></log>

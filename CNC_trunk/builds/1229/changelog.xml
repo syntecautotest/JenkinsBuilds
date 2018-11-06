@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209272"><author>mstsai0113</author><date>2018-11-06T09:00:16.069400Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" localPath="OCKrnl\Source\NcLoader\NcProgMgr.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path></paths><msg>merge: CNCKL_2605_b_OpenChannelErr, 208031-208178 to 10.116.54W, 10.118.12E, 10.118.15
+by 建明
+
+from 10.116.54U, 10.118.12C, 10.118.14, CNCKL-2546
+修正模擬環境跳錯誤的問題。</msg></logentry></log>

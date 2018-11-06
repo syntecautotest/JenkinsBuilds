@@ -1,0 +1,1094 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Evaluating the Groovy script content
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4I+xUYJ3WUEc9pQ+bqL3PHA0V30gAGjhnSsafy0q0bsnAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/cj8xLzE+IiA+DBfAJGSfgXKAAAA[0mYoana_XP_VM ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\Jenkins\workspace\MMI_10.118.12
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\Jenkins\workspace\MMI_10.118.12\.
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Res\_Arm\_Cutting\_70A\Common\Plugin\DLL\CE\LaserCuttingCE.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Res\_Arm\_Cutting\_70A\Common\Plugin\DLL\32\LaserCutting.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Res\_Arm\_Cutting\_70B\Common\Plugin\DLL\CE\LaserCuttingCE.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Res\_Arm\_Cutting\_70B\Common\Plugin\DLL\32\LaserCutting.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Res\_Arm\_Cutting\_70B-5\Common\Plugin\DLL\CE\LaserCuttingCE.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Res\_Arm\_Cutting\_70B-5\Common\Plugin\DLL\32\LaserCutting.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Res\_Arm\_Drill\Common\Plugin\Dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecRemoteCNC\Syntec.RemoteCNC.WinCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecRemoteCNC\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecRemoteCNC\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\DipoleServer\Source\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\DipoleServer\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\DipoleServer\Source\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\DipoleServer\Source\DipoleServer_WINCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\DiskC
+Deleting D:\Jenkins\workspace\MMI_10.118.12\ActionRouter\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\ActionRouter\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\ActionRouter\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\ActionRouter\ActionRouter.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\Platform
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\CE
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\OpenCNC
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\BackupRestore\BackupItemMgr
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\Tools\Disk
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\SystemAgent.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\P2PMessageQueue
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SystemAgent\Api
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecBackup\Platform
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecBackup\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecBackup\Tools\Disk
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecBackup\SyntecBackup.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecBackup\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\SyntecBackup\Api
+Deleting D:\Jenkins\workspace\MMI_10.118.12\AutoTestPlugin\Source\AutoTestPluginCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\CEMMIAPI\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\CEMMIAPI\Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\CEMMIAPI\WCE600_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Build\UnZipOCSDK.bat
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OC3DSimu\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCKbdMs\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCKbdMs\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OcDown\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OcDown\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCUser\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCUser\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCUser\Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCUser\x64
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\debug
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\KbdMouse\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCHotKey\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCHotKey\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCUp\WCE600_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCUp\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\x64
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\Swingw\x64
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\Swingw\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\Swingw\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\Swingw\Debug
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\Swingw\Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCAPIServerDown\WCE600Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\Source\OCAPIServerDown\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\APPSDK
+Deleting D:\Jenkins\workspace\MMI_10.118.12\OCUser\SETUP
+Deleting D:\Jenkins\workspace\MMI_10.118.12\AutoTest
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\FileClean\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\FileClean\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\FileClean\FileCleanSettingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\_60DB\Source\DrillCAM\DrillCAMCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\_60DB\Source\DrillCAM\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\_60DB\Source\DrillCAM\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\_60DB\Source\DrillCAM\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\_60DB\Source\BuiltInDrillCAMCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\_60DB\Source\UnitTestProject\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\_60DB\Source\UnitTestProject\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\PlugInDLL
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\LaserScanningCADCAM\Source\LaserActionCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\LaserScanningCADCAM\Source\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\LaserScanningCADCAM\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\LaserCutting\Source\LaserCuttingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\PrintLabelWorker\LabelingCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\WoodSoftWare\DiskC
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\WoodSoftWare\Source\WorkinglistConverterCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\WoodSoftWare\Source\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\PlugIn\WoodSoftWare\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Checker\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Checker\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Checker\Checker.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\CncMon\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\CncMon\Source\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\CncMon\Source\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\CncMon\Source\CncMonCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32\OCAPIServer.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win64\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win64\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win64\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEAutotest\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEAutotest\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEAutotest\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEAutotest\SA.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEAutotest\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCE\OCAPIServer_WinCE.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCE\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCE\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCE\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCE\SA.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCE\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32EHMC\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32EHMC\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32EHMC\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32EHMC\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEEHMC\MMICommon.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEEHMC\Syntec.RemoteCNC.WinCE.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEEHMC\CncMonCE.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEEHMC\SA.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCEEHMC\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\SB.new
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32Autotest\MMICommon32.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32Autotest\CncMon32.exe
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32Autotest\Syntec.RemoteCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Bin\Win32Autotest\Syntec.OpenCNC.dll
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Error
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Syntec.OpenCNC\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Syntec.OpenCNC\UnitTest
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Syntec.OpenCNC\Syntec.OpenCNC.WinCE.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\Syntec.OpenCNC\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\MMICommon\Source\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\MMICommon\Source\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\MMICommon\Source\MMICommon.csproj.user
+Deleting D:\Jenkins\workspace\MMI_10.118.12\MMICommon\Source\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\RobotPlugin\Win32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\RobotPlugin\WinCE
+Deleting D:\Jenkins\workspace\MMI_10.118.12\RobotPlugin\Plugin\bin32
+Deleting D:\Jenkins\workspace\MMI_10.118.12\RobotPlugin\Plugin\bin
+Deleting D:\Jenkins\workspace\MMI_10.118.12\RobotPlugin\Plugin\obj
+Deleting D:\Jenkins\workspace\MMI_10.118.12\RobotPlugin\Plugin\RobotMMICE.csproj.user
+Updating http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/branches/AppKernel_10.118.12 at revision '2018-11-06T13:50:55.992 +0800'
+U         Res\_Arm\_Scara\Common\CncFenu5.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\GeneralParamSetting.xml
+D         Res\_Arm\_Scara\Common\String_CncEngs\ExtraParamSetting.xml
+U         Res\_Arm\_Scara\Common\String_CncEngs\Fenu.CncFenu5.ENG.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\BasicParamSetting.xml
+A         Res\_Arm\_Scara\Common\String_CncEngs\MotionParamSetting.xml
+D         Res\_Arm\_Scara\Common\AppData\GeneralParamSetting.xml
+D         Res\_Arm\_Scara\Common\AppData\ExtraParamSetting.xml
+A         Res\_Arm\_Scara\Common\AppData\BasicParamSetting.xml
+A         Res\_Arm\_Scara\Common\AppData\MotionParamSetting.xml
+U         Res\_Arm\_Scara\Common\AppData\BaseInit.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\ExtraParamSetting.xml
+D         Res\_Arm\_Scara\CHS\String_CncEngs\GeneralParamSetting.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\BasicParamSetting.xml
+U         Res\_Arm\_Scara\CHS\String_CncEngs\Fenu.CncFenu5.CHS.xml
+A         Res\_Arm\_Scara\CHS\String_CncEngs\MotionParamSetting.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\GeneralParamSetting.xml
+D         Res\_Arm\_Scara\CHT\String_CncEngs\ExtraParamSetting.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\MotionParamSetting.xml
+U         Res\_Arm\_Scara\CHT\String_CncEngs\Fenu.CncFenu5.CHT.xml
+A         Res\_Arm\_Scara\CHT\String_CncEngs\BasicParamSetting.xml
+U         Res\_Arm\_Scara\Screen\MechLimit\Brw_MechLimit_SysAxis.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\ExtraParamSetting.xml
+D         Res\_Arm\_Delta\Common\String_CncEngs\GeneralParamSetting.xml
+U         Res\_Arm\_Delta\Common\String_CncEngs\Fenu.CncFenu5.ENG.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\MotionParamSetting.xml
+A         Res\_Arm\_Delta\Common\String_CncEngs\BasicParamSetting.xml
+D         Res\_Arm\_Delta\Common\AppData\ExtraParamSetting.xml
+D         Res\_Arm\_Delta\Common\AppData\GeneralParamSetting.xml
+A         Res\_Arm\_Delta\Common\AppData\BasicParamSetting.xml
+U         Res\_Arm\_Delta\Common\AppData\BaseInit.xml
+A         Res\_Arm\_Delta\Common\AppData\MotionParamSetting.xml
+U         Res\_Arm\_Delta\Common\CncFenu5.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\GeneralParamSetting.xml
+D         Res\_Arm\_Delta\CHS\String_CncEngs\ExtraParamSetting.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\BasicParamSetting.xml
+U         Res\_Arm\_Delta\CHS\String_CncEngs\Fenu.CncFenu5.CHS.xml
+A         Res\_Arm\_Delta\CHS\String_CncEngs\MotionParamSetting.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\ExtraParamSetting.xml
+D         Res\_Arm\_Delta\CHT\String_CncEngs\GeneralParamSetting.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\MotionParamSetting.xml
+U         Res\_Arm\_Delta\CHT\String_CncEngs\Fenu.CncFenu5.CHT.xml
+A         Res\_Arm\_Delta\CHT\String_CncEngs\BasicParamSetting.xml
+U         Res\_Arm\_Delta\Screen\MechLimit\Brw_MechLimit_SysAxis.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\ExtraParamSetting.xml
+D         Res\_Arm\_Artic\CHT\String_CncEngs\GeneralParamSetting.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\MotionParamSetting.xml
+U         Res\_Arm\_Artic\CHT\String_CncEngs\Fenu.CncFenu5.CHT.xml
+A         Res\_Arm\_Artic\CHT\String_CncEngs\BasicParamSetting.xml
+U         Res\_Arm\_Artic\Screen\MechLimit\Brw_MechLimit_SysAxis.xml
+U         Res\_Arm\_Artic\Common\CncFenu5.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\ExtraParamSetting.xml
+D         Res\_Arm\_Artic\Common\String_CncEngs\GeneralParamSetting.xml
+U         Res\_Arm\_Artic\Common\String_CncEngs\Fenu.CncFenu5.ENG.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\MotionParamSetting.xml
+A         Res\_Arm\_Artic\Common\String_CncEngs\BasicParamSetting.xml
+D         Res\_Arm\_Artic\Common\AppData\GeneralParamSetting.xml
+D         Res\_Arm\_Artic\Common\AppData\ExtraParamSetting.xml
+U         Res\_Arm\_Artic\Common\AppData\BaseInit.xml
+A         Res\_Arm\_Artic\Common\AppData\BasicParamSetting.xml
+A         Res\_Arm\_Artic\Common\AppData\MotionParamSetting.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\ExtraParamSetting.xml
+D         Res\_Arm\_Artic\CHS\String_CncEngs\GeneralParamSetting.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\BasicParamSetting.xml
+U         Res\_Arm\_Artic\CHS\String_CncEngs\Fenu.CncFenu5.CHS.xml
+A         Res\_Arm\_Artic\CHS\String_CncEngs\MotionParamSetting.xml
+U         MMICommon\Source\Screen\Parameter\RBitParamDisplay.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\MechAvoidBump\Scr_ArticMechAvoidBump.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\ConveyorParam\Scr_ArticConveyorParam.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\Mastering\Scr_ArticMastering.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\MechParam\Scr_ArticMechParam.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\MechLimit\Scr_ArticMechLimit.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_ArticRobotProgram.cs
+U         RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_GantryRobotProgram.cs
+At revision 209219
+
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Executing and processing the following script content: 
+svn log %SVN_URL% -r %SVN_REVISION%
+
+[MMI_10.118.12] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins2819439833077781992.bat
+
+D:\Jenkins\workspace\MMI_10.118.12>svn log http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/branches/AppKernel_10.118.12 -r 209218 
+------------------------------------------------------------------------
+r209218 | 1362 | 2018-11-06 13:49:47 +0800 (¬P´Á¤G, 06 ¤Q¤@¤ë 2018) | 6 lines
+
+merge appkernel/branches/ROBOT_210_b_WrongCycFocusWhilePopup_0x r207180-r209191 to 10.118.0O,
+merge appkernel/branches/ROBOT_210_b_WrongCycFocusWhilePopupV2 r208358-r209199 to 10.118.12E, 10.118.15, by ·çÂE
+
+¾÷¾¹¤H²£«~(ARTIC¡BSCARA¡BDELTA¡BGANTRY)
+   1. ­×¥¿µ{¦¡°õ¦æ«e¦pªG¥ýÂI¿ï¥ô·NÄæ¦ì¡A°õ¦æ®É¥ú¼Ð·|¦³´Ý¯dªº°ÝÃD 
+   2. ­×¥¿¥ýÂI¿ï¥ô·NÄæ¦ì«á¡AÂùÀ»«ü¥O¼uµ¡ / ÂI¿ïª¬ºA¦C¼uµ¡ / «ü¥O±Ð¾É±Ò®É ¥i¥HÂIÀ»¨ä¥LÄæ¦ì¦Ó³y¦¨¾Þ§@¨ì¨ä¥LÄæ¦ìªºBUG 
+------------------------------------------------------------------------
+
+D:\Jenkins\workspace\MMI_10.118.12>exit 0 
+[EnvInject] - Script executed successfully.
+Set build name.
+New build name is '#66  at rev209218 by ·çÂE
+'
+[JIRA] Setting JIRA_ISSUES to .
+Copied 1 artifact from "[8mha:////4N6HXyXd5cQm/xndbmQr4uGcvwG9RIZ+BS752eRoxqBdAAAAlB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgLWEQ1s/KT9J39nOONzTQMzS00DM00gcAjbeZ2pgAAAA=[0mCNC_10.118.12" build number [8mha:////4DIPGA9t2JGZVzjgH2jVReszOMU/GkFI235+c47lR6gdAAAAlx+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMhgKmEQ08/KT9J39nOONzTQMzS00DM00rc00wcAai1JK5sAAAA=[0m96
+Copied 1 artifact from "[8mha:////4AzbbVCwpxn6HhWZxBKcNRPfeXEpJUW89VQ6F7qwDJXkAAAAlB+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMjgLWEQ1s/KT9J3DPCMNzTQMzS00DM00gcAKzEhn5gAAAA=[0mAPI_10.118.12" build number [8mha:////4Mz//7Kx2FCqs19aWQbozRC6Goc6ADDLycXeGfCADjpdAAAAlR+LCAAAAAAAAP9b85aBtbiIQSajNKU4P08vOT+vOD8nVc+jsiC1KCczL9svvyTVzHb1RttJBUeZGJg8GdhyUvPSSzJ8GJhLi3JKGIR8shLLEvVzEvPS9YNLijLz0q0rihik0IxzhtAgwxgggJGJgaGiAMQoYRDVz8pP0ncM8Iw3NNAzNLTQMzTSt9QHAKJDZWaaAAAA[0m9
+[MMI_10.118.12] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins4127868429825065664.bat
+rename SDKs
+D:\Jenkins\workspace\MMI_10.118.12\CNCSDK10.118.12D.zip
+D:\Jenkins\workspace\MMI_10.118.12\APISDK10.118.12D.zip
+set XXZIP=D:\Jenkins\workspace\MMI_10.118.12\Build\7z_x86.exe
+D:\Jenkins\workspace\MMI_10.118.12\Build
+Write Customized UnZipOCSDK.bat
+/******************/
+/* Cleaning Files */
+/******************/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+§ä¤£¨ì D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCE\MMICommon.dll
+§ä¤£¨ì D:\Jenkins\workspace\MMI_10.118.12\Bin\WinCE\CncMonCE.exe
+§ä¤£¨ì D:\Jenkins\workspace\MMI_10.118.12\Bin\SB.new
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 31509747 bytes (31 MiB)
+
+Extracting archive: CNCSDK.zip
+--
+Path = CNCSDK.zip
+Type = zip
+Physical Size = 31509747
+
+Everything is Ok
+
+Folders: 23
+Files: 452
+Size:       110474546
+Compressed: 31509747
+CNCSDK\release.txt
+CNCSDK\ReleaseNote.txt
+CNCSDK\version.txt
+CNCSDK\bin\w32\CANDeviceDriver.dll
+CNCSDK\bin\w32\EnIP.dll
+CNCSDK\bin\w32\EnIPModule.dll
+CNCSDK\bin\w32\LadDLL.dll
+CNCSDK\bin\w32\LaserCtrl.dll
+CNCSDK\bin\w32\ModbusComm.dll
+CNCSDK\bin\w32\Null.mci
+CNCSDK\bin\w32\NullIO.cio
+CNCSDK\bin\w32\OCKrnl.dll
+CNCSDK\bin\w32\OCKrnl.pdb
+CNCSDK\bin\w32\OCTest.dll
+CNCSDK\bin\w32\OpenPacking.exe
+CNCSDK\bin\w32\PhysicalDriver.dll
+CNCSDK\bin\w32\PLC_COMM.dll
+CNCSDK\bin\w32\PREP.dll
+CNCSDK\bin\w32\ROT.dll
+CNCSDK\bin\w32\RTCommDriver.dll
+CNCSDK\bin\w32\SerialPLCAxis.dll
+CNCSDK\bin\w32\ServoLink.dll
+CNCSDK\bin\wce600\30GM.MCI
+CNCSDK\bin\wce600\CANDeviceDriver.dll
+CNCSDK\bin\wce600\CNC2PIO.CIO
+CNCSDK\bin\wce600\EnIP.dll
+CNCSDK\bin\wce600\EnIPModule.dll
+CNCSDK\bin\wce600\EPCIO.CIO
+CNCSDK\bin\wce600\M2.MCI
+CNCSDK\bin\wce600\ModbusComm.dll
+CNCSDK\bin\wce600\NetServo.MCI
+CNCSDK\bin\wce600\Null.MCI
+CNCSDK\bin\wce600\NullIO.cio
+CNCSDK\bin\wce600\OCKrnl.dll
+CNCSDK\bin\wce600\OCTest.dll
+CNCSDK\bin\wce600\OpenInstaller.exe
+CNCSDK\bin\wce600\PhysicalDriver.dll
+CNCSDK\bin\wce600\PIO2.CIO
+CNCSDK\bin\wce600\PLC_COMM.dll
+CNCSDK\bin\wce600\PREP.dll
+CNCSDK\bin\wce600\RFDriver.dll
+CNCSDK\bin\wce600\ROT.dll
+CNCSDK\bin\wce600\RTCommDriver.dll
+CNCSDK\bin\wce600\RTEX.MCI
+CNCSDK\bin\wce600\SerialPLCAxis.dll
+CNCSDK\bin\wce600\SERVO5.MCI
+CNCSDK\bin\wce600\SERVO6.MCI
+CNCSDK\bin\wce600\Servo60.MCI
+CNCSDK\bin\wce600\ServoLink.dll
+CNCSDK\bin\wce600\SriDriver.dll
+CNCSDK\bin\wce700arm\30GM.MCI
+CNCSDK\bin\wce700arm\CANDeviceDriver.dll
+CNCSDK\bin\wce700arm\CNC2PIO.CIO
+CNCSDK\bin\wce700arm\EnIP.dll
+CNCSDK\bin\wce700arm\EnIPModule.dll
+CNCSDK\bin\wce700arm\EPCIO.CIO
+CNCSDK\bin\wce700arm\LaserCtrl.dll
+CNCSDK\bin\wce700arm\M2.MCI
+CNCSDK\bin\wce700arm\M3.MCI
+CNCSDK\bin\wce700arm\ModbusComm.dll
+CNCSDK\bin\wce700arm\NetServo.MCI
+CNCSDK\bin\wce700arm\Null.MCI
+CNCSDK\bin\wce700arm\NullIO.cio
+CNCSDK\bin\wce700arm\OCKrnl.dll
+CNCSDK\bin\wce700arm\OCTest.dll
+CNCSDK\bin\wce700arm\OpenInstaller.exe
+CNCSDK\bin\wce700arm\PhysicalDriver.dll
+CNCSDK\bin\wce700arm\PIO2.CIO
+CNCSDK\bin\wce700arm\PLC_COMM.dll
+CNCSDK\bin\wce700arm\PREP.dll
+CNCSDK\bin\wce700arm\RFDriver.dll
+CNCSDK\bin\wce700arm\ROT.dll
+CNCSDK\bin\wce700arm\RTCommDriver.dll
+CNCSDK\bin\wce700arm\RTEX.MCI
+CNCSDK\bin\wce700arm\SerialPLCAxis.dll
+CNCSDK\bin\wce700arm\SERVO5.MCI
+CNCSDK\bin\wce700arm\SERVO6.MCI
+CNCSDK\bin\wce700arm\ServoLink.dll
+CNCSDK\bin\wce700arm\SriDriver.dll
+CNCSDK\inc\ADQueue.h
+CNCSDK\inc\AlarmDef.h
+CNCSDK\inc\AlarmFlags.h
+CNCSDK\inc\ArcFeature.h
+CNCSDK\inc\ArchMgr.h
+CNCSDK\inc\AsynQueue.h
+CNCSDK\inc\AuxInterpolator.h
+CNCSDK\inc\AxFrame.h
+CNCSDK\inc\AxisAngle4d.h
+CNCSDK\inc\AxisDimension.h
+CNCSDK\inc\BinFileLoader.h
+CNCSDK\inc\BitFilter.h
+CNCSDK\inc\BPTLimiter.h
+CNCSDK\inc\ByteOrder.h
+CNCSDK\inc\CharQueue.h
+CNCSDK\inc\cio.h
+CNCSDK\inc\CJerkHelicalInt.h
+CNCSDK\inc\CJerkLineInt.h
+CNCSDK\inc\cncapi.h
+CNCSDK\inc\CommonStruct.h
+CNCSDK\inc\Complex.h
+CNCSDK\inc\CurvatureCalculator.h
+CNCSDK\inc\CurvatureCalculatorNode.h
+CNCSDK\inc\DataLogDef.h
+CNCSDK\inc\DelayFilter.h
+CNCSDK\inc\DESObj.h
+CNCSDK\inc\DocStoreAPI.h
+CNCSDK\inc\DumpDbg.h
+CNCSDK\inc\EnIP_API.h
+CNCSDK\inc\EnIP_DEF.h
+CNCSDK\inc\EventAP.h
+CNCSDK\inc\EventCPBase.h
+CNCSDK\inc\EventTrigger.h
+CNCSDK\inc\EventTriggerGroup.h
+CNCSDK\inc\EventTriggerInfo.h
+CNCSDK\inc\EventTriggerManager.h
+CNCSDK\inc\FCCutCSlope.h
+CNCSDK\inc\FCCutSCurve.h
+CNCSDK\inc\FCCutSmoothSCurve.h
+CNCSDK\inc\FCCutString.h
+CNCSDK\inc\FCThreadNormal.h
+CNCSDK\inc\FeedControl.h
+CNCSDK\inc\FeedLimit.h
+CNCSDK\inc\FFT.h
+CNCSDK\inc\FileDirInfo.h
+CNCSDK\inc\FileEditor.h
+CNCSDK\inc\FileWriter.h
+CNCSDK\inc\FixPointNumber32.h
+CNCSDK\inc\FLCutCSlope.h
+CNCSDK\inc\FLCutCSlopeForSpring.h
+CNCSDK\inc\FLCutSCurve.h
+CNCSDK\inc\FLCutString.h
+CNCSDK\inc\FLRobotMoveJ.h
+CNCSDK\inc\FLRobotMoveL.h
+CNCSDK\inc\FLThreadNormal.h
+CNCSDK\inc\FPGAFuncDef.h
+CNCSDK\inc\Frame3d.h
+CNCSDK\inc\FramStore.h
+CNCSDK\inc\GradientDescent.h
+CNCSDK\inc\GuardRegistry.h
+CNCSDK\inc\HelicalPlan.h
+CNCSDK\inc\HighPerformanceTimer.h
+CNCSDK\inc\HomeSearchCore.h
+CNCSDK\inc\HugeFileEditor.h
+CNCSDK\inc\HugeFileReader.h
+CNCSDK\inc\HugeFileSharedEditor.h
+CNCSDK\inc\IAlarmFilter.h
+CNCSDK\inc\IAlarmQuerier.h
+CNCSDK\inc\IAlarmStore.h
+CNCSDK\inc\IAxParamInterface.h
+CNCSDK\inc\IComm.h
+CNCSDK\inc\ICustomPLC.h
+CNCSDK\inc\IDataListener.h
+CNCSDK\inc\IDataLogInterface.h
+CNCSDK\inc\IDocEventHandler.h
+CNCSDK\inc\IDrvParamSync.h
+CNCSDK\inc\IEnIPCenter.h
+CNCSDK\inc\IFeedbackPosition.h
+CNCSDK\inc\IFuncCallHandler.h
+CNCSDK\inc\IGalvoChannel.h
+CNCSDK\inc\IHomeSearchInfo.h
+CNCSDK\inc\IJXmlTextReader.h
+CNCSDK\inc\IJXmlTextWriter.h
+CNCSDK\inc\ILaserChannel.h
+CNCSDK\inc\ILaserCtrl.h
+CNCSDK\inc\ILatchIBitChannel.h
+CNCSDK\inc\ILineStore.h
+CNCSDK\inc\IListener.h
+CNCSDK\inc\IMotionPlanner.h
+CNCSDK\inc\IMPGChannel.h
+CNCSDK\inc\IniReg.h
+CNCSDK\inc\IntegerQueue.h
+CNCSDK\inc\InternalCNCAPI.h
+CNCSDK\inc\Internet.h
+CNCSDK\inc\Interpolator.h
+CNCSDK\inc\InterruptSignalManager.h
+CNCSDK\inc\IntervalChecker.h
+CNCSDK\inc\IObjFcnEvaluator.h
+CNCSDK\inc\IOnCncEvent.h
+CNCSDK\inc\IoPort.h
+CNCSDK\inc\IParamListener.h
+CNCSDK\inc\IPhysicalDriver.h
+CNCSDK\inc\IPlatform.h
+CNCSDK\inc\IRFDriver.h
+CNCSDK\inc\IRobotFeedLimit.h
+CNCSDK\inc\IRobotMotionHandler.h
+CNCSDK\inc\IRotCenter.h
+CNCSDK\inc\IRotState.h
+CNCSDK\inc\IRtcDevice.h
+CNCSDK\inc\ISerialDAQChannel.h
+CNCSDK\inc\ISerialParamChannel.h
+CNCSDK\inc\ISerialParamListener.h
+CNCSDK\inc\ISerialParamTable.h
+CNCSDK\inc\ISerialPLCCenter.h
+CNCSDK\inc\ISerialPLCChannel.h
+CNCSDK\inc\ISimulator.h
+CNCSDK\inc\ISpdParamInterface.h
+CNCSDK\inc\ISpindleLink.h
+CNCSDK\inc\ISPLCState.h
+CNCSDK\inc\ISriComPort.h
+CNCSDK\inc\ISriDriver.h
+CNCSDK\inc\IStdProcessFcn.h
+CNCSDK\inc\ISvoChannel.h
+CNCSDK\inc\ISvoDevComState.h
+CNCSDK\inc\ISvoDriver.h
+CNCSDK\inc\ISvoLink.h
+CNCSDK\inc\ITrajectoryInt.h
+CNCSDK\inc\ITrajInterpolator.h
+CNCSDK\inc\ITuningChannel.h
+CNCSDK\inc\ITuningDevice.h
+CNCSDK\inc\IUpdateDriver.h
+CNCSDK\inc\IXgnDevice.h
+CNCSDK\inc\JAllocateOnlyHeap.h
+CNCSDK\inc\JCycleDocument.h
+CNCSDK\inc\JCycleSchema.h
+CNCSDK\inc\JCycleValue.h
+CNCSDK\inc\JFileInfo.h
+CNCSDK\inc\JRectLayout.h
+CNCSDK\inc\JXmlTextReader.h
+CNCSDK\inc\JXmlTextWriter.h
+CNCSDK\inc\KickNode.h
+CNCSDK\inc\KrnlAPIDef.h
+CNCSDK\inc\LadderCompiler.h
+CNCSDK\inc\LadderDef.h
+CNCSDK\inc\LadderParser.h
+CNCSDK\inc\LadderWRPool.h
+CNCSDK\inc\LAFilter.h
+CNCSDK\inc\LAMotionPlanner.h
+CNCSDK\inc\LANAdapterInfo.h
+CNCSDK\inc\LANodePool.h
+CNCSDK\inc\LAQueue.h
+CNCSDK\inc\LaserCtrlDef.h
+CNCSDK\inc\LineMap.h
+CNCSDK\inc\LinePage.h
+CNCSDK\inc\LinkedListPool.h
+CNCSDK\inc\M3SynDeviceDataStruct.h
+CNCSDK\inc\MapFile.h
+CNCSDK\inc\Matrix2d.h
+CNCSDK\inc\Matrix3d.h
+CNCSDK\inc\Matrix4d.h
+CNCSDK\inc\MatrixN.h
+CNCSDK\inc\MixListener.h
+CNCSDK\inc\ModbusCommAPI.h
+CNCSDK\inc\ModbusCommDef.h
+CNCSDK\inc\MotionPlanDef.h
+CNCSDK\inc\MotionPlanner.h
+CNCSDK\inc\MovingAverageFilter.h
+CNCSDK\inc\MpHomeSearch.h
+CNCSDK\inc\MpHoming.h
+CNCSDK\inc\MultiCastAPI.h
+CNCSDK\inc\MultiPassMovingAverageFilter.h
+CNCSDK\inc\NcCommFileAPI.h
+CNCSDK\inc\NcDownloadDef.h
+CNCSDK\inc\NumericalRecipes.h
+CNCSDK\inc\NurbsCurve.h
+CNCSDK\inc\OneBlockInterpolator.h
+CNCSDK\inc\OpAlarmDef.h
+CNCSDK\inc\OpenCncDef.h
+CNCSDK\inc\OperationDef.h
+CNCSDK\inc\ParamCracker.h
+CNCSDK\inc\ParamManager.h
+CNCSDK\inc\ParamStore.h
+CNCSDK\inc\PasswordBitsFunc.h
+CNCSDK\inc\PathPlanDef.h
+CNCSDK\inc\pbdef.h
+CNCSDK\inc\PID.h
+CNCSDK\inc\PlatformAPI.h
+CNCSDK\inc\PlatformDrv.h
+CNCSDK\inc\PlayModeInterpolator.h
+CNCSDK\inc\PLCDef.h
+CNCSDK\inc\Point2d.h
+CNCSDK\inc\Point3d.h
+CNCSDK\inc\PolynomialRootSolver.h
+CNCSDK\inc\PostAccelerator_Int.h
+CNCSDK\inc\Quaternion.h
+CNCSDK\inc\QuickMatrixN.h
+CNCSDK\inc\RegisterDef.h
+CNCSDK\inc\RobotDynamicsDef.h
+CNCSDK\inc\RobotInterpolationDef.h
+CNCSDK\inc\RobotInterpolator.h
+CNCSDK\inc\RobotMotion.h
+CNCSDK\inc\RobotMotionDef.h
+CNCSDK\inc\RobotMRPPool.h
+CNCSDK\inc\RobotMRPQueue.h
+CNCSDK\inc\RobotWaitSignalManager.h
+CNCSDK\inc\RotDef.h
+CNCSDK\inc\RTCAPI.h
+CNCSDK\inc\SafeMemory.h
+CNCSDK\inc\SCurveTrajectory.h
+CNCSDK\inc\SerialParamDef.h
+CNCSDK\inc\SerialPLCAxisDef.h
+CNCSDK\inc\ServoAlarmDef.h
+CNCSDK\inc\ServoTuningDef.h
+CNCSDK\inc\SmallFileEditor.h
+CNCSDK\inc\StringConverter.h
+CNCSDK\inc\SvoUtilityDef.h
+CNCSDK\inc\SyncTracking.h
+CNCSDK\inc\TimeBase.h
+CNCSDK\inc\Trajectory.h
+CNCSDK\inc\TrajectoryChopping.h
+CNCSDK\inc\TrajectoryDef.h
+CNCSDK\inc\TrajectoryNormal.h
+CNCSDK\inc\TrajectoryOscillator.h
+CNCSDK\inc\TrajectorySyncTracking.h
+CNCSDK\inc\TrajectoryTapping.h
+CNCSDK\inc\TrajectoryThread.h
+CNCSDK\inc\Tuple2d.h
+CNCSDK\inc\Tuple3d.h
+CNCSDK\inc\TZPlex.h
+CNCSDK\inc\UseTimeProtect.h
+CNCSDK\inc\ValidityProtect.h
+CNCSDK\inc\Vector2d.h
+CNCSDK\inc\Vector3d.h
+CNCSDK\inc\VelAccMeter.h
+CNCSDK\inc\VelocityControl.h
+CNCSDK\inc\WindowsRegistry.h
+CNCSDK\inc\XSignal.h
+CNCSDK\inc\ZCRC32.h
+CNCSDK\inc\ZeroSpeedCheck.h
+CNCSDK\inc\ZipArch.h
+CNCSDK\inc\ZMath.h
+CNCSDK\inc\ZRtl.h
+CNCSDK\inc\_DataLog.h
+CNCSDK\inc\_Event.h
+CNCSDK\inc\_IPhysicalDriver.h
+CNCSDK\inc\_MotUtility.h
+CNCSDK\inc\_UNCC.h
+CNCSDK\inc\w32\CommAPI.h
+CNCSDK\inc\w32\nstdlib.h
+CNCSDK\inc\w32\RTMutex.h
+CNCSDK\inc\w32\ThreadAPI.h
+CNCSDK\inc\w32\gmock\gmock-actions.h
+CNCSDK\inc\w32\gmock\gmock-cardinalities.h
+CNCSDK\inc\w32\gmock\gmock-generated-actions.h
+CNCSDK\inc\w32\gmock\gmock-generated-actions.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-function-mockers.h
+CNCSDK\inc\w32\gmock\gmock-generated-function-mockers.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-matchers.h
+CNCSDK\inc\w32\gmock\gmock-generated-matchers.h.pump
+CNCSDK\inc\w32\gmock\gmock-generated-nice-strict.h
+CNCSDK\inc\w32\gmock\gmock-generated-nice-strict.h.pump
+CNCSDK\inc\w32\gmock\gmock-matchers.h
+CNCSDK\inc\w32\gmock\gmock-more-actions.h
+CNCSDK\inc\w32\gmock\gmock-more-matchers.h
+CNCSDK\inc\w32\gmock\gmock-spec-builders.h
+CNCSDK\inc\w32\gmock\gmock.h
+CNCSDK\inc\w32\gmock\internal\gmock-generated-internal-utils.h
+CNCSDK\inc\w32\gmock\internal\gmock-generated-internal-utils.h.pump
+CNCSDK\inc\w32\gmock\internal\gmock-internal-utils.h
+CNCSDK\inc\w32\gmock\internal\gmock-port.h
+CNCSDK\inc\w32\gtest\gtest-death-test.h
+CNCSDK\inc\w32\gtest\gtest-message.h
+CNCSDK\inc\w32\gtest\gtest-param-test.h
+CNCSDK\inc\w32\gtest\gtest-param-test.h.pump
+CNCSDK\inc\w32\gtest\gtest-printers.h
+CNCSDK\inc\w32\gtest\gtest-spi.h
+CNCSDK\inc\w32\gtest\gtest-test-part.h
+CNCSDK\inc\w32\gtest\gtest-typed-test.h
+CNCSDK\inc\w32\gtest\gtest.h
+CNCSDK\inc\w32\gtest\gtest_pred_impl.h
+CNCSDK\inc\w32\gtest\gtest_prod.h
+CNCSDK\inc\w32\gtest\internal\gtest-death-test-internal.h
+CNCSDK\inc\w32\gtest\internal\gtest-filepath.h
+CNCSDK\inc\w32\gtest\internal\gtest-internal.h
+CNCSDK\inc\w32\gtest\internal\gtest-linked_ptr.h
+CNCSDK\inc\w32\gtest\internal\gtest-param-util-generated.h
+CNCSDK\inc\w32\gtest\internal\gtest-param-util-generated.h.pump
+CNCSDK\inc\w32\gtest\internal\gtest-param-util.h
+CNCSDK\inc\w32\gtest\internal\gtest-port.h
+CNCSDK\inc\w32\gtest\internal\gtest-string.h
+CNCSDK\inc\w32\gtest\internal\gtest-tuple.h
+CNCSDK\inc\w32\gtest\internal\gtest-tuple.h.pump
+CNCSDK\inc\w32\gtest\internal\gtest-type-util.h
+CNCSDK\inc\w32\gtest\internal\gtest-type-util.h.pump
+CNCSDK\inc\w64\nstdlib.h
+CNCSDK\inc\w64\RTMutex.h
+CNCSDK\inc\w64\ThreadAPI.h
+CNCSDK\lib\w32\ModbusComm.exp
+CNCSDK\lib\w32\ModbusComm.lib
+CNCSDK\lib\w32\OCKrnl.exp
+CNCSDK\lib\w32\OCKrnl.lib
+CNCSDK\lib\w32\Debug\EnIP.lib
+CNCSDK\lib\w32\Debug\Event.lib
+CNCSDK\lib\w32\Debug\EventAP.lib
+CNCSDK\lib\w32\Debug\FFTransform.lib
+CNCSDK\lib\w32\Debug\gmock.lib
+CNCSDK\lib\w32\Debug\gmock.pdb
+CNCSDK\lib\w32\Debug\gmock_main.lib
+CNCSDK\lib\w32\Debug\InternalCNCAPI.lib
+CNCSDK\lib\w32\Debug\KePLC.lib
+CNCSDK\lib\w32\Debug\main.pdb
+CNCSDK\lib\w32\Debug\MotUtility.lib
+CNCSDK\lib\w32\Debug\SecurityUtil.lib
+CNCSDK\lib\w32\Debug\Utility.lib
+CNCSDK\lib\w32\Debug\WinPAL.lib
+CNCSDK\lib\w32\Release\DataLog.lib
+CNCSDK\lib\w32\Release\EnIP.lib
+CNCSDK\lib\w32\Release\Event.lib
+CNCSDK\lib\w32\Release\EventAP.lib
+CNCSDK\lib\w32\Release\FFTransform.lib
+CNCSDK\lib\w32\Release\gmock.lib
+CNCSDK\lib\w32\Release\gmock.pdb
+CNCSDK\lib\w32\Release\gmock_main.lib
+CNCSDK\lib\w32\Release\InternalCNCAPI.lib
+CNCSDK\lib\w32\Release\KePLC.lib
+CNCSDK\lib\w32\Release\main.pdb
+CNCSDK\lib\w32\Release\MotUtility.lib
+CNCSDK\lib\w32\Release\ProductInfo.lib
+CNCSDK\lib\w32\Release\SecurityUtil.lib
+CNCSDK\lib\w32\Release\Utility.lib
+CNCSDK\lib\w32\Release\WinPAL.lib
+CNCSDK\lib\w64\Debug\Event.lib
+CNCSDK\lib\w64\Debug\EventAP.lib
+CNCSDK\lib\w64\Debug\KePLC.lib
+CNCSDK\lib\w64\Debug\Utility.lib
+CNCSDK\lib\w64\Debug\WinPAL.lib
+CNCSDK\lib\w64\Release\Event.lib
+CNCSDK\lib\w64\Release\EventAP.lib
+CNCSDK\lib\w64\Release\KePLC.lib
+CNCSDK\lib\w64\Release\Utility.lib
+CNCSDK\lib\w64\Release\WinPAL.lib
+CNCSDK\lib\wce600\DataLog.lib
+CNCSDK\lib\wce600\EnIP.lib
+CNCSDK\lib\wce600\Event.lib
+CNCSDK\lib\wce600\EventAP.lib
+CNCSDK\lib\wce600\FFTransform.lib
+CNCSDK\lib\wce600\InternalCNCAPI.lib
+CNCSDK\lib\wce600\KePLC.lib
+CNCSDK\lib\wce600\ModbusComm.lib
+CNCSDK\lib\wce600\MotUtility.lib
+CNCSDK\lib\wce600\OCKrnl.lib
+CNCSDK\lib\wce600\PlatformAPI.lib
+CNCSDK\lib\wce600\PLC_COMM.lib
+CNCSDK\lib\wce600\ProductInfo.lib
+CNCSDK\lib\wce600\SecurityUtil.lib
+CNCSDK\lib\wce600\Utility.lib
+CNCSDK\lib\wce600\WinPAL.lib
+CNCSDK\lib\wce700arm\DataLog.lib
+CNCSDK\lib\wce700arm\EnIP.lib
+CNCSDK\lib\wce700arm\Event.lib
+CNCSDK\lib\wce700arm\EventAP.lib
+CNCSDK\lib\wce700arm\FFTransform.lib
+CNCSDK\lib\wce700arm\InternalCNCAPI.lib
+CNCSDK\lib\wce700arm\KePLC.lib
+CNCSDK\lib\wce700arm\ModbusComm.lib
+CNCSDK\lib\wce700arm\MotUtility.lib
+CNCSDK\lib\wce700arm\OCKrnl.lib
+CNCSDK\lib\wce700arm\PlatformAPI.lib
+CNCSDK\lib\wce700arm\PLC_COMM.lib
+CNCSDK\lib\wce700arm\ProductInfo.lib
+CNCSDK\lib\wce700arm\SecurityUtil.lib
+CNCSDK\lib\wce700arm\Utility.lib
+CNCSDK\lib\wce700arm\WinPAL.lib
+½Æ»s 452 ­ÓÀÉ®×
+
+7-Zip (a) 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 2559158 bytes (2500 KiB)
+
+Extracting archive: APISDK.zip
+--
+Path = APISDK.zip
+Type = zip
+Physical Size = 2559158
+
+Everything is Ok
+
+Folders: 26
+Files: 29
+Size:       9662399
+Compressed: 2559158
+APISDK\version.txt
+APISDK\bin\w32\OCAPI.dll
+APISDK\bin\w32\OCKrnlDrv.dll
+APISDK\bin\w64\OCAPI.dll
+APISDK\bin\wce600\OCKrnlDrv.dll
+APISDK\bin\wce600\Dipole\OCAPI.dll
+APISDK\bin\wce700arm\OCKrnlDrv.dll
+APISDK\bin\wce700arm\Dipole\OCAPI.dll
+APISDK\inc\BridgeAPI.h
+APISDK\inc\krnlapi.h
+APISDK\inc\OCAPI.h
+APISDK\lib\w32\OCAPI.lib
+APISDK\lib\w32\SocketUtility.lib
+APISDK\lib\w32\Debug\BridgeAPI.lib
+APISDK\lib\w32\Debug\KrnlAPI.lib
+APISDK\lib\w32\Release\BridgeAPI.lib
+APISDK\lib\w32\Release\KrnlAPI.lib
+APISDK\lib\w64\OCAPI.lib
+APISDK\lib\w64\SocketUtility.lib
+APISDK\lib\w64\Debug\BridgeAPI.lib
+APISDK\lib\w64\Debug\KrnlAPI.lib
+APISDK\lib\w64\Release\BridgeAPI.lib
+APISDK\lib\w64\Release\KrnlAPI.lib
+APISDK\lib\wce600\BridgeAPI.lib
+APISDK\lib\wce600\KrnlAPI.lib
+APISDK\lib\wce600\OCAPI.lib
+APISDK\lib\wce700arm\BridgeAPI.lib
+APISDK\lib\wce700arm\KrnlAPI.lib
+APISDK\lib\wce700arm\OCAPI.lib
+½Æ»s 29 ­ÓÀÉ®×
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s 13 ­ÓÀÉ®×
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+packing keypad patch for Window CE 6.00 ...
+Windows CE CAB Wizard
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s 16 ­ÓÀÉ®×
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+packing keypad patch for Window CE 7.00 ARM ...
+Windows CE CAB Wizard
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/******************************************/
+/* Compile CEMMIAPI for Win32 */
+/******************************************/
+/******************************************/
+/* Compile CEMMIAPI for WinCE6 */
+/******************************************/
+/******************************************/
+/* Compile CEMMIAPI for WinCE7 */
+/******************************************/
+/******************************************/
+/* Compile MMI Application for WinCE 6.00 */
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile MMI Application for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Copy RemoteCNC file for Win64 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/******************************************/
+/* Compile MMI Application for WinCE 6.00 */
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile MMI Application for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/******************************************/
+/* Compile MMI Application for WinCE 6.00 */
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile MMI Application for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile AutoTest Module for WinCE */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile AutoTest Module for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/**********************************************/
+/******* Re-Create Directorys And Files *******/
+/**********************************************/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/******************************************/
+/******* Compile RobotDLL for WinCE *******/
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/******************************************/
+/******* Compile RobotDLL for Win32 *******/
+/******************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*************************************/
+/* Compile PlugIn Module for WinCE */
+/*************************************/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/***** Build FileClean*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile File Clean Plugin for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile File Clean for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build 60DB*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile BuiltInDrillCAMCE Plugin for Win32 */
+/*************************************/
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+¤l¥Ø¿ý©ÎÀÉ®× ..\..\..\..\Res\_Arm\_Drill\Common\Plugin\DLL ¤w¸g¦s¦b¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile BuiltInDrillCAMCE for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build LaserScanningCADCAM*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile BuiltInLaserAction32 Plugin for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile BuiltInLaserActionCE for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build LaserCutting*****/
+/***********************************************/
+/* Compile LaserCutting Plugin for Win32 */
+/***********************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile LaserCutting Plugin for WinCE */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build PrintLabelWorker*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile Labeling Plugin for Win32 */
+/*************************************/
+¨t²Î§ä¤£¨ì«ü©wªº¸ô®|¡C
+¤l¥Ø¿ý©ÎÀÉ®× ..\..\..\Res\_Arm\_Print\Common\Plugin\DLL ¤w¸g¦s¦b¡C
+¤l¥Ø¿ý©ÎÀÉ®× ..\..\..\Res\_Arm\_Print\Common\Plugin\DLL\32 ¤w¸g¦s¦b¡C
+¤l¥Ø¿ý©ÎÀÉ®× ..\..\..\Res\_Arm\_Print\Common\Plugin\DLL\CE ¤w¸g¦s¦b¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile LabelingCE for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/***** Build Wood Software*****/
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+/*************************************/
+/* Compile Wood SoftWare Plugin for Win32 */
+/*************************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/*********************************/
+/* Compile Wood SoftWare for WinCE7 */
+/*********************************/
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Check D:\Jenkins\workspace\MMI_10.118.12\error...
+No Error Found...
+2018/11/06 ¬P´Á¤G 14:00:40
+Compile Succeeded!
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>if /compileE == /compileE goto lend 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>if not exist D:\Jenkins\workspace\MMI_10.118.12\Build\..\Error (md D:\Jenkins\workspace\MMI_10.118.12\Build\..\Error ) 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>move /y D:\Jenkins\workspace\MMI_10.118.12\Build\Build.log D:\Jenkins\workspace\MMI_10.118.12\Build\..\Error\Build.log 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>rem reset variables 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>set XXcpu= 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>set XXmachine= 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>set XXmodel= 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>set XXBuildLog= 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>echo on 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>echo on 
+
+D:\Jenkins\workspace\MMI_10.118.12\Build>POPD
+
+D:\Jenkins\workspace\MMI_10.118.12>for /F %i in ("D:\Jenkins\workspace\MMI_10.118.12\error\check.log") do (
+echo %~zi  
+ if %~zi GTR 0 (
+echo Bulid Failed Due to http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/branches/AppKernel_10.118.12 at 209218  
+ exit 1  
+ POPD
+) 
+) 
+
+D:\Jenkins\workspace\MMI_10.118.12>(
+echo 0  
+ if 0 GTR 0 (
+echo Bulid Failed Due to http://developer.syntecclub.com.tw:815/OpenCNC/appkernel/branches/AppKernel_10.118.12 at 209218  
+ exit 1  
+ POPD
+) 
+) 
+0
+
+D:\Jenkins\workspace\MMI_10.118.12>POPD
+
+D:\Jenkins\workspace\MMI_10.118.12>exit 0 
+[description-setter] Description set: <a href="http://jira.syntecclub.com.tw:8080/browse/">http://jira.syntecclub.com.tw:8080/browse/</a>
+Set build name.
+New build name is '#66  at rev209218 by ·çÂE
+'
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#66  at rev209218 by ·çÂE
+', new value: '#66  at rev209218 by ·çÂE
+'
+Post-Build Update: Updated Dashboard DB
+«Ê¦s¦¨«~
+°O¿ý«ü¯¾
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  5 second
+Finished: SUCCESS

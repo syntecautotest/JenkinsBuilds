@@ -1,0 +1,8 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\Data\ECAT_OD_MITSUBISHI_MR.xml
+DiskC\OpenCNC\Data\ECAT_PM_MITSUBISHI_J4.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------

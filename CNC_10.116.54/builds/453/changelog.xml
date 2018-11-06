@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209272"><author>mstsai0113</author><date>2018-11-06T09:00:16.069400Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" localPath="OCKrnl\Source\NcLoader\NcProgMgr.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path></paths><msg>merge: CNCKL_2605_b_OpenChannelErr, 208031-208178 to 10.116.54W, 10.118.12E, 10.118.15
+by 建明
+
+from 10.116.54U, 10.118.12C, 10.118.14, CNCKL-2546
+修正模擬環境跳錯誤的問題。</msg></logentry><logentry revision="209274"><author>mstsai0113</author><date>2018-11-06T09:13:04.750674Z</date><paths><path action="M" kind="file">/cnckernel/trunk/res/_x86/_Mill/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/_x86/_Lathe/Res/ParamDef.xml</path><path action="M" localPath="res\_x86\_Lathe\Res\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.116.54/res/_x86/_Lathe/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/_x86/_Mill/Res/ParamDef.xml</path><path action="M" localPath="res\_x86\_Mill\Res\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.116.54/res/_x86/_Mill/Res/ParamDef.xml</path><path action="M" kind="file">/cnckernel/trunk/res/_x86/_Lathe/Res/ParamDef.xml</path></paths><msg>merge: ISSUE_13791_b_Pr3203_Paramlimit_118x, 208092 to 10.116.54W, 10.118.12E, 10.118.15
+by 振宇
+
+from start
+修正 x86 機型 Pr3203 補間時間的預設值與範圍：Def=2000, Min=1000, Max=4000</msg></logentry></log>
