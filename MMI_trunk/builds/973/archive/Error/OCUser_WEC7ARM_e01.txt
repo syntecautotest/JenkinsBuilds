@@ -1,0 +1,371 @@
+------ Rebuild All started: Project: Swingw, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+Arc3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmZoom.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmDrawer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmCursor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XPathSimuBase.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XCanvas3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+WIN32GraphicsPeer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ToolBox.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TextManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TComponentFactory.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SimuStorage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SimuServiceProxy.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Rectangle.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCImage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OcHotKey.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+NcWpPlane.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+LoadLadder.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Line3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JXmlStringTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JXMLPreConfig.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JXMLPreCompiler.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JWin32ProcThunk.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTrendChart.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTemplateFactory.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTemplateComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JStringConnectRule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JSelectButton.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPreCompilerRule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPicture.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPanel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPageRegistry.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPagePool.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPageDeviceTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JOCText.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+JOCSimu.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JNativeWindow.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JMeter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JMarquee.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JListInputEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JListInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JLink.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JLamp.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInputline.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInputEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInputBase.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JIncludePage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JGroup.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JGrid.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFileList.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenuContextManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenuContext.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenu.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+JDynamicPicture.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JDeviceControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCycleTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCycleEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCustomControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCoordBox.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControlTemplatePool.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControlTemplate.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JButton.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ISimuEvent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+GridPad.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Graphics3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+FormatConverter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DoAction.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Cube3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CTLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CTInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+CTDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CncDevice.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+AxCube.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\WCE700ARM_Release\BuildLog.htm"
+Swingw - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCUp, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCUp', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+OCUp.cpp
+Linking...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUp\WCE700ARM_Release\BuildLog.htm"
+OCUp - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCHotKey, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCHotKey', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+OCHotKey.cpp
+StdAfx.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\OCHotKey.lib and object WCE700ARM_Release\OCHotKey.exp
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCHotKey\WCE700ARM_Release\BuildLog.htm"
+OCHotKey - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCKbdMs, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCKbdMs', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+OCKbdMs.cpp
+StdAfx.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\OCKbdMs.lib and object WCE700ARM_Release\OCKbdMs.exp
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCKbdMs\WCE700ARM_Release\BuildLog.htm"
+OCKbdMs - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCDown, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCDown', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+OCDown.cpp
+StdAfx.cpp
+Generating Code...
+Compiling resources...
+Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Linking...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OcDown\WCE700ARM_Release\BuildLog.htm"
+OCDown - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCUSER, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCUSER', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+BrowserWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TextWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StrResMap.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+PathSimuWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCUSER.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCTextFileMgr.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCLabelWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OC3DSimuDll.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LadderWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+KbdReceiver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JMarquee.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+HugeEdit.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+FenuWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\FenuWnd.cpp(1168) : warning C4172: returning address of local variable or temporary
+CanvasWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling resources...
+Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Linking...
+   Creating library WCE700ARM_Release\OCUSER.lib and object WCE700ARM_Release\OCUSER.exp
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\WCE700ARM_Release\BuildLog.htm"
+OCUSER - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCAPIServerDown, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCAPIServerDown', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+OCAPIServerDown.cpp
+StdAfx.cpp
+Generating Code...
+Linking...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCAPIServerDown\WCE700ARM_Release\BuildLog.htm"
+OCAPIServerDown - 0 error(s), 0 warning(s)
+------ Skipped Rebuild All: Project: kbdHid, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Rebuild All started: Project: OC3DSimu, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OC3DSimu', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+3DSimuWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\3DSimuWnd.cpp(966) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(966) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(967) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(967) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(972) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(972) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(974) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(974) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(979) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(979) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(980) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(980) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Vector3.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+SubPipe.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\SubPipe.cpp(107) : warning C4018: '<' : signed/unsigned mismatch
+SubItemModel.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+SubCube.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+StraightPipe.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\StraightPipe.cpp(37) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\StraightPipe.cpp(41) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\StraightPipe.cpp(57) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\StraightPipe.cpp(61) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\StraightPipe.cpp(77) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\StraightPipe.cpp(81) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\StraightPipe.cpp(97) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\StraightPipe.cpp(101) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+stdAfx.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+Pipe.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\Pipe.cpp(119) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(120) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(123) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(125) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(128) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(129) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(130) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+OC3DSimu.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+CurvePipe.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\CurvePipe.cpp(31) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(49) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(49) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(49) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(55) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(55) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(55) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(63) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(63) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(63) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(69) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(69) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(69) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Cuboid.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+Cube.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+ArcPipe.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\ArcPipe.cpp(19) : warning C4244: '=' : conversion from 'double' to 'UINT', possible loss of data
+.\ArcPipe.cpp(43) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(44) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(46) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(47) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(56) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(57) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(59) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(60) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(85) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(86) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(98) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\ArcPipe.cpp(99) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\OC3DSimu.lib and object WCE700ARM_Release\OC3DSimu.exp
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OC3DSimu\WCE700ARM_Release\BuildLog.htm"
+OC3DSimu - 0 error(s), 54 warning(s)
+------ Skipped Rebuild All: Project: Keypad, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: KpLoader, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: CeCncMMI, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+========== Rebuild All: 8 succeeded, 0 failed, 4 skipped ==========
+

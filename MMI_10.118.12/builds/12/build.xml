@@ -521,6 +521,15 @@
         <outer-class reference="../../../hudson.model.ParametersAction/parameterDefinitionNames/outer-class"/>
       </parameterDefinitionNames>
     </hudson.model.ParametersAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13033</id>
+          <title>81RA系统未就绪状态下双击取放程式编辑中第二页任一行会跳转至第一页第一行</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>2755</queueId>
   <timestamp>1534922956290</timestamp>
@@ -537,7 +546,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.RegularImmutableSet">
     <string>colingsta</string>
     <string>marskao</string>
   </culprits>

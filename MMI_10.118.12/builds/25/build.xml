@@ -522,6 +522,35 @@
         <outer-class reference="../../../hudson.model.ParametersAction/parameterDefinitionNames/outer-class"/>
       </parameterDefinitionNames>
     </hudson.model.ParametersAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13014</id>
+          <title>参数初始化没有提示框</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13268</id>
+          <title>開啟加密的客製畫面失敗時提示不夠明確</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13342</id>
+          <title>直角取放软体命令列会报错</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3657</id>
+          <title>15&quot;(10+8鍵)，開啟新檔後，Fenu沒有回到上一層(編輯)</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3671</id>
+          <title>動態表格插入新行時跳出程式錯誤</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>MMI-3679</id>
+          <title>圖形模擬元件預期外的資源釋放導致參數設定跳錯</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>4333</queueId>
   <timestamp>1536666843691</timestamp>
@@ -539,7 +568,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.SingletonImmutableSet">
     <string>colingsta</string>
   </culprits>
 </build>

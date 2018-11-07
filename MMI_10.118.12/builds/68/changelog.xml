@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209407"><author>1205</author><date>2018-11-07T04:59:39.692245Z</date><paths><path action="M" kind="file">/appkernel/trunk/Syntec.OpenCNC/OcApi.cs</path><path action="M" kind="file">/appkernel/trunk/Syntec.OpenCNC/KrnlAPI.cs</path><path action="M" localPath="Syntec.OpenCNC\LaserAPI.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/Syntec.OpenCNC/LaserAPI.cs</path><path action="M" localPath="Syntec.OpenCNC\OcApi.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/Syntec.OpenCNC/OcApi.cs</path><path action="M" kind="file">/appkernel/trunk/Syntec.OpenCNC/LaserAPI.cs</path><path action="M" localPath="Syntec.OpenCNC\KrnlAPI.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/Syntec.OpenCNC/KrnlAPI.cs</path></paths><msg>merge from Laser_1426_f_CopyDCTFromLsrToRLAPI, r208419-209400 to 10.118.12E, 10.118.15
+by 寧祥
+
+新增：
+1. 以當前雷射校正表覆寫紅光校正表之API</msg></logentry></log>

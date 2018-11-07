@@ -522,6 +522,15 @@
         <outer-class reference="../../../hudson.model.ParametersAction/parameterDefinitionNames/outer-class"/>
       </parameterDefinitionNames>
     </hudson.model.ParametersAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-963</id>
+          <title>雙軸群的需求工件數頁面按下ESC離開後再進入會消失</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>1200</queueId>
   <timestamp>1539912190778</timestamp>
@@ -539,7 +548,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.SingletonImmutableSet">
     <string>colingsta</string>
   </culprits>
 </build>

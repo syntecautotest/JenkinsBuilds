@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209332"><author>1200</author><date>2018-11-07T00:57:03.712279Z</date><paths><path action="M" localPath="res\Robot\Data\RawPxt\_rbpmchi.pxt" kind="file">/cnckernel/branches/release_v10.118.12/res/Robot/Data/RawPxt/_rbpmchi.pxt</path><path action="M" kind="file">/cnckernel/trunk/res/Robot/Data/RawPxt/_rbpmchi.pxt</path><path action="M" localPath="res\Robot\Data\RawPxt\_rbpmeng.pxt" kind="file">/cnckernel/branches/release_v10.118.12/res/Robot/Data/RawPxt/_rbpmeng.pxt</path><path action="M" kind="file">/cnckernel/trunk/res/Robot/Data/RawPxt/_rbpmeng.pxt</path></paths><msg>merge: ROBOT_256_b_Pr4001Overflow_118_14, 209241, to 10.118.12E, 10.118.15
+by 柏維
+
+from 10.118.12D, 10.118.15, ROBOT-237
+
+1. 修正機器人產品( ARTIC, SCARA, DELTA )，參數Pr4001輸入任意數值都會超過範圍之問題。 </msg></logentry></log>
