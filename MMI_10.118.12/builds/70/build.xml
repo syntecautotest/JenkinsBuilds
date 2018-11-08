@@ -499,6 +499,15 @@
     <hudson.tasks.MailMessageIdAction plugin="mailer@1.20">
       <messageId>&lt;16169740.29.1541571668249.JavaMail.user1@TESTMAN2&gt;</messageId>
     </hudson.tasks.MailMessageIdAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-8698</id>
+          <title>檔案匯出時，要能提供整個資料夾匯出</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>318</queueId>
   <timestamp>1541570544577</timestamp>
