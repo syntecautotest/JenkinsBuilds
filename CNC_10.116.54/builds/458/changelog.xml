@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209840"><author>simon</author><date>2018-11-09T09:48:19.082572Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/Axis.cpp</path></paths><msg>merge: HSHP_2519_b_ServoCommandImComplete_118.15, 209575-209670, to 10.116.54W, 10.118.12E, 10.118.15
+by 
+
+from 10.116.54O, 10.116.54P, 10.118.0J, 10.118.10, ISSUE-12964
+
+fix:
+	修正開啟伺服落後補償功能，開機第一次加工，或者Servo Off至Servo On，伺服命令會少發命令的錯誤。</msg></logentry></log>

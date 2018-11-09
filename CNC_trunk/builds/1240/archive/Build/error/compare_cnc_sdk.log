@@ -1,0 +1,28 @@
+Files that are found in folder Current_sdk but NOT in folder Previous_sdk :
+
+CNCSDK\lib\w32\Release\KinematicTransformation.lib
+CNCSDK\inc\FiveAxis.h
+CNCSDK\inc\FiveAxisMechanism.h
+CNCSDK\inc\FourAxis.h
+CNCSDK\inc\FourAxisMechanism.h
+CNCSDK\inc\IKinematic.h
+CNCSDK\inc\IRTCPKinematic.h
+CNCSDK\inc\IRTCPMechanism.h
+CNCSDK\inc\IStateValue.h
+CNCSDK\inc\KinematicAlarmDef.h
+CNCSDK\inc\KinematicsDef.h
+CNCSDK\inc\MixTiltingType.h
+CNCSDK\inc\RTCPManager.h
+CNCSDK\inc\SingleSpindleTiltingType.h
+CNCSDK\inc\SingleTableTiltingType.h
+CNCSDK\inc\SpindleTiltingType.h
+CNCSDK\inc\SvoDevStateDef.h
+CNCSDK\inc\TableTiltingType.h
+CNCSDK\inc\Variant.h
+CNCSDK\inc\_cncapi.h
+CNCSDK\inc\_RTCPKinematicUtility.h
+----------------------------------------------------------------------
+Files that are found in folder Previous_sdk but NOT in folder Current_sdk :
+
+CNCSDK\inc\HelicalPlan.h
+----------------------------------------------------------------------
