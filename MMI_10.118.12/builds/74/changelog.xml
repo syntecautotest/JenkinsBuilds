@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209888"><author>1362</author><date>2018-11-12T01:39:35.620280Z</date><paths><path action="M" localPath="Res\_Arm\_Scara\Common\CncFenu5.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scara/Common/CncFenu5.xml</path><path action="M" localPath="Res\_Arm\_Delta\Common\CncFenu5.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Delta/Common/CncFenu5.xml</path><path action="M" localPath="Res\_Arm\_Artic\Common\CncFenu5.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Artic/Common/CncFenu5.xml</path></paths><msg>merge appkernel/ROBOT_197_b_MissingInputRangesOnParamPages r209881 to 10.118.12E, 10.118.15 by 育豪
+
+機器人產品(ARTIC、SCARA、DELTA) 
+1. 修正機器人運動參數頁面無法顯示的錯誤</msg></logentry></log>

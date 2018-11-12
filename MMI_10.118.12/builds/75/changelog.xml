@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="209920"><author>swdjojo</author><date>2018-11-12T05:45:22.856582Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.24/MMICommon/Source/AuthoManager/AuthoManager.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.36/MMICommon/Source/AuthoManager/AuthoManager.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/MMICommon/Source/AuthoManager/AuthoManager.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/AuthoManager/AuthoManager.cs</path><path action="M" localPath="MMICommon\Source\AuthoManager\AuthoManager.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/AuthoManager/AuthoManager.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/AuthoManager/AuthoManager.cs</path></paths><msg>merge appkernel/ISSUE_13446_b_ResetPasswordFail, 209918 to 10.116.26M, 10.116.38P, 10.116.54W, 10.118.0O, 10.118.12E, 10.118.15
+by 玲巧
+
+note:
+  * passSeed判定字串包含空格的方法.
+</msg></logentry></log>
