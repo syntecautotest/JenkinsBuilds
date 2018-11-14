@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210140"><author>swdjojo</author><date>2018-11-14T07:34:06.215917Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\BackupRestore\RestoreM2Param.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/BackupRestore/RestoreM2Param.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/BackupRestore/RestoreM2Param.cs</path><path action="M" localPath="MMICommon\Source\Screen\SerialServo\BackupRestore\RestoreParam.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/BackupRestore/RestoreParam.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/BackupRestore/RestoreParam.cs</path></paths><msg>merge appkernel/ATEST_1025_b_M3RestoreFail, 210073-210124 to 10.118.12E, 10.118.15
+by 家齊
+
+note:
+  * 解決非m2環境無法還原驅動器參數問題.
+  * 串列參數還原遇到readonly也要加在進度條上.
+</msg></logentry></log>
