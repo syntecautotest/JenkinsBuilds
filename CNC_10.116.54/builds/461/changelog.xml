@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210269"><author>simon</author><date>2018-11-15T07:34:19.983218Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/ModalContext.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/PathPlan/ModalContext.cpp</path><path action="M" localPath="OCKrnl\Source\PathPlan\ModalContext.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/ModalContext.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/ModalContext.h</path><path action="M" localPath="OCKrnl\Source\PathPlan\ModalContext.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/ModalContext.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/PathPlan/ModalContext.h</path></paths><msg>merge: ISSUE_13848_b_Pr3851_SpdCmdError, 209907, to 10.116.54X, 10.118.12F, 10.118.16
+by 糧安
+
+from 10.116.26B, 10.116.36L, 10.116.43, 10.117.43, CNCKL-1542
+
+fix:
+	修正 沒下過S code，然後下了S#1034/S#1035主軸會變成最低轉速
+	修正 執行斷刀點回歸，沒下過S Code情況下，主軸轉速會被降成主軸最低轉速</msg></logentry></log>

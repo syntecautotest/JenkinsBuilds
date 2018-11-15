@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210271"><author>simon</author><date>2018-11-15T07:38:56.197303Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\DumpDbg.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/DumpDbg.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ECam.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ECam.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\MpgWheel.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/MpgWheel.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ECam.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ECam.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\cncctrl.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/cncctrl.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\MpgWheel.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/MpgWheel.h</path></paths><msg>merge: HSHP_2483_f_SolveTouch_mid1_v3, 209747-209759, to 10.118.16
+by 儀禕
+
+add:
+	[內部] 改善多核心下多執行緒保護機制</msg></logentry></log>
