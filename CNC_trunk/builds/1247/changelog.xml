@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210361"><author>mstsai0113</author><date>2018-11-16T06:09:04.835311Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/SlaveFrame.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\SlaveFrame.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/SlaveFrame.cpp</path></paths><msg>merge: ISSUE_13620_b_ModbusSlaveReadHoldRegError, 208288 to 10.118.12F, 10.118.16
+by 青杉
+
+from 10.117.2, 10.116.2, 10.114.56, 10.116.0B, MMI-788
+修正控制器作為Modbus Slave，外部裝置對其發出0x03讀取寄存器低位資料，無法正確讀到數值的問題。</msg></logentry></log>
