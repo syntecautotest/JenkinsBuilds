@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210440"><author>firticket</author><date>2018-11-17T07:01:53.016629Z</date><paths><path action="M" localPath="Bin\cnc2_fc.bin" kind="file">/cnckernel/branches/release_v10.116.54/Bin/cnc2_fc.bin</path></paths><msg>merge CNC2:
+CNC2 Build Time: 2018-11-17 12:31
+CNC2 Version: 00009
+
+the logs are in the following:
+
+fix:
+tuning test value to solve FC-A SRI problem
+
+
+
+</msg></logentry></log>

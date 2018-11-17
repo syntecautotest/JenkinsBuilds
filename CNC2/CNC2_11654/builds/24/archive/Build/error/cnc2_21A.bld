@@ -1,0 +1,38 @@
+Release 14.7 ngdbuild P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+Command Line: C:\Xilinx\14.7\ISE_DS\ISE\bin\nt\unwrapped\ngdbuild.exe -filter
+iseconfig/filter.filter -intstyle ise -dd _ngo -sd ipcore_dir -nt timestamp -uc
+cnc2_21A.ucf -p xc6slx9-tqg144-3 cnc2_21A.ngc cnc2_21A.ngd
+
+Reading NGO file
+"F:/Jenkins/workspace/CNC2/CNC2_11654/cnc2.srcs/sources_1/cnc2_21A.ngc" ...
+Loading design module "ipcore_dir/DATA_FIFO.ngc"...
+Gathering constraint information from source properties...
+Done.
+
+Annotating constraints to design from ucf file "cnc2_21A.ucf" ...
+Resolving constraint associations...
+Checking Constraint Associations...
+Done...
+
+Checking expanded design ...
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+NGDBUILD Design Results Summary:
+  Number of errors:     0
+  Number of warnings:   0
+
+Total memory usage is 148680 kilobytes
+
+Writing NGD file "cnc2_21A.ngd" ...
+Total REAL time to NGDBUILD completion:  2 sec
+Total CPU time to NGDBUILD completion:   2 sec
+
+Writing NGDBUILD log file "cnc2_21A.bld"...
