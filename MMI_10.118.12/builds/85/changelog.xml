@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210502"><author>shockspy</author><date>2018-11-19T03:47:51.130197Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/SortStrategy/ProcessRangeSorter.cs</path><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\SortStrategy\ProcessRangeSorter.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/PlugIn/_60DB/Source/DrillCAM/SortStrategy/ProcessRangeSorter.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/SortStrategy/ProcessRangeSorter.cs</path></paths><msg>merge WOOD_776_b_PanelCantClamp, 206753-209079 to 10.116.54X, 10.118.12F, 10.118.16
+by 孟璟
+
+
+修正 
+	部分開槽轉不出加工檔的錯誤</msg></logentry><logentry revision="210504"><author>shockspy</author><date>2018-11-19T03:51:18.173761Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/Plugins/Scr_ToolSetting.cs</path><path action="M" localPath="PlugIn\_60DB\Source\Plugins\Scr_ToolSetting.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/PlugIn/_60DB/Source/Plugins/Scr_ToolSetting.cs</path><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/Plugins/Scr_ToolSetting.cs</path></paths><msg>merge WOOD_546_f_ActionToFillUpToolOffsetFromRValue, 205468-205518 to 10.116.54X, 10.118.12F, 10.118.16
+by 孟璟
+
+
+新增 
+	三個Action: GetToolOffsetXFromRValue、GetToolOffsetYFromRValue、GetToolOffsetZFromRValue</msg></logentry></log>
