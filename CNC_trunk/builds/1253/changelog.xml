@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210753"><author>1200</author><date>2018-11-21T05:09:31.924757Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotMotionPlanner.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotMotionPlanner.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/RobotMotionPlanner.cpp</path></paths><msg>merge: ROBOT_265_b_C40CycleStartManyTimes_118_15, 210674-210734, to 10.118.12F, 10.118.16
+by 俊昇
+
+from 10.118.8, HSHP-1663
+
+修正機器人產品( ARTIC, SCARA, DELTA )，C40單步執行在多行加工檔時，需要多次啟動才會執行的問題 </msg></logentry></log>

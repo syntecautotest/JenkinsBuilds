@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210714"><author>mstsai0113</author><date>2018-11-21T01:09:28.715859Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/SerialDriver/Data/M2_Yaskawa_Preload_Tuning.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/SerialDriver/Data/M2_Yaskawa_Preload_Tuning.xml</path><path action="M" localPath="res\SerialDriver\Data\M2_Yaskawa_Preload_Tuning.xml" kind="file">/cnckernel/trunk/res/SerialDriver/Data/M2_Yaskawa_Preload_Tuning.xml</path></paths><msg>merge: ISSUE_13467_b_ROT_LossPreLoadParamPn833, 210012 to 10.116.54X, 10.118.12F, 10.118.16
+by 侑庭
+
+from 10.116.36R, 10.116.46, 10.117.46, ISSUE-9971
+安川M2驅動，新增預讀驅動器參數Pn833，以正確設定加減速參數，解決ROT和串列PLC軸開機時太早發命令，因使用錯誤的參數設定而跳警報</msg></logentry></log>

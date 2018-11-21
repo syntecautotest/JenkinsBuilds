@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="210751"><author>swdjojo</author><date>2018-11-21T04:47:26.796030Z</date><paths><path action="M" localPath="MMICommon\Source\OBControl\OBFileListDataBase.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/OBControl/OBFileListDataBase.cs</path><path action="M" localPath="MMICommon\Source\OBControl\OBFileListData.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/OBControl/OBFileListData.cs</path><path action="M" localPath="MMICommon\Source\Tools\Encode.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Tools/Encode.cs</path><path action="M" localPath="MMICommon\Source\OBControl\OBDipoleFileListData.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/OBControl/OBDipoleFileListData.cs</path></paths><msg>merge appkernel/ISSUE_13681_b_Garbled3, 210180-210278 to 10.116.54X, 10.118.12E, 10.118.15
+by 禮芳
+
+note:
+  * 修正 FTP ANSI Unicode 判斷邏輯問題, 所導致的 NetWork目錄名稱中文會變成亂碼的現象.
+</msg></logentry></log>
