@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211401"><author>simon</author><date>2018-11-28T06:22:13.694580Z</date><paths><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_Scanning/_71A/Build/pack_pin.bat</path><path action="M" localPath="res\_Arm\_Scanning\_70B\Build\pack_pin.bat" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_Scanning/_70B/Build/pack_pin.bat</path><path action="M" localPath="res\_Arm\_Scanning\_70A\Build\pack_pin.bat" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_Scanning/_70A/Build/pack_pin.bat</path><path action="M" localPath="res\_Arm\_Scanning\_71A\Build\pack_pin.bat" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_Scanning/_71A/Build/pack_pin.bat</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_Scanning/_70B/Build/pack_pin.bat</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_Scanning/_70A/Build/pack_pin.bat</path></paths><msg>merge: HSHP_2521_b_CBMPamPin_14, 209706, to 10.118.12G, 10.118.16
+by 彥融
+
+from 10.118.12A, 10.118.13, HSHP-1366
+
+fix:
+	修正因雷射打標控制器無流水線參數定義檔造成流水線參數設定錯誤。</msg></logentry></log>

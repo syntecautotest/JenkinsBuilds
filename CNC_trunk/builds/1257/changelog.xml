@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211391"><author>simon</author><date>2018-11-28T05:58:20.551262Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/CutString.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\CutString.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/CutString.cpp</path></paths><msg>merge: ISSUE_13865_b_CutStringIsReadyError, 210064, to 10.118.12G, 10.118.16
+by 芝峰
+
+from 10.116.16Z, 10.116.26K, 10.116.38A, 10.116.54, 10.118.0, ISSUE-10675
+
+fix:
+	修正彈簧機專用動程 G10 L1501，觸發 C39(one cycle 模式)進入單節執行後，再執行加工時會卡在加工中的問題。
+</msg></logentry></log>

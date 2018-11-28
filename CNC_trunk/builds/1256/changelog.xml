@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211381"><author>simon</author><date>2018-11-28T05:30:27.651124Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\Servo.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/Servo.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Interpolation/ZPECompensator.cpp</path><path action="M" localPath="OCKrnl\Source\Interpolation\ZPECompensator.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Interpolation/ZPECompensator.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/Servo.cpp</path></paths><msg>merge: ISSUE_13727_b_FeedbackPosDelayWhileMoving, 209057-209554, to 10.118.12G, 10.118.16
+by 芝峰
+
+from 10.116.10Q, 10.116.16H, 10.116.24A, 10.116.25, 10.117.25, ISSUE-5759
+
+fix:
+	修正 #1361~、#1441~、R981~R998、R5891~R5894 更新慢了一個插補時間的問題。</msg></logentry></log>

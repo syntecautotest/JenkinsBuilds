@@ -1,0 +1,20 @@
+------ Rebuild All started: Project: EnIPModule, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'EnIPModule', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+Compiling...
+ORXExport.cpp
+EnIPStation.cpp
+EnIPParamDef.cpp
+EnIPConfigWriter.cpp
+EnIPConfigReader.cpp
+EnIPCenter.cpp
+Generating Code...
+Linking...
+   Creating library D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\WCE600_Release\EnIPModule.lib and object D:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\WCE600_Release\EnIPModule.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\SerialPLCAxis\Source\EnIPModule\WCE600_Release\BuildLog.htm"
+EnIPModule - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211433"><author>mstsai0113</author><date>2018-11-28T08:22:33.122060Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ManualAxis.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path></paths><msg>merge: ISSUE_13901_b_MetricSysError. 210041 to 10.116.54Y, 10.118.12G, 10.118.16
+by 建明
+
+from start
+修正修改公英制後，PLC軸公英制修改無效的問題。(修改後需按Reset)</msg></logentry></log>
