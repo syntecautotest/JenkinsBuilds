@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211521"><author>1384</author><date>2018-11-29T08:22:15.606183Z</date><paths><path action="M" localPath="res\SerialDriver\Data\SerialAlarm_M2SYN_CHT.Xml" kind="file">/cnckernel/branches/release_v10.118.12/res/SerialDriver/Data/SerialAlarm_M2SYN_CHT.Xml</path><path action="M" localPath="res\SerialDriver\Data\SerialAlarm_M2SYN_COM.Xml" kind="file">/cnckernel/branches/release_v10.118.12/res/SerialDriver/Data/SerialAlarm_M2SYN_COM.Xml</path></paths><msg>merge: CNCKL_2036_f_SynteM2_V1andV2_ParamString, 211293 to 10.118.12G, 10.118.16
+by 孟學
+
+from 10.116.38A, 10.116.53, 10.117.53, CNCKL-1907
+修正新代M2 V1驅動器A.9xx 警報字串，與新代M2 V2統一</msg></logentry><logentry revision="211529"><author>1384</author><date>2018-11-29T08:32:59.481713Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path></paths><msg>merge: ISSUE_13867_b_FeedholdProblem_54x, 210597 to 10.116.54Y
+merge: ISSUE_13867_b_FeedholdProblem, 210599 to 10.118.12G, 10.118.16
+by 竺晏
+
+from 10.116.54U, 10.118.12C, 10.118.14, ISSUE-13660
+修正在軸向屬於多個軸群時，因為軸群暫停點時機不同，導致再次觸發C0軸向座標偶發錯誤的問題。</msg></logentry></log>

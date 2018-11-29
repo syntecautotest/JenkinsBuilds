@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211513"><author>1384</author><date>2018-11-29T07:51:27.049736Z</date><paths><path action="M" localPath="OCProtocol\Source\EnIP\EnIP_Device_Manager.cpp" kind="file">/cnckernel/trunk/OCProtocol/Source/EnIP/EnIP_Device_Manager.cpp</path></paths><msg>merge: ATEST_1029_b_Fix_EnIP_Dll_Destructor_118x, 211080 to 10.118.12G, 10.118.16
+by 振宇
+
+from 10.118.12B, 10.118.13, CNCKL-2442
+修正當EnIP.dll卸載時，無限等待Thread釋放造成畫面卡死的問題</msg></logentry></log>

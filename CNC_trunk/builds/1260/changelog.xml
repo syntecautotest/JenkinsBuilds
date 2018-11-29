@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211510"><author>simon</author><date>2018-11-29T07:34:59.505601Z</date><paths><path action="M" localPath="OCKrnl\Source\ServoTuning\FrictionAdjust.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/ServoTuning/FrictionAdjust.cpp</path><path action="M" localPath="OCKrnl\Source\Interpolation\DriverSimulator.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Interpolation/DriverSimulator.cpp</path><path action="M" localPath="OCKrnl\Source\ServoTuning\TFFAdjust.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/ServoTuning/TFFAdjust.cpp</path><path action="M" localPath="OCKrnl\Source\Interpolation\DriverSimulator.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Interpolation/DriverSimulator.h</path><path action="M" localPath="OCKrnl\Source\ServoTuning\TFFAdjust.h" kind="file">/cnckernel/trunk/OCKrnl/Source/ServoTuning/TFFAdjust.h</path><path action="M" localPath="OCKrnl\Source\ServoTuning\FrictionLog.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/ServoTuning/FrictionLog.cpp</path></paths><msg>merge: HSHP_2521_b_CBMPamPin_14, 209179-210986, to 10.118.16
+by 佩吟
+
+add:
+	修正L1711係數搜尋容易錯誤的問題</msg></logentry></log>

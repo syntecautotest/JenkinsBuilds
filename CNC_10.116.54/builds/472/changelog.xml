@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211528"><author>1384</author><date>2018-11-29T08:32:49.388496Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path></paths><msg>merge: ISSUE_13867_b_FeedholdProblem_54x, 210597 to 10.116.54Y
+merge: ISSUE_13867_b_FeedholdProblem, 210599 to 10.118.12G, 10.118.16
+by 竺晏
+
+from 10.116.54U, 10.118.12C, 10.118.14, ISSUE-13660
+修正在軸向屬於多個軸群時，因為軸群暫停點時機不同，導致再次觸發C0軸向座標偶發錯誤的問題。</msg></logentry></log>

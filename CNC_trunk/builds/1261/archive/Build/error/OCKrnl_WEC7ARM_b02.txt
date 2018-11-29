@@ -1,0 +1,911 @@
+------ Rebuild All started: Project: EventAP, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+EventAP.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\WCE700ARM_Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Event, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\WCE700ARM_Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: LAPACK, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LAPACK', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+Stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ddot_.cpp
+xerbla_.cpp
+lsame_.cpp
+dtrsm_.cpp
+dtbsv_.cpp
+dsyrk_.cpp
+dsyr_.cpp
+dscal_.cpp
+dpotf2_.cpp
+dpbtrs_.cpp
+dpbtrf_.cpp
+dpbtf2_.cpp
+dgemv_.cpp
+dgemm_.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\LAPACK\WCE700ARM_Release\BuildLog.htm"
+LAPACK - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: DataLog, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'DataLog', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+DataCatch.cpp
+TimerManager.cpp
+KernelLog.cpp
+GrinderLog.cpp
+DataRecorder.cpp
+DataListener.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DataLog\WCE700ARM_Release\BuildLog.htm"
+DataLog - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PLCNet, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'PLCNet', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+OCClient.cpp
+PLCNet.cpp
+PDU.cpp
+OCServer.cpp
+OCNode.cpp
+OCClientService.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCNet\WCE700ARM_Release\BuildLog.htm"
+PLCNet - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KinematicTransformation, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'KinematicTransformation', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+AdditionalAx.cpp
+TriplePRSType.cpp
+ToolLength.cpp
+TableTiltingType.cpp
+SpindleTiltingType.cpp
+SingleTableTiltingType.cpp
+SingleSpindleTiltingType.cpp
+RTCPManager.cpp
+RobotV4L1A.cpp
+RobotV3L0A.cpp
+RobotV1L2A.cpp
+RobotToolCalibration.cpp
+RobotSixAxis.cpp
+RobotScara.cpp
+RobotPaintSixAxisTypeA.cpp
+RobotKinematics.cpp
+RobotHeavySixAxis.cpp
+RobotHeavyFourAxisTypeA.cpp
+RobotH4L1A.cpp
+RobotH2L2B.cpp
+Generating Code...
+Compiling...
+RobotH2L2A.cpp
+RobotFourAxisTypeB.cpp
+RobotFourAxisTypeA.cpp
+RobotFiveAxisTypeA.cpp
+RobotDeltaTypeB.cpp
+RobotDeltaTypeA.cpp
+PolarCoordTransform.cpp
+ParallelKinematics.cpp
+MixTiltingType.cpp
+LinearGuidance.cpp
+GuidanceCouple.cpp
+GenRotHoldRot.cpp
+GenKinematics2D.cpp
+FourAxisParamSync.cpp
+FourAxisMechanism.cpp
+FourAxis.cpp
+FiveAxisParamSync.cpp
+FiveAxisMechanism.cpp
+FiveAxis.cpp
+ArcGuidance.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\WCE700ARM_Release\BuildLog.htm"
+KinematicTransformation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: NurbsInterpolation, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'NurbsInterpolation', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+Stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+Bezier.cpp
+Segment.cpp
+NurbsSysState.cpp
+NurbsMPFindCorner.cpp
+NurbsMPBlockMerge.cpp
+NurbsCurvePool.cpp
+NurbsCurve.cpp
+NurbsAPI.cpp
+Kick.cpp
+Debug.cpp
+CornerCombine.cpp
+CNURBS_FACTORY.cpp
+CNURBS.cpp
+BlockPool.cpp
+Block.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\WCE700ARM_Release\BuildLog.htm"
+NurbsInterpolation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MSTExeChannel, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MSTExeChannel', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+AxPLCCall.cpp
+PLCCall.cpp
+PartCount.cpp
+MSTChannel.cpp
+ModePLCCall.cpp
+CycleTimer.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\WCE700ARM_Release\BuildLog.htm"
+MSTExeChannel - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ToolTable, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ToolTable', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+HMultiToolTable.cpp
+SingleToolTable.cpp
+MultiToolTable.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ToolTable\WCE700ARM_Release\BuildLog.htm"
+ToolTable - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: FFTransform, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'FFTransform', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+FFT.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\FFTransform\WCE700ARM_Release\BuildLog.htm"
+FFTransform - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: InternalCNCAPI, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'InternalCNCAPI', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+InternalCNCAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\WCE700ARM_Release\BuildLog.htm"
+InternalCNCAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MotUtility, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MotUtility', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ADQueue.cpp
+ZeroSpeedCheck.cpp
+VelocityControl.cpp
+VelAccMeter.cpp
+TrajectoryThread.cpp
+TrajectoryTapping.cpp
+TrajectorySyncTracking.cpp
+TrajectoryOscillator.cpp
+TrajectoryNormal.cpp
+TrajectoryDef.cpp
+TrajectoryChopping.cpp
+Trajectory.cpp
+TimeBase.cpp
+SyncTracking.cpp
+SCurveTrajectory.cpp
+RobotWaitSignalManager.cpp
+RobotMRPQueue.cpp
+RobotMRPPool.cpp
+RobotMotion.cpp
+RobotInterpolator.cpp
+Generating Code...
+Compiling...
+PostAccelerator_Int.cpp
+PostAccelerator.cpp
+PlayModeInterpolator.cpp
+OneBlockInterpolator.cpp
+MultiPassMovingAverageFilter.cpp
+MpHoming.cpp
+MpHomeSearch.cpp
+MovingAverageFilter.cpp
+MotionPlanner.cpp
+LANodePool.cpp
+LAMotionPlanner.cpp
+KickNode.cpp
+InterruptSignalManager.cpp
+Interpolator.cpp
+HomeSearchCore.cpp
+GradientDescent.cpp
+FLThreadNormal.cpp
+FLRobotMoveL.cpp
+FLRobotMoveJ.cpp
+FLCutString.cpp
+Generating Code...
+Compiling...
+FLCutSCurve.cpp
+FLCutCSlopeForSpring.cpp
+FLCutCSlope.cpp
+FeedLimit.cpp
+FeedControl.cpp
+FCThreadNormal.cpp
+FCCutString.cpp
+FCCutSmoothScurve.cpp
+FCCutSCurve.cpp
+FCCutCSlope.cpp
+DelayFilter.cpp
+CurvatureCalculatorNode.cpp
+CurvatureCalculator.cpp
+CJerkLineInt.cpp
+CJerkHelicalInt.cpp
+BPTLimiter.cpp
+AuxInterpolator.cpp
+ArcFeature.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\WCE700ARM_Release\BuildLog.htm"
+MotUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ProductInfo, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ProductInfo', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CncSerial.cpp
+W32ProductData.cpp
+TimeValidity.cpp
+SoftwareUtil.cpp
+ProductSet.cpp
+ProductInfo.cpp
+PrdRawData.cpp
+PrdPassword.cpp
+OptionTry.cpp
+OptionTable.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ProductInfo\WCE700ARM_Release\BuildLog.htm"
+ProductInfo - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: XSignal, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'XSignal', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+MultiCast.cpp
+XSignal.cpp
+RTCAPI.cpp
+MultiCastAPI.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\XSignal\WCE700ARM_Release\BuildLog.htm"
+XSignal - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: WinPAL, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'WinPAL', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CommAPI.cpp
+WinXSignal.cpp
+WinRTTimer.cpp
+VersionInfo.cpp
+ThreadAPI.cpp
+RTMutex.cpp
+Pal.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\WCE700ARM_Release\BuildLog.htm"
+WinPAL - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Utility, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+_UNCC.cpp
+.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+ZRtl.cpp
+ZMath.cpp
+ZListManager.cpp
+ZipArch.cpp
+ZCRC32.cpp
+x86Platform.cpp
+VStack.cpp
+Vector4d.cpp
+Vector3d.cpp
+Vector2d.cpp
+VArray.cpp
+Variant.cpp
+Unzip.cpp
+TZPlex.cpp
+Tuple4d.cpp
+Tuple3d.cpp
+Tuple2d.cpp
+Test_HugeFileEditor.cpp
+StringConverter.cpp
+Generating Code...
+Compiling...
+Stream.cpp
+Stack.cpp
+Sphere.cpp
+SmallFileEditor.cpp
+ShapeData.cpp
+SetupPacking.cpp
+QuickMatrixN.cpp
+Quaternion.cpp
+PropertyBag.cpp
+PolynomialRootSolver.cpp
+Point3d.cpp
+Point2d.cpp
+Platform.cpp
+PID.cpp
+ParamStore.cpp
+ParamCracker.cpp
+PalStdLib.cpp
+OcStreamReader.cpp
+OcFileReader.cpp
+OcDesFileReader.cpp
+Generating Code...
+Compiling...
+NumericalRecipes.cpp
+NumberBag.cpp
+MiddleVoteFilter.cpp
+MatrixN.cpp
+Matrix4d.cpp
+Matrix3d.cpp
+Matrix2d.cpp
+LinkedListPool.cpp
+LinePage.cpp
+LineMap.cpp
+LANAdapterInfo.cpp
+KStringMap.cpp
+JXmlTextWriter.cpp
+JXmlTextReader.cpp
+JReplication.cpp
+JRectLayout.cpp
+JFileInfo.cpp
+JCycleValue.cpp
+JCycleSchemaPool.cpp
+JCycleSchema.cpp
+Generating Code...
+Compiling...
+JCycleDocument.cpp
+JAllocateOnlyHeap.cpp
+IntervalChecker.cpp
+Internet.cpp
+IntegerQueue.cpp
+IniRegManager.cpp
+IniReg.cpp
+HugeFileSharedEditor.cpp
+HugeFileReader.cpp
+HugeFileEditor.cpp
+HighPerformanceTimer.cpp
+GVector.cpp
+GuardStore.cpp
+GuardRegistry.cpp
+GMatrix.cpp
+Geometry2d.cpp
+FramStore.cpp
+Frame3d.cpp
+FRAM_Parallel.cpp
+FileDirInfo.cpp
+Generating Code...
+Compiling...
+FIFOQueue.cpp
+EventCPBase.cpp
+DocStoreAPI.cpp
+DNCChannel.cpp
+DeviceInfoManager.cpp
+DeviceInfo.cpp
+DESObj.cpp
+Cylinder.cpp
+Complex.cpp
+CommPort.cpp
+CharQueue.cpp
+ByteOrder.cpp
+Box.cpp
+BitSet.cpp
+BitFilter.cpp
+BinFileLoader.cpp
+AxisDimension.cpp
+AxisAngle4d.cpp
+AxFrame.cpp
+AsynQueue.cpp
+Generating Code...
+Compiling...
+Argument.cpp
+ArchMgr.cpp
+AlarmFlags.cpp
+AlarmCode.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Utility\WCE700ARM_Release\BuildLog.htm"
+Utility - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: RemotePanel, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'RemotePanel', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+FX2API.cpp
+FXPanelSvr.cpp
+FXPanelClient.cpp
+FX2IComm.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\WCE700ARM_Release\BuildLog.htm"
+RemotePanel - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PathPlan, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'PathPlan', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ArcResolver.cpp
+ToolTableManager.cpp
+ToolRadius.cpp
+ToolOffset.cpp
+ScanTable.cpp
+Scaling.cpp
+Rotation.cpp
+RobotToolManager.cpp
+RobotToolLoader.cpp
+RobotParamSync.cpp
+RobotCoordinate.cpp
+ReadySink.cpp
+ProgramContext.cpp
+PolarCommand.cpp
+PathSmooth.cpp
+MRPTransform.cpp
+MRPQueue.cpp
+MRPPool.cpp
+MRPFilter.cpp
+ModalMacroContext.cpp
+Generating Code...
+Compiling...
+ModalContext.cpp
+MacroType.cpp
+MacroCore.cpp
+LocalVariable.cpp
+KinematicsParamSync.cpp
+ICoordParamSync.cpp
+ICoordinate.cpp
+GenKinematicsParamSync.cpp
+DirectDrawCorner.cpp
+DirectDrawAngle.cpp
+CornerFeature.cpp
+CoordPLCPanel.cpp
+CoordParamSync.cpp
+Coordinate.cpp
+BreakPointScanner.cpp
+BreakPointHandler.cpp
+BlockTransform.cpp
+BlockContext.cpp
+BackgndExecuter.cpp
+AxisAddress.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PathPlan\WCE700ARM_Release\BuildLog.htm"
+PathPlan - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+AlarmHistoryStore.cpp
+XMLDatabase.cpp
+VelGlitchCompKeyMap.cpp
+TCPServer.cpp
+SystemIdentify.cpp
+SysPLCPanel.cpp
+SysParamSync.cpp
+SvoDevStateTable.cpp
+SvoChMap.cpp
+SlaveFrame.cpp
+SimuPool.cpp
+Simulator.cpp
+SerialDeviceServ.cpp
+SerialDeviceCtrl.cpp
+RTUSlave.cpp
+RobotSimulator.cpp
+RobotPLCPanel.cpp
+RobotDrawer.cpp
+ResourceMgr.cpp
+ProgrammableDesk.cpp
+Generating Code...
+Compiling...
+PLCEventMonitor.cpp
+ParseContext.cpp
+ParamManager.cpp
+ORXManager.cpp
+OpPLCPanel.cpp
+OpParamSync.cpp
+OpOutStream.cpp
+OPLog.cpp
+NcDrawer.cpp
+ModeGroup.cpp
+ModbusSlaveComm.cpp
+MakerConfigInfo.cpp
+LatchIBitControl.cpp
+LatchDrvSglControl.cpp
+GVPWorkVar.cpp
+GVPPLCRegister.cpp
+GVPPersist.cpp
+GVPInMemory.cpp
+GVCInMemory.cpp
+GVCBase.cpp
+Generating Code...
+Compiling...
+FrameUtility.cpp
+FileWriter.cpp
+FileReader.cpp
+FileBase.cpp
+ECamPLCPanel.cpp
+DumpDbg.cpp
+DriverManager.cpp
+DataListenManager.cpp
+CoordStateTable.cpp
+cncctrl.cpp
+CNCCenter.cpp
+cncapi.cpp
+BackgndExePanel.cpp
+BackgndExeCenter.cpp
+AxisDesk.cpp
+AlarmPendingStore.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Operation\WCE700ARM_Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KePLC, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'KePLC', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+LadderCompiler.cpp
+PLCUtility.cpp
+PLCScanner.cpp
+PLCDeviceManager.cpp
+PLCAlarmDef.cpp
+LadderWRPool.cpp
+LadderParser.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KePLC\WCE700ARM_Release\BuildLog.htm"
+KePLC - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Interpolation, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Interpolation', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+Backlash.cpp
+ZPECompensator.cpp
+VFFCompensator.cpp
+TFFCompensator.cpp
+StateSpaceModel.cpp
+SISOIIRFilter.cpp
+SISOFIRFilter.cpp
+SISODiscreteTransferFunction.cpp
+ServoSyncCompensator.cpp
+ServoCompensation.cpp
+PitchError.cpp
+HighOrderFilter.cpp
+FrictionCompensation.cpp
+FracDelayCompensator.cpp
+ForwardController.cpp
+FirstOrderFilter3d.cpp
+FirstOrderFilter.cpp
+Feedforward.cpp
+DriverSimulator.cpp
+DirectionPredictor.cpp
+Generating Code...
+Compiling...
+ContourError.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Interpolation\WCE700ARM_Release\BuildLog.htm"
+Interpolation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: NcLoader, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'NcLoader', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ArchiveNcLoader.cpp
+NcProgMgr.cpp
+NcDownload.cpp
+MPYACC.CPP
+..\NcParser\MPYACC.CPP(2909) : warning C4102: 'mperrlabel' : unreferenced label
+MPLEX.CPP
+..\NcParser\MPLEX.CPP(1175) : warning C4102: 'mp_more' : unreferenced label
+..\NcParser\MPLEX.CPP(1158) : warning C4102: 'mp_reject' : unreferenced label
+MDINcLoader.cpp
+LEXBASE.CPP
+IDNCReader.cpp
+FileSysNcLoader.cpp
+DNCSerialComm.cpp
+DNCReaderService.cpp
+DNCNetwork.cpp
+DNCHugeDiskFile.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NcLoader\WCE700ARM_Release\BuildLog.htm"
+NcLoader - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: MotionPlan, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MotionPlan', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+AutoCommander.cpp
+WorkpieceTable.cpp
+Workpiece.cpp
+VTypeSyncSpindle.cpp
+ThreadNormal.cpp
+TappingPair.cpp
+TappingLearning.cpp
+Tapping.cpp
+SyncSpindleManager.cpp
+SyncSpindle.cpp
+SyncOutManager.cpp
+StrokeTable.cpp
+StrokeLimit.cpp
+SpindlePlanner.cpp
+Spindle.cpp
+SpdVcmdControl.cpp
+SpdParamSync.cpp
+SkipTravel.cpp
+SkipFunction.cpp
+SimuServo3d.cpp
+Generating Code...
+Compiling...
+SimuServo.cpp
+ServoTap.cpp
+ServoSpindle.cpp
+ServoSOS.cpp
+ServoLagTapping.cpp
+ServoLagChopping.cpp
+ServoGear.cpp
+Servo.cpp
+SCurve.cpp
+RobotWeaving.cpp
+RobotUnitConverter.cpp
+RobotTrajectoryBlending.cpp
+RobotSyncOut.cpp
+RobotStrokeLimit.cpp
+RobotSCARADynamics.cpp
+RobotMoveL.cpp
+RobotMoveJ.cpp
+RobotMotionPlanner.cpp
+RobotInterpolation.cpp
+RobotExecutive.cpp
+Generating Code...
+Compiling...
+RobotDynamicsLearning.cpp
+RobotDynamics.cpp
+RobotDirectTeachingTRQ.cpp
+RobotDirectTeachingPOS.cpp
+RobotCSManager.cpp
+RobotCoordTransform.cpp
+RobotCoordLoader.cpp
+RapidTravel.cpp
+RadialCompensator.cpp
+QuaternionConverter.cpp
+PTypeSyncSpindle.cpp
+ProtectionZone.cpp
+PostureFairing.cpp
+PostKinematicAcc.cpp
+OneBlkPlanner.cpp
+NurbsSmooth.cpp
+NurbsConverter.cpp
+NCExecutive.cpp
+MpMPGJog.cpp
+MPKinematicTransform.cpp
+Generating Code...
+Compiling...
+MpJog.cpp
+MPInterpolation.cpp
+.\MPInterpolation.cpp(61) : warning C4005: 'NUMOF_IntInstrtuctionReserved' : macro redefinition
+        d:\jenkins\workspace\cnc_trunk\ockrnl\source\motionplan\Axis.h(29) : see previous definition of 'NUMOF_IntInstrtuctionReserved'
+MpIncJog.cpp
+MpgWheel.cpp
+MPCoordTransform.cpp
+ManualAxis.cpp
+LengthProjector.cpp
+LearningErrorTable.cpp
+LearningControl.cpp
+KaiserWindowFilter3d.cpp
+KaiserWindowFilter.cpp
+JogCommander.cpp
+JogBase.cpp
+IServoLag.cpp
+IOFcnManager.cpp
+InverterSpindle.cpp
+InverterSOS.cpp
+InversePlant.cpp
+IncConverter.cpp
+GrinderAdjust.cpp
+Generating Code...
+Compiling...
+FastDrill.cpp
+EDM.cpp
+ECamManager.cpp
+ECam.cpp
+Dwell.cpp
+DispCalculator.cpp
+CutString.cpp
+CutSmoothSCurve.cpp
+CutSCurve.cpp
+CutFiveAxis.cpp
+CutCSlopeForSpring.cpp
+CutCSlope.cpp
+CustomDelayQueue.cpp
+CSManager.cpp
+CoupleTransform.cpp
+CoordinateCalibration.cpp
+ConveyorTrackingManager.cpp
+ConveyorTracking.cpp
+CompBlkPlanner.cpp
+CommandQueue.cpp
+Generating Code...
+Compiling...
+CmdQueue.cpp
+Chopping.cpp
+BackgndFuncHandler.cpp
+AxParamSync.cpp
+AxisInPosCheck.cpp
+AxisExchanger.cpp
+Axis.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\WCE700ARM_Release\BuildLog.htm"
+MotionPlan - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: ServoTuning, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+FIRFilter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+VFFAdjust.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TFFAdjust.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SpdAdvTuning.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+FrictionLog.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+FrictionAdjust.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+StdAfx.obj : warning LNK4221: no public symbols found; archive member will be inaccessible
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\WCE700ARM_Release\BuildLog.htm"
+ServoTuning - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: Comm, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Comm', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CommSession.cpp
+NcCommFileAPI.cpp
+NcCommFile.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Comm\WCE700ARM_Release\BuildLog.htm"
+Comm - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCKrnl, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCKrnl', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+OCKrnl.cpp
+Compiling resources...
+Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Linking...
+   Creating library WCE700ARM_Release\OCKrnl.lib and object WCE700ARM_Release\OCKrnl.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\OCKrnl\WCE700ARM_Release\BuildLog.htm"
+OCKrnl - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PLCDevice, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'PLCDevice', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+CommApi.cpp
+TCPClient.cpp
+StdAfx.cpp
+SRIComm.cpp
+PLCTeach.cpp
+PLCSRI.cpp
+PlcRS232Obj.cpp
+PLCPutChar.cpp
+PLCModbusWR.cpp
+PLCModbusRS.cpp
+PLCModbusRD.cpp
+PLCGetChar.cpp
+PLCDevice.cpp
+.\PLCDevice.cpp(22) : warning C4273: 'CPLCDevice::CPLCDevice' : inconsistent dll linkage
+        d:\jenkins\workspace\cnc_trunk\ockrnl\source\plcdevice\PLCDevice.h(17) : see previous definition of '{ctor}'
+.\PLCDevice.cpp(63) : warning C4273: 'CPLCDevice::~CPLCDevice' : inconsistent dll linkage
+        d:\jenkins\workspace\cnc_trunk\ockrnl\source\plcdevice\PLCDevice.h(20) : see previous definition of '{dtor}'
+PLCBIN2ASC.cpp
+PLCASC2BIN.cpp
+ModbusRTUMaster.cpp
+ModbusFunc.cpp
+ModbusFrame.cpp
+ModbusCommDriver.cpp
+DocViewer.cpp
+Generating Code...
+Compiling...
+CrcAgent.cpp
+CommPort.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\PLC_COMM.lib and object WCE700ARM_Release\PLC_COMM.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCDevice\WCE700ARM_Release\BuildLog.htm"
+PLCDevice - 0 error(s), 2 warning(s)
+========== Rebuild All: 27 succeeded, 0 failed, 0 skipped ==========
+
