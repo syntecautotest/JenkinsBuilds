@@ -1,0 +1,49 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Ny0PCwlu7gdHbnqZVZQeV8i0sx7nvZrIqOGnYHL+yaAAAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgYD/az8JP3g5IzUlNKcVBSOc0ZqcnZ8cl5ydmpRXmpOfElRaV62PgDic6Mg5QAAAA==[0mSchedule/ScheduleCheck_cnckernel_trunk" ªº²Ä [8mha:////4MJiE2zbZ1pWsshLYJZK2BcwE7mPamWqlvJ/iZ6CfgjPAAAAtB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZj/az8JP3g5IzUlNKcVBSOc0ZqcnZ8cl5ydmpRXmpOfElRaV62vqmZAQD4j4cY6AAAAA==[0m560 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¤W¶Ç±M®× "[8mha:////4KHPaB+ykHQOi2WrzQYw4QjQAT5Tf24RtW38Say6e1ZNAAAAph+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzpEgZV/az8JP3g5IzUlNKcVBSOc0ZqcnZ8QWZBqj4AT5Vso9oAAAA=[0mSchedule/ScheduleCheck_pipe" ªº²Ä [8mha:////4LIlhrc4/CBCxUXUEhdcwWZtQn2T1bg741pKJUUhBv2tAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYN/az8JP3g5IzUlNKcVBSOc0ZqcnZ8QWZBqr6pmRkA7mhAPt0AAAA=[0m566 ¦¸«Ø¸m±Ò°Ê
+ ­ì¦]¬°:
+  ¥Ñ­p®É¾¹±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Evaluating the Groovy script content
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4GinKoDjBILR34f58zb3GJsqCED5kpBr0Z6xvYgtPpyqAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/eDkjNSU0pzUeCdfAOFI0UXKAAAA[0mSchedule_BM ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\OpenCNC\Schedule
+Run condition [Not] preventing prebuild for step [Set the build result]
+Run condition [File exists] enabling prebuild for step [°õ¦æ Windows §å¦¸«ü¥O]
+Run condition [Always] enabling prebuild for step [Inject environment variables]
+Run condition [Strings match] enabling prebuild for step [BuilderChain]
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Evaluating the Groovy script content
+Set build name.
+New build name is '#6859 trunk CNC [2018-11-30]'
+[File exists] check if file exists [trunk/Build/error/check.log]
+Run condition [Not] preventing perform for step [Set the build result]
+[File exists] check if file exists [trunk/Build/error/check.log]
+Run condition [File exists] enabling perform for step [°õ¦æ Windows §å¦¸«ü¥O]
+[Schedule] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins4594412375406345657.bat
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+D:\OpenCNC\Schedule\trunk\Build
+§ä¤£¨ì D:\OpenCNC\Schedule\trunk\Build\temp.props
+0
+CHECK_RESULT=SUCCESS
+Run condition [Always] enabling perform for step [Inject environment variables]
+[EnvInject] - Injecting environment variables from a build step.
+[EnvInject] - Injecting as environment variables the properties file path 'trunk/Build/temp.props'
+[EnvInject] - Variables injected successfully.
+Strings match run condition: string 1=[SUCCESS], string 2=[FAILURE]
+Run condition [Strings match] preventing perform for step [BuilderChain]
+Set build name.
+New build name is '#6859 trunk CNC [2018-11-30]'
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#6859 trunk CNC [2018-11-30]', new value: '#6859 trunk CNC [2018-11-30]'
+Post-Build Update: Updated Dashboard DB
+«Ê¦s¦¨«~
+WARN: §ä¤£¨ì²Å¦XÀÉ®×¼Ë¦¡ "Artifacts/trunk/Build/**" ªº¦¨«~¡C³]©w¿ù¤F¶Ü?
+WARN: 'Artifacts/trunk/Build/**' §¹¥þ¤ñ¹ï¤£¨ì¡A¦ý 'trunk/Build/**' ¥i¥H¡C³o¬O±z­nªº¶Ü?
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  1 minute 53 second
+Finished: SUCCESS

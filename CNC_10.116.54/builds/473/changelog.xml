@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211630"><author>mstsai0113</author><date>2018-11-30T07:10:40.876519Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\GoldenData.txt" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/ProductInfo/ProductTable.h</path><path action="M" localPath="OCKrnl\Source\ProductInfo\ProductTable.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/ProductInfo/ProductTable.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/ProductInfo/ProductTable.h</path></paths><msg>merge: CNCKL_2619_f_PlugIn(op4)StandardEquipped_118x, 211316-211467 to 10.118.16
+merge: CNCKL_2619_f_PlugIn(op4)StandardEquipped_11812x, 211476-211478 to 10.118.12G
+merge: CNCKL_2619_f_PlugIn(op4)StandardEquipped_11654x, 211347-211468 to 10.116.54Y
+by 嘉倫
+
+1.全系列控制器軟體標配外掛PlugIn功能(OP-4)
+2.開放Mill-200系列產品支援高精軌跡控制模式(OP-11)</msg></logentry></log>
