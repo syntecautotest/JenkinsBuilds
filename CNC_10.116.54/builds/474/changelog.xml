@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211690"><author>1384</author><date>2018-12-03T03:06:04.683599Z</date><paths><path action="M" localPath="res\Lathe\Macro\G0080.nc" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/G0080.nc</path></paths><msg>merge: ISSUE_13666_b_G80failure, 205168-205594 to 10.116.54Y
+by 竺晏
+
+from 10.114.49, 10.115.51, ISSUE-682
+修正G80無法正確取消所有加工循環的問題。</msg></logentry></log>
