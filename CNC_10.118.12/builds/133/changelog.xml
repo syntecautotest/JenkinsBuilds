@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211938"><author>mstsai0113</author><date>2018-12-04T10:12:19.979873Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path></paths><msg>merge: CNCKL_2607_b_MitsuECATinitFailed, 211109 to 10.118.12G, 10.118.16
+by 孟學
+
+1. 修正控制器一開機太早發出命令時，會跳出OP-056的問題。 
+2. 新增【OP-080 驅動器初始化、預讀時間過長】警報</msg></logentry><logentry revision="211939"><author>mstsai0113</author><date>2018-12-04T10:14:35.013711Z</date><paths><path action="M" localPath="OCDevice\Source\MciM3\M3SvoChannel.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciM3/M3SvoChannel.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3SynDeviceDataStruct.h</path><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3SvoChannel.cpp</path><path action="M" localPath="OCDevice\Source\MciM3\M3SynDeviceDataStruct.h" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciM3/M3SynDeviceDataStruct.h</path></paths><msg>merge: CNCKL_2323_f_SyntecM3SupportVFF, 211861 to 10.118.12G, 10.118.16
+by 孟學
+
+1.新增對於新代M3驅動器是否支援VFF的判斷 
+2.驅動器韌體須配合升級到2.8.3 以上</msg></logentry><logentry revision="211940"><author>mstsai0113</author><date>2018-12-04T10:18:21.058108Z</date><paths><path action="M" localPath="SerialPLCAxis\Source\Rot\RotCenter.cpp" kind="file">/cnckernel/branches/release_v10.118.12/SerialPLCAxis/Source/Rot/RotCenter.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/SerialPLCAxis/Source/Rot/RotCenter.cpp</path><path action="M" kind="file">/cnckernel/trunk/SerialPLCAxis/Source/Rot/RotCenter.cpp</path></paths><msg>merge: ISSUE_13896_b_ROTRbitErrorWhenServoAlarmOccur, 211789-211919 to 10.116.54Y, 10.118.12G, 10.118.16
+by 孟學
+
+1.修正ROT軸遇到驅動器警報時，R值對應的警報bit沒有On 
+2.修正ROT軸遇到驅動器警報時，可能會遇到記憶體破壞的問題</msg></logentry></log>

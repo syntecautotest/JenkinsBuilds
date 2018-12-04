@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="211940"><author>mstsai0113</author><date>2018-12-04T10:18:21.058108Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/SerialPLCAxis/Source/Rot/RotCenter.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/SerialPLCAxis/Source/Rot/RotCenter.cpp</path><path action="M" localPath="SerialPLCAxis\Source\Rot\RotCenter.cpp" kind="file">/cnckernel/trunk/SerialPLCAxis/Source/Rot/RotCenter.cpp</path></paths><msg>merge: ISSUE_13896_b_ROTRbitErrorWhenServoAlarmOccur, 211789-211919 to 10.116.54Y, 10.118.12G, 10.118.16
+by 孟學
+
+1.修正ROT軸遇到驅動器警報時，R值對應的警報bit沒有On 
+2.修正ROT軸遇到驅動器警報時，可能會遇到記憶體破壞的問題</msg></logentry></log>
