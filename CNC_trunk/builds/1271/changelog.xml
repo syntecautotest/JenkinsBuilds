@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="212051"><author>1384</author><date>2018-12-05T02:00:11.798563Z</date><paths><path action="M" localPath="res\SerialDriver\Data\ECAT_PM_DELTA_ASDA_A2_E.xml" kind="file">/cnckernel/trunk/res/SerialDriver/Data/ECAT_PM_DELTA_ASDA_A2_E.xml</path></paths><msg>merge: CNCKL_2439_b_DeltaECATParamDefProb, 211762 to 10.118.12G, 10.118.16
+by 青杉
+
+修正連接台達EtherCAT，瀏覽串列參數時會顯示輸入值超出範圍的問題。</msg></logentry></log>

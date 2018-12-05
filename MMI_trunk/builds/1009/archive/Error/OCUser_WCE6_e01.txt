@@ -1,0 +1,314 @@
+------ Rebuild All started: Project: Swingw, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+Arc3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmZoom.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmDrawer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmCursor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XPathSimuBase.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XCanvas3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+WIN32GraphicsPeer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ToolBox.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TextManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TComponentFactory.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SimuStorage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SimuServiceProxy.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Rectangle.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCImage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OcHotKey.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+NcWpPlane.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+LoadLadder.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Line3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JXmlStringTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JXMLPreConfig.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JXMLPreCompiler.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JWin32ProcThunk.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTrendChart.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTemplateFactory.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTemplateComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JStringConnectRule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JSelectButton.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPreCompilerRule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPicture.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPanel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPageRegistry.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPagePool.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPageDeviceTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JOCText.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+JOCSimu.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JNativeWindow.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JMeter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JMarquee.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JListInputEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JListInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JLink.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JLamp.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInputline.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInputEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInputBase.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JIncludePage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JGroup.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JGrid.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFileList.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenuContextManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenuContext.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenu.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+JDynamicPicture.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JDeviceControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCycleTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCycleEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JCycleEditor.cpp(1735) : warning C4101: 'szValue' : unreferenced local variable
+JCustomControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCoordBox.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControlTemplatePool.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControlTemplate.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JButton.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ISimuEvent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+GridPad.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Graphics3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+FormatConverter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DoAction.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Cube3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CTLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CTInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+CTDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CncDevice.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleValue.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleSchemaFile.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleSchema.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleFieldValue.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleFieldSchemaFactory.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleFieldSchema.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleFieldGroupValue.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleFieldGroupSchema.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+AxCube.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\WCE600Release\BuildLog.htm"
+Swingw - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCHotKey, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCHotKey', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+OCHotKey.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\OCHotKey.lib and object WCE600Release\OCHotKey.exp
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCHotKey\WCE600Release\BuildLog.htm"
+OCHotKey - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPIServerDown, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCAPIServerDown', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+OCAPIServerDown.cpp
+Generating Code...
+Linking...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCAPIServerDown\WCE600Release\BuildLog.htm"
+OCAPIServerDown - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCKbdMs, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCKbdMs', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+OCKbdMs.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\OCKbdMs.lib and object WCE600Release\OCKbdMs.exp
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCKbdMs\WCE600Release\BuildLog.htm"
+OCKbdMs - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KbdMouse, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'KbdMouse', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+VKRMPSIMPLE.CPP
+VKCHENGUS1.CPP
+SCVKENGUS2.CPP
+PS2PORT.CPP
+PS2MOUSE.CPP
+PS2KEYBD.CPP
+KeypadProxy.cpp
+KBDMOUSE.CPP
+KBDIST.CPP
+Generating Code...
+Linking...
+   Creating library WCE600Release\KbdMouse.lib and object WCE600Release\KbdMouse.exp
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\KbdMouse\WCE600Release\BuildLog.htm"
+KbdMouse - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCUp, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCUp', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+OCUp.cpp
+Generating Code...
+Linking...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUp\WCE600_Release\BuildLog.htm"
+OCUp - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCDown, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCDown', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+OCDown.cpp
+Generating Code...
+Compiling resources...
+Linking...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OcDown\WCE600Release\BuildLog.htm"
+OCDown - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCUSER, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCUSER', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+TextWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StrResMap.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+PathSimuWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCUSER.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCTextFileMgr.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCLabelWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LadderWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+KbdReceiver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+HugeEdit.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+FenuWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\FenuWnd.cpp(1168) : warning C4172: returning address of local variable or temporary
+CanvasWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+BrowserWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling resources...
+Linking...
+KrnlAPI.lib(KrnlAPI.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+   Creating library WCE600Release\OCUSER.lib and object WCE600Release\OCUSER.exp
+Generating code
+Finished generating code
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\WCE600Release\BuildLog.htm"
+OCUSER - 0 error(s), 1 warning(s)
+------ Skipped Rebuild All: Project: kbdHid, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: DcomCnfg, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: CeCncMMI, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: Keypad, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: KpLoader, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+========== Rebuild All: 8 succeeded, 0 failed, 5 skipped ==========
+
