@@ -1,0 +1,15 @@
+------ Rebuild All started: Project: PREP_WinCE, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'PREP_WinCE', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StreamReader.cpp
+StdAfx.cpp
+PrepTx.cpp
+PrepRule.cpp
+PREP.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'Utility.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\rel_v10_116_54\Preprocessor\Source\PREP\ReleaseWinCE60\BuildLog.htm"
+PREP_WinCE - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

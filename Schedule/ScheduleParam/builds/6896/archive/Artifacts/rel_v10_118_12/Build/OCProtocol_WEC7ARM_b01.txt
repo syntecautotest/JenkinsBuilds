@@ -1,0 +1,15 @@
+------ Rebuild All started: Project: ModbusComm, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ModbusComm', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+CrcAgent.cpp
+StdAfx.cpp
+SerialPortAgent.cpp
+ModbusCommAPI.cpp
+ModbusComm.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'utility.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\rel_v10_118_12\OCProtocol\Source\ModbusComm\WCE700ARM_Release\BuildLog.htm"
+ModbusComm - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

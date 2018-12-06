@@ -1,0 +1,18 @@
+------ Rebuild All started: Project: EnIPModule, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'EnIPModule', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+EnIPCenter.cpp
+ORXExport.cpp
+EnIPStation.cpp
+EnIPParamDef.cpp
+EnIPConfigWriter.cpp
+EnIPConfigReader.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'Utility.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\SerialPLCAxis\Source\EnIPModule\WCE700ARM_Release\BuildLog.htm"
+EnIPModule - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

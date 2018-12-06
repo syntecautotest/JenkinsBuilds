@@ -1,0 +1,15 @@
+------ Rebuild All started: Project: ModbusComm, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'ModbusComm', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+SerialPortAgent.cpp
+ModbusCommAPI.cpp
+ModbusComm.cpp
+CrcAgent.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'utility.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCProtocol\Source\ModbusComm\WCE600Release\BuildLog.htm"
+ModbusComm - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

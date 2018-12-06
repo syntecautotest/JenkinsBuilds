@@ -1,0 +1,16 @@
+------ Rebuild All started: Project: ModbusComm, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ModbusComm', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+SerialPortAgent.cpp
+ModbusCommAPI.cpp
+ModbusComm.cpp
+CrcAgent.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'utility.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\rel_v10_116_54\OCProtocol\Source\ModbusComm\Release\BuildLog.htm"
+ModbusComm - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

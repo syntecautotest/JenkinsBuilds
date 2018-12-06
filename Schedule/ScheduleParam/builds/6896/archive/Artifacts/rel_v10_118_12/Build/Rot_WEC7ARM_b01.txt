@@ -1,0 +1,19 @@
+------ Rebuild All started: Project: ROT, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ROT', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+Rot.cpp
+RotToolPosition.cpp
+RotPosParamSync.cpp
+RotPLCPanel.cpp
+RotParamSync.cpp
+RotCenter.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'Utility.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\rel_v10_118_12\SerialPLCAxis\Source\Rot\WCE700ARM_Release\BuildLog.htm"
+ROT - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+
