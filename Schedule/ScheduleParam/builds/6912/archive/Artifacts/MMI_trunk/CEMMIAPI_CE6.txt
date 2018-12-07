@@ -1,0 +1,16 @@
+------ Rebuild All started: Project: CEMMIAPI, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CEMMIAPI', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ReadFile.cpp
+.\ReadFile.cpp(2) : fatal error C1083: Cannot open include file: 'krnlapi.h': No such file or directory
+NcFilesDir.cpp
+MMIUtil.cpp
+.\MMIUtil.cpp(8) : fatal error C1083: Cannot open include file: 'OCapi.h': No such file or directory
+CncXmlWriter.cpp
+CEMMIAPI.cpp
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_trunk\CEMMIAPI\WCE600_Release\BuildLog.htm"
+CEMMIAPI - 2 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

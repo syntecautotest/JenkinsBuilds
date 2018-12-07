@@ -1,0 +1,213 @@
+------ Rebuild All started: Project: Swingw, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+XSmCursor.cpp
+XPathSimuBase.cpp
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+.\TextManager.cpp(222) : warning C4267: 'return' : conversion from 'size_t' to 'LONG', possible loss of data
+.\TextManager.cpp(244) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TextManager.cpp(283) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TextManager.cpp(377) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+TDisplay.cpp
+TComponentFactory.cpp
+.\TComponentFactory.cpp(24) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+TComponent.cpp
+.\TComponent.cpp(43) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+SimuStorage.cpp
+SimuServiceProxy.cpp
+.\SimuServiceProxy.cpp(10) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+Rectangle.cpp
+OCImage.cpp
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+.\LoadLadder.cpp(51) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(79) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(105) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(393) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(434) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(467) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(615) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(665) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(675) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(811) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(851) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(1068) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(1614) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Line3d.cpp
+JXmlStringTable.cpp
+.\JXmlStringTable.cpp(91) : warning C4267: 'argument' : conversion from 'size_t' to 'DWORD', possible loss of data
+.\JXmlStringTable.cpp(92) : warning C4267: 'argument' : conversion from 'size_t' to 'DWORD', possible loss of data
+JXMLPreConfig.cpp
+.\JXMLPreConfig.cpp(5) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+JXMLPreCompiler.cpp
+.\JXMLPreCompiler.cpp(29) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+JWin32ProcThunk.cpp
+JTrendChart.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JTemplateFactory.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JTemplateComponent.cpp
+JTable.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JStringConnectRule.cpp
+JSelectButton.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JPreCompilerRule.cpp
+JPicture.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JPanel.cpp
+.\JPanel.cpp(140) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+.\JPanel.cpp(143) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+.\JPanel.cpp(146) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+JPageRegistry.cpp
+JPagePool.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JPageDeviceTable.cpp
+.\JPageDeviceTable.cpp(3) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JPage.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JOCText.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+Generating Code...
+Compiling...
+JOCSimu.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JNativeWindow.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JMeter.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JMarquee.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JListInputEditor.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JListInput.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JLink.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JLamp.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JLabel.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JInputline.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JInputEditor.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JInputBase.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JInput.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JIncludePage.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JGroup.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JGrid.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JFileList.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JFenuContextManager.cpp
+.\JFenuContextManager.cpp(13) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContextManager.cpp(40) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContextManager.cpp(91) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+JFenuContext.cpp
+.\JFenuContext.cpp(251) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(266) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(280) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(294) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(303) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(332) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(358) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(891) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(916) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(934) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(946) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+JFenu.cpp
+.\JFenu.cpp(113) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(155) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(164) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(175) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(186) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(224) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(297) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(309) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(558) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JFenu.cpp(571) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(602) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JFenu.cpp(617) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(626) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(642) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(651) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+Generating Code...
+Compiling...
+JDynamicPicture.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JDisplay.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JDeviceControl.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JCycleTable.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JCycleEditor.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JCustomControl.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JCoordBox.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JComponent.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JButton.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+.\FormatConverter.cpp(11) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(78) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(226) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(249) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(312) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+DoAction.cpp
+.\DoAction.cpp(2) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+Generating Code...
+Compiling...
+CTDisplay.cpp
+CncDevice.cpp
+.\CncDevice.cpp(4) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+CCycleValue.cpp
+CCycleSchemaFile.cpp
+CCycleSchema.cpp
+CCycleFieldValue.cpp
+CCycleFieldSchemaFactory.cpp
+CCycleFieldSchema.cpp
+CCycleFieldGroupValue.cpp
+CCycleFieldGroupSchema.cpp
+AxCube.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\x64\debug\CncDevice.sbr': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_trunk\OCUser\Source\Swingw\x64\Debug\BuildLog.htm"
+Swingw - 41 error(s), 59 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

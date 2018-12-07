@@ -1,0 +1,182 @@
+------ Rebuild All started: Project: Swingw, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+XSmCursor.cpp
+XPathSimuBase.cpp
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+TDisplay.cpp
+TComponentFactory.cpp
+TComponent.cpp
+SimuStorage.cpp
+SimuServiceProxy.cpp
+.\SimuServiceProxy.cpp(10) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+Rectangle.cpp
+OCImage.cpp
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+Line3d.cpp
+JXmlStringTable.cpp
+JXMLPreConfig.cpp
+.\JXMLPreConfig.cpp(5) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+JXMLPreCompiler.cpp
+JWin32ProcThunk.cpp
+JTrendChart.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JTemplateFactory.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JTemplateComponent.cpp
+JTable.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JStringConnectRule.cpp
+JSelectButton.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JPreCompilerRule.cpp
+JPicture.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JPanel.cpp
+JPageRegistry.cpp
+JPagePool.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JPageDeviceTable.cpp
+.\JPageDeviceTable.cpp(3) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JPage.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JOCText.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+Generating Code...
+Compiling...
+JOCSimu.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JNativeWindow.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JMeter.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JMarquee.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JListInputEditor.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JListInput.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JLink.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JLamp.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JLabel.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JInputline.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JInputEditor.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JInputBase.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JInput.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JIncludePage.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JGroup.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JGrid.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JFileList.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JFenuContextManager.cpp
+JFenuContext.cpp
+JFenu.cpp
+Generating Code...
+Compiling...
+JDynamicPicture.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JDisplay.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JDeviceControl.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JCycleTable.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JCycleEditor.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JCustomControl.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JCoordBox.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JComponent.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+JButton.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+DoAction.cpp
+.\DoAction.cpp(2) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+Generating Code...
+Compiling...
+CTDisplay.cpp
+CncDevice.cpp
+.\CncDevice.cpp(4) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+CCycleValue.cpp
+CCycleSchemaFile.cpp
+CCycleSchema.cpp
+CCycleFieldValue.cpp
+CCycleFieldSchemaFactory.cpp
+CCycleFieldSchema.cpp
+CCycleFieldGroupValue.cpp
+CCycleFieldGroupSchema.cpp
+AxCube.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\CncDevice.sbr': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_trunk\OCUser\Source\Swingw\Release\BuildLog.htm"
+Swingw - 41 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCUSER, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCUSER', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+TextWnd.cpp
+StrResMap.cpp
+.\StrResMap.cpp(8) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+PathSimuWnd.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\ocuser\PathSimuWnd.h(13) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+OCUSER.cpp
+d:\opencnc\schedule\mmi_trunk\ocuser\source\ocuser\PathSimuWnd.h(13) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+OCTextFileMgr.cpp
+OCLabelWnd.cpp
+LadderWnd.cpp
+.\LadderWnd.cpp(6) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+KbdReceiver.cpp
+HugeEdit.cpp
+.\HugeEdit.cpp(9) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+FenuWnd.cpp
+.\FenuWnd.cpp(9) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+CanvasWnd.cpp
+BrowserWnd.cpp
+d:\OpenCNC\Schedule\MMI_trunk\OCUser\Source\Swingw\jpage.h(11) : fatal error C1083: Cannot open include file: 'BridgeAPI.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_trunk\OCUser\Source\OCUser\Release\BuildLog.htm"
+OCUSER - 7 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 2 failed, 0 skipped ==========
+
