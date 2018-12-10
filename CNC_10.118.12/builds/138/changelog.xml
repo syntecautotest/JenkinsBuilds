@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="212466"><author>mstsai0113</author><date>2018-12-10T01:49:52.320834Z</date><paths><path action="M" kind="file">/cnckernel/tags/release_v10.118.12G/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path></paths><msg>merge: CNCKL_2639_b_EtherCATFrameError, 212213 to 10.118.12G
+by 青杉
+
+修正EtherCAT初始化封包錯誤</msg></logentry></log>

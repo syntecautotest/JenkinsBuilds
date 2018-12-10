@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="212465"><author>1212</author><date>2018-12-10T01:48:05.179846Z</date><paths><path action="M" localPath="." kind="dir">/appkernel/trunk</path><path action="M" kind="dir">/appkernel/branches/AppKernel_10.118.12</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scanning/Common/AppData/LaserMarking_SetWordText.xml</path><path action="M" localPath="Res\_Arm\_Scanning\Common\AppData\LaserMarking_SetWordText.xml" kind="file">/appkernel/trunk/Res/_Arm/_Scanning/Common/AppData/LaserMarking_SetWordText.xml</path></paths><msg>merge appkernel/AUTO_1930_b_AddInputRangeLimit r211755-r211755 to 10.118.12G, 10.118.16 by 禹安
+
+修正
+    修正 圖元設定字元區輸入過長字元導致其他功能失效的問題</msg></logentry></log>
