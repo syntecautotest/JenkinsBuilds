@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="212762"><author>simon</author><date>2018-12-11T10:45:23.395924Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/O999974.nc</path><path action="M" localPath="res\Lathe\Macro\O999974.nc" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/O999974.nc</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/O999973.nc</path><path action="M" localPath="res\Lathe\Macro\O999973.nc" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/O999973.nc</path></paths><msg>merge: HSHP_2283_f_AddG73TorelanceAtXDir_118, 205616-205668, to 10.116.54Z, 10.118.12H
+by 旭沅
+
+add:
+	1. 橫向粗車削循環未指定或指定type I時，X軸方向誤差超過Pr4051設定值，才切換成type II。 
+	2. 徑向粗車削循環未指定或指定type I時，Z軸方向誤差超過Pr4051設定值，才切換成type II。</msg></logentry></log>
