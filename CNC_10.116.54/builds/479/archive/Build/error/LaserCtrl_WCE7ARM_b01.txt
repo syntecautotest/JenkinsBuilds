@@ -1,0 +1,41 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ArrayTypeBuffer.cpp
+TransformManager.cpp
+StageMoveCompensator.cpp
+NulLaserChannel.cpp
+ManualJog.cpp
+LaserPLCPanel.cpp
+LaserFileReader.cpp
+LaserCtrlParamSync.cpp
+LaserCtrl.cpp
+LaserCmdInterpolator.cpp
+LaserAxis.cpp
+GalvoAxisParamSync.cpp
+GalvoAxis.cpp
+DistortionTransform.cpp
+DCTLoader.cpp
+DCTCreater.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\LaserCtrl\Source\LaserCtrl\WCE700ARM_Release\BuildLog.htm"
+LaserCtrl - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+LaserCtrlDll.cpp
+Linking...
+   Creating library d:\Jenkins\workspace\CNC_10.116.54\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\LaserCtrlDll.lib and object d:\Jenkins\workspace\CNC_10.116.54\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\LaserCtrlDll.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\BuildLog.htm"
+LaserCtrlDll - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+

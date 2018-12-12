@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="212784"><author>1200</author><date>2018-12-12T01:44:29.915815Z</date><paths><path action="A" localPath="OCTest\Data\RobotFunction" copyfrom-path="/cnckernel/branches/HSHP/HSHP_2073_f_AutoTestConveyorTracking_118.14/OCTest/Data/RobotFunction" copyfrom-rev="212341" kind="dir">/cnckernel/trunk/OCTest/Data/RobotFunction</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ConveyorTracking.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ConveyorTracking.cpp</path><path action="A" copyfrom-path="/cnckernel/branches/HSHP/HSHP_2073_f_AutoTestConveyorTracking_118.14/OCTest/Data/RobotFunction" copyfrom-rev="212341" kind="dir">/cnckernel/branches/release_v10.118.12/OCTest/Data/RobotFunction</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ConveyorTracking.cpp</path></paths><msg>merge: HSHP_2073_f_AutoTestConveyorTracking_118.14, 209257-212341, to 10.118.12H, 10.118.17
+by 家豪
+
+1.機器人內部自動測試腳本優化，新增履帶追隨腳本
+2.機器人產品(ARTIC、SCARA、DELTA)履帶追隨功能新增顯示被放棄的工件數 </msg></logentry></log>
