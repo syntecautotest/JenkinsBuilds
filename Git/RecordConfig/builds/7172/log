@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8901403924901147000.bat
+Product: HC-8C
+<FileConfig ProductName="HC-8C" PackageHead="HC_8C_K"><Files><File Category="Packing" Usage="Common" Hardware="Common"><Version>10.116.38N</Version></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54V</Version><Name>package_1a132ef0.zip</Name><Hash>0c51a6f3881768ff05406865ece66256</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_8C/Software/Test/Common/package_1a132ef0.zip</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.38N</Version><Name>package_4bb8c282.zip</Name><Hash>947dd633c6a423d01eb86f8f5cb2fc92</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_8C/Software/Delivery/Common/package_4bb8c282.zip</URL></File><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.10.0</Version><Name>WCE7_I.MX6_9.10.0.bin</Name><Hash>1b1f1f123036e798a6105d9a77ee7a7b</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.10.0/ARMCE7_Image/WCE7_I.MX6_9.10.0.bin</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54V</Version><Name>Test.zip</Name><Hash>3a0d3e34f15bef20787481be2a502311</Hash></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54V</Version><Name>Delivery.zip</Name><Hash>d8def3c93ea4b27322291c50e1003b27</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

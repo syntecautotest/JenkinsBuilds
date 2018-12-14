@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213078"><author>1362</author><date>2018-12-14T01:42:45.522817Z</date><paths><path action="M" localPath="Res\_Arm\_Delta\Common\Schema\Schema.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Delta/Common/Schema/Schema.xml</path><path action="M" localPath="Res\_Arm\_Gantry\Common\Schema\Schema.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Gantry/Common/Schema/Schema.xml</path><path action="M" localPath="Res\_Arm\_Scara\Common\Schema\Schema.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scara/Common/Schema/Schema.xml</path><path action="M" localPath="Res\_Arm\_Artic\Common\Schema\Schema.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Artic/Common/Schema/Schema.xml</path></paths><msg>merge appkernel/ROBOT_294_b_LosePallet10Info r212686-r212978 to 10.118.12H, 10.118.17 by 易勳
+
+from start
+機器人產品( ARTIC, SCARA, DELTA, GANTRY )
+   1. 修正10號料盤斷電丟失資訊的問題</msg></logentry></log>
