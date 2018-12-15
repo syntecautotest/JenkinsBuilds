@@ -1,0 +1,52 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2715415571493719694.bat
+ID:1345 Date:2018/12/15 10:44:03
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+error: open("6TA/Software/Delivery/Common/package_A883DEA3.zip"): Permission denied
+error: unable to index file 6TA/Software/Delivery/Common/package_A883DEA3.zip
+fatal: adding files failed
+On branch master
+Changes not staged for commit:
+	deleted:    6MA/Software/Delivery/Common/package_21b0fe0e.zip
+	deleted:    6MA/Software/Test/Common/package_28c9403c.zip
+	deleted:    6MB/Software/Delivery/Common/package_95fa66dd.zip
+	deleted:    6MB/Software/Test/Common/package_d373bfc7.zip
+	deleted:    6TA/Software/Delivery/Common/6ALatheCE7_ARM/Release.txt
+	deleted:    6TA/Software/Delivery/Common/6ALatheCE7_ARM/package_ccbe7dc3.zip
+	deleted:    6TA/Software/Test/Common/package_58c9bc23.zip
+	deleted:    6TB/Software/Delivery/Common/6BLatheCE7_ARM/Release.txt
+	deleted:    6TB/Software/Delivery/Common/6BLatheCE7_ARM/package_de0c40c0.zip
+	deleted:    6TB/Software/Test/Common/package_efdf46d8.zip
+
+Untracked files:
+	6MA/Software/Delivery/Common/package_6DAFE98A.zip
+	6MA/Software/Test/Common/package_a2a08a25.zip
+	6MB/Software/Delivery/Common/package_6C1F456C.zip
+	6MB/Software/Test/Common/package_423c5fb4.zip
+	6TA/Software/Delivery/Common/package_A883DEA3.zip
+	6TA/Software/Test/Common/package_fd12c5e5.zip
+	6TB/Software/Delivery/Common/package_0E0F783C.zip
+	6TB/Software/Test/Common/package_8d04bf18.zip
+
+
+It took 50.05 seconds to enumerate untracked files. 'status -uno'
+may speed it up, but you have to be careful not to forget to add
+new files yourself (see 'git help status').
+no changes added to commit
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+Everything up-to-date
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
