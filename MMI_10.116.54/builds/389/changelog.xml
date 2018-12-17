@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213267"><author>swdjojo</author><date>2018-12-17T02:04:31.088125Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/Res/Build/CheckoutOnlineHelp.bat</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.36/Res/Build/CheckoutOnlineHelp.bat</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/Build/CheckoutOnlineHelp.bat</path><path action="M" localPath="Res\Build\CheckoutOnlineHelp.bat" kind="file">/appkernel/branches/AppKernel_10.116.54/Res/Build/CheckoutOnlineHelp.bat</path><path action="M" kind="file">/appkernel/trunk/Res/Build/CheckoutOnlineHelp.bat</path></paths><msg>merge appkernel/MMI_3747_f_OnlineHelpGitReleaseBat, 212778-212971 to 10.118.17, by 文瑋
+merge appkernel/MMI_3747_f_OnlineHelpGitReleaseBat_11812, 212851-212973 to 10.118.12H
+merge appkernel/MMI_3747_f_OnlineHelpGitReleaseBat_1180, 212851-212973 to 10.118.0P
+merge appkernel/MMI_3747_f_OnlineHelpGitReleaseBat_11654, 212857-212975 to 10.116.54Z
+merge appkernel/MMI_3747_f_OnlineHelpGitReleaseBat_11636, 212860-212976 to 10.116.36P
+
+note:
+  * 調整下載 OnlineHelp 資料庫位置至 git server
+</msg></logentry></log>

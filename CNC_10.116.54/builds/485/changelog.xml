@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213305"><author>1384</author><date>2018-12-17T04:05:50.610312Z</date><paths><path action="M" localPath="OCKrnl\Source\PathPlan\Coordinate.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/Coordinate.cpp</path></paths><msg>merge: ISSUE_14029_b_FixRunPLCAxis_RValueErr_11636x, 212990 to 10.116.38P
+merge: ISSUE_14029_b_FixRunPLCAxis_RValueErr_118x, 212931 to 10.116.54Z, 10.118.0P, 10.118.12H, 10.118.17
+by 振宇
+
+修正使用PLC軸時，誤寫R791~R808暫存器的問題</msg></logentry></log>
