@@ -1,0 +1,938 @@
+------ Rebuild All started: Project: EventAP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventAP.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Event, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: LAPACK, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LAPACK', configuration 'Release|Win32'
+Compiling...
+Stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ddot_.cpp
+xerbla_.cpp
+lsame_.cpp
+dtrsm_.cpp
+dtbsv_.cpp
+dsyrk_.cpp
+dsyr_.cpp
+dscal_.cpp
+dpotf2_.cpp
+dpbtrs_.cpp
+dpbtrf_.cpp
+dpbtf2_.cpp
+dgemv_.cpp
+dgemm_.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\LAPACK\Release\BuildLog.htm"
+LAPACK - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MotUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MotUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ADQueue.cpp
+ZeroSpeedCheck.cpp
+VelocityControl.cpp
+VelAccMeter.cpp
+TrajectoryThread.cpp
+TrajectoryTapping.cpp
+TrajectorySyncTracking.cpp
+TrajectoryOscillator.cpp
+TrajectoryNormal.cpp
+TrajectoryDef.cpp
+TrajectoryChopping.cpp
+Trajectory.cpp
+TimeBase.cpp
+SyncTracking.cpp
+SCurveTrajectory.cpp
+RobotWaitSignalManager.cpp
+RobotMRPQueue.cpp
+RobotMRPPool.cpp
+RobotMotion.cpp
+RobotInterpolator.cpp
+Generating Code...
+Compiling...
+PostAccelerator_Int.cpp
+PostAccelerator.cpp
+PlayModeInterpolator.cpp
+OneBlockInterpolator.cpp
+MultiPassMovingAverageFilter.cpp
+MpHoming.cpp
+MpHomeSearch.cpp
+MovingAverageFilter.cpp
+MotionPlanner.cpp
+LANodePool.cpp
+LAMotionPlanner.cpp
+KickNode.cpp
+InterruptSignalManager.cpp
+Interpolator.cpp
+HomeSearchCore.cpp
+GradientDescent.cpp
+FLThreadNormal.cpp
+FLRobotMoveL.cpp
+FLRobotMoveJ.cpp
+FLCutString.cpp
+Generating Code...
+Compiling...
+FLCutSCurve.cpp
+FLCutCSlopeForSpring.cpp
+FLCutCSlope.cpp
+FeedLimit.cpp
+FeedControl.cpp
+FCThreadNormal.cpp
+FCCutString.cpp
+FCCutSmoothScurve.cpp
+FCCutSCurve.cpp
+FCCutCSlope.cpp
+DelayFilter.cpp
+CurvatureCalculatorNode.cpp
+CurvatureCalculator.cpp
+CJerkLineInt.cpp
+CJerkHelicalInt.cpp
+BPTLimiter.cpp
+AuxInterpolator.cpp
+ArcFeature.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\Release\BuildLog.htm"
+MotUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PLCNet, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PLCNet', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+OCClient.cpp
+PLCNet.cpp
+PDU.cpp
+OCServer.cpp
+OCNode.cpp
+OCClientService.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCNet\Release\BuildLog.htm"
+PLCNet - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Utility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+_UNCC.cpp
+.\_UNCC.cpp(106) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(107) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(108) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(109) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(110) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+.\_UNCC.cpp(156) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+ZRtl.cpp
+ZMath.cpp
+ZipArch.cpp
+ZCRC32.cpp
+x86Platform.cpp
+VStack.cpp
+Vector4d.cpp
+Vector3d.cpp
+Vector2d.cpp
+VArray.cpp
+Variant.cpp
+Unzip.cpp
+TZPlex.cpp
+Tuple4d.cpp
+Tuple3d.cpp
+Tuple2d.cpp
+Test_HugeFileEditor.cpp
+StringConverter.cpp
+Stream.cpp
+Generating Code...
+Compiling...
+Stack.cpp
+Sphere.cpp
+SmallFileEditor.cpp
+ShapeData.cpp
+SetupPacking.cpp
+QuickMatrixN.cpp
+Quaternion.cpp
+PropertyBag.cpp
+PoolOfLinkedListOfBulk.cpp
+PolynomialRootSolver.cpp
+Point3d.cpp
+Point2d.cpp
+Platform.cpp
+PID.cpp
+ParamStore.cpp
+ParamCracker.cpp
+PalStdLib.cpp
+OcStreamReader.cpp
+OcFileReader.cpp
+OcDesFileReader.cpp
+Generating Code...
+Compiling...
+NumericalRecipes.cpp
+NumberBag.cpp
+MiddleVoteFilter.cpp
+MatrixN.cpp
+Matrix4d.cpp
+Matrix3d.cpp
+Matrix2d.cpp
+LinkedListPool.cpp
+LinePage.cpp
+LineMap.cpp
+LANAdapterInfo.cpp
+KStringMap.cpp
+JXmlTextWriter.cpp
+JXmlTextReader.cpp
+JReplication.cpp
+JRectLayout.cpp
+JFileInfo.cpp
+JCycleValue.cpp
+JCycleSchemaPool.cpp
+JCycleSchema.cpp
+Generating Code...
+Compiling...
+JCycleDocument.cpp
+JAllocateOnlyHeap.cpp
+IntervalChecker.cpp
+Internet.cpp
+IntegerQueue.cpp
+IniRegManager.cpp
+IniReg.cpp
+HugeFileSharedEditor.cpp
+HugeFileReader.cpp
+HugeFileEditor.cpp
+HighPerformanceTimer.cpp
+GVector.cpp
+GuardStore.cpp
+GuardRegistry.cpp
+GMatrix.cpp
+Geometry2d.cpp
+FramStore.cpp
+Frame3d.cpp
+FRAM_Parallel.cpp
+FileDirInfo.cpp
+Generating Code...
+Compiling...
+FIFOQueue.cpp
+EventCPBase.cpp
+DocStoreAPI.cpp
+DNCChannel.cpp
+DeviceInfoManager.cpp
+DeviceInfo.cpp
+DESObj.cpp
+Cylinder.cpp
+Complex.cpp
+CommPort.cpp
+CharQueue.cpp
+ByteOrder.cpp
+Box.cpp
+BitSet.cpp
+BitFilter.cpp
+BinFileLoader.cpp
+AxisDimension.cpp
+AxisAngle4d.cpp
+AxFrame.cpp
+AsynQueue.cpp
+Generating Code...
+Compiling...
+Argument.cpp
+ArchMgr.cpp
+AlarmFlags.cpp
+AlarmCode.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Utility\Release\BuildLog.htm"
+Utility - 0 error(s), 9 warning(s)
+------ Rebuild All started: Project: DataLog, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'DataLog', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+DataCatch.cpp
+TimerManager.cpp
+KernelLog.cpp
+GrinderLog.cpp
+DataRecorder.cpp
+DataListener.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DataLog\Release\BuildLog.htm"
+DataLog - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KinematicTransformation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KinematicTransformation', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AdditionalAx.cpp
+TriplePRSType.cpp
+ToolLength.cpp
+TableTiltingType.cpp
+SpindleTiltingType.cpp
+SingleTableTiltingType.cpp
+SingleSpindleTiltingType.cpp
+RTCPManager.cpp
+RobotV4L1A.cpp
+RobotV3L0A.cpp
+RobotV1L2A.cpp
+RobotToolCalibration.cpp
+RobotSixAxis.cpp
+RobotScara.cpp
+RobotPaintSixAxisTypeA.cpp
+RobotKinematics.cpp
+RobotHeavySixAxis.cpp
+RobotHeavyFourAxisTypeA.cpp
+RobotH4L1A.cpp
+RobotH2L2B.cpp
+Compiling...
+RobotH2L2A.cpp
+RobotFourAxisTypeB.cpp
+RobotFourAxisTypeA.cpp
+RobotFiveAxisTypeA.cpp
+RobotDeltaTypeB.cpp
+RobotDeltaTypeA.cpp
+PolarCoordTransform.cpp
+ParallelKinematics.cpp
+MixTiltingType.cpp
+LinearGuidance.cpp
+GuidanceCouple.cpp
+GenRotHoldRot.cpp
+GenKinematics2D.cpp
+FourAxisParamSync.cpp
+FourAxisMechanism.cpp
+FourAxis.cpp
+FiveAxisParamSync.cpp
+FiveAxisMechanism.cpp
+FiveAxis.cpp
+ArcGuidance.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\Release\BuildLog.htm"
+KinematicTransformation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MSTExeChannel, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MSTExeChannel', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AxPLCCall.cpp
+PLCCall.cpp
+PartCount.cpp
+MSTChannel.cpp
+ModePLCCall.cpp
+CycleTimer.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\Release\BuildLog.htm"
+MSTExeChannel - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: WinPAL, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'WinPAL', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CommAPI.cpp
+WinXSignal.cpp
+WinRTTimer.cpp
+VersionInfo.cpp
+ThreadAPI.cpp
+RTMutex.cpp
+Pal.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\Release\BuildLog.htm"
+WinPAL - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: NurbsInterpolation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'NurbsInterpolation', configuration 'Release|Win32'
+Compiling...
+Stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Bezier.cpp
+Segment.cpp
+NurbsSysState.cpp
+NurbsMPFindCorner.cpp
+NurbsMPBlockMerge.cpp
+NurbsCurvePool.cpp
+NurbsCurve.cpp
+NurbsAPI.cpp
+Kick.cpp
+Debug.cpp
+CornerCombine.cpp
+CNURBS_FACTORY.cpp
+CNURBS.cpp
+BlockPool.cpp
+Block.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\Release\BuildLog.htm"
+NurbsInterpolation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ToolTable, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ToolTable', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+HMultiToolTable.cpp
+SingleToolTable.cpp
+MultiToolTable.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ToolTable\Release\BuildLog.htm"
+ToolTable - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: DebugLib, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'DebugLib', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+MotionDebug.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DebugLib\Release\BuildLog.htm"
+DebugLib - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: InternalCNCAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'InternalCNCAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+InternalCNCAPI.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\Release\BuildLog.htm"
+InternalCNCAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PathPlan, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PathPlan', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArcResolver.cpp
+ToolTableManager.cpp
+ToolRadius.cpp
+ToolOffset.cpp
+ScanTable.cpp
+Scaling.cpp
+Rotation.cpp
+RobotToolManager.cpp
+RobotToolLoader.cpp
+RobotParamSync.cpp
+RobotCoordinate.cpp
+ReadySink.cpp
+ProgramContext.cpp
+PolarCommand.cpp
+PathSmooth.cpp
+MRPTransform.cpp
+MRPQueue.cpp
+MRPPool.cpp
+MRPFilter.cpp
+ModalMacroContext.cpp
+Generating Code...
+Compiling...
+ModalContext.cpp
+MacroType.cpp
+MacroCore.cpp
+LocalVariable.cpp
+KinematicsParamSync.cpp
+ICoordParamSync.cpp
+ICoordinate.cpp
+GenKinematicsParamSync.cpp
+DirectDrawCorner.cpp
+DirectDrawAngle.cpp
+CornerFeature.cpp
+CoordPLCPanel.cpp
+CoordParamSync.cpp
+Coordinate.cpp
+BreakPointScanner.cpp
+BreakPointHandler.cpp
+BlockTransform.cpp
+BlockContext.cpp
+BackgndExecuter.cpp
+AxisAddress.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PathPlan\Release\BuildLog.htm"
+PathPlan - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RemotePanel, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RemotePanel', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+FX2API.cpp
+FXPanelSvr.cpp
+FXPanelClient.cpp
+FX2IComm.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\Release\BuildLog.htm"
+RemotePanel - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: FFTransform, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'FFTransform', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+FFT.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\FFTransform\Release\BuildLog.htm"
+FFTransform - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AlarmHistoryStore.cpp
+XMLDatabase.cpp
+VelGlitchCompKeyMap.cpp
+TCPServer.cpp
+SystemIdentify.cpp
+SysPLCPanel.cpp
+SysParamSync.cpp
+SvoDevStateTable.cpp
+SvoChMap.cpp
+SlaveFrame.cpp
+SimuPool.cpp
+Simulator.cpp
+SerialDeviceServ.cpp
+SerialDeviceCtrl.cpp
+RTUSlave.cpp
+RobotSimulator.cpp
+RobotPLCPanel.cpp
+RobotDrawer.cpp
+ResourceMgr.cpp
+ProgrammableDesk.cpp
+Generating Code...
+Compiling...
+PLCEventMonitor.cpp
+ParseContext.cpp
+ParamManager.cpp
+ORXManager.cpp
+OpPLCPanel.cpp
+OpParamSync.cpp
+OpOutStream.cpp
+OPLog.cpp
+NcDrawer.cpp
+ModeGroup.cpp
+ModbusSlaveComm.cpp
+MakerConfigInfo.cpp
+LatchIBitControl.cpp
+LatchDrvSglControl.cpp
+GVPWorkVar.cpp
+GVPPLCRegister.cpp
+GVPPersist.cpp
+GVPInMemory.cpp
+GVCInMemory.cpp
+GVCBase.cpp
+Generating Code...
+Compiling...
+FrameUtility.cpp
+FileWriter.cpp
+FileReader.cpp
+FileBase.cpp
+ECamPLCPanel.cpp
+DumpDbg.cpp
+DriverManager.cpp
+DataListenManager.cpp
+CoordStateTable.cpp
+cncctrl.cpp
+CNCCenter.cpp
+cncapi.cpp
+BackgndExePanel.cpp
+BackgndExeCenter.cpp
+AxisDesk.cpp
+AlarmPendingStore.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Operation\Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: XSignal, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'XSignal', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+MultiCast.cpp
+XSignal.cpp
+RTCAPI.cpp
+MultiCastAPI.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\XSignal\Release\BuildLog.htm"
+XSignal - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: NCLoader, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'NCLoader', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArchiveNcLoader.cpp
+NcProgMgr.cpp
+NcDownload.cpp
+MPYACC.CPP
+..\NcParser\MPYACC.CPP(2935) : warning C4102: 'mperrlabel' : unreferenced label
+MPLEX.CPP
+..\NcParser\MPLEX.CPP(1186) : warning C4102: 'mp_more' : unreferenced label
+..\NcParser\MPLEX.CPP(1169) : warning C4102: 'mp_reject' : unreferenced label
+MDINcLoader.cpp
+LEXBASE.CPP
+IDNCReader.cpp
+FileSysNcLoader.cpp
+DNCSerialComm.cpp
+DNCReaderService.cpp
+DNCNetwork.cpp
+DNCHugeDiskFile.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NcLoader\Release\BuildLog.htm"
+NCLoader - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: Comm, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Comm', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CommSession.cpp
+NcCommFileAPI.cpp
+NcCommFile.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Comm\Release\BuildLog.htm"
+Comm - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MotionPlan, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MotionPlan', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AutoCommander.cpp
+WorkpieceTable.cpp
+Workpiece.cpp
+VTypeSyncSpindle.cpp
+ThreadNormal.cpp
+TestDualLossPulseCheck.cpp
+TappingPair.cpp
+TappingLearning.cpp
+Tapping.cpp
+SyncSpindleManager.cpp
+SyncSpindle.cpp
+SyncOutManager.cpp
+StrokeTable.cpp
+StrokeLimit.cpp
+SpindlePlanner.cpp
+Spindle.cpp
+SpdVcmdControl.cpp
+SpdParamSync.cpp
+SkipTravel.cpp
+SkipFunction.cpp
+Generating Code...
+Compiling...
+SimuServo3d.cpp
+SimuServo.cpp
+ServoTap.cpp
+ServoSpindle.cpp
+ServoSOS.cpp
+ServoLagTapping.cpp
+ServoLagChopping.cpp
+ServoGear.cpp
+Servo.cpp
+SCurve.cpp
+RobotWeaving.cpp
+RobotUnitConverter.cpp
+RobotTrajectoryBlending.cpp
+RobotSyncOut.cpp
+RobotStrokeLimit.cpp
+RobotStitching.cpp
+RobotSCARADynamics.cpp
+RobotMoveL.cpp
+RobotMoveJ.cpp
+RobotMotionPlanner.cpp
+Generating Code...
+Compiling...
+RobotInterpolation.cpp
+RobotExecutive.cpp
+RobotDynamicsLearning.cpp
+RobotDynamics.cpp
+RobotDirectTeachingTRQ.cpp
+RobotDirectTeachingPOS.cpp
+RobotCSManager.cpp
+RobotCoordTransform.cpp
+RobotCoordLoader.cpp
+RapidTravel.cpp
+RadialCompensator.cpp
+QuaternionConverter.cpp
+PTypeSyncSpindle.cpp
+ProtectionZone.cpp
+PostureFairing.cpp
+PostKinematicAcc.cpp
+OneBlkPlanner.cpp
+NurbsSmooth.cpp
+NurbsConverter.cpp
+NCExecutive.cpp
+Generating Code...
+Compiling...
+MpMPGJog.cpp
+MPKinematicTransform.cpp
+MpJog.cpp
+MPInterpolation.cpp
+MpIncJog.cpp
+MpgWheel.cpp
+MPCoordTransform.cpp
+ManualAxis.cpp
+LengthProjector.cpp
+LearningErrorTable.cpp
+LearningControl.cpp
+KaiserWindowFilter3d.cpp
+KaiserWindowFilter.cpp
+JogCommander.cpp
+JogBase.cpp
+IServoLag.cpp
+IOFcnManager.cpp
+InverterSpindle.cpp
+InverterSOS.cpp
+InversePlant.cpp
+Generating Code...
+Compiling...
+IncConverter.cpp
+GrinderAdjust.cpp
+FastDrill.cpp
+EnIPExecutor.cpp
+EDM.cpp
+ECamManager.cpp
+ECam.cpp
+Dwell.cpp
+DispCalculator.cpp
+CutString.cpp
+CutSmoothSCurve.cpp
+CutSCurve.cpp
+CutFiveAxis.cpp
+CutCSlopeForSpring.cpp
+CutCSlope.cpp
+CustomDelayQueue.cpp
+CSManager.cpp
+CoupleTransform.cpp
+CoordinateCalibration.cpp
+ConveyorTrackingManager.cpp
+Generating Code...
+Compiling...
+ConveyorTracking.cpp
+CompBlkPlanner.cpp
+CommandQueue.cpp
+CmdQueue.cpp
+Chopping.cpp
+BackgndFuncHandler.cpp
+AxParamSync.cpp
+AxisInPosCheck.cpp
+AxisExchanger.cpp
+Axis.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\Release\BuildLog.htm"
+MotionPlan - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KePLC, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KePLC', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+LadderCompiler.cpp
+PLCUtility.cpp
+PLCScanner.cpp
+PLCDeviceManager.cpp
+PLCAlarmDef.cpp
+LadderWRPool.cpp
+LadderParser.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KePLC\Release\BuildLog.htm"
+KePLC - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Interpolation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Interpolation', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Backlash.cpp
+ZPECompensator.cpp
+VFFCompensator.cpp
+TFFCompensator.cpp
+StateSpaceModel.cpp
+SISOIIRFilter.cpp
+SISOFIRFilter.cpp
+SISODiscreteTransferFunction.cpp
+ServoSyncCompensator.cpp
+ServoCompensation.cpp
+PitchError.cpp
+HighOrderFilter.cpp
+FrictionCompensation.cpp
+FracDelayCompensator.cpp
+ForwardController.cpp
+FirstOrderFilter3d.cpp
+FirstOrderFilter.cpp
+Feedforward.cpp
+DriverSimulator.cpp
+DirectionPredictor.cpp
+Generating Code...
+Compiling...
+ContourError.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Interpolation\Release\BuildLog.htm"
+Interpolation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoTuning, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+FIRFilter.cpp
+VFFAdjust.cpp
+TFFAdjust.cpp
+SpdAdvTuning.cpp
+FrictionLog.cpp
+FrictionAdjust.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\Release\BuildLog.htm"
+ServoTuning - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: DataLogTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'DataLogTest', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RecorderTest.cpp
+DataLogTest.cpp
+Generating Code...
+Linking...
+gmock_main.lib(gmock_main.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+   Creating library Release/DataLogTest.lib and object Release/DataLogTest.exp
+Generating code
+Finished generating code
+SecurityUtil.lib(PasswordBitsFunc.obj) : warning LNK4204: 'd:\jenkins\workspace\cnc_trunk\ockrnl\source\gmock\datalogtest\release\vc80.pdb' is missing debugging information for referencing module; linking object as if no debug info
+SecurityUtil.lib(UseTimeProtect.obj) : warning LNK4204: 'd:\jenkins\workspace\cnc_trunk\ockrnl\source\gmock\datalogtest\release\vc80.pdb' is missing debugging information for referencing module; linking object as if no debug info
+SecurityUtil.lib(UseTimeV1.obj) : warning LNK4204: 'd:\jenkins\workspace\cnc_trunk\ockrnl\source\gmock\datalogtest\release\vc80.pdb' is missing debugging information for referencing module; linking object as if no debug info
+SecurityUtil.lib(UseTimeV2.obj) : warning LNK4204: 'd:\jenkins\workspace\cnc_trunk\ockrnl\source\gmock\datalogtest\release\vc80.pdb' is missing debugging information for referencing module; linking object as if no debug info
+SecurityUtil.lib(UseTimeV3.obj) : warning LNK4204: 'd:\jenkins\workspace\cnc_trunk\ockrnl\source\gmock\datalogtest\release\vc80.pdb' is missing debugging information for referencing module; linking object as if no debug info
+SecurityUtil.lib(UseTimeV4.obj) : warning LNK4204: 'd:\jenkins\workspace\cnc_trunk\ockrnl\source\gmock\datalogtest\release\vc80.pdb' is missing debugging information for referencing module; linking object as if no debug info
+SecurityUtil.lib(ValidityProtect.obj) : warning LNK4204: 'd:\jenkins\workspace\cnc_trunk\ockrnl\source\gmock\datalogtest\release\vc80.pdb' is missing debugging information for referencing module; linking object as if no debug info
+Embedding manifest...
+Performing Post-Build Event...
+Running main() from gmock_main.cc
+[==========] Running 8 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 8 tests from RecorderTest (0 ms total)
+[----------] Global test environment tear-down
+[==========] 8 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 8 tests.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\DataLogTest\Release\BuildLog.htm"
+DataLogTest - 0 error(s), 7 warning(s)
+========== Rebuild All: 26 succeeded, 0 failed, 0 skipped ==========
+

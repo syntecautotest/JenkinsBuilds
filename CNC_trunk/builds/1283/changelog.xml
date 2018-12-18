@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213559"><author>mstsai0113</author><date>2018-12-18T07:57:09.952518Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/RTCommDriver/ESILoader.cpp</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ESILoader.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ESILoader.cpp</path></paths><msg>merge: CNCKL_2628_f_ESI_VendorIDReadError, 211146 to 10.118.12H, 10.118.17
+by 青杉
+
+修正EtherCAT無法正確讀取ESI檔中的VendorID的問題</msg></logentry></log>
