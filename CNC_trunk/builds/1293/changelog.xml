@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213838"><author>simon</author><date>2018-12-19T10:39:51.341514Z</date><paths><path action="M" localPath="OCKrnl\Source\Interpolation\ServoCompensation.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Interpolation/ServoCompensation.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Interpolation/ServoCompensation.cpp</path></paths><msg>merge: HSHP_2550_b_IdealFbkKpNoSynchronized_118.16, 213607, to 10.118.12H, 10.118.17
+by 昱辰
+
+fix:
+	修正機構補償(背隙補償、尖角補償、節距補償)的補償時機，包含換向時間點與補償位置。</msg></logentry></log>

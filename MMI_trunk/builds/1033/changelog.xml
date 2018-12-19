@@ -1,0 +1,1 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213741"><author>jason.yang</author><date>2018-12-19T06:23:57.369224Z</date><paths><path action="M" localPath="PlugIn\LaserCutting\Source\LaserCutting.csproj" kind="file">/appkernel/trunk/PlugIn/LaserCutting/Source/LaserCutting.csproj</path></paths><msg>Fix: Laser-1453, build path error</msg></logentry></log>

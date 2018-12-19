@@ -1,0 +1,16 @@
+Files that are found in folder Current_res but NOT in folder Previous_res :
+
+Res\_Arm\_Scanning\_71A\Res\conveyoreng.pin
+Res\_Arm\_Scanning\_70B\Res\conveyoreng.pin
+Res\_Arm\_Scanning\_70A\Res\conveyoreng.pin
+Res\_Arm\_PRINT\_60B\Res\splcaeng.pin
+Res\_Arm\_PRINT\_60B\Common\string\SysAlarmMsgCom_SerialPLCAxis.Xml
+Res\_Arm\_PRINT\_60B\Common\string\SysParamCom_SerialPLCAxis.Xml
+Res\_Arm\_PRINT\_60B\CHT\string\SysAlarmMsgCht_SerialPLCAxis.Xml
+Res\_Arm\_PRINT\_60B\CHT\string\SysParamCht_SerialPLCAxis.Xml
+Res\_Arm\_PRINT\_60B\CHS\string\SysAlarmMsgChs_SerialPLCAxis.Xml
+Res\_Arm\_PRINT\_60B\CHS\string\SysParamChs_SerialPLCAxis.Xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_res but NOT in folder Current_res :
+
+----------------------------------------------------------------------

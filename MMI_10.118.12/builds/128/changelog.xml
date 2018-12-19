@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213786"><author>jason.yang</author><date>2018-12-19T08:21:39.755351Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/LaserCutting/Source/SensorCalibMain.cs</path><path action="M" localPath="PlugIn\LaserCutting\Source\SensorCalibMain.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/PlugIn/LaserCutting/Source/SensorCalibMain.cs</path></paths><msg>merge Laser_1576_b_70CAOpenError 213785 to 10.118.12H, 10.118.17 by 子權
+
+修正
+1.SennorCalibMain 改為 public</msg></logentry></log>

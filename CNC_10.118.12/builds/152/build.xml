@@ -1,0 +1,160 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.triggers.SCMTrigger_-SCMTriggerCause/>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.triggers.SCMTrigger_-BuildAction/>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterValue plugin="nodelabelparameter@1.7.2">
+          <name>NODELABEL</name>
+          <label>BM</label>
+        </org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterDefinition plugin="nodelabelparameter@1.7.2">
+              <name></name>
+              <description></description>
+              <defaultValue>BM</defaultValue>
+              <allNodesMatchingLabel>false</allNodesMatchingLabel>
+              <triggerIfResult>allCases</triggerIfResult>
+              <nodeEligibility class="org.jvnet.jenkins.plugins.nodelabelparameter.node.AllNodeEligibility"/>
+            </org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <jenkins.scm.cvs.QuietPeriodCompleted plugin="cvs@2.13">
+      <timestamp>1545177660249</timestamp>
+    </jenkins.scm.cvs.QuietPeriodCompleted>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>8799</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.triggers.SCMTrigger$SCMTriggerCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.triggers.SCMTrigger_-SCMTriggerCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9"/>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+    <hudson.scm.SubversionTagAction plugin="subversion@2.7.2">
+      <tags class="hudson.util.CopyOnWriteMap$Tree">
+        <entry>
+          <hudson.scm.SubversionSCM_-SvnInfo>
+            <url>http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/branches/release_v10.118.12</url>
+            <revision>213629</revision>
+          </hudson.scm.SubversionSCM_-SvnInfo>
+          <list/>
+        </entry>
+      </tags>
+    </hudson.scm.SubversionTagAction>
+    <hudson.scm.SVNRevisionState plugin="subversion@2.7.2">
+      <revisions>
+        <entry>
+          <string>http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/branches/release_v10.118.12</string>
+          <long>213629</long>
+        </entry>
+      </revisions>
+    </hudson.scm.SVNRevisionState>
+    <org.jenkinsci.plugins.EnvironmentVarSetter plugin="build-name-setter@1.6.5">
+      <log>
+        <autoFlush>false</autoFlush>
+        <trouble>false</trouble>
+        <closing>true</closing>
+      </log>
+      <envVars>
+        <entry>
+          <string>BUILD_DISPLAY_NAME</string>
+          <string>#152 CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645 at rev213629at rev213628at rev213626at rev213624at rev213619 by 侑庭
+</string>
+        </entry>
+      </envVars>
+    </org.jenkinsci.plugins.EnvironmentVarSetter>
+    <hudson.plugins.jira.JiraEnvironmentContributingAction plugin="jira@2.2.1">
+      <issuesList>CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645</issuesList>
+      <jiraUrl>http://jira.syntecclub.com.tw:8080/</jiraUrl>
+    </hudson.plugins.jira.JiraEnvironmentContributingAction>
+    <hudson.plugins.descriptionsetter.DescriptionSetterAction plugin="description-setter@1.10">
+      <description>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645&lt;/a&gt;</description>
+    </hudson.plugins.descriptionsetter.DescriptionSetterAction>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>DESCRIPTION_SETTER_DESCRIPTION</name>
+          <value>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645&lt;/a&gt;</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class reference="../../../hudson.model.ParametersAction/parameterDefinitionNames/outer-class"/>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>Build\Release\PrdParam_10.118.12G.zip</string>
+          <string>ddc0ba2cdb08947a144963cbe20a8d95</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.12G\CECNC\SDK\CNCSDK10.118.12G.zip</string>
+          <string>262ed01cfd947822ffb282ee035b200a</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.12G\CECNC\SDK\OCRes_10.118.12G.zip</string>
+          <string>639536c70d41b4bfe9507ff2a7d5e990</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.12G\CECNC\EXE\CncKernel_w32_10.118.12G.zip</string>
+          <string>2be82d349d5b1dae2f6a2707f70bfe0a</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.12G\CECNC\SDK\TPDSDK10.118.12G.zip</string>
+          <string>3d51ba65adcd08688215eb0b0fd0dd38</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.12G\CECNC\EXE\CncKernel_CE6_10.118.12G.zip</string>
+          <string>37d37e7307ff8885a07f7b79d9805128</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CncTestData_10.118.12G.zip</string>
+          <string>9ec2d4251ddf932a0671cda418e1e619</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.12G\CECNC\EXE\CncKernel_CE7_ARM_10.118.12G.zip</string>
+          <string>71059c538471890440f2d583441a38e9</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+  </actions>
+  <queueId>630</queueId>
+  <timestamp>1545177660279</timestamp>
+  <startTime>1545177660283</startTime>
+  <result>SUCCESS</result>
+  <description>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645&lt;/a&gt;</description>
+  <displayName>#152 CNCKL-2604,CNCKL-2648,CNCKL-2649,CNCKL-2638,CNCKL-2645 at rev213629at rev213628at rev213626at rev213624at rev213619 by 侑庭
+</displayName>
+  <duration>4197737</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn>Yoana_XP_VM</builtOn>
+  <workspace>D:\Jenkins\workspace\CNC_10.118.12</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
+    <ignoreDirPropChanges>false</ignoreDirPropChanges>
+  </scm>
+  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+    <string>1384</string>
+  </culprits>
+</build>

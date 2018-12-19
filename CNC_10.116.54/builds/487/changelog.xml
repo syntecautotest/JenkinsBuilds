@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213699"><author>1384</author><date>2018-12-19T02:51:31.491637Z</date><paths><path action="M" localPath="OCKrnl\Source" kind="dir">/cnckernel/branches/release_v10.116.54/OCKrnl/Source</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" localPath="OCKrnl" kind="dir">/cnckernel/branches/release_v10.116.54/OCKrnl</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/Axis.h</path><path action="M" localPath="." kind="dir">/cnckernel/branches/release_v10.116.54</path></paths><msg>merge: ISSUE_14068_b_INCMachinePosErr, 213564 to 10.116.54Z
+by 竺晏
+
+修正軸向增量式時，重開機機械座標會異動的問題。</msg></logentry></log>

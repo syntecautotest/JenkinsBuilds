@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213666"><author>1384</author><date>2018-12-19T02:30:52.709061Z</date><paths><path action="M" localPath="OCDevice\Source\RTCommDriver\EthercatDrv.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/RTCommDriver/EthercatDrv.cpp</path></paths><msg>merge: CNCKL_2598_b_ECAT_GetServo_BootFail_v2, 213660 to 10.118.12H, 10.118.17
+by 旻憲
+
+修正控制器設定站數超過驅動器站數，開機卡死的問題。</msg></logentry></log>

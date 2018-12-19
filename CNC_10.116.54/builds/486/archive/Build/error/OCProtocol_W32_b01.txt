@@ -1,0 +1,19 @@
+------ Rebuild All started: Project: ModbusComm, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ModbusComm', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+SerialPortAgent.cpp
+ModbusCommAPI.cpp
+ModbusComm.cpp
+CrcAgent.cpp
+Generating Code...
+Linking...
+   Creating library D:\Jenkins\workspace\CNC_10.116.54\OCProtocol\Source\..\..\OCSDK\\lib\w32\ModbusComm.lib and object D:\Jenkins\workspace\CNC_10.116.54\OCProtocol\Source\..\..\OCSDK\\lib\w32\ModbusComm.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCProtocol\Source\ModbusComm\Release\BuildLog.htm"
+ModbusComm - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

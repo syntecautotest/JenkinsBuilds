@@ -1,0 +1,38 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins4109028069412587011.bat
+ID:1436 Date:2018/12/19 18:40:21
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 19db9c4] 2018/12/19 18:40:21 by 1436, Modified Products: 21TA
+ 14 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 21TA/Software/Delivery/Common/10inch/package_977ef64c.zip
+ create mode 100644 21TA/Software/Delivery/Common/10inch_Touch/package_3c5fb4ed.zip
+ create mode 100644 21TA/Software/Delivery/Common/15inch/package_977ef64c.zip
+ create mode 100644 21TA/Software/Delivery/Common/15inch_Touch/package_3c5fb4ed.zip
+ create mode 100644 21TA/Software/Delivery/Common/8inch/package_e0d02e69.zip
+ create mode 100644 21TA/Software/Delivery/Common/8inch_Touch/package_91d6dbd5.zip
+ create mode 100644 21TA/Software/Delivery/Common/Common/package_977ef64c.zip
+ create mode 100644 21TA/Software/Test/Common/10inch/package_ab5b70eb.zip
+ create mode 100644 21TA/Software/Test/Common/10inch_Touch/package_f8f58f5e.zip
+ create mode 100644 21TA/Software/Test/Common/15inch/package_3b0093d9.zip
+ create mode 100644 21TA/Software/Test/Common/15inch_Touch/package_4e60d410.zip
+ create mode 100644 21TA/Software/Test/Common/8inch/package_6596e17e.zip
+ create mode 100644 21TA/Software/Test/Common/8inch_Touch/package_990d71a7.zip
+ create mode 100644 21TA/Software/Test/Common/Common/package_12f5efaa.zip
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   e0fe054..19db9c4  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

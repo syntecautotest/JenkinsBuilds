@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213642"><author>colingsta</author><date>2018-12-19T01:14:07.112972Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Monitor\Scr_MonitorS1.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Monitor/Scr_MonitorS1.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScreenBase.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Monitor/Scr_MonitorS1.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScreenBase.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/ScreenBase.cs</path></paths><msg>merge appkernel/MMI_3740_b_CustomControlDispear r212314-r212315 to 10.118.12H, 10.118.17, by 禮芳
+
+修正
+    『客制頁面的客制元件OCText/OCSimu/FileList會不見』的問題</msg></logentry></log>
