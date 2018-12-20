@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213875"><author>1384</author><date>2018-12-20T01:58:28.144923Z</date><paths><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path><path action="M" localPath="res\WinCE\INI\CNCBASE_Common.ini" kind="file">/cnckernel/trunk/res/WinCE/INI/CNCBASE_Common.ini</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ESIDef.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ESIDef.h</path><path action="A" localPath="res\ECAT\ESI\Panasonic_MINAS-A5B_V0_22_Syntec.xml" copyfrom-path="/cnckernel/branches/CNCKL/ISSUE_13922_b_ESI_UnknownDeviceReadError_118x/res/ECAT/ESI/Panasonic_MINAS-A5B_V0_22_Syntec.xml" copyfrom-rev="213869" kind="file">/cnckernel/trunk/res/ECAT/ESI/Panasonic_MINAS-A5B_V0_22_Syntec.xml</path></paths><msg>merge: ISSUE_13922_b_ESI_UnknownDeviceReadError, 212934-213869 to 10.118.12H
+merge: ISSUE_13922_b_ESI_UnknownDeviceReadError_118x, 212936-213869 to 10.118.17
+by 青杉
+
+修正連接松下A5B EtherCAT驅動器，無法正常通訊的問題。</msg></logentry></log>

@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins844457644891139124.bat
+Product: 70CB
+<FileConfig ProductName="70CB" PackageHead="70BCuttingCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.10.0</Version><Name>WCE7_I.MX6_9.10.0.bin</Name><Hash>1b1f1f123036e798a6105d9a77ee7a7b</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.10.0/ARMCE7_Image/WCE7_I.MX6_9.10.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.118.12C</Version><Name>package_c04a03ae.zip</Name><Hash>ef9ed9d5a7593c028e14b11644785b07</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/70CB/Software/Test/Common/package_c04a03ae.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.118.12C</Version><Name>Test.zip</Name><Hash>4af551353a0a8d11bc69b8e637207385</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.118.12C</Version><Name>package_ed46a1a3.zip</Name><Hash>8a3145764b212154b05688b63cbab241</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/70CB/Software/Delivery/Common/package_ed46a1a3.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.118.12C</Version><Name>Delivery.zip</Name><Hash>46c04f7bf4c4ef622f17f31ef53de35b</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
