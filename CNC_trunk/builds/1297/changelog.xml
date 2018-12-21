@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="213996"><author>simon</author><date>2018-12-20T11:13:30.241015Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\MotionPlanTest\TrajectoryOscillatorTest.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/MotionPlanTest/TrajectoryOscillatorTest.cpp</path><path action="M" localPath="OCKrnl\Source\GMock\MotionPlanTest\TrajectoryTest.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/MotionPlanTest/TrajectoryTest.cpp</path></paths><msg>fix build error from merge: HSHP_2476_f_DecelerateTime_v2, 211408-213661, to 10.118.17
+by 儀禕
+
+fix:
+    函式名稱錯誤.</msg></logentry></log>

@@ -137,6 +137,27 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2036</id>
+          <title>新代驅動器M2 V2的Alarm字串 ID與V1重複</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2222</id>
+          <title>實作EtherNet/IP Macro語法</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2616</id>
+          <title>Ganty直角產品，軸數限制放開</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13867</id>
+          <title>ISSUE-13660撞機事件修正後的116.54U，從必發變偶發</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>795</queueId>
   <timestamp>1543482241871</timestamp>
@@ -154,7 +175,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.SingletonImmutableSet">
     <string>1384</string>
   </culprits>
 </build>

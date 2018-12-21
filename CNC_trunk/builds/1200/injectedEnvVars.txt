@@ -1,5 +1,3 @@
-=C:=C:\Documents and Settings\Administrator\орн▒
-=D:=D:\Jenkins
 ALLUSERSPROFILE=C:\Documents and Settings\All Users
 APPDATA=C:\Documents and Settings\Administrator\Application Data
 BUILD_CAUSE=SCMTRIGGER,SCMTRIGGER,SCMTRIGGER,SCMTRIGGER
@@ -9,10 +7,12 @@ BUILD_ID=1200
 BUILD_NUMBER=1200
 BUILD_TAG=jenkins-CNC_trunk-1200
 BUILD_URL=http://10.10.40.212:8080/job/CNC_trunk/1200/
+C:=C:\Documents and Settings\Administrator\орн▒
 CLIENTNAME=Console
 COMPUTERNAME=TESTMANBM
 ComSpec=C:\WINDOWS\system32\cmd.exe
 CommonProgramFiles=C:\Program Files\Common Files
+D:=D:\Jenkins
 EXECUTOR_NUMBER=0
 FP_NO_HOST_CHECK=NO
 HOMEDRIVE=C:
@@ -42,7 +42,6 @@ Path=C:\Documents and Settings\All Users\Application Data\Oracle\Java\javapath;C
 ProgramFiles=C:\Program Files
 ROOT_BUILD_CAUSE=SCMTRIGGER
 ROOT_BUILD_CAUSE_SCMTRIGGER=true
-RUN_CHANGES_DISPLAY_URL=http://10.10.40.212:8080/job/CNC_trunk/1200/display/redirect?page=changes
 RUN_DISPLAY_URL=http://10.10.40.212:8080/job/CNC_trunk/1200/display/redirect
 SESSIONNAME=Console
 SVN_REVISION=205932

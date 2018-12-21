@@ -137,6 +137,27 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-1006</id>
+          <title>21MA-H在RTEX通訊下無法使用SRI</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2588</id>
+          <title>手持盒控制器的韌體支援RTEX</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2594</id>
+          <title>手持盒控制器支援RTEX，新增參數9可設為120</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13791</id>
+          <title>串列參數按鍵灰階</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>278</queueId>
   <timestamp>1541499788798</timestamp>
@@ -154,7 +175,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.RegularImmutableSet">
     <string>firticket</string>
     <string>mstsai0113</string>
   </culprits>

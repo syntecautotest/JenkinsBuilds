@@ -97,6 +97,55 @@
     <hudson.tasks.MailMessageIdAction plugin="mailer@1.20">
       <messageId>&lt;16896155.1.1540353106796.JavaMail.user1@TESTMAN2&gt;</messageId>
     </hudson.tasks.MailMessageIdAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2400</id>
+          <title>物件字典XML改放到對的地方</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2475</id>
+          <title>支援三菱EtherCAT警報顯示</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2569</id>
+          <title>eHMC及FC支援T碼</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2576</id>
+          <title>ESI檔若包含多種型號資訊，會造成讀檔失敗而開機卡死</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2577</id>
+          <title>ESI檔名與INI檔不匹配時，控制器開機卡死跳console警報</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2585</id>
+          <title>提高檢查追隨誤差的執行緒</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>HSHP-2277</id>
+          <title>五軸機構轉換程式模組化</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>HSHP-2511</id>
+          <title>整理核心部分coding style</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-12715</id>
+          <title>G70精车循环G42调用路径错误</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13572</id>
+          <title>主軸正轉或反轉中做C61主軸定位不會依加減速規畫走</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13761</id>
+          <title>同一备份在54版本可以正常开机，在118版本开机报错死机</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>1</queueId>
   <timestamp>1540345035025</timestamp>
@@ -113,7 +162,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.RegularImmutableSet">
     <string>1200</string>
     <string>mstsai0113</string>
     <string>simon</string>

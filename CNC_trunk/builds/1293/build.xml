@@ -120,6 +120,10 @@
           <string>fd786633d3166fba0f1077b8bb2d89b4</string>
         </entry>
         <entry>
+          <string>CNCSDK10.118.16.zip</string>
+          <string>5b672523e264c1296b191c1a3d3aec0f</string>
+        </entry>
+        <entry>
           <string>Build\Release\CncTestData_10.118.16.zip</string>
           <string>52f2b37ba1a0d9ce8911968004d88886</string>
         </entry>
@@ -137,6 +141,15 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>HSHP-2550</id>
+          <title>軸物件理想回授沒有同步位置增益</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>1341</queueId>
   <timestamp>1545218697954</timestamp>

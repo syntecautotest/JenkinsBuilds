@@ -137,6 +137,35 @@
         </entry>
       </record>
     </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.plugins.jira.JiraBuildAction plugin="jira@2.2.1">
+      <owner class="build" reference="../../.."/>
+      <issues>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-1008</id>
+          <title>RTEX控制器參數看到的單位與調機軟體不同</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-1033</id>
+          <title>圖形模擬黃點跳動</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ATEST-1038</id>
+          <title>PR733、734手冊上說明的適用機型與現況不符</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>CNCKL-2583</id>
+          <title>配合人機提供加工資訊記錄介面</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13401</id>
+          <title>硬軌背隙下，各軸背隙G0/G1模式混淆，導致補償錯誤</title>
+        </hudson.plugins.jira.JiraIssue>
+        <hudson.plugins.jira.JiraIssue>
+          <id>ISSUE-13887</id>
+          <title>驱控一体开机报OP56</title>
+        </hudson.plugins.jira.JiraIssue>
+      </issues>
+    </hudson.plugins.jira.JiraBuildAction>
   </actions>
   <queueId>47</queueId>
   <timestamp>1543923574833</timestamp>
@@ -154,7 +183,7 @@
   <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
     <ignoreDirPropChanges>false</ignoreDirPropChanges>
   </scm>
-  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+  <culprits class="com.google.common.collect.RegularImmutableSet">
     <string>1384</string>
     <string>mstsai0113</string>
     <string>simon</string>

@@ -1,0 +1,52 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2615782526072647547.bat
+ID:1436 Date:2018/12/21 11:57:02
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 24b8da7] 2018/12/21 11:57:02 by 1436, Modified Products: TESTGROUP3
+ 28 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 TESTGROUP3/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 TESTGROUP3/Packing/Delivery/Common/10inch_touch/Delivery.zip
+ create mode 100644 TESTGROUP3/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 TESTGROUP3/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 TESTGROUP3/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 TESTGROUP3/Packing/Delivery/Common/8inch_touch/Delivery.zip
+ create mode 100644 TESTGROUP3/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 TESTGROUP3/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 TESTGROUP3/Packing/Test/Common/10inch_touch/Test.zip
+ create mode 100644 TESTGROUP3/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 TESTGROUP3/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 TESTGROUP3/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 TESTGROUP3/Packing/Test/Common/8inch_touch/Test.zip
+ create mode 100644 TESTGROUP3/Packing/Test/Common/Common/Test.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/10inch/package_e522848e.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/10inch_Touch/package_25526acd.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/15inch/package_d23e6725.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/15inch_Touch/package_d23e6725.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/8inch/package_f055b005.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/8inch_Touch/package_314bc0dc.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/Common/package_d23e6725.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/10inch/package_3c85ce9d.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/10inch_Touch/package_ba890032.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/15inch/package_9405760e.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/15inch_Touch/package_4a8773d5.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/8inch/package_91073104.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/8inch_Touch/package_3b92a5d.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/Common/package_39568733.zip
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   b627b2b..24b8da7  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
