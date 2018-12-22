@@ -1,0 +1,33 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins680387693351709069.bat
+ID:1436 Date:2018/12/22 17:15:42
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master b973dad] 2018/12/22 17:15:42 by 1436, Modified Products: TESTGROUP3
+ 9 files changed, 0 insertions(+), 0 deletions(-)
+ rename TESTGROUP3/Software/Test/Common/{8inch_Touch/package_8a3ce0f7.zip => 10inch/package_df037b0.zip} (62%)
+ create mode 100644 TESTGROUP3/Software/Test/Common/10inch_Touch/package_9a5574a3.zip
+ rename TESTGROUP3/Software/Test/Common/15inch/{package_f7093230.zip => package_f607fb4f.zip} (62%)
+ rename TESTGROUP3/Software/Test/Common/{10inch/package_c91799d0.zip => 15inch_Touch/package_d1fcf076.zip} (62%)
+ delete mode 100644 TESTGROUP3/Software/Test/Common/15inch_Touch/package_d4a457d9.zip
+ rename TESTGROUP3/Software/Test/Common/{10inch_Touch/package_b02d1d92.zip => 8inch/package_98b8b380.zip} (62%)
+ create mode 100644 TESTGROUP3/Software/Test/Common/8inch_Touch/package_34fd65ba.zip
+ rename TESTGROUP3/Software/Test/Common/{8inch/package_6eb5402d.zip => Common/package_59539ece.zip} (62%)
+ delete mode 100644 TESTGROUP3/Software/Test/Common/Common/package_c9854c0f.zip
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   c6513cc..b973dad  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

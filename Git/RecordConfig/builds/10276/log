@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5271501704587888943.bat
+Product: 220TB-5
+<FileConfig ProductName="220TB-5" PackageHead="220B-5LatheCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="IMX6" Size_Touch="Common"><Version>9.10.0</Version><Name>WCE7_I.MX6_9.10.0.bin</Name><Hash>1b1f1f123036e798a6105d9a77ee7a7b</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.10.0/ARMCE7_Image/WCE7_I.MX6_9.10.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>package_1180c6df.zip</Name><Hash>99ba5c1b5574b1d056571ac792ee903e</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/220TB_5/Software/Test/Common/package_1180c6df.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>Test.zip</Name><Hash>3a0d3e34f15bef20787481be2a502311</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>package_3fd64ca.zip</Name><Hash>cce07a6a0befb1b212aa67a61140b81e</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/220TB_5/Software/Delivery/Common/package_3fd64ca.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>Delivery.zip</Name><Hash>b675609cde561216dec269ad5d76ef22</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

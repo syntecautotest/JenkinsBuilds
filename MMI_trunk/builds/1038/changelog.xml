@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="214241"><author>colingsta</author><date>2018-12-22T09:26:23.998759Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\AdjustAPP\SpindleAdjust\SpindleAdjustDisplayBase.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/AdjustAPP/SpindleAdjust/SpindleAdjustDisplayBase.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/AdjustAPP/SpindleAdjust/SpindleAdjustDisplayBase.cs</path></paths><msg>merge appkernel/ATEST_1056_b_AdjustAppException r214234 to 10.118.12H, 10.118.17, by 鎮宇
+
+修正
+    應用調適生成加工程式錯誤問題</msg></logentry></log>

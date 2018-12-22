@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins6714184612396628303.bat
+Product: NewGroup
+<FileConfig ProductName="NEWGROUP" PackageHead="21A-HMillCE7_ARM"><Files><File Category="Software" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54R</Version><Name>package_d4c633bc.zip</Name><Hash>fa74931dfdfa60f45ca6db2d7919b22e</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/NEWGROUP/Software/Delivery/Common/package_d4c633bc.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54R</Version><Name>Delivery.zip</Name><Hash>f134557e00904b5eb62082129e0d5f96</Hash></File><File Category="Software" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54R</Version><Name>package_c5f52d27.zip</Name><Hash>7c6c1af7fea48c3c81763fb7be69d45e</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/NEWGROUP/Software/Test/Common/package_c5f52d27.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54R</Version><Name>Test.zip</Name><Hash>c8519f4607aaf591206eed5a9661a769</Hash></File><File Category="Image" Usage="Common" Hardware="AM335x" Size_Touch="Common"><Version>7.54.0</Version><Name>WCE7_AM335x_7.54.0.bin</Name><Hash>d49e094dc8d977e9119c323a1d435797</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.54.0/ARMCE7_Image/WCE7_AM335x_7.54.0.bin</URL></File><File Category="Image" Usage="Common" Hardware="IMX6" Size_Touch="Common"><Version>9.8.0</Version><Name>WCE7_I.MX6_9.8.0.bin</Name><Hash>bbb0cddefef077ff84b78f44d6c6bdc1</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.8.0/ARMCE7_Image/WCE7_I.MX6_9.8.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

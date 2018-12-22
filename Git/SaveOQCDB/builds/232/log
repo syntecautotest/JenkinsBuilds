@@ -1,0 +1,53 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins6324740662314596203.bat
+ID:1436 Date:2018/12/22 10:09:49
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 6e90d04] 2018/12/22 10:09:49 by 1436, Modified Products: TESTGROUP
+ 29 files changed, 0 insertions(+), 0 deletions(-)
+ create mode 100644 LOCK
+ delete mode 100644 TestGroup/Packing/Delivery/Common/10inch/Delivery.zip
+ delete mode 100644 TestGroup/Packing/Delivery/Common/10inch_touch/Delivery.zip
+ delete mode 100644 TestGroup/Packing/Delivery/Common/15inch/Delivery.zip
+ delete mode 100644 TestGroup/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ delete mode 100644 TestGroup/Packing/Delivery/Common/8inch/Delivery.zip
+ delete mode 100644 TestGroup/Packing/Delivery/Common/8inch_touch/Delivery.zip
+ delete mode 100644 TestGroup/Packing/Delivery/Common/Common/Delivery.zip
+ delete mode 100644 TestGroup/Packing/Test/Common/10inch/Test.zip
+ delete mode 100644 TestGroup/Packing/Test/Common/10inch_touch/Test.zip
+ delete mode 100644 TestGroup/Packing/Test/Common/15inch/Test.zip
+ delete mode 100644 TestGroup/Packing/Test/Common/15inch_Touch/Test.zip
+ delete mode 100644 TestGroup/Packing/Test/Common/8inch/Test.zip
+ delete mode 100644 TestGroup/Packing/Test/Common/8inch_touch/Test.zip
+ delete mode 100644 TestGroup/Packing/Test/Common/Common/Test.zip
+ delete mode 100644 TestGroup/Software/Delivery/Common/10inch/package_e522848e.zip
+ delete mode 100644 TestGroup/Software/Delivery/Common/10inch_Touch/package_25526acd.zip
+ delete mode 100644 TestGroup/Software/Delivery/Common/15inch/package_d23e6725.zip
+ delete mode 100644 TestGroup/Software/Delivery/Common/15inch_Touch/package_d23e6725.zip
+ delete mode 100644 TestGroup/Software/Delivery/Common/8inch/package_f055b005.zip
+ delete mode 100644 TestGroup/Software/Delivery/Common/8inch_Touch/package_314bc0dc.zip
+ delete mode 100644 TestGroup/Software/Delivery/Common/Common/package_d23e6725.zip
+ delete mode 100644 TestGroup/Software/Test/Common/10inch/package_70df9628.zip
+ delete mode 100644 TestGroup/Software/Test/Common/10inch_Touch/package_7ade9638.zip
+ delete mode 100644 TestGroup/Software/Test/Common/15inch/package_2bedfeaa.zip
+ delete mode 100644 TestGroup/Software/Test/Common/8inch/package_d6eb6a0e.zip
+ delete mode 100644 TestGroup/Software/Test/Common/8inch_Touch/package_348b7ddc.zip
+ delete mode 100644 TestGroup/Software/Test/Common/Common/package_6010d963.zip
+ rename TestGroup/Software/Test/Common/{15inch_Touch/package_a416c1d.zip => package_1fc4abc3.zip} (99%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   04234a9..6e90d04  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
