@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5702169676186287306.bat
+Product: HC-8B
+<FileConfig ProductName="HC-8B" PackageHead="HC_8B_K"><Files><File Category="Software" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>package_914edf6f.zip</Name><Hash>2875a8b2cdf07e4b761080735986d8e6</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_8B/Software/Test/Common/package_914edf6f.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>Test.zip</Name><Hash>b93aef2e28412deb3e61a6bfe28d65d6</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>package_c912961b.zip</Name><Hash>604fe8c4cc7b1dd08673ed2138732f8c</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_8B/Software/Delivery/Common/package_c912961b.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>Delivery.zip</Name><Hash>155f43d7686a7482a81d8d9f67b4b3b5</Hash></File><File Category="Image" Usage="Common" Hardware="AM335x" Size_Touch="Common"><Version>7.58.0</Version><Name>WCE7_AM335x_7.58.0.bin</Name><Hash>f87faab036905296bd77556047fbc7fd</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

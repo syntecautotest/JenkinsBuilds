@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>ProductName</name>
+          <description></description>
+          <value>TESTGROUP3</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>FileConfig</name>
+          <description></description>
+          <value>^&lt;FileConfig ProductName=&quot;TESTGROUP3&quot; PackageHead=&quot;21ALatheCE7_ARM&quot;^&gt;^&lt;Files^&gt;^&lt;File Category=&quot;Image&quot; Usage=&quot;Common&quot; Hardware=&quot;AM335x&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;7.58.0^&lt;/Version^&gt;^&lt;Name^&gt;WCE7_AM335x_7.58.0.bin^&lt;/Name^&gt;^&lt;Hash^&gt;f87faab036905296bd77556047fbc7fd^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Image&quot; Usage=&quot;Common&quot; Hardware=&quot;AM335x&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;7.58.0^&lt;/Version^&gt;^&lt;Name^&gt;WCE7_AM335x_7.58.0.bin^&lt;/Name^&gt;^&lt;Hash^&gt;f87faab036905296bd77556047fbc7fd^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Image&quot; Usage=&quot;Common&quot; Hardware=&quot;AM335x&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;7.58.0^&lt;/Version^&gt;^&lt;Name^&gt;WCE7_AM335x_7.58.0.bin^&lt;/Name^&gt;^&lt;Hash^&gt;f87faab036905296bd77556047fbc7fd^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Image&quot; Usage=&quot;Common&quot; Hardware=&quot;AM335x&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;7.58.0^&lt;/Version^&gt;^&lt;Name^&gt;WCE7_AM335x_7.58.0.bin^&lt;/Name^&gt;^&lt;Hash^&gt;f87faab036905296bd77556047fbc7fd^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Image&quot; Usage=&quot;Common&quot; Hardware=&quot;AM335x&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;7.58.0^&lt;/Version^&gt;^&lt;Name^&gt;WCE7_AM335x_7.58.0.bin^&lt;/Name^&gt;^&lt;Hash^&gt;f87faab036905296bd77556047fbc7fd^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Image&quot; Usage=&quot;Common&quot; Hardware=&quot;AM335x&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;7.58.0^&lt;/Version^&gt;^&lt;Name^&gt;WCE7_AM335x_7.58.0.bin^&lt;/Name^&gt;^&lt;Hash^&gt;f87faab036905296bd77556047fbc7fd^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Image&quot; Usage=&quot;Common&quot; Hardware=&quot;AM335x&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;7.58.0^&lt;/Version^&gt;^&lt;Name^&gt;WCE7_AM335x_7.58.0.bin^&lt;/Name^&gt;^&lt;Hash^&gt;f87faab036905296bd77556047fbc7fd^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_6bff29bb.zip^&lt;/Name^&gt;^&lt;Hash^&gt;ed60c8987e2ea0ece38f15eab12d592b^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Test/Common/Common/package_6bff29bb.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Test.zip^&lt;/Name^&gt;^&lt;Hash^&gt;3bcfe9df3f08beafe9f659289b1990e3^&lt;/Hash^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_d23e6725.zip^&lt;/Name^&gt;^&lt;Hash^&gt;b20956486e0be0dddb49cf7af53e4fad^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Delivery/Common/Common/package_d23e6725.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;Common&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Delivery.zip^&lt;/Name^&gt;^&lt;Hash^&gt;10891cb827951e8dd5c6c4735d26034d^&lt;/Hash^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_15inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_5260e1f7.zip^&lt;/Name^&gt;^&lt;Hash^&gt;5640d546cbf167fa468aa5bfdbc4b0f2^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Test/Common/15inch/package_5260e1f7.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_15inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Test.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_15inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_2a670900.zip^&lt;/Name^&gt;^&lt;Hash^&gt;63cf73f63780b0e03cb1780ef26ecaa0^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Test/Common/15inch_Touch/package_2a670900.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_15inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Test.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_10inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_887505f5.zip^&lt;/Name^&gt;^&lt;Hash^&gt;67930ce92d6d55ce71faeda2894c3071^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Test/Common/10inch/package_887505f5.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_10inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Test.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_10inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_f8f6a08d.zip^&lt;/Name^&gt;^&lt;Hash^&gt;a6b3cd729f765b6aa17bfa4e405020db^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Test/Common/10inch_Touch/package_f8f6a08d.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_10inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Test.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_8inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_e1bc58b9.zip^&lt;/Name^&gt;^&lt;Hash^&gt;f1d0108d444c6ff3bb9e040271eb0374^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Test/Common/8inch/package_e1bc58b9.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_8inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Test.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_8inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_dac3aaef.zip^&lt;/Name^&gt;^&lt;Hash^&gt;5870feb8196731172605178442a3469e^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Test/Common/8inch_Touch/package_dac3aaef.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_8inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Test.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_15inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_d23e6725.zip^&lt;/Name^&gt;^&lt;Hash^&gt;b20956486e0be0dddb49cf7af53e4fad^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Delivery/Common/15inch/package_d23e6725.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_15inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Delivery.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_15inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_d23e6725.zip^&lt;/Name^&gt;^&lt;Hash^&gt;b20956486e0be0dddb49cf7af53e4fad^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Delivery/Common/15inch_Touch/package_d23e6725.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_15inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Delivery.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_10inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_e522848e.zip^&lt;/Name^&gt;^&lt;Hash^&gt;72bcc29de41cc4bcb5470fac0abc0f28^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Delivery/Common/10inch/package_e522848e.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_10inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Delivery.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_10inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_25526acd.zip^&lt;/Name^&gt;^&lt;Hash^&gt;c1b4a2e78c8b3582dbafda718e0ff152^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Delivery/Common/10inch_Touch/package_25526acd.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_10inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Delivery.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_8inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_f055b005.zip^&lt;/Name^&gt;^&lt;Hash^&gt;7bb758259c4d01f64f84e9ba0a4c5c3f^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Delivery/Common/8inch/package_f055b005.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_8inch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Delivery.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_8inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;package_314bc0dc.zip^&lt;/Name^&gt;^&lt;Hash^&gt;79160f2b8bcb58f11a75672fe1b757b8^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/TESTGROUP3/Software/Delivery/Common/8inch_Touch/package_314bc0dc.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot; Size_Touch=&quot;_8inch_Touch&quot;^&gt;^&lt;Version^&gt;10.116.54R^&lt;/Version^&gt;^&lt;Name^&gt;Delivery.zip^&lt;/Name^&gt;^&lt;/File^&gt;^&lt;/Files^&gt;^&lt;/FileConfig^&gt;</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>ConfigGitDir</name>
+          <description></description>
+          <value>D:\OQCFileConfig</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <hudson.model.StringParameterDefinition>
+              <name>ConfigGitDir</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>ProductName</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>FileConfig</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>RemoteTrigger</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>344327</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.model.Cause$UserIdCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.model.Cause_-UserIdCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9"/>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+  </actions>
+  <queueId>4439</queueId>
+  <timestamp>1545631484378</timestamp>
+  <startTime>1545631484379</startTime>
+  <result>SUCCESS</result>
+  <duration>3052</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

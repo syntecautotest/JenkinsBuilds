@@ -1,0 +1,168 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4P0bokfjJk4LoJjsiEnvLQwr5VVmtmKnnHrTBBHSfyC9AAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9kYgYAHFsOG88AAAA=[0m246 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3700397747530794645.bat
+ID:1436 Date:2018/12/24 13:51:15
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	deleted:    11MA.xml
+	deleted:    11MB.xml
+	deleted:    11TA.xml
+	deleted:    11TB.xml
+	deleted:    210MA-H.xml
+	deleted:    210MA-H5.xml
+	deleted:    210MB-H.xml
+	deleted:    210MB-H5.xml
+	deleted:    210TB-H.xml
+	deleted:    210TB-H5.xml
+	deleted:    21MA-E.xml
+	deleted:    21MA-H.xml
+	deleted:    21MA.xml
+	deleted:    21TA-E.xml
+	deleted:    21TA-H.xml
+	deleted:    21TA.xml
+	deleted:    21TB-E.xml
+	deleted:    21TB-H.xml
+	deleted:    21TB.xml
+	deleted:    220MA-5.xml
+	deleted:    220MA.xml
+	deleted:    220MB-5.xml
+	deleted:    220MB.xml
+	deleted:    220TB-5.xml
+	deleted:    220TB.xml
+	deleted:    22MA.xml
+	deleted:    22TA.xml
+	deleted:    22TB.xml
+	deleted:    60PB.xml
+	deleted:    60PC.xml
+	deleted:    610WA-H.xml
+	deleted:    610WB-H.xml
+	deleted:    6GB-G.xml
+	deleted:    6MA-E.xml
+	deleted:    6MA.xml
+	deleted:    6MB-E.xml
+	deleted:    6MB.xml
+	deleted:    6MD-H.xml
+	deleted:    6MD.xml
+	deleted:    6TA-E.xml
+	deleted:    6TA.xml
+	deleted:    6TB.xml
+	deleted:    6TD-E.xml
+	deleted:    6TD-H.xml
+	deleted:    70CB-5.xml
+	deleted:    70CB.xml
+	deleted:    7MA.xml
+	deleted:    7TA.xml
+	deleted:    HC-10A.xml
+	deleted:    HC-10B.xml
+	deleted:    HC-10C-5.xml
+	deleted:    HC-10C.xml
+	deleted:    HC-10E.xml
+	deleted:    HC-15A.xml
+	deleted:    HC-15B.xml
+	deleted:    HC-15C-5.xml
+	deleted:    HC-15C.xml
+	deleted:    HC-15E.xml
+	deleted:    HC-80MI.xml
+	deleted:    HC-8A.xml
+	deleted:    HC-8B.xml
+	deleted:    HC-8C-5.xml
+	deleted:    HC-8C.xml
+	deleted:    HC-8E.xml
+	deleted:    HC-8S.xml
+	deleted:    IQC.xml
+	deleted:    NewGroup.xml
+	deleted:    TESTGROUP3.xml
+	deleted:    Test-11TB.xml
+	deleted:    TestGroup.xml
+	deleted:    TestGroup1.xml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 04ebd5c] 2018/12/24 13:51:15 by 1436, Modified Products: TESTGROUP3
+ 71 files changed, 71 deletions(-)
+ delete mode 100644 11MA.xml
+ delete mode 100644 11MB.xml
+ delete mode 100644 11TA.xml
+ delete mode 100644 11TB.xml
+ delete mode 100644 210MA-H.xml
+ delete mode 100644 210MA-H5.xml
+ delete mode 100644 210MB-H.xml
+ delete mode 100644 210MB-H5.xml
+ delete mode 100644 210TB-H.xml
+ delete mode 100644 210TB-H5.xml
+ delete mode 100644 21MA-E.xml
+ delete mode 100644 21MA-H.xml
+ delete mode 100644 21MA.xml
+ delete mode 100644 21TA-E.xml
+ delete mode 100644 21TA-H.xml
+ delete mode 100644 21TA.xml
+ delete mode 100644 21TB-E.xml
+ delete mode 100644 21TB-H.xml
+ delete mode 100644 21TB.xml
+ delete mode 100644 220MA-5.xml
+ delete mode 100644 220MA.xml
+ delete mode 100644 220MB-5.xml
+ delete mode 100644 220MB.xml
+ delete mode 100644 220TB-5.xml
+ delete mode 100644 220TB.xml
+ delete mode 100644 22MA.xml
+ delete mode 100644 22TA.xml
+ delete mode 100644 22TB.xml
+ delete mode 100644 60PB.xml
+ delete mode 100644 60PC.xml
+ delete mode 100644 610WA-H.xml
+ delete mode 100644 610WB-H.xml
+ delete mode 100644 6GB-G.xml
+ delete mode 100644 6MA-E.xml
+ delete mode 100644 6MA.xml
+ delete mode 100644 6MB-E.xml
+ delete mode 100644 6MB.xml
+ delete mode 100644 6MD-H.xml
+ delete mode 100644 6MD.xml
+ delete mode 100644 6TA-E.xml
+ delete mode 100644 6TA.xml
+ delete mode 100644 6TB.xml
+ delete mode 100644 6TD-E.xml
+ delete mode 100644 6TD-H.xml
+ delete mode 100644 70CB-5.xml
+ delete mode 100644 70CB.xml
+ delete mode 100644 7MA.xml
+ delete mode 100644 7TA.xml
+ delete mode 100644 HC-10A.xml
+ delete mode 100644 HC-10B.xml
+ delete mode 100644 HC-10C-5.xml
+ delete mode 100644 HC-10C.xml
+ delete mode 100644 HC-10E.xml
+ delete mode 100644 HC-15A.xml
+ delete mode 100644 HC-15B.xml
+ delete mode 100644 HC-15C-5.xml
+ delete mode 100644 HC-15C.xml
+ delete mode 100644 HC-15E.xml
+ delete mode 100644 HC-80MI.xml
+ delete mode 100644 HC-8A.xml
+ delete mode 100644 HC-8B.xml
+ delete mode 100644 HC-8C-5.xml
+ delete mode 100644 HC-8C.xml
+ delete mode 100644 HC-8E.xml
+ delete mode 100644 HC-8S.xml
+ delete mode 100644 IQC.xml
+ delete mode 100644 NewGroup.xml
+ delete mode 100644 TESTGROUP3.xml
+ delete mode 100644 Test-11TB.xml
+ delete mode 100644 TestGroup.xml
+ delete mode 100644 TestGroup1.xml
+To github.com:syntecautotest/OQCFileConfig.git
+   ca2ddc4..04ebd5c  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

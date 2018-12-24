@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2848441100416783214.bat
+Product: 21MA-E
+<FileConfig ProductName="21MA-E" PackageHead="21A-EMillCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.58.0</Version><Name>WCE7_AM335x_7.58.0.bin</Name><Hash>f87faab036905296bd77556047fbc7fd</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54V</Version><Name>package_f973ee80.zip</Name><Hash>aeefc8c97ea2f6aadd7f5fab68b82ff2</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/21MA_E/Software/Delivery/Common/package_f973ee80.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54V</Version><Name>Delivery.zip</Name><Hash>86e2526dd6b2923e68f0ae625d2781b7</Hash></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54V</Version><Name>package_fe86ad2.zip</Name><Hash>6db0b2cc5e94a5cfc37e17ad0d796f38</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/21MA_E/Software/Test/Common/package_fe86ad2.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54V</Version><Name>Test.zip</Name><Hash>22bba305d57e49fcec13a3fb07a85f0c</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
