@@ -1,0 +1,62 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins4237809776987354334.bat
+ID:1436 Date:2018/12/25 10:41:26
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master e64be11] 2018/12/25 10:41:26 by 1436, Modified Products: TESTGROUP,TESTGROUP3
+ 38 files changed, 1 deletion(-)
+ delete mode 100644 LOCK
+ create mode 100644 TESTGROUP3/Software/Test/Common/10inch/package_6275e43d.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/10inch_Touch/package_7855f691.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/15inch/package_13a8126d.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/15inch_Touch/package_e1baf369.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/8inch/package_ec0d8461.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/8inch_Touch/package_874b612e.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/Common/package_e365456f.zip
+ create mode 100644 TestGroup/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 TestGroup/Packing/Delivery/Common/10inch_touch/Delivery.zip
+ copy TestGroup/Packing/Delivery/Common/{ => 15inch}/Delivery.zip (100%)
+ create mode 100644 TestGroup/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 TestGroup/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 TestGroup/Packing/Delivery/Common/8inch_touch/Delivery.zip
+ create mode 100644 TestGroup/Packing/Delivery/Common/Common/Delivery.zip
+ rewrite TestGroup/Packing/Delivery/Common/Delivery.zip (99%)
+ create mode 100644 TestGroup/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 TestGroup/Packing/Test/Common/10inch_touch/Test.zip
+ copy TestGroup/Packing/Test/Common/{ => 15inch}/Test.zip (100%)
+ create mode 100644 TestGroup/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 TestGroup/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 TestGroup/Packing/Test/Common/8inch_touch/Test.zip
+ create mode 100644 TestGroup/Packing/Test/Common/Common/Test.zip
+ rewrite TestGroup/Packing/Test/Common/Test.zip (99%)
+ create mode 100644 TestGroup/Software/Delivery/Common/10inch/package_e522848e.zip
+ create mode 100644 TestGroup/Software/Delivery/Common/10inch_Touch/package_25526acd.zip
+ create mode 100644 TestGroup/Software/Delivery/Common/15inch/package_d23e6725.zip
+ create mode 100644 TestGroup/Software/Delivery/Common/15inch_Touch/package_d23e6725.zip
+ create mode 100644 TestGroup/Software/Delivery/Common/8inch/package_f055b005.zip
+ create mode 100644 TestGroup/Software/Delivery/Common/8inch_Touch/package_314bc0dc.zip
+ create mode 100644 TestGroup/Software/Delivery/Common/Common/package_d23e6725.zip
+ rename TESTGROUP3/Software/Test/Common/10inch/package_7fea3c39.zip => TestGroup/Software/Test/Common/10inch/package_ea1935f4.zip (99%)
+ rename TESTGROUP3/Software/Test/Common/10inch_Touch/package_bcda6ed.zip => TestGroup/Software/Test/Common/10inch_Touch/package_e2392165.zip (99%)
+ rename TESTGROUP3/Software/Test/Common/15inch_Touch/package_36d13cc2.zip => TestGroup/Software/Test/Common/15inch/package_9ae89f9.zip (99%)
+ rename TESTGROUP3/Software/Test/Common/Common/package_b4de8677.zip => TestGroup/Software/Test/Common/15inch_Touch/package_71a9610e.zip (99%)
+ rename TESTGROUP3/Software/Test/Common/8inch/package_7a92dd2d.zip => TestGroup/Software/Test/Common/8inch/package_b1ecf644.zip (99%)
+ rename TESTGROUP3/Software/Test/Common/8inch_Touch/package_812bdf6b.zip => TestGroup/Software/Test/Common/8inch_Touch/package_f47a9be1.zip (99%)
+ rename TESTGROUP3/Software/Test/Common/15inch/package_ddee8c69.zip => TestGroup/Software/Test/Common/Common/package_3722f7c6.zip (99%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   c001e8e..e64be11  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

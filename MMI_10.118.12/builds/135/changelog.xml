@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="214558"><author>1362</author><date>2018-12-25T07:51:21.921102Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_ArticRobotProgram.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_ArticRobotProgram.cs</path><path action="M" localPath="RobotPlugin\Plugin\RobotMachine\RobotCommand\RobotCmdManager.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotMachine/RobotCommand/RobotCmdManager.cs</path></paths><msg>merge appkernel/ROBOT_296_b_CertainFileNameCauseError r212882-r213748 to 10.118.12H, 10.118.17 by 瑞鴻
+
+機器人產品( ARTIC, SCARA, DELTA )
+   1. 修正特定加工主程式檔案名稱造成之錯誤</msg></logentry></log>
