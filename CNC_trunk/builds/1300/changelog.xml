@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="214707"><author>simon</author><date>2018-12-26T07:46:43.019015Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\CNCCenter.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/CNCCenter.cpp</path></paths><msg>merge(2nd): ISSUE_13584_b_G53error, 214701-214705, to 10.118.17
+by 儀禕
+
+fix:
+	修正車床型態設定錯誤</msg></logentry></log>

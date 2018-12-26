@@ -1,0 +1,16 @@
+1>------ Rebuild All started: Project: EnIPModule, Configuration: Release WEC7 (ARMv4I) ------
+1>Deleting intermediate and output files for project 'EnIPModule', configuration 'Release|WEC7 (ARMv4I)'
+1>Compiling...
+1>StdAfx.cpp
+1>Compiling...
+1>EnIPCenter.cpp
+1>ORXExport.cpp
+1>Generating Code...
+1>Linking...
+1>   Creating library D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\SerialPLCAxis\Source\WCE700ARM_Release\EnIPModule.lib and object D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\SerialPLCAxis\Source\WCE700ARM_Release\EnIPModule.exp
+1>Performing Post-Build Event...
+1>複製了         1 個檔案。
+1>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\SerialPLCAxis\Source\EnIPModule\WCE700ARM_Release\BuildLog.htm"
+1>EnIPModule - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

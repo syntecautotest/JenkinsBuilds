@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="214749"><author>colingsta</author><date>2018-12-26T10:14:17.181216Z</date><paths><path action="M" localPath="OCUser\Source\Swingw\CCycleFieldGroupValue.cpp" kind="file">/appkernel/branches/AppKernel_10.118.12/OCUser/Source/Swingw/CCycleFieldGroupValue.cpp</path><path action="M" kind="file">/appkernel/trunk/OCUser/Source/Swingw/CCycleFieldGroupValue.cpp</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.12H/OCUser/Source/Swingw/CCycleFieldGroupValue.cpp</path></paths><msg>merge appkernel/ATEST_1057_b_RobotMemoryCrashProblem r214702-r214735 to 10.118.12H, 10.118.18, by 存澤
+
+修正
+    機器人記憶體破壞問題</msg></logentry></log>

@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IjDWqQwOIMl3E3agJ3s5ftjOwjRlQtM39BSelUiaWhmAAAAnh+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9oNRcoHxIUWZ6emoRAIKYBpPIAAAA[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8583322005706013707.bat
+Product: 11TA
+<FileConfig ProductName="11TA" PackageHead="11ALatheCE7_ARM"><Files><File Category="Software" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>package_37faf98d.zip</Name><Hash>91c2d73af53d2177e47b8002eec45a70</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/11TA/Software/Test/Common/package_37faf98d.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>Test.zip</Name><Hash>88492945950e040dcb8ef907e09015de</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>package_95e82f9b.zip</Name><Hash>0221bda260451aff7fc1ffe46063eba4</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/11TA/Software/Delivery/Common/package_95e82f9b.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>Delivery.zip</Name><Hash>739f24156b6f9739fb4e9729968c4d39</Hash></File><File Category="Image" Usage="Common" Hardware="AM335x" Size_Touch="Common"><Version>7.58.0</Version><Name>WCE7_AM335x_7.58.0.bin</Name><Hash>f87faab036905296bd77556047fbc7fd</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.58.0/ARMCE7_Image/WCE7_AM335x_7.58.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

@@ -1,0 +1,17 @@
+1>------ Rebuild All started: Project: PREP_WinCE_ARM, Configuration: Release WEC7 (ARMv4I) ------
+1>Deleting intermediate and output files for project 'PREP_WinCE_ARM', configuration 'Release|WEC7 (ARMv4I)'
+1>Compiling...
+1>PREP.cpp
+1>StreamReader.cpp
+1>StdAfx.cpp
+1>PrepTx.cpp
+1>PrepRule.cpp
+1>Generating Code...
+1>Linking...
+1>   Creating library .\ReleaseWinCE70_ARM/PREP.lib and object .\ReleaseWinCE70_ARM/PREP.exp
+1>Performing Post-Build Event...
+1>複製了         1 個檔案。
+1>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\Preprocessor\Source\PREP\ReleaseWinCE70_ARM\BuildLog.htm"
+1>PREP_WinCE_ARM - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

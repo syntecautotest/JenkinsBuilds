@@ -22,19 +22,19 @@
       <downstreamBuilds class="concurrent-hash-map">
         <entry>
           <string>Schedule/ScheduleCheck_cnckernel_118_0</string>
-          <int>0</int>
+          <int>344</int>
         </entry>
         <entry>
           <string>Schedule/ScheduleCheck_cnckernel_trunk</string>
-          <int>0</int>
+          <int>575</int>
         </entry>
         <entry>
           <string>Schedule/ScheduleCheck_cnckernel_54</string>
-          <int>0</int>
+          <int>344</int>
         </entry>
         <entry>
           <string>Schedule/ScheduleCheck_cnckernel_118_12</string>
-          <int>0</int>
+          <int>90</int>
         </entry>
       </downstreamBuilds>
     </org.jvnet.hudson.plugins.DownstreamBuildViewAction>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="214748"><author>colingsta</author><date>2018-12-26T10:10:07.221977Z</date><paths><path action="M" kind="file">/cnckernel/tags/release_v10.118.12H/OCKrnl/Source/Utility/_UNCC.cpp</path><path action="M" localPath="OCKrnl\Source\Utility\_UNCC.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/_UNCC.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Utility/_UNCC.cpp</path></paths><msg>merge cnckernel/ATEST_1057_b_RobotMemoryCrashProblem r214736 to 10.118.12H, 10.118.18 by 存澤
+
+修正
+    機器人記憶體破壞問題</msg></logentry></log>
