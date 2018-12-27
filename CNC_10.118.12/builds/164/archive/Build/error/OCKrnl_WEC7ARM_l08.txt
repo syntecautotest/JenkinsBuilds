@@ -1,0 +1,13 @@
+1>------ Rebuild All started: Project: TPDAPI, Configuration: Release WEC7 (ARMv4I) ------
+1>Deleting intermediate and output files for project 'TPDAPI', configuration 'Release|WEC7 (ARMv4I)'
+1>Compiling...
+1>StdAfx.cpp
+1>Compiling...
+1>TPDAPI.cpp
+1>Creating library...
+1>Performing Post-Build Event...
+1>複製了         1 個檔案。
+1>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCKrnl\Source\TPDAPI\WCE700ARM_Release\BuildLog.htm"
+1>TPDAPI - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

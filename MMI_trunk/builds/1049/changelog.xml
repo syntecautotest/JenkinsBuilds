@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="214813"><author>1362</author><date>2018-12-27T05:17:31.305697Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_ArticRobotProgram.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_ArticRobotProgram.cs</path></paths><msg>merge(2nd) appkernel/ROBOT_185_f_RobotProgramSupportsMultiLanguageDisplay_v4 r214810 to 10.118.12H, 10.118.17 by 才婷
+
+修正: 
+CE 跳錯誤問題，未正確初始化 CycleEditor</msg></logentry></log>
