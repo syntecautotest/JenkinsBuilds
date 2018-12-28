@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="214907"><author>colingsta</author><date>2018-12-28T05:43:22.481775Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\SerialParamSchemaList.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/SerialParamSchemaList.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/SerialParamSchemaList.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/DriverInfo.cs</path><path action="M" localPath="MMICommon\Source\Screen\SerialServo\DriverInfo.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/DriverInfo.cs</path></paths><msg>merge appkernel/MMI_3768_f_RTEXParamNoSupport r214706-r214807 to 10.118.12I, 10.118.17, by 鎮宇
+
+修改
+    擴充支援RTEX串列參數顯示至1+3位數 
+[ 相容性異動 ] 
+    RTEX參數號碼由 Pxxx 異動為 Px.xxx。</msg></logentry></log>

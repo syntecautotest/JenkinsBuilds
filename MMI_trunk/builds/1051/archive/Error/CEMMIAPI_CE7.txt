@@ -1,0 +1,16 @@
+1>------ Rebuild All started: Project: CEMMIAPI, Configuration: Release WEC7 (ARMv4I) ------
+1>Deleting intermediate and output files for project 'CEMMIAPI', configuration 'Release|WEC7 (ARMv4I)'
+1>Compiling...
+1>CEMMIAPI.cpp
+1>StdAfx.cpp
+1>ReadFile.cpp
+1>NcFilesDir.cpp
+1>MMIUtil.cpp
+1>CncXmlWriter.cpp
+1>Generating Code...
+1>Linking...
+1>   Creating library WCE700ARM_Release\CEMMIAPI.lib and object WCE700ARM_Release\CEMMIAPI.exp
+1>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_trunk\CEMMIAPI\WCE700ARM_Release\BuildLog.htm"
+1>CEMMIAPI - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+
