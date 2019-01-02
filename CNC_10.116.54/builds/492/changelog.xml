@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="214996"><author>simon</author><date>2019-01-02T01:47:28.760821Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ManualAxis.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/ManualAxis.cpp</path></paths><msg>merge: ISSUE_12747_b_MPGShiftError_118.16, 10.116.56A, 10.118.12I, 10.118.17 by 佩吟
+
+fix:
+    修正 Pr3808開起時, 執行手輪偏置功能軸向抖動現象.</msg></logentry></log>

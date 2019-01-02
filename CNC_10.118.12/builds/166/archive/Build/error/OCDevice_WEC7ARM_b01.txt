@@ -1,0 +1,517 @@
+1>------ Rebuild All started: Project: ServoTuning, Configuration: Release WEC7 (ARMv4I) ------
+2>------ Rebuild All started: Project: ServoLink, Configuration: Release WEC7 (ARMv4I) ------
+1>Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|WEC7 (ARMv4I)'
+2>Deleting intermediate and output files for project 'ServoLink', configuration 'Release|WEC7 (ARMv4I)'
+2>Compiling...
+1>Compiling...
+2>MitsubishiComm.cpp
+1>StdAfx.cpp
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+1> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+2>StdAfx.cpp
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+1>Compiling...
+1>ChTuningControl.cpp
+1>Creating library...
+1>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\ServoTuning\WCE700ARM_Release\BuildLog.htm"
+1>ServoTuning - 0 error(s), 0 warning(s)
+2>ServoLink.cpp
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+3>------ Rebuild All started: Project: DeviceAlarm, Configuration: Release WEC7 (ARMv4I) ------
+3>Deleting intermediate and output files for project 'DeviceAlarm', configuration 'Release|WEC7 (ARMv4I)'
+3>Compiling...
+3>DeviceAlarmIDDef.cpp
+3> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+2>ServoCommHost.cpp
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+3>StdAfx.cpp
+3> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+2>SerialPort.cpp
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+3>DeviceAlarmTypeDef.cpp
+3> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+2>SanyoServo.cpp
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+3>Generating Code...
+3>Creating library...
+3>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\DeviceAlarm\WCE700ARM_Release\BuildLog.htm"
+3>DeviceAlarm - 0 error(s), 0 warning(s)
+2>RS232Export.cpp
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+4>------ Rebuild All started: Project: CNC2ASIC, Configuration: Release WEC7 (ARMv4I) ------
+4>Deleting intermediate and output files for project 'CNC2ASIC', configuration 'Release|WEC7 (ARMv4I)'
+4>Compiling...
+2>Generating Code...
+4>CNC2ASIC.cpp
+4> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+2>Linking...
+2>   Creating library WCE700ARM_Release\ServoLink.lib and object WCE700ARM_Release\ServoLink.exp
+2>Performing Post-Build Event...
+2>複製了         1 個檔案。
+2>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\ServoLink\WCE700ARM_Release\BuildLog.htm"
+2>ServoLink - 0 error(s), 0 warning(s)
+5>------ Rebuild All started: Project: SvoUtility, Configuration: Release WEC7 (ARMv4I) ------
+5>Deleting intermediate and output files for project 'SvoUtility', configuration 'Release|WEC7 (ARMv4I)'
+5>Compiling...
+5>CtrlParam.cpp
+5> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+4>StdAfx.cpp
+4> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+4>M3Mechatrolink.cpp
+4> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+5>StdAfx.cpp
+5> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+4>CNC2Driver.cpp
+4> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+5>MotorInfoResMap.cpp
+5> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+4>Generating Code...
+5>MotorInfoLoader.cpp
+5> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+4>Creating library...
+4>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\CNC2ASIC\WCE700ARM_Release\BuildLog.htm"
+4>CNC2ASIC - 0 error(s), 0 warning(s)
+5>LatchFunction.cpp
+5> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+6>------ Rebuild All started: Project: CANObjectDictionary, Configuration: Release WEC7 (ARMv4I) ------
+6>Deleting intermediate and output files for project 'CANObjectDictionary', configuration 'Release|WEC7 (ARMv4I)'
+6>Compiling...
+6>StdAfx.cpp
+6> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+5>DelayCount.cpp
+5> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+5>Generating Code...
+5>Creating library...
+6>Compiling...
+5>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\SvoUtility\WCE700ARM_Release\BuildLog.htm"
+5>SvoUtility - 0 error(s), 0 warning(s)
+6>CANObjDicLoader.cpp
+6>VendorObjDictionary.cpp
+6>CommonObjDictionary.cpp
+6>CANObjDictionary.cpp
+6>Generating Code...
+6>Creating library...
+7>------ Rebuild All started: Project: SerialParam, Configuration: Release WEC7 (ARMv4I) ------
+7>Deleting intermediate and output files for project 'SerialParam', configuration 'Release|WEC7 (ARMv4I)'
+7>Compiling...
+6>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\CANObjectDictionary\WCE700ARM_Release\BuildLog.htm"
+6>CANObjectDictionary - 0 error(s), 0 warning(s)
+7>StdAfx.cpp
+7> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>------ Rebuild All started: Project: RTCommDriver, Configuration: Release WEC7 (ARMv4I) ------
+8>Deleting intermediate and output files for project 'RTCommDriver', configuration 'Release|WEC7 (ARMv4I)'
+8>Compiling...
+8>CANAPI.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+7>Compiling...
+7>DeviceParamSync.cpp
+7>SyntecMemoryMap.cpp
+7>SerialParamTable.cpp
+7>SerialParamSync.cpp
+7>SerialParamLoader.cpp
+7>SerialParamInit.cpp
+8>StdAfx.cpp
+7>SerialParamDefManager.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+7>ParamAttrMapManager.cpp
+7>Generating Code...
+7>Creating library...
+7>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\SerialParam\WCE700ARM_Release\BuildLog.htm"
+7>SerialParam - 0 error(s), 0 warning(s)
+8>Socket.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>------ Rebuild All started: Project: ServoDriver, Configuration: Release WEC7 (ARMv4I) ------
+9>Deleting intermediate and output files for project 'ServoDriver', configuration 'Release|WEC7 (ARMv4I)'
+9>Compiling...
+9>StdAfx.cpp
+9> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>RTCommNetDrv.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>MessageQueue.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>Compiling...
+9>30gmASIC.cpp
+9>XY2Channel.cpp
+9>VirtaulServo5.cpp
+9>TnCtrlChannel.cpp
+8>EthercatDrv.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>SvoRtl.cpp
+9>SvoMultiplier.cpp
+9>SvoMinAbsFilter.cpp
+9>SvoFineDDA.cpp
+9>SvoDriver.cpp
+9>SvoChannel.cpp
+9>ServoDevice.cpp
+9>Servo60Driver.cpp
+8>ESIManager.cpp
+9>Servo60Channel.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>Servo5Driver.cpp
+9>Servo5Channel.cpp
+9>RWObjMgr.cpp
+9>NulMCIChannel.cpp
+9>NullDriver.cpp
+9>NullChannel.cpp
+8>ESILoader.cpp
+9>NetServoDriver.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>Generating Code...
+9>Compiling...
+9>NetServoChannel.cpp
+8>ESIDevice.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>M2JL098Driver.cpp
+9>M2JL080Driver.cpp
+9>M2Driver.cpp
+9>M2Channel.cpp
+9>M2ASICCommDriver.cpp
+9>LaserChannel.cpp
+9>FineInterpolation.cpp
+8>ErrorCodeStack.cpp
+9>EPCIOSVO5.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>EPCIORIO.cpp
+9>EPCIOPCL.cpp
+9>EPCIOLIO.cpp
+9>EPCIOENC.cpp
+9>EPCIOEDM.cpp
+9>EPCIODriver.cpp
+9>EPCIODDA.cpp
+9>EPCIODAC.cpp
+9>EPCIOChannel.cpp
+8>ECATDeviceDrv.cpp
+9>EPCIOASIC.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>EPCIOADC.cpp
+9>Generating Code...
+8>DebugModeMgr.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>Compiling...
+9>DAChannel.cpp
+9>CANSvtnx.cpp
+9>CANPana.cpp
+9>CANOpenHomeSearch.cpp
+8>CANopenDrv.cpp
+9>CANMitsu.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>CANDelta.cpp
+9>30gmDriver.cpp
+9>30gmChannel.cpp
+9>Generating Code...
+9>Creating library...
+8>CANNetMgr.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\ServoDriver\WCE700ARM_Release\BuildLog.htm"
+9>ServoDriver - 0 error(s), 0 warning(s)
+10>------ Rebuild All started: Project: IODriver, Configuration: Release WEC7 (ARMv4I) ------
+10>Deleting intermediate and output files for project 'IODriver', configuration 'Release|WEC7 (ARMv4I)'
+10>Compiling...
+10>StdAfx.cpp
+10> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>CANCookie.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>Generating Code...
+10>Compiling...
+10>CNC2IoChannel.cpp
+8>Linking...
+10>NullLatchIBitChannel.cpp
+8>   Creating library WCE700ARM_Release/RTCommDriver.lib and object WCE700ARM_Release/RTCommDriver.exp
+8>Performing Post-Build Event...
+10>NullIoCh.cpp
+8>複製了         1 個檔案。
+8>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\RTCommDriver\WCE700ARM_Release\BuildLog.htm"
+10>MpgIoChannel.cpp
+8>RTCommDriver - 0 error(s), 0 warning(s)
+10>LatchIBitChannel.cpp
+10>IoMapFile.cpp
+10>IoMap.cpp
+11>------ Rebuild All started: Project: CANDeviceDriver, Configuration: Release WEC7 (ARMv4I) ------
+11>Deleting intermediate and output files for project 'CANDeviceDriver', configuration 'Release|WEC7 (ARMv4I)'
+10>IoEPCIO.cpp
+11>Compiling...
+11>CANDEVAPI.cpp
+10>IoCNC2PIO.cpp
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+10>IoChRly2.cpp
+10>IoChRly1.cpp
+10>IoChHardkey96.cpp
+10>IoChHardkey.cpp
+10>IOCh.cpp
+10>Generating Code...
+10>Creating library...
+10>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\IODriver\WCE700ARM_Release\BuildLog.htm"
+10>IODriver - 0 error(s), 0 warning(s)
+12>------ Rebuild All started: Project: PhysicalDriver, Configuration: Release WEC7 (ARMv4I) ------
+12>Deleting intermediate and output files for project 'PhysicalDriver', configuration 'Release|WEC7 (ARMv4I)'
+12>Compiling...
+12>AIOChannel.cpp
+11>XmlReaderAgent.cpp
+12> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+11>StdAfx.cpp
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+12>StdAfx.cpp
+12> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+11>PdoSdoMap.cpp
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+12>PhysicalDriver.cpp
+12> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+11>ORXAPI.cpp
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+12>IOChannel.cpp
+12> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+11>CANDeviceManager.cpp
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+12>Generating Code...
+12>Creating library...
+12>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\PhysicalDriver\WCE700ARM_Release\BuildLog.htm"
+12>PhysicalDriver - 0 error(s), 0 warning(s)
+11>CANDeviceDriver.cpp
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+13>------ Rebuild All started: Project: CioNull, Configuration: Release WEC7 (ARMv4I) ------
+13>Deleting intermediate and output files for project 'CioNull', configuration 'Release|WEC7 (ARMv4I)'
+13>Compiling...
+13>CioNull.cpp
+13> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+11>CANDevice_CONFIG.cpp
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+13>StdAfx.cpp
+13> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+11>Generating Code...
+11>Linking...
+11>   Creating library WCE700ARM_Release/CANDeviceDriver.lib and object WCE700ARM_Release/CANDeviceDriver.exp
+11>Performing Post-Build Event...
+11>複製了         1 個檔案。
+11>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\CANDeviceDriver\WCE700ARM_Release\BuildLog.htm"
+11>CANDeviceDriver - 0 error(s), 0 warning(s)
+13>Generating Code...
+13>Linking...
+13>   Creating library WCE700ARM_Release\NullIO.lib and object WCE700ARM_Release\NullIO.exp
+13>Performing Post-Build Event...
+13>複製了         1 個檔案。
+13>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\CioNull\WCE700ARM_Release\BuildLog.htm"
+13>CioNull - 0 error(s), 0 warning(s)
+14>------ Rebuild All started: Project: SriDriver, Configuration: Release WEC7 (ARMv4I) ------
+14>Deleting intermediate and output files for project 'SriDriver', configuration 'Release|WEC7 (ARMv4I)'
+14>Compiling...
+14>ModbusFrame.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+15>------ Rebuild All started: Project: Mci30GM, Configuration: Release WEC7 (ARMv4I) ------
+15>Deleting intermediate and output files for project 'Mci30GM', configuration 'Release|WEC7 (ARMv4I)'
+15>Compiling...
+15>Mci30GM.cpp
+14>StdAfx.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+15>StdAfx.cpp
+14>SriSupDevManager.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+15>Generating Code...
+15>Linking...
+15>   Creating library WCE700ARM_Release\30GM.lib and object WCE700ARM_Release\30GM.exp
+15>Performing Post-Build Event...
+15>複製了         1 個檔案。
+15>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\Mci30GM\WCE700ARM_Release\BuildLog.htm"
+15>Mci30GM - 0 error(s), 0 warning(s)
+14>SriPLCPanel.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+14>SriModule.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+16>------ Rebuild All started: Project: MciM2, Configuration: Release WEC7 (ARMv4I) ------
+16>Deleting intermediate and output files for project 'MciM2', configuration 'Release|WEC7 (ARMv4I)'
+16>Compiling...
+16>MciM2.cpp
+14>SriDriver.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+16>StdAfx.cpp
+14>SriDeviceLoader.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+16>Generating Code...
+16>Linking...
+16>   Creating library WCE700ARM_Release\M2.lib and object WCE700ARM_Release\M2.exp
+16>Performing Post-Build Event...
+16>複製了         1 個檔案。
+16>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\MciM2\WCE700ARM_Release\BuildLog.htm"
+16>MciM2 - 0 error(s), 0 warning(s)
+17>------ Rebuild All started: Project: CioCNC2PIO, Configuration: Release WEC7 (ARMv4I) ------
+17>Deleting intermediate and output files for project 'CioCNC2PIO', configuration 'Release|WEC7 (ARMv4I)'
+17>Compiling...
+14>SriConfigSync.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+17>CioCNC2PIO.cpp
+17>StdAfx.cpp
+14>SriComPort.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+17>Generating Code...
+17>Linking...
+17>   Creating library WCE700ARM_Release\CNC2PIO.lib and object WCE700ARM_Release\CNC2PIO.exp
+17>Performing Post-Build Event...
+14>Generating Code...
+17>複製了         1 個檔案。
+17>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\CioCNC2PIO\WCE700ARM_Release\BuildLog.htm"
+17>CioCNC2PIO - 0 error(s), 0 warning(s)
+14>Linking...
+18>------ Rebuild All started: Project: MciRTEX, Configuration: Release WEC7 (ARMv4I) ------
+18>Deleting intermediate and output files for project 'MciRTEX', configuration 'Release|WEC7 (ARMv4I)'
+14>   Creating library WCE700ARM_Release\SriDriver.lib and object WCE700ARM_Release\SriDriver.exp
+14>Performing Post-Build Event...
+18>Compiling...
+14>複製了         1 個檔案。
+14>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\SriDriver\WCE700ARM_Release\BuildLog.htm"
+14>SriDriver - 0 error(s), 0 warning(s)
+18>MciRTEX.cpp
+19>------ Rebuild All started: Project: DllPhysicalDriver, Configuration: Release WEC7 (ARMv4I) ------
+19>Deleting intermediate and output files for project 'DllPhysicalDriver', configuration 'Release|WEC7 (ARMv4I)'
+19>Compiling...
+19>DllPhysicalDriver.cpp
+18>StdAfx.cpp
+19> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+18>RTEXProtocol.cpp
+19>StdAfx.cpp
+19> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+18>RTEXDriver.cpp
+19>Generating Code...
+19>Linking...
+19>   Creating library WCE700ARM_Release\PhysicalDriver.lib and object WCE700ARM_Release\PhysicalDriver.exp
+19>Performing Post-Build Event...
+19>複製了         1 個檔案。
+19>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\DllPhysicalDriver\WCE700ARM_Release\BuildLog.htm"
+19>DllPhysicalDriver - 0 error(s), 0 warning(s)
+20>------ Skipped Rebuild All: Project: MciServo60, Configuration: Release WEC7 (ARMv4I) ------
+20>Project not selected to build for this solution configuration 
+21>------ Rebuild All started: Project: MciServo5, Configuration: Release WEC7 (ARMv4I) ------
+21>Deleting intermediate and output files for project 'MciServo5', configuration 'Release|WEC7 (ARMv4I)'
+21>Compiling...
+21>MciServo5.cpp
+18>RTEXChannel.cpp
+21>StdAfx.cpp
+21>Generating Code...
+21>Linking...
+21>   Creating library WCE700ARM_Release\SERVO5.lib and object WCE700ARM_Release\SERVO5.exp
+21>Performing Post-Build Event...
+21>複製了         1 個檔案。
+21>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\MciServo5\WCE700ARM_Release\BuildLog.htm"
+21>MciServo5 - 0 error(s), 0 warning(s)
+18>MNM1221.cpp
+22>------ Rebuild All started: Project: MciNull, Configuration: Release WEC7 (ARMv4I) ------
+22>Deleting intermediate and output files for project 'MciNull', configuration 'Release|WEC7 (ARMv4I)'
+22>Compiling...
+22>MciNull.cpp
+22> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+18>Generating Code...
+18>Linking...
+18>   Creating library WCE700ARM_Release\RTEX.lib and object WCE700ARM_Release\RTEX.exp
+18>Performing Post-Build Event...
+18>複製了         1 個檔案。
+18>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\MciRTEX\WCE700ARM_Release\BuildLog.htm"
+18>MciRTEX - 0 error(s), 0 warning(s)
+23>------ Rebuild All started: Project: MciNetServo, Configuration: Release WEC7 (ARMv4I) ------
+23>Deleting intermediate and output files for project 'MciNetServo', configuration 'Release|WEC7 (ARMv4I)'
+22>StdAfx.cpp
+22> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+23>Compiling...
+23>MciNetServo.cpp
+23>StdAfx.cpp
+23>Generating Code...
+23>Linking...
+22>Generating Code...
+23>   Creating library WCE700ARM_Release\NetServo.lib and object WCE700ARM_Release\NetServo.exp
+22>Linking...
+23>Performing Post-Build Event...
+23>複製了         1 個檔案。
+22>   Creating library WCE700ARM_Release\Null.lib and object WCE700ARM_Release\Null.exp
+22>Performing Post-Build Event...
+23>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\MciNetServo\WCE700ARM_Release\BuildLog.htm"
+23>MciNetServo - 0 error(s), 0 warning(s)
+22>複製了         1 個檔案。
+22>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\MciNull\WCE700ARM_Release\BuildLog.htm"
+22>MciNull - 0 error(s), 0 warning(s)
+24>------ Rebuild All started: Project: MciEpcio, Configuration: Release WEC7 (ARMv4I) ------
+24>Deleting intermediate and output files for project 'MciEpcio', configuration 'Release|WEC7 (ARMv4I)'
+24>Compiling...
+25>------ Rebuild All started: Project: MciM3, Configuration: Release WEC7 (ARMv4I) ------
+25>Deleting intermediate and output files for project 'MciM3', configuration 'Release|WEC7 (ARMv4I)'
+24>MciEpcio.cpp
+25>Compiling...
+25>M3Driver.cpp
+24>StdAfx.cpp
+24>Generating Code...
+24>Linking...
+24>   Creating library WCE700ARM_Release\SERVO6.lib and object WCE700ARM_Release\SERVO6.exp
+24>Performing Post-Build Event...
+24>複製了         1 個檔案。
+24>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\MciEpcio\WCE700ARM_Release\BuildLog.htm"
+24>MciEpcio - 0 error(s), 0 warning(s)
+26>------ Rebuild All started: Project: CioPio2, Configuration: Release WEC7 (ARMv4I) ------
+26>Deleting intermediate and output files for project 'CioPio2', configuration 'Release|WEC7 (ARMv4I)'
+26>Compiling...
+26>CioPio2.cpp
+26>StdAfx.cpp
+25>StdAfx.cpp
+26>Generating Code...
+26>Linking...
+26>   Creating library WCE700ARM_Release\PIO2.lib and object WCE700ARM_Release\PIO2.exp
+26>Performing Post-Build Event...
+26>複製了         1 個檔案。
+26>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\CioPio2\WCE700ARM_Release\BuildLog.htm"
+26>CioPio2 - 0 error(s), 0 warning(s)
+27>------ Rebuild All started: Project: CioEpcio, Configuration: Release WEC7 (ARMv4I) ------
+27>Deleting intermediate and output files for project 'CioEpcio', configuration 'Release|WEC7 (ARMv4I)'
+27>Compiling...
+25>MciM3.cpp
+27>CioEpcio.cpp
+27>StdAfx.cpp
+27>Generating Code...
+27>Linking...
+27>   Creating library WCE700ARM_Release\EPCIO.lib and object WCE700ARM_Release\EPCIO.exp
+27>Performing Post-Build Event...
+27>複製了         1 個檔案。
+27>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\CioEpcio\WCE700ARM_Release\BuildLog.htm"
+27>CioEpcio - 0 error(s), 0 warning(s)
+25>M3UnitConverter.cpp
+28>------ Rebuild All started: Project: RFDriver, Configuration: Release WEC7 (ARMv4I) ------
+28>Deleting intermediate and output files for project 'RFDriver', configuration 'Release|WEC7 (ARMv4I)'
+28>Compiling...
+28>RFDriver.cpp
+28> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+25>M3Tuning.cpp
+28>StdAfx.cpp
+28> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+25>M3SynScope.cpp
+28>Generating Code...
+28>Linking...
+28>   Creating library WCE700ARM_Release\RFDriver.lib and object WCE700ARM_Release\RFDriver.exp
+28>Performing Post-Build Event...
+28>複製了         1 個檔案。
+28>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\RFDriver\WCE700ARM_Release\BuildLog.htm"
+28>RFDriver - 0 error(s), 0 warning(s)
+25>M3SynDeviceUpdate.cpp
+25>M3SvoChannel.cpp
+25>M3Station.cpp
+25>M3Protocol.cpp
+25>M3MsgControl.cpp
+25>M3MsgComm.cpp
+25>M3IOProfile.cpp
+25>M3IOChannel.cpp
+25>M3ExtIOChannel.cpp
+25>Generating Code...
+25>Linking...
+25>   Creating library WCE700ARM_Release\M3.lib and object WCE700ARM_Release\M3.exp
+25>Performing Post-Build Event...
+25>複製了         1 個檔案。
+25>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\MciM3\WCE700ARM_Release\BuildLog.htm"
+25>MciM3 - 0 error(s), 0 warning(s)
+29>------ Rebuild All started: Project: BuildAll, Configuration: Release WEC7 (ARMv4I) ------
+29>Deleting intermediate and output files for project 'BuildAll', configuration 'Release|WEC7 (ARMv4I)'
+29>Compiling...
+29>stdafx.cpp
+29>Compiling...
+29>BuildAll.cpp
+29>Compiling resources...
+29>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+29>Copyright (C) Microsoft Corporation.  All rights reserved.
+29>Creating library...
+29>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCDevice\Source\BuildAll\WCE700ARM_Release\BuildLog.htm"
+29>BuildAll - 0 error(s), 0 warning(s)
+========== Rebuild All: 28 succeeded, 0 failed, 1 skipped ==========
+

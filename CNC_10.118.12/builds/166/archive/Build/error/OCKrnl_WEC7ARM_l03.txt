@@ -1,0 +1,105 @@
+1>------ Rebuild All started: Project: Event, Configuration: Release WEC7 (ARMv4I) ------
+2>------ Rebuild All started: Project: EventAP, Configuration: Release WEC7 (ARMv4I) ------
+2>Deleting intermediate and output files for project 'EventAP', configuration 'Release|WEC7 (ARMv4I)'
+1>Deleting intermediate and output files for project 'Event', configuration 'Release|WEC7 (ARMv4I)'
+1>Compiling...
+2>Compiling...
+1>StdAfx.cpp
+2>StdAfx.cpp
+1> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+1>Compiling...
+2>Compiling...
+1>EventTrigger.cpp
+2>EventAP.cpp
+1>MixListener.cpp
+2>Creating library...
+2>Performing Post-Build Event...
+1>EventTriggerManager.cpp
+2>複製了         1 個檔案。
+2>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\WCE700ARM_Release\BuildLog.htm"
+2>EventAP - 0 error(s), 0 warning(s)
+1>EventTriggerGroup.cpp
+1>Generating Code...
+1>Creating library...
+1>Performing Post-Build Event...
+1>複製了         1 個檔案。
+1>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCKrnl\Source\Event\WCE700ARM_Release\BuildLog.htm"
+1>Event - 0 error(s), 0 warning(s)
+3>------ Rebuild All started: Project: MotUtility, Configuration: Release WEC7 (ARMv4I) ------
+3>Deleting intermediate and output files for project 'MotUtility', configuration 'Release|WEC7 (ARMv4I)'
+3>Compiling...
+3>StdAfx.cpp
+3> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+3>Compiling...
+3>ADQueue.cpp
+3>ZeroSpeedCheck.cpp
+3>VelocityControl.cpp
+3>VelAccMeter.cpp
+3>TrajectoryThread.cpp
+3>TrajectoryTapping.cpp
+3>TrajectorySyncTracking.cpp
+3>TrajectoryOscillator.cpp
+3>TrajectoryNormal.cpp
+3>TrajectoryDef.cpp
+3>TrajectoryChopping.cpp
+3>Trajectory.cpp
+3>TimeBase.cpp
+3>SyncTracking.cpp
+3>SCurveTrajectory.cpp
+3>RobotWaitSignalManager.cpp
+3>RobotMRPQueue.cpp
+3>RobotMRPPool.cpp
+3>RobotMotion.cpp
+3>RobotInterpolator.cpp
+3>Generating Code...
+3>Compiling...
+3>PostAccelerator_Int.cpp
+3>PlayModeInterpolator.cpp
+3>OneBlockInterpolator.cpp
+3>MultiPassMovingAverageFilter.cpp
+3>MpHoming.cpp
+3>MpHomeSearch.cpp
+3>MovingAverageFilter.cpp
+3>MotionPlanner.cpp
+3>LAQueue.cpp
+3>LANodePool.cpp
+3>LAMotionPlanner.cpp
+3>KickNode.cpp
+3>InterruptSignalManager.cpp
+3>Interpolator.cpp
+3>HomeSearchCore.cpp
+3>HelicalPlan.cpp
+3>GradientDescent.cpp
+3>FLThreadNormal.cpp
+3>FLRobotMoveL.cpp
+3>FLRobotMoveJ.cpp
+3>Generating Code...
+3>Compiling...
+3>FLCutString.cpp
+3>FLCutSCurve.cpp
+3>FLCutCSlopeForSpring.cpp
+3>FLCutCSlope.cpp
+3>FeedLimit.cpp
+3>FeedControl.cpp
+3>FCThreadNormal.cpp
+3>FCCutString.cpp
+3>FCCutSmoothScurve.cpp
+3>FCCutSCurve.cpp
+3>FCCutCSlope.cpp
+3>DelayFilter.cpp
+3>CurvatureCalculatorNode.cpp
+3>CurvatureCalculator.cpp
+3>CJerkLineInt.cpp
+3>CJerkHelicalInt.cpp
+3>BPTLimiter.cpp
+3>AuxInterpolator.cpp
+3>ArcFeature.cpp
+3>Generating Code...
+3>Creating library...
+3>Performing Post-Build Event...
+3>複製了         1 個檔案。
+3>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCKrnl\Source\MotUtility\WCE700ARM_Release\BuildLog.htm"
+3>MotUtility - 0 error(s), 0 warning(s)
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========
+
