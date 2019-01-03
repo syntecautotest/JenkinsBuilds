@@ -1,0 +1,829 @@
+1>------ Rebuild All started: Project: EventAP, Configuration: Release WEC7 (ARMv4I) ------
+1>Deleting intermediate and output files for project 'EventAP', configuration 'Release|WEC7 (ARMv4I)'
+2>------ Rebuild All started: Project: Event, Configuration: Release WEC7 (ARMv4I) ------
+2>Deleting intermediate and output files for project 'Event', configuration 'Release|WEC7 (ARMv4I)'
+2>Compiling...
+1>Compiling...
+2>StdAfx.cpp
+1>StdAfx.cpp
+2> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+1> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+1>Compiling...
+2>Compiling...
+1>EventAP.cpp
+2>EventTrigger.cpp
+2>MixListener.cpp
+1>Creating library...
+1>Performing Post-Build Event...
+1>複製了         1 個檔案。
+1>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\EventAP\WCE700ARM_Release\BuildLog.htm"
+1>EventAP - 0 error(s), 0 warning(s)
+2>EventTriggerManager.cpp
+2>EventTriggerGroup.cpp
+2>Generating Code...
+3>------ Rebuild All started: Project: LAPACK, Configuration: Release WEC7 (ARMv4I) ------
+3>Deleting intermediate and output files for project 'LAPACK', configuration 'Release|WEC7 (ARMv4I)'
+3>Compiling...
+2>Creating library...
+3>Stdafx.cpp
+2>Performing Post-Build Event...
+2>複製了         1 個檔案。
+3> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+2>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\Event\WCE700ARM_Release\BuildLog.htm"
+2>Event - 0 error(s), 0 warning(s)
+4>------ Rebuild All started: Project: Interpolation, Configuration: Release WEC7 (ARMv4I) ------
+4>Deleting intermediate and output files for project 'Interpolation', configuration 'Release|WEC7 (ARMv4I)'
+4>Compiling...
+4>StdAfx.cpp
+4> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+3>Compiling...
+3>ddot_.cpp
+3>xerbla_.cpp
+3>lsame_.cpp
+3>dtrsm_.cpp
+3>dtbsv_.cpp
+3>dsyrk_.cpp
+3>dsyr_.cpp
+3>dscal_.cpp
+3>dpotf2_.cpp
+3>dpbtrs_.cpp
+3>dpbtrf_.cpp
+3>dpbtf2_.cpp
+3>dgemv_.cpp
+3>dgemm_.cpp
+3>Generating Code...
+3>Creating library...
+3>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\LAPACK\WCE700ARM_Release\BuildLog.htm"
+3>LAPACK - 0 error(s), 0 warning(s)
+5>------ Rebuild All started: Project: MSTExeChannel, Configuration: Release WEC7 (ARMv4I) ------
+5>Deleting intermediate and output files for project 'MSTExeChannel', configuration 'Release|WEC7 (ARMv4I)'
+5>Compiling...
+5>StdAfx.cpp
+5> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+4>Compiling...
+4>Backlash.cpp
+4>ZPECompensator.cpp
+4>VFFCompensator.cpp
+4>TFFCompensator.cpp
+5>Compiling...
+4>Predictor.cpp
+5>AxPLCCall.cpp
+4>PitchError.cpp
+5>PLCCall.cpp
+4>HighOrderFilter.cpp
+5>PartCount.cpp
+4>FrictionCompensation.cpp
+5>MSTChannel.cpp
+4>ForwardController.cpp
+4>FirstOrderFilter3d.cpp
+5>ModePLCCall.cpp
+4>FirstOrderFilter.cpp
+4>FFCompensator.cpp
+4>Feedforward.cpp
+5>CycleTimer.cpp
+4>DriverSimulator.cpp
+5>Generating Code...
+4>DirectionPredictor.cpp
+5>Creating library...
+4>ContourError.cpp
+5>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\MSTExeChannel\WCE700ARM_Release\BuildLog.htm"
+5>MSTExeChannel - 0 error(s), 0 warning(s)
+4>Generating Code...
+4>Creating library...
+4>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\Interpolation\WCE700ARM_Release\BuildLog.htm"
+4>Interpolation - 0 error(s), 0 warning(s)
+6>------ Rebuild All started: Project: KinematicTransformation, Configuration: Release WEC7 (ARMv4I) ------
+6>Deleting intermediate and output files for project 'KinematicTransformation', configuration 'Release|WEC7 (ARMv4I)'
+6>Compiling...
+7>------ Rebuild All started: Project: DataLog, Configuration: Release WEC7 (ARMv4I) ------
+7>Deleting intermediate and output files for project 'DataLog', configuration 'Release|WEC7 (ARMv4I)'
+7>Compiling...
+6>stdafx.cpp
+7>StdAfx.cpp
+6> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+7> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+6>Compiling...
+6>ArcGuidance.cpp
+7>Compiling...
+6>ToolLength.cpp
+6>TableTiltingType.cpp
+6>SpindleTiltingType.cpp
+7>DataCatch.cpp
+6>SingleTableTiltingType.cpp
+7>TimerManager.cpp
+6>SingleSpindleTiltingType.cpp
+6>RTCPManager.cpp
+7>KernelLog.cpp
+6>PolarCoordTransform.cpp
+7>GrinderLog.cpp
+6>MixTiltingType.cpp
+7>DataRecorder.cpp
+6>LinearGuidance.cpp
+6>GuidanceCouple.cpp
+7>DataListener.cpp
+6>FourAxisParamSync.cpp
+7>Generating Code...
+6>FourAxisMechanism.cpp
+6>FourAxis.cpp
+7>Creating library...
+7>Performing Post-Build Event...
+7>複製了         1 個檔案。
+7>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\DataLog\WCE700ARM_Release\BuildLog.htm"
+7>DataLog - 0 error(s), 0 warning(s)
+6>FiveAxisParamSync.cpp
+8>------ Rebuild All started: Project: NurbsInterpolation, Configuration: Release WEC7 (ARMv4I) ------
+8>Deleting intermediate and output files for project 'NurbsInterpolation', configuration 'Release|WEC7 (ARMv4I)'
+8>Compiling...
+6>FiveAxisMechanism.cpp
+6>FiveAxis.cpp
+8>Bezier.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+6>Generating Code...
+6>Creating library...
+6>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\KinematicTransformation\WCE700ARM_Release\BuildLog.htm"
+6>KinematicTransformation - 0 error(s), 0 warning(s)
+8>Stdafx.cpp
+9>------ Rebuild All started: Project: PLCNet, Configuration: Release WEC7 (ARMv4I) ------
+9>Deleting intermediate and output files for project 'PLCNet', configuration 'Release|WEC7 (ARMv4I)'
+9>Compiling...
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>StdAfx.cpp
+9> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>Segment.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>NurbsSysState.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>NurbsMPFindCorner.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>Compiling...
+8>NurbsMPBlockMerge.cpp
+9>OCClient.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+9>PLCNet.cpp
+9>PDU.cpp
+9>OCServer.cpp
+9>OCNode.cpp
+9>OCClientService.cpp
+9>Generating Code...
+9>Creating library...
+8>NurbsCurvePool.cpp
+9>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\PLCNet\WCE700ARM_Release\BuildLog.htm"
+9>PLCNet - 0 error(s), 0 warning(s)
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+10>------ Rebuild All started: Project: MotUtility, Configuration: Release WEC7 (ARMv4I) ------
+10>Deleting intermediate and output files for project 'MotUtility', configuration 'Release|WEC7 (ARMv4I)'
+10>Compiling...
+8>NurbsCurve.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+10>StdAfx.cpp
+10> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>NurbsAPI.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>Kick.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>Debug.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>CornerCombine.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>CNURBS_FACTORY.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+8>CNURBS.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+10>Compiling...
+10>ADQueue.cpp
+10>ZeroSpeedCheck.cpp
+8>BlockPool.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+10>VelocityControl.cpp
+10>TrajectoryThread.cpp
+10>TrajectoryTapping.cpp
+10>TrajectorySyncTracking.cpp
+10>TrajectoryNormal.cpp
+8>Block.cpp
+8> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+10>TrajectoryDef.cpp
+10>TrajectoryChopping.cpp
+10>Trajectory.cpp
+10>TimeBase.cpp
+8>Generating Code...
+10>SyncTracking.cpp
+10>SpeedMeter.cpp
+10>SCurveTrajectory.cpp
+10>PostAccelerator_Int.cpp
+8>Creating library...
+8>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\NurbsInterpolation\WCE700ARM_Release\BuildLog.htm"
+8>NurbsInterpolation - 0 error(s), 0 warning(s)
+10>PlayModeInterpolator.cpp
+10>OneBlockInterpolator.cpp
+11>------ Rebuild All started: Project: InternalCNCAPI, Configuration: Release WEC7 (ARMv4I) ------
+11>Deleting intermediate and output files for project 'InternalCNCAPI', configuration 'Release|WEC7 (ARMv4I)'
+11>Compiling...
+10>MultiPassMovingAverageFilter.cpp
+10>MpHoming.cpp
+10>MpHomeSearch.cpp
+10>Generating Code...
+10>Compiling...
+10>MovingAverageFilter.cpp
+10>MotionPlanner.cpp
+10>LAQueue.cpp
+10>LANodePool.cpp
+10>LAMotionPlanner.cpp
+10>KickNode.cpp
+10>Interpolator.cpp
+10>HomeSearchCore.cpp
+10>HelicalPlan.cpp
+11>StdAfx.cpp
+10>GradientDescent.cpp
+11> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+10>FLThreadNormal.cpp
+10>FLCutString.cpp
+10>FLCutSCurve.cpp
+10>FLCutCSlopeForSpring.cpp
+10>FLCutCSlope.cpp
+10>FeedLimit.cpp
+11>Compiling...
+10>FeedControl.cpp
+11>InternalCNCAPI.cpp
+10>FCThreadNormal.cpp
+11>Creating library...
+11>Performing Post-Build Event...
+11>複製了         1 個檔案。
+11>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\InternalCNCAPI\WCE700ARM_Release\BuildLog.htm"
+11>InternalCNCAPI - 0 error(s), 0 warning(s)
+12>------ Rebuild All started: Project: ServoTuning, Configuration: Release WEC7 (ARMv4I) ------
+10>FCCutString.cpp
+12>Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|WEC7 (ARMv4I)'
+12>Compiling...
+10>FCCutSmoothScurve.cpp
+12>StdAfx.cpp
+12> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+10>Generating Code...
+10>Compiling...
+10>FCCutSCurve.cpp
+10>FCCutCSlope.cpp
+10>DelayFilter.cpp
+10>CurvatureCalculatorNode.cpp
+12>Compiling...
+12>FrictionAdjust.cpp
+10>CurvatureCalculator.cpp
+10>CJerkLineInt.cpp
+10>CJerkHelicalInt.cpp
+10>BPTLimiter.cpp
+12>SpdAdvTuning.cpp
+10>AuxInterpolator.cpp
+12>FrictionLog.cpp
+10>ArcFeature.cpp
+10>Generating Code...
+12>Generating Code...
+12>Creating library...
+10>Creating library...
+10>Performing Post-Build Event...
+12>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\ServoTuning\WCE700ARM_Release\BuildLog.htm"
+12>ServoTuning - 0 error(s), 0 warning(s)
+10>複製了         1 個檔案。
+10>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\MotUtility\WCE700ARM_Release\BuildLog.htm"
+10>MotUtility - 0 error(s), 0 warning(s)
+13>------ Rebuild All started: Project: WinPAL, Configuration: Release WEC7 (ARMv4I) ------
+13>Deleting intermediate and output files for project 'WinPAL', configuration 'Release|WEC7 (ARMv4I)'
+13>Compiling...
+14>------ Rebuild All started: Project: Comm, Configuration: Release WEC7 (ARMv4I) ------
+14>Deleting intermediate and output files for project 'Comm', configuration 'Release|WEC7 (ARMv4I)'
+14>Compiling...
+14>CommSession.cpp
+13>StdAfx.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+13> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+14>StdAfx.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+14>NcCommFileAPI.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+13>Compiling...
+13>CommAPI.cpp
+13>WinXSignal.cpp
+13>WinRTTimer.cpp
+13>VersionInfo.cpp
+13>ThreadAPI.cpp
+13>RTMutex.cpp
+14>NcCommFile.cpp
+14> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+13>Pal.cpp
+13>Generating Code...
+13>Creating library...
+13>Performing Post-Build Event...
+13>複製了         1 個檔案。
+13>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\WinPAL\WCE700ARM_Release\BuildLog.htm"
+13>WinPAL - 0 error(s), 0 warning(s)
+14>Generating Code...
+15>------ Rebuild All started: Project: RemotePanel, Configuration: Release WEC7 (ARMv4I) ------
+15>Deleting intermediate and output files for project 'RemotePanel', configuration 'Release|WEC7 (ARMv4I)'
+15>Compiling...
+14>Creating library...
+14>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\Comm\WCE700ARM_Release\BuildLog.htm"
+14>Comm - 0 error(s), 0 warning(s)
+15>FX2API.cpp
+15> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+16>------ Rebuild All started: Project: PathPlan, Configuration: Release WEC7 (ARMv4I) ------
+16>Deleting intermediate and output files for project 'PathPlan', configuration 'Release|WEC7 (ARMv4I)'
+16>Compiling...
+16>StdAfx.cpp
+16> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+15>StdAfx.cpp
+15> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+15>FXPanelSvr.cpp
+15> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+16>Compiling...
+16>ArcResolver.cpp
+15>FXPanelClient.cpp
+15> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+16>ToolTableManager.cpp
+16>ToolTable.cpp
+16>ToolRadius.cpp
+15>FX2IComm.cpp
+15> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+16>ToolOffset.cpp
+16>ScanTable.cpp
+16>Scaling.cpp
+15>Generating Code...
+16>Rotation.cpp
+15>Creating library...
+15>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\RemotePanel\WCE700ARM_Release\BuildLog.htm"
+15>RemotePanel - 0 error(s), 0 warning(s)
+16>ReadySink.cpp
+16>ProgramContext.cpp
+17>------ Rebuild All started: Project: Operation, Configuration: Release WEC7 (ARMv4I) ------
+17>Deleting intermediate and output files for project 'Operation', configuration 'Release|WEC7 (ARMv4I)'
+17>Compiling...
+16>PolarCommand.cpp
+16>PathSmooth.cpp
+16>MRPTransform.cpp
+16>MRPQueue.cpp
+16>MRPPool.cpp
+17>StdAfx.cpp
+17> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+16>MRPFilter.cpp
+16>ModalMacroContext.cpp
+16>ModalContext.cpp
+16>MacroType.cpp
+16>MacroCore.cpp
+16>Generating Code...
+16>Compiling...
+16>LocalVariable.cpp
+17>Compiling...
+16>ICoordinate.cpp
+16>DirectDrawCorner.cpp
+16>DirectDrawAngle.cpp
+17>AlarmHistoryStore.cpp
+16>CornerFeature.cpp
+16>CoordPLCPanel.cpp
+17>XMLDatabase.cpp
+17>TCPServer.cpp
+16>Coordinate.cpp
+17>SystemIdentify.cpp
+16>BreakPointScanner.cpp
+16>BreakPointHandler.cpp
+16>BlockTransform.cpp
+17>SysPLCPanel.cpp
+17>SysParamSync.cpp
+16>BlockContext.cpp
+17>SvoChMap.cpp
+17>SlaveFrame.cpp
+16>BackgndExecuter.cpp
+17>SimuPool.cpp
+16>AxisAddress.cpp
+16>Generating Code...
+16>Creating library...
+16>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\PathPlan\WCE700ARM_Release\BuildLog.htm"
+17>Simulator.cpp
+16>PathPlan - 0 error(s), 0 warning(s)
+18>------ Rebuild All started: Project: FFTransform, Configuration: Release WEC7 (ARMv4I) ------
+18>Deleting intermediate and output files for project 'FFTransform', configuration 'Release|WEC7 (ARMv4I)'
+18>Compiling...
+17>SerialDeviceServ.cpp
+17>SerialDeviceCtrl.cpp
+17>RTUSlave.cpp
+17>ResourceMgr.cpp
+17>ProgrammableDesk.cpp
+17>PLCEventMonitor.cpp
+18>StdAfx.cpp
+18> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+17>ParseContext.cpp
+17>ParamManager.cpp
+17>ORXManager.cpp
+17>OpPLCPanel.cpp
+17>Generating Code...
+17>Compiling...
+17>OpParamSync.cpp
+17>OpOutStream.cpp
+17>OPLog.cpp
+17>NcDrawer.cpp
+18>Compiling...
+18>FFT.cpp
+17>ModeGroup.cpp
+18>Creating library...
+18>Performing Post-Build Event...
+18>複製了         1 個檔案。
+18>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\FFTransform\WCE700ARM_Release\BuildLog.htm"
+18>FFTransform - 0 error(s), 0 warning(s)
+19>------ Rebuild All started: Project: ProductInfo, Configuration: Release WEC7 (ARMv4I) ------
+19>Deleting intermediate and output files for project 'ProductInfo', configuration 'Release|WEC7 (ARMv4I)'
+19>Compiling...
+17>ModbusSlaveComm.cpp
+19>StdAfx.cpp
+19> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+17>MakerConfigInfo.cpp
+17>LatchIBitControl.cpp
+17>LatchDrvSglControl.cpp
+17>GVPWorkVar.cpp
+17>GVPPLCRegister.cpp
+17>GVPPersist.cpp
+17>GVPInMemory.cpp
+17>GVCInMemory.cpp
+17>GVCBase.cpp
+17>FrameUtility.cpp
+17>FileWriter.cpp
+17>FileReader.cpp
+17>FileBase.cpp
+17>ECamPLCPanel.cpp
+17>Generating Code...
+17>Compiling...
+17>DumpDbg.cpp
+19>Compiling...
+19>CncSerial.cpp
+19>W32ProductData.cpp
+17>DriverManager.cpp
+19>UTTimeData.cpp
+19>UseTimeProtect.cpp
+19>TimeValidity.cpp
+17>DataListenManager.cpp
+19>SoftwareUtil.cpp
+19>ProductSet.cpp
+19>ProductInfo.cpp
+17>CoordStateTable.cpp
+19>PrdRawData.cpp
+19>PrdPassword.cpp
+17>cncctrl.cpp
+19>OptionTry.cpp
+19>OptionTable.cpp
+19>Generating Code...
+19>Creating library...
+17>CNCCenter.cpp
+19>Performing Post-Build Event...
+19>複製了         1 個檔案。
+19>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\ProductInfo\WCE700ARM_Release\BuildLog.htm"
+19>ProductInfo - 0 error(s), 0 warning(s)
+17>cncapi.cpp
+20>------ Rebuild All started: Project: NcLoader, Configuration: Release WEC7 (ARMv4I) ------
+20>Deleting intermediate and output files for project 'NcLoader', configuration 'Release|WEC7 (ARMv4I)'
+20>Compiling...
+20>ArchiveNcLoader.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+17>BackgndExePanel.cpp
+17>BackgndExeCenter.cpp
+17>AxisStateTable.cpp
+17>AxisDesk.cpp
+20>StdAfx.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+17>AlarmPendingStore.cpp
+20>NcProgMgr.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+17>Generating Code...
+17>Creating library...
+20>NcDownload.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+17>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\Operation\WCE700ARM_Release\BuildLog.htm"
+17>Operation - 0 error(s), 0 warning(s)
+20>MPYACC.CPP
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+21>------ Rebuild All started: Project: MotionPlan, Configuration: Release WEC7 (ARMv4I) ------
+21>Deleting intermediate and output files for project 'MotionPlan', configuration 'Release|WEC7 (ARMv4I)'
+21>Compiling...
+20>..\NcParser\MPYACC.CPP(2404) : warning C4102: 'mperrlabel' : unreferenced label
+21>StdAfx.cpp
+21> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+20>MPLEX.CPP
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+20>..\NcParser\MPLEX.CPP(1074) : warning C4102: 'mp_more' : unreferenced label
+20>..\NcParser\MPLEX.CPP(1057) : warning C4102: 'mp_reject' : unreferenced label
+20>MDINcLoader.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+20>LEXBASE.CPP
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+20>IDNCReader.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+20>FileSysNcLoader.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+20>DNCSerialComm.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+21>Compiling...
+21>AutoCommander.cpp
+20>DNCReaderService.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+20>DNCNetwork.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+21>WorkpieceTable.cpp
+21>Workpiece.cpp
+21>VTypeSyncSpindle.cpp
+20>DNCHugeDiskFile.cpp
+20> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+21>ThreadNormal.cpp
+21>TappingPair.cpp
+20>Generating Code...
+20>Creating library...
+21>TappingLearning.cpp
+21>Tapping.cpp
+21>SyncSpindleManager.cpp
+20>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\NcLoader\WCE700ARM_Release\BuildLog.htm"
+20>NcLoader - 0 error(s), 3 warning(s)
+21>SyncSpindle.cpp
+21>StrokeTable.cpp
+21>StrokeLimit.cpp
+21>SpindlePlanner.cpp
+22>------ Rebuild All started: Project: XSignal, Configuration: Release WEC7 (ARMv4I) ------
+22>Deleting intermediate and output files for project 'XSignal', configuration 'Release|WEC7 (ARMv4I)'
+22>Compiling...
+21>Spindle.cpp
+21>SpdVcmdControl.cpp
+21>SpdParamSync.cpp
+21>SkipTravel.cpp
+22>StdAfx.cpp
+22> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+21>SkipFunction.cpp
+21>SimuServo3d.cpp
+21>SimuServo.cpp
+21>Generating Code...
+21>Compiling...
+21>ServoTap.cpp
+21>ServoSpindle.cpp
+21>ServoSOS.cpp
+21>ServoLagTapping.cpp
+21>ServoLagChopping.cpp
+21>ServoGear.cpp
+21>Servo.cpp
+21>SCurve.cpp
+21>RapidTravel.cpp
+21>RadialCompensator.cpp
+21>PTypeSyncSpindle.cpp
+21>PostureFairing.cpp
+21>PostKinematicAcc.cpp
+21>OneBlkPlanner.cpp
+21>NurbsSmooth.cpp
+22>Compiling...
+21>NurbsConverter.cpp
+21>NCExecutive.cpp
+22>MultiCast.cpp
+22>XSignal.cpp
+22>RTCAPI.cpp
+22>MultiCastAPI.cpp
+22>Generating Code...
+22>Creating library...
+22>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\XSignal\WCE700ARM_Release\BuildLog.htm"
+22>XSignal - 0 error(s), 0 warning(s)
+21>MpMPGJog.cpp
+21>MPKinematicTransform.cpp
+21>MpJog.cpp
+23>------ Rebuild All started: Project: Utility, Configuration: Release WEC7 (ARMv4I) ------
+23>Deleting intermediate and output files for project 'Utility', configuration 'Release|WEC7 (ARMv4I)'
+21>Generating Code...
+23>Compiling...
+23>StdAfx.cpp
+23> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+21>Compiling...
+21>MPInterpolation.cpp
+21>MpIncJog.cpp
+21>MpgWheel.cpp
+21>MPCoordTransform.cpp
+21>ManualAxis.cpp
+21>LengthProjector.cpp
+21>LearningErrorTable.cpp
+21>LearningControl.cpp
+21>KaiserWindowFilter3d.cpp
+21>KaiserWindowFilter.cpp
+21>JogCommander.cpp
+21>JogBase.cpp
+21>IServoLag.cpp
+21>InverterSpindle.cpp
+21>InverterSOS.cpp
+21>InversePlant.cpp
+21>IncConverter.cpp
+21>GrinderAdjust.cpp
+23>Compiling...
+23>_UNCC.cpp
+21>FastDrill.cpp
+23>.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+23>.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+23>.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+23>ZRtl.cpp
+23>ZMath.cpp
+21>EDM.cpp
+23>ZipArch.cpp
+23>ZCRC32.cpp
+23>x86Platform.cpp
+21>Generating Code...
+23>VStack.cpp
+23>Vector4d.cpp
+23>Vector3d.cpp
+23>Vector2d.cpp
+23>VArray.cpp
+23>Variant.cpp
+23>Unzip.cpp
+23>TZPlex.cpp
+23>Tuple4d.cpp
+21>Compiling...
+23>Tuple3d.cpp
+21>ECamManager.cpp
+23>Tuple2d.cpp
+23>Test_HugeFileEditor.cpp
+23>StringConverter.cpp
+23>Stream.cpp
+23>Generating Code...
+21>ECam.cpp
+21>Dwell.cpp
+21>DispCalculator.cpp
+23>Compiling...
+23>Stack.cpp
+23>SmallFileEditor.cpp
+21>CutString.cpp
+23>SetupPacking.cpp
+23>QuickMatrixN.cpp
+23>Quaternion.cpp
+21>CutSmoothSCurve.cpp
+23>PropertyBag.cpp
+23>PolynomialRootSolver.cpp
+23>Point3d.cpp
+21>CutSCurve.cpp
+23>Point2d.cpp
+23>Platform.cpp
+23>PID.cpp
+21>CutFiveAxis.cpp
+23>ParamStore.cpp
+23>ParamCracker.cpp
+23>PalStdLib.cpp
+23>OcStreamReader.cpp
+21>CutCSlopeForSpring.cpp
+23>OcFileReader.cpp
+23>OcDesFileReader.cpp
+23>NumericalRecipes.cpp
+21>CutCSlope.cpp
+23>NumberBag.cpp
+23>MiddleVoteFilter.cpp
+23>Generating Code...
+21>CustomDelayQueue.cpp
+21>CSManager.cpp
+21>CoupleTransform.cpp
+21>CompBlkPlanner.cpp
+21>CommandQueue.cpp
+21>CmdQueue.cpp
+21>Chopping.cpp
+23>Compiling...
+23>MatrixN.cpp
+21>BackgndFuncHandler.cpp
+23>Matrix4d.cpp
+23>Matrix3d.cpp
+21>AxParamSync.cpp
+23>Matrix2d.cpp
+23>LinkedListPool.cpp
+23>LinePage.cpp
+23>LineMap.cpp
+21>AxisInPosCheck.cpp
+23>KStringMap.cpp
+21>Generating Code...
+23>JXmlTextWriter.cpp
+23>JXmlTextReader.cpp
+23>JReplication.cpp
+23>JRectLayout.cpp
+23>JFileInfo.cpp
+23>JCycleValue.cpp
+23>JCycleSchemaPool.cpp
+23>JCycleSchema.cpp
+23>JCycleDocument.cpp
+21>Compiling...
+21>AxisExchanger.cpp
+23>JAllocateOnlyHeap.cpp
+23>IntegerQueue.cpp
+23>IniReg.cpp
+23>Generating Code...
+21>Axis.cpp
+23>Compiling...
+23>HugeFileSharedEditor.cpp
+21>Generating Code...
+23>HugeFileReader.cpp
+23>HugeFileEditor.cpp
+23>HighPerformanceTimer.cpp
+23>GVector.cpp
+21>Creating library...
+23>GuardStore.cpp
+23>GuardRegistry.cpp
+23>GMatrix.cpp
+23>Geometry2d.cpp
+23>FramStore.cpp
+23>Frame3d.cpp
+23>FRAM_Parallel.cpp
+23>FileDirInfo.cpp
+23>EventCPBase.cpp
+23>DocStoreAPI.cpp
+23>DNCChannel.cpp
+23>DeviceInfoManager.cpp
+23>DeviceInfo.cpp
+23>DESObj.cpp
+21>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\MotionPlan\WCE700ARM_Release\BuildLog.htm"
+21>MotionPlan - 0 error(s), 0 warning(s)
+23>Complex.cpp
+23>Generating Code...
+24>------ Rebuild All started: Project: KePLC, Configuration: Release WEC7 (ARMv4I) ------
+24>Deleting intermediate and output files for project 'KePLC', configuration 'Release|WEC7 (ARMv4I)'
+24>Compiling...
+24>StdAfx.cpp
+23>Compiling...
+23>CommPort.cpp
+24> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+23>CharQueue.cpp
+23>BitSet.cpp
+23>BitFilter.cpp
+23>BinFileLoader.cpp
+23>AxisDimension.cpp
+23>AxisAngle4d.cpp
+23>AxFrame.cpp
+23>AsynQueue.cpp
+23>Argument.cpp
+23>ArchMgr.cpp
+23>AlarmFlags.cpp
+23>AlarmCode.cpp
+23>Generating Code...
+23>Creating library...
+23>Performing Post-Build Event...
+23>複製了         1 個檔案。
+23>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\Utility\WCE700ARM_Release\BuildLog.htm"
+23>Utility - 0 error(s), 3 warning(s)
+24>Compiling...
+24>LadderCompiler.cpp
+24>PLCUtility.cpp
+24>PLCScanner.cpp
+24>PLCDeviceManager.cpp
+24>PLCAlarmDef.cpp
+24>LadderWRPool.cpp
+24>LadderParser.cpp
+24>Generating Code...
+24>Creating library...
+24>Performing Post-Build Event...
+24>複製了         1 個檔案。
+24>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\KePLC\WCE700ARM_Release\BuildLog.htm"
+24>KePLC - 0 error(s), 0 warning(s)
+25>------ Rebuild All started: Project: OCKrnl, Configuration: Release WEC7 (ARMv4I) ------
+25>Deleting intermediate and output files for project 'OCKrnl', configuration 'Release|WEC7 (ARMv4I)'
+25>Compiling...
+25>StdAfx.cpp
+25> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+25>OCKrnl.cpp
+25> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+25>Generating Code...
+25>Compiling resources...
+25>Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+25>Copyright (C) Microsoft Corporation.  All rights reserved.
+25>Linking...
+25>   Creating library WCE700ARM_Release\OCKrnl.lib and object WCE700ARM_Release\OCKrnl.exp
+25>Performing Post-Build Event...
+25>複製了         1 個檔案。
+25>複製了         1 個檔案。
+25>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\OCKrnl\WCE700ARM_Release\BuildLog.htm"
+25>OCKrnl - 0 error(s), 0 warning(s)
+26>------ Rebuild All started: Project: PLCDevice, Configuration: Release WEC7 (ARMv4I) ------
+26>Deleting intermediate and output files for project 'PLCDevice', configuration 'Release|WEC7 (ARMv4I)'
+26>Compiling...
+26>CommApi.cpp
+26>TCPClient.cpp
+26>StdAfx.cpp
+26>SRIComm.cpp
+26>PLCTeach.cpp
+26>PLCSRI.cpp
+26>PlcRS232Obj.cpp
+26>PLCPutChar.cpp
+26>PLCModbusWR.cpp
+26>PLCModbusRS.cpp
+26>PLCModbusRD.cpp
+26>PLCGetChar.cpp
+26>PLCDevice.cpp
+26>.\PLCDevice.cpp(22) : warning C4273: 'CPLCDevice::CPLCDevice' : inconsistent dll linkage
+26>        d:\opencnc\bm_local\workspace\cnc_10.116.54\ockrnl\source\plcdevice\PLCDevice.h(17) : see previous definition of '{ctor}'
+26>.\PLCDevice.cpp(63) : warning C4273: 'CPLCDevice::~CPLCDevice' : inconsistent dll linkage
+26>        d:\opencnc\bm_local\workspace\cnc_10.116.54\ockrnl\source\plcdevice\PLCDevice.h(20) : see previous definition of '{dtor}'
+26>PLCBIN2ASC.cpp
+26>PLCASC2BIN.cpp
+26>ModbusRTUMaster.cpp
+26>ModbusFunc.cpp
+26>ModbusFrame.cpp
+26>ModbusCommDriver.cpp
+26>DocViewer.cpp
+26>Generating Code...
+26>Compiling...
+26>CrcAgent.cpp
+26>CommPort.cpp
+26>Generating Code...
+26>Linking...
+26>   Creating library WCE700ARM_Release\PLC_COMM.lib and object WCE700ARM_Release\PLC_COMM.exp
+26>Performing Post-Build Event...
+26>複製了         1 個檔案。
+26>複製了         1 個檔案。
+26>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.116.54\OCKrnl\Source\PLCDevice\WCE700ARM_Release\BuildLog.htm"
+26>PLCDevice - 0 error(s), 2 warning(s)
+========== Rebuild All: 26 succeeded, 0 failed, 0 skipped ==========
+

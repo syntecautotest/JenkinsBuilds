@@ -1,0 +1,131 @@
+1>------ Rebuild All started: Project: Utility, Configuration: Release WEC7 (ARMv4I) ------
+1>Deleting intermediate and output files for project 'Utility', configuration 'Release|WEC7 (ARMv4I)'
+1>Compiling...
+1>StdAfx.cpp
+1> WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+1>Compiling...
+1>_UNCC.cpp
+1>.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+1>.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+1>.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+1>ZRtl.cpp
+1>ZMath.cpp
+1>ZipArch.cpp
+1>ZCRC32.cpp
+1>x86Platform.cpp
+1>VStack.cpp
+1>Vector4d.cpp
+1>Vector3d.cpp
+1>Vector2d.cpp
+1>VArray.cpp
+1>Variant.cpp
+1>Unzip.cpp
+1>TZPlex.cpp
+1>Tuple4d.cpp
+1>Tuple3d.cpp
+1>Tuple2d.cpp
+1>Test_HugeFileEditor.cpp
+1>StringConverter.cpp
+1>Stream.cpp
+1>Generating Code...
+1>Compiling...
+1>Stack.cpp
+1>Sphere.cpp
+1>SmallFileEditor.cpp
+1>ShapeData.cpp
+1>SetupPacking.cpp
+1>QuickMatrixN.cpp
+1>Quaternion.cpp
+1>PropertyBag.cpp
+1>PoolOfLinkedListOfBulk.cpp
+1>PolynomialRootSolver.cpp
+1>Point3d.cpp
+1>Point2d.cpp
+1>Platform.cpp
+1>PID.cpp
+1>ParamStore.cpp
+1>ParamCracker.cpp
+1>PalStdLib.cpp
+1>OcStreamReader.cpp
+1>OcFileReader.cpp
+1>OcDesFileReader.cpp
+1>Generating Code...
+1>Compiling...
+1>NumericalRecipes.cpp
+1>NumberBag.cpp
+1>MiddleVoteFilter.cpp
+1>MatrixN.cpp
+1>Matrix4d.cpp
+1>Matrix3d.cpp
+1>Matrix2d.cpp
+1>LinkedListPool.cpp
+1>LinePage.cpp
+1>LineMap.cpp
+1>LANAdapterInfo.cpp
+1>KStringMap.cpp
+1>JXmlTextWriter.cpp
+1>JXmlTextReader.cpp
+1>JReplication.cpp
+1>JRectLayout.cpp
+1>JFileInfo.cpp
+1>JCycleValue.cpp
+1>JCycleSchemaPool.cpp
+1>JCycleSchema.cpp
+1>Generating Code...
+1>Compiling...
+1>JCycleDocument.cpp
+1>JAllocateOnlyHeap.cpp
+1>IntervalChecker.cpp
+1>Internet.cpp
+1>IntegerQueue.cpp
+1>IniRegManager.cpp
+1>IniReg.cpp
+1>HugeFileSharedEditor.cpp
+1>HugeFileReader.cpp
+1>HugeFileEditor.cpp
+1>HighPerformanceTimer.cpp
+1>GVector.cpp
+1>GuardStore.cpp
+1>GuardRegistry.cpp
+1>GMatrix.cpp
+1>Geometry2d.cpp
+1>FramStore.cpp
+1>Frame3d.cpp
+1>FRAM_Parallel.cpp
+1>FileDirInfo.cpp
+1>Generating Code...
+1>Compiling...
+1>FIFOQueue.cpp
+1>EventCPBase.cpp
+1>DocStoreAPI.cpp
+1>DNCChannel.cpp
+1>DeviceInfoManager.cpp
+1>DeviceInfo.cpp
+1>DESObj.cpp
+1>Cylinder.cpp
+1>Complex.cpp
+1>CommPort.cpp
+1>CharQueue.cpp
+1>ByteOrder.cpp
+1>Box.cpp
+1>BitSet.cpp
+1>BitFilter.cpp
+1>BinFileLoader.cpp
+1>AxisDimension.cpp
+1>AxisAngle4d.cpp
+1>AxFrame.cpp
+1>AsynQueue.cpp
+1>Generating Code...
+1>Compiling...
+1>Argument.cpp
+1>ArchMgr.cpp
+1>AlarmFlags.cpp
+1>AlarmCode.cpp
+1>Generating Code...
+1>Creating library...
+1>Performing Post-Build Event...
+1>複製了         1 個檔案。
+1>Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Utility\WCE700ARM_Release\BuildLog.htm"
+1>Utility - 0 error(s), 3 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

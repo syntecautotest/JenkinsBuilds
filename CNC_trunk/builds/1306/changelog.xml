@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215152"><author>simon</author><date>2019-01-03T03:37:09.011332Z</date><paths><path action="M" localPath="OCTest\Data\Bug_ISSUE\Params\14144\param.dat" kind="file">/cnckernel/trunk/OCTest/Data/Bug_ISSUE/Params/14144/param.dat</path></paths><msg>merge(2nd): ISSUE_14144_b_G00F0Error, 215151, to 10.118.17
+by 儀禕
+
+fix:
+	修正 x86 自動測試跳 MOT-5 問題</msg></logentry></log>

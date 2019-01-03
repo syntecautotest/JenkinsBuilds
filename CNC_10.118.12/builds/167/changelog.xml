@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215093"><author>1384</author><date>2019-01-03T01:36:08.633780Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/SriDriver/SriDriver.cpp</path><path action="M" localPath="OCDevice\Source\SriDriver\SriDriver.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/SriDriver/SriDriver.cpp</path></paths><msg>merge: ISSUE_13973_b_RemoveFCVerDiffAlarm, 214530 to 10.116.56A, 10.118.12I, 10.118.17
+by 青杉
+
+警報【SRI-004 模组局号或排序与参数不符】，排除韌體版本的檢查。</msg></logentry></log>

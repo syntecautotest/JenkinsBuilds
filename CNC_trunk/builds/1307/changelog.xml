@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215182"><author>1384</author><date>2019-01-03T07:54:32.976058Z</date><paths><path action="M" localPath="OCDevice\Source\MciM3\M3IOChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3IOChannel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciM3/M3IOChannel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/MciM3/M3IOChannel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCDevice/Source/MciM3/M3IOChannel.cpp</path></paths><msg>merge: CNCKL_2658_b_Fix_CM3IOChannel_ArrayInit_118x, 214857-215061 to 10.116.56A, 10.118.0P, 10.118.12I, 10.118.17
+by 振宇
+
+修正M3IOChannel建構子中，記憶體初始化賦值的錯誤</msg></logentry></log>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215096"><author>1384</author><date>2019-01-03T01:50:53.514134Z</date><paths><path action="M" localPath="OCKrnl\Source" kind="dir">/cnckernel/branches/release_v10.116.54/OCKrnl/Source</path><path action="M" localPath="OCKrnl" kind="dir">/cnckernel/branches/release_v10.116.54/OCKrnl</path><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" localPath="." kind="dir">/cnckernel/branches/release_v10.116.54</path></paths><msg>merge: ISSUE_13952_b_skiperror_54x, 214498 to 10.116.56A
+by 竺晏
+
+修正連續選擇性跳躍58個N碼後，系統卡死加工的問題。</msg></logentry></log>
