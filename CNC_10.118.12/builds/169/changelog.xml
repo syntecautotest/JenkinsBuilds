@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215316"><author>1384</author><date>2019-01-04T10:56:10.847152Z</date><paths><path action="M" localPath="OCKrnl\Source\NcLoader\NcProgMgr.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/NcLoader/NcProgMgr.cpp</path></paths><msg>merge: ATEST_1046_b_M98H_Err, 214153 to 10.116.56A, 10.118.12I, 10.118.17
+by 建明
+
+修正連續使用M98H_時，誤發警報的問題。</msg></logentry></log>
