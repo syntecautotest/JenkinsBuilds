@@ -1,0 +1,53 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArrayTypeBuffer.cpp
+VirDynStage.cpp
+TransformManager.cpp
+TimeTrigSrc.cpp
+StageMoveCompensator.cpp
+ObjVirTrig.cpp
+NullDynStage.cpp
+NulLaserChannel.cpp
+ManualJog.cpp
+LaserPLCPanel.cpp
+LaserFileReader.cpp
+LaserCtrlParamSync.cpp
+LaserCtrl.cpp
+LaserCmdInterpolator.cpp
+LaserAxis.cpp
+GalvoHome.cpp
+GalvoAxisParamSync.cpp
+GalvoAxis.cpp
+DynStageTrackingCtrl.cpp
+DynStageMarkMgr.cpp
+Generating Code...
+Compiling...
+DistortionTransform.cpp
+DCTLoader.cpp
+DCTCreater.cpp
+CBMParamSync.cpp
+BeltDynStage.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrl\Release\BuildLog.htm"
+LaserCtrl - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+LaserCtrlDll.cpp
+Linking...
+   Creating library d:\jenkins\workspace\cnc_10.118.12\laserctrl\source\release\LaserCtrlDll.lib and object d:\jenkins\workspace\cnc_10.118.12\laserctrl\source\release\LaserCtrlDll.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrlDll\Release\BuildLog.htm"
+LaserCtrlDll - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+
