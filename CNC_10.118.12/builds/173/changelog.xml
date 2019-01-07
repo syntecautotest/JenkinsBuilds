@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215357"><author>simon</author><date>2019-01-07T03:12:28.135874Z</date><paths><path action="M" kind="file">/cnckernel/trunk/res/Lathe/Macro/G999169</path><path action="M" localPath="res\Lathe\Macro\G999169" kind="file">/cnckernel/branches/release_v10.118.12/res/Lathe/Macro/G999169</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/res/Lathe/Macro/G999169</path></paths><msg>merge: ISSUE_14010_b_G68002NoCancel, 214946, to 10.116.56A, 10.118.12I, 10.118.17
+by 儀禕
+
+fix:
+	修正車床特徵座標系/斜平面加工(G68.2/G68.3)無法取消的問題。 
+	[相容性異動] 
+
+	車床的特徵座標系/斜平面加工(G68.2/G68.3)取消G碼為G69。 
+	車床G69同時取消鏡像功能(G68)與特徵座標系/斜平面加工(G68.2/G68.3)。</msg></logentry></log>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215356"><author>louis.go</author><date>2019-01-07T02:48:15.882523Z</date><paths><path action="M" localPath="Res\_Arm\_Cutting\_60A\Common\Plugin\CONFIG\Plugin32.config" kind="file">/appkernel/branches/AppKernel_10.116.54/Res/_Arm/_Cutting/_60A/Common/Plugin/CONFIG/Plugin32.config</path></paths><msg>merge WOOD_896_b_Fix60CA_Config, 215351 to 10.116.56A
+by 宗羲
+修正 
+    60CA模擬器開啟跳彈窗</msg></logentry></log>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215458"><author>louis.go</author><date>2019-01-07T08:48:40.374792Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/_60DB/Source/DrillCAM/GeomtryOperation/Geometry2D_Utility.cs</path><path action="M" localPath="PlugIn\_60DB\Source\DrillCAM\GeomtryOperation\Geometry2D_Utility.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/_60DB/Source/DrillCAM/GeomtryOperation/Geometry2D_Utility.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/PlugIn/_60DB/Source/DrillCAM/GeomtryOperation/Geometry2D_Utility.cs</path></paths><msg>merge WOOD_823_b_MillPathWrong_2, 211104-211110 to 10.116.56A, 10.118.12I, 10.118.17
+by 孟璟
+修正
+    銑型路徑錯誤問題</msg></logentry></log>

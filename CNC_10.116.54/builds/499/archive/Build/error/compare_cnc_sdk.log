@@ -1,0 +1,10 @@
+Files that are found in folder Current_sdk but NOT in folder Previous_sdk :
+
+CNCSDK\inc\UseTimeCommon.h
+CNCSDK\inc\UTPassword.h
+----------------------------------------------------------------------
+Files that are found in folder Previous_sdk but NOT in folder Current_sdk :
+
+CNCSDK\inc\UseTimeProtect.h
+CNCSDK\inc\ValidityProtect.h
+----------------------------------------------------------------------

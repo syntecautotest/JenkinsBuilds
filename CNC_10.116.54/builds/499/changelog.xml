@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215374"><author>1384</author><date>2019-01-07T04:10:35.818400Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\GoldenData.txt" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="A" localPath="res\_Arm\_Mill\_610A-H5" copyfrom-path="/cnckernel/branches/CNCKL/CNCKL_2650_f_AddModel_610MA-H5_11654x/res/_Arm/_Mill/_610A-H5" copyfrom-rev="215328" kind="dir">/cnckernel/branches/release_v10.116.54/res/_Arm/_Mill/_610A-H5</path><path action="M" localPath="OCKrnl\Source\ProductInfo\OptionDef.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/ProductInfo/OptionDef.h</path><path action="M" localPath="OCKrnl\Source\ProductInfo\ProductTable.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/ProductInfo/ProductTable.h</path><path action="M" localPath="OCKrnl\Source\ProductInfo\CncModel.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/ProductInfo/CncModel.h</path></paths><msg>merge: CNCKL_2650_f_AddModel_610MA-H5_11654x, 214667-215328 to 10.116.56A
+merge: CNCKL_2650_f_AddModel_610MA-H5_11812x, 214639-215340 to 10.118.12I
+merge: CNCKL_2650_f_AddModel_610MA-H5_118x, 214541-215338 to 10.118.17
+by 侑庭
+
+1. 新增機型: 輕切削專用五軸(610MA-H5)
+2. 新增Funtion58 ( 對應Option 30 )五軸聯動功能，提供自動化機型選配
+3. 原本-5機型的Function58保留為標配
+4. 銑床21,22,200,210,220系列機型選配 option29 4軸RTCP
+5. 木工610A-H、610B-H機型選配 option29 4軸RTCP</msg></logentry></log>
