@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215506"><author>1384</author><date>2019-01-08T01:27:35.355574Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/MciRTEX/RTEXChannel.cpp</path><path action="M" localPath="OCDevice\Source\MciRTEX\RTEXChannel.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciRTEX/RTEXChannel.cpp</path></paths><msg>merge: CNCKL_2659_b_RTEX_VFF_FixMotorMinSpeed, 215065-215201 to 10.118.12I, 10.118.17
+by 侑庭
+
+修正RTEX VFF功能的速度上下限設定</msg></logentry></log>

@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215568"><author>colingsta</author><date>2019-01-08T05:21:34.725033Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\CanCycle\Scr_CycleInput.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/CanCycle/Scr_CycleInput.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/CanCycle/Scr_CycleInput.cs</path></paths><msg>merge appkernel/ISSUE_13987_b_InsertCanCycleError r214638 to 10.118.12I, 10.118.17, by 景媖
+
+修正
+    "插入循環"第一頁參數未寫入加工檔的問題
+</msg></logentry></log>

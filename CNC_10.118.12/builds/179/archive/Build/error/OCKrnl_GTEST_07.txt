@@ -1,0 +1,113 @@
+------ Rebuild All started: Project: EventAP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventAP.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Event, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PathPlan, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PathPlan', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArcResolver.cpp
+ToolTableManager.cpp
+ToolRadius.cpp
+ToolOffset.cpp
+ScanTable.cpp
+Scaling.cpp
+Rotation.cpp
+RobotToolManager.cpp
+RobotToolLoader.cpp
+RobotParamSync.cpp
+RobotCoordinate.cpp
+ReadySink.cpp
+ProgramContext.cpp
+PolarCommand.cpp
+PathSmooth.cpp
+MRPTransform.cpp
+MRPQueue.cpp
+MRPPool.cpp
+MRPFilter.cpp
+ModalMacroContext.cpp
+Generating Code...
+Compiling...
+ModalContext.cpp
+MacroType.cpp
+MacroCore.cpp
+LocalVariable.cpp
+KinematicsParamSync.cpp
+ICoordParamSync.cpp
+ICoordinate.cpp
+GenKinematicsParamSync.cpp
+DirectDrawCorner.cpp
+DirectDrawAngle.cpp
+CornerFeature.cpp
+CoordPLCPanel.cpp
+CoordParamSync.cpp
+Coordinate.cpp
+BreakPointScanner.cpp
+BreakPointHandler.cpp
+BlockTransform.cpp
+BlockContext.cpp
+BackgndExecuter.cpp
+AxisAddress.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PathPlan\Release\BuildLog.htm"
+PathPlan - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PathPlanTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PathPlanTest', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+PathPlanTest.cpp
+Linking...
+gmock_main.lib(gmock_main.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+Generating code
+Finished generating code
+Embedding manifest...
+Performing Post-Build Event...
+Running main() from gmock_main.cc
+[==========] Running 1 test from 1 test case.
+[----------] Global test environment set-up.
+[----------] 1 test from PathPlanTest (0 ms total)
+[----------] Global test environment tear-down
+[==========] 1 test from 1 test case ran. (16 ms total)
+[  PASSED  ] 1 test.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\PathPlanTest\Release\BuildLog.htm"
+PathPlanTest - 0 error(s), 0 warning(s)
+========== Rebuild All: 4 succeeded, 0 failed, 0 skipped ==========
+

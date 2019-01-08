@@ -1,0 +1,19 @@
+Date: 2019/01/08 ¬P´Á¤G	14:11:21 
+CPU: x86;Arm 
+Machine: Mill;Lathe;HC;FC;WOOD;GlassGrind;Cutting;Scanning;Print;Drill 
+Model: 6A;6B;6D;6D-H;6D-E;6A-E;6B-E;11A;11B;11A-X;11B-X;21A;21B;21A-X;21B-X;21A-H;21B-H;21A-E;21B-E;210A-H;210B-H;210A-H5;210B-H5;30GM;8A;8B;8C;8C-5;8E;8S;10A;10B;10C;10C-5;10E;12A;12B;15A;15B;15C;15C-5;15E;A;B;B-5;80GM;60A;60B;60C;610A-H;610B-H;70B;70A;71A;7A;22A;22B;220A;200A-X;220B;200B-X;220A-5;200A-X5;220B-5;200B-X5;610A-H5;SUPER-X 
+ 
+Execute Compile Section Only
+ 
+Start Build Bin 
+/* Cleaning Files */ 
+/* Unpacking OCSDK 10.116.54Z */ 
+/* Compile OCUSER */ 
+/* Compile Std. CncMon and MMICommon Library */ 
+/* Compile EHMC CncMon and MMICommon Library */ 
+/* Compile CncMon and MMICommon for Autotest */ 
+/* Compile AutoTest Module */ 
+/* Compile Plugin Module */ 
+/* Remove OCSDK */ 
+/* Check Compile Results */ 
+Compile Succeeded! 

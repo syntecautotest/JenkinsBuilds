@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215672"><author>1212</author><date>2019-01-08T10:33:58.797555Z</date><paths><path action="M" localPath="Res\_Arm\_Scanning\Common\CncFenu5.xml" kind="file">/appkernel/branches/AppKernel_10.116.54/Res/_Arm/_Scanning/Common/CncFenu5.xml</path><path action="M" localPath="Res\_Arm\_Scanning\Common\CncFenu.xml" kind="file">/appkernel/branches/AppKernel_10.116.54/Res/_Arm/_Scanning/Common/CncFenu.xml</path></paths><msg>merge appkernel/ISSUE_13925_b_70SBDriverHardwareButton r214116-r215547 to 10.116.56A, 10.118.12I, 10.118.17, by 晉安
+
+新增
+    70SB與71SA新增驅動器硬體管理按鍵 </msg></logentry></log>

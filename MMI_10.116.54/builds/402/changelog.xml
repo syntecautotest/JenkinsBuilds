@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215654"><author>1212</author><date>2019-01-08T09:29:08.213121Z</date><paths><path action="M" localPath="PlugIn\LaserScanningCADCAM\Source\LaserUtility.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/LaserScanningCADCAM/Source/LaserUtility.cs</path></paths><msg>merge appkernel/AUTO_1931_b_ContentDisplayError r214809-r215415 to 10.116.56A, 10.118.12I, 10.118.17, by 晉安
+
+修正
+    特定步驟無法正常顯示圖元內容的問題</msg></logentry></log>
