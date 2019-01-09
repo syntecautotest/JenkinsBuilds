@@ -1,0 +1,18 @@
+Files that are found in folder Current_res but NOT in folder Previous_res :
+
+Res\_Arm\_Mill\_610A-H5\Res\apppmeng.pin
+Res\_Arm\_Mill\_610A-H5\Res\milmacro.res
+Res\_Arm\_Mill\_610A-H5\Res\roteng.pin
+Res\_Arm\_Mill\_610A-H5\Res\splcaeng.pin
+Res\_Arm\_Mill\_610A-H5\Res\sripmeng.pin
+Res\_Arm\_Mill\_610A-H5\Res\sysmacro.res
+Res\_Arm\_Mill\_610A-H5\Res\syspmeng.pin
+Res\_Arm\_Mill\_610A-H5\Data\CncBase_Ext.ini
+Res\_Arm\_Mill\_610A-H5\Common\SyntecParam.xml
+Res\_Arm\_Mill\_610A-H5\Common\string\SysParamCom_COM.xml
+Res\_Arm\_Mill\_610A-H5\CHT\string\SysParamCht_COM.xml
+Res\_Arm\_Mill\_610A-H5\CHS\string\SysParamChs_COM.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_res but NOT in folder Current_res :
+
+----------------------------------------------------------------------

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215699"><author>colingsta</author><date>2019-01-09T00:58:47.567417Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Screen/Scr_WorkPiece.cs</path><path action="M" localPath="MMICommon\Source\Screen\Scr_WorkPiece.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Scr_WorkPiece.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_WorkPiece.cs</path></paths><msg>merge appkernel/ISSUE_14057_b_OffsetInputError r214950-r215607 to 10.116.56A, 10.118.12I, 10.118.17, by 鎮宇
+
+修正
+    偏置設定會設到其它座標系的問題</msg></logentry><logentry revision="215722"><author>colingsta</author><date>2019-01-09T01:28:34.722156Z</date><paths><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrDiagnostic/Scr_Ladder.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScrDiagnostic\Scr_Ladder.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/ScrDiagnostic/Scr_Ladder.cs</path></paths><msg>merge appkernel/ISSUE_13196_f_OnlinePLCFuncExtension r214995-r215272 to 10.118.12i, 10.118.17, by 景媖
+
+新增
+     階梯圖線上編輯功能, 可編輯(編輯/複製/貼上)元件加入Compare/Counter系列元件</msg></logentry></log>
