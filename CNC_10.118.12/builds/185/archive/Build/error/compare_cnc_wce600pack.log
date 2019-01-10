@@ -1,0 +1,12 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+DiskC\OpenCNC\firmware\FC-DO-16.bin
+DiskC\OpenCNC\firmware\FC-DO-32.bin
+DiskC\OpenCNC\firmware\FC-LSRMK.bin
+DiskC\OpenCNC\firmware\FC-RESVR.bin
+DiskC\OpenCNC\firmware\FC-SMLSR.bin
+DiskC\OpenCNC\firmware\FC-TMPSR.bin
+----------------------------------------------------------------------

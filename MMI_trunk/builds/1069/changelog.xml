@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="215878"><author>colingsta</author><date>2019-01-10T01:53:14.455632Z</date><paths><path action="M" localPath="SyntecRemoteCNC\Syntec.RemoteCNC.csproj" kind="file">/appkernel/trunk/SyntecRemoteCNC/Syntec.RemoteCNC.csproj</path></paths><msg>fix: Compile Error, due to MMI-3727
+   移除誤上傳</msg></logentry></log>
