@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216099"><author>colingsta</author><date>2019-01-11T07:43:51.443259Z</date><paths><path action="M" localPath="Syntec.OpenCNC\Cnc.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/Cnc.cs</path></paths><msg>merge appkernel/MMI_3727_f_RemoteApiCompatibility_118_x r216047 to 10.118.17, by 景媖
+
+fix:
+    軸名稱讀取錯誤問題</msg></logentry></log>

@@ -1,0 +1,146 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8376528397927493587.bat
+ID:1436 Date:2019/01/14 17:32:26
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+error: open("TESTGROUP3/Software/Test/Common/Common/package_509b1a78.zip"): No such file or directory
+error: unable to index file TESTGROUP3/Software/Test/Common/Common/package_509b1a78.zip
+fatal: adding files failed
+On branch master
+Changes not staged for commit:
+	deleted:    11MA/Software/Test/Common/package_be342bb0.zip
+	deleted:    11MB/Software/Test/Common/package_29e66e4b.zip
+	deleted:    11TA/Software/Test/Common/package_37faf98d.zip
+	deleted:    11TB/Software/Test/Common/package_22425c6f.zip
+	deleted:    21MA/Software/Test/Common/package_ed0fc3d5.zip
+	deleted:    21MA_E/Software/Test/Common/package_fe86ad2.zip
+	deleted:    21MA_H/Software/Test/Common/package_1e78c7a9.zip
+	deleted:    21TA/Software/Test/Common/package_dddb823f.zip
+	deleted:    21TA_E/Software/Test/Common/package_672a12cf.zip
+	deleted:    21TA_H/Software/Test/Common/package_ce5f612a.zip
+	deleted:    21TB/Software/Test/Common/package_3faf4352.zip
+	deleted:    21TB_E/Software/Test/Common/package_22a94b25.zip
+	deleted:    21TB_H/Software/Test/Common/package_2e38d98a.zip
+	deleted:    6MA_E/Software/Test/Common/package_7a2d9c9e.zip
+	deleted:    6MB_E/Software/Test/Common/package_71e6c658.zip
+	deleted:    6MD/Software/Test/Common/package_ef3ca439.zip
+	deleted:    6MD_H/Software/Test/Common/package_5e4640fb.zip
+	deleted:    6TA_E/Software/Test/Common/package_6ccfaae.zip
+	deleted:    6TD_H/Software/Test/Common/package_81fa39b9.zip
+	deleted:    HC_10A/Software/Test/Common/package_8800a80.zip
+	deleted:    HC_10B/Software/Test/Common/package_ee5e031.zip
+	deleted:    HC_10E/Software/Test/Common/package_82d6b558.zip
+	deleted:    HC_15A/Software/Test/Common/package_96d51514.zip
+	deleted:    HC_15B/Software/Test/Common/package_312f9d49.zip
+	deleted:    HC_15E/Software/Test/Common/package_5940e243.zip
+	deleted:    HC_8A/Software/Test/Common/package_28306816.zip
+	deleted:    HC_8B/Software/Test/Common/package_914edf6f.zip
+	deleted:    HC_8E/Software/Test/Common/package_9b38c5f3.zip
+	deleted:    HC_8S/Software/Test/Common/package_51d245a8.zip
+	modified:   JenkinsServerIP
+	modified:   LOCK
+	deleted:    NewGroup/Software/Test/Common/package_c5f52d27.zip
+	deleted:    TESTGROUP3/Software/Delivery/Common/package_977ef64c.zip
+	deleted:    TESTGROUP3/Software/Test/Common/10inch/package_5ca3186b.zip
+	deleted:    TESTGROUP3/Software/Test/Common/10inch_Touch/package_cce1e313.zip
+	deleted:    TESTGROUP3/Software/Test/Common/15inch/package_61b943cd.zip
+	deleted:    TESTGROUP3/Software/Test/Common/15inch_Touch/package_6739a7fa.zip
+	deleted:    TESTGROUP3/Software/Test/Common/8inch/package_dbe3bba1.zip
+	deleted:    TESTGROUP3/Software/Test/Common/8inch_Touch/package_d6e273cf.zip
+	deleted:    TESTGROUP3/Software/Test/Common/Common/package_8f664eba.zip
+	deleted:    TESTGROUP3/Software/Test/Common/package_dddb823f.zip
+	deleted:    TestGroup/Software/Delivery/Common/10inch/package_e522848e.zip
+	deleted:    TestGroup/Software/Delivery/Common/10inch_Touch/package_25526acd.zip
+	deleted:    TestGroup/Software/Delivery/Common/15inch/package_d23e6725.zip
+	deleted:    TestGroup/Software/Delivery/Common/15inch_Touch/package_d23e6725.zip
+	deleted:    TestGroup/Software/Delivery/Common/8inch/package_f055b005.zip
+	deleted:    TestGroup/Software/Delivery/Common/8inch_Touch/package_314bc0dc.zip
+	deleted:    TestGroup/Software/Delivery/Common/Common/package_d23e6725.zip
+	deleted:    TestGroup/Software/Delivery/Common/package_d23e6725.zip
+	deleted:    TestGroup/Software/Test/Common/10inch/package_ea1935f4.zip
+	deleted:    TestGroup/Software/Test/Common/10inch_Touch/package_e2392165.zip
+	deleted:    TestGroup/Software/Test/Common/15inch/package_9ae89f9.zip
+	deleted:    TestGroup/Software/Test/Common/15inch_Touch/package_71a9610e.zip
+	deleted:    TestGroup/Software/Test/Common/8inch/package_b1ecf644.zip
+	deleted:    TestGroup/Software/Test/Common/8inch_Touch/package_f47a9be1.zip
+	deleted:    TestGroup/Software/Test/Common/Common/package_3722f7c6.zip
+	deleted:    TestGroup/Software/Test/Common/package_1fc4abc3.zip
+
+Untracked files:
+	11MA/Software/Test/Common/package_e139cd68.zip
+	11MB/Software/Test/Common/package_eb3c01e1.zip
+	11TA/Software/Test/Common/package_c3a5751f.zip
+	11TB/Software/Test/Common/package_7f22b95a.zip
+	21MA/Software/Test/Common/package_85183be.zip
+	21MA_E/Software/Test/Common/package_c57311ec.zip
+	21MA_H/Software/Test/Common/package_b1340a.zip
+	21TA/Software/Test/Common/package_44083c08.zip
+	21TA_E/Software/Test/Common/package_7a8286a1.zip
+	21TA_H/Software/Test/Common/package_8a6206e1.zip
+	21TB/Software/Test/Common/package_bb88755c.zip
+	21TB_E/Software/Test/Common/package_eaf4a648.zip
+	21TB_H/Software/Test/Common/package_7cb9f93e.zip
+	6MA_E/Software/Test/Common/package_7ef5b83b.zip
+	6MB_E/Software/Test/Common/package_db571f03.zip
+	6MD/Software/Test/Common/package_cbaefda5.zip
+	6MD_H/Software/Test/Common/package_32e07d76.zip
+	6TA_E/Software/Test/Common/package_28e325b3.zip
+	6TD_H/Software/Test/Common/package_ca980a85.zip
+	HC_10A/Software/Test/Common/package_a131ecf7.zip
+	HC_10B/Software/Test/Common/package_7764af37.zip
+	HC_10E/Software/Test/Common/package_7f5d15a6.zip
+	HC_15A/Software/Test/Common/package_f6387882.zip
+	HC_15B/Software/Test/Common/package_40ad1831.zip
+	HC_15E/Software/Test/Common/package_e0add947.zip
+	HC_8A/Software/Test/Common/package_8ef3fcc3.zip
+	HC_8B/Software/Test/Common/package_720cad28.zip
+	HC_8E/Software/Test/Common/package_38768c7.zip
+	HC_8S/Software/Test/Common/package_b75d6acc.zip
+	NewGroup/Software/Test/Common/package_3878a951.zip
+	TESTGROUP3/Software/Delivery/Common/package_c31858b4.zip
+	TESTGROUP3/Software/Test/Common/10inch/package_f6454d0d.zip
+	TESTGROUP3/Software/Test/Common/10inch_Touch/package_43691096.zip
+	TESTGROUP3/Software/Test/Common/15inch/package_89bd5f3d.zip
+	TESTGROUP3/Software/Test/Common/15inch_Touch/package_d8b3a4c8.zip
+	TESTGROUP3/Software/Test/Common/8inch/package_14e7cbec.zip
+	TESTGROUP3/Software/Test/Common/8inch_Touch/package_4962d7b3.zip
+	TESTGROUP3/Software/Test/Common/Common/package_2f9af795.zip
+	TESTGROUP3/Software/Test/Common/package_196ffec4.zip
+	TestGroup/Software/Delivery/Common/package_977ef64c.zip
+	TestGroup/Software/Test/Common/package_98f34c99.zip
+	TestGroup1/Software/Delivery/Common/10inch/
+	TestGroup1/Software/Delivery/Common/10inch_Touch/
+	TestGroup1/Software/Delivery/Common/15inch/
+	TestGroup1/Software/Delivery/Common/15inch_Touch/
+	TestGroup1/Software/Delivery/Common/8inch/
+	TestGroup1/Software/Delivery/Common/8inch_Touch/
+	TestGroup1/Software/Delivery/Common/Common/
+	TestGroup1/Software/Test/Common/10inch/
+	TestGroup1/Software/Test/Common/10inch_Touch/
+	TestGroup1/Software/Test/Common/15inch/
+	TestGroup1/Software/Test/Common/15inch_Touch/
+	TestGroup1/Software/Test/Common/8inch/
+	TestGroup1/Software/Test/Common/8inch_Touch/
+	TestGroup1/Software/Test/Common/Common/
+
+
+It took 3.41 seconds to enumerate untracked files. 'status -uno'
+may speed it up, but you have to be careful not to forget to add
+new files yourself (see 'git help status').
+no changes added to commit
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+Everything up-to-date
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
