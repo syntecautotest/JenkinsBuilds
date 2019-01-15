@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216347"><author>1384</author><date>2019-01-15T06:19:16.345007Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotExecutive.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotExecutive.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path></paths><msg>merge: ATEST_1069_b_FixMotionPlannerChange_118x, 216321 to 10.118.17
+by 振宇
+
+修正MotionPlanner使用錯誤造成卡死加工中的問題</msg></logentry></log>

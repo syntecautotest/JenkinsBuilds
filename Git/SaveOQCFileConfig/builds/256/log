@@ -1,0 +1,99 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4GQRv3C5Dpn+yZT/nLfXmHvQn7qY+FwwraZEhncOCnF0AAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9kZg4ACAk/Xs8AAAA=[0m267 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2387574491657303562.bat
+ID:10101169 Date:2019/01/15 16:24:24
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   11MA.xml
+	modified:   11MB.xml
+	modified:   11TA.xml
+	modified:   11TB.xml
+	modified:   210TB-H5.xml
+	modified:   21MA-H.xml
+	modified:   21MA.xml
+	modified:   21TA-H.xml
+	modified:   21TA.xml
+	modified:   21TB-H.xml
+	modified:   21TB.xml
+	modified:   22MA.xml
+	modified:   22TA.xml
+	modified:   22TB.xml
+	modified:   60PB.xml
+	modified:   6GB-G.xml
+	modified:   6MA-E.xml
+	modified:   6MA.xml
+	modified:   6MB.xml
+	modified:   6MD-H.xml
+	modified:   6MD.xml
+	modified:   6TA.xml
+	modified:   6TB.xml
+	modified:   6TD-H.xml
+	modified:   7MA.xml
+	modified:   7TA.xml
+	modified:   HC-10A.xml
+	modified:   HC-10B.xml
+	modified:   HC-10C.xml
+	modified:   HC-15B.xml
+	modified:   HC-8A.xml
+	modified:   HC-8B.xml
+	modified:   HC-8C.xml
+	modified:   HC-8E.xml
+	modified:   IQC.xml
+	modified:   REV.props
+	modified:   TestGroup1.xml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 01f147a] 2019/01/15 16:24:24 by 10101169, Modified Products: 220MA
+ 37 files changed, 37 insertions(+), 37 deletions(-)
+ rewrite 11MA.xml (95%)
+ rewrite 11MB.xml (95%)
+ rewrite 11TA.xml (95%)
+ rewrite 11TB.xml (95%)
+ rewrite 210TB-H5.xml (90%)
+ rewrite 21MA-H.xml (95%)
+ rewrite 21MA.xml (95%)
+ rewrite 21TA-H.xml (90%)
+ rewrite 21TA.xml (95%)
+ rewrite 21TB-H.xml (90%)
+ rewrite 21TB.xml (95%)
+ rewrite 22MA.xml (95%)
+ rewrite 22TA.xml (95%)
+ rewrite 22TB.xml (95%)
+ rewrite 60PB.xml (95%)
+ rewrite 6GB-G.xml (88%)
+ rewrite 6MA-E.xml (95%)
+ rewrite 6MA.xml (94%)
+ rewrite 6MB.xml (94%)
+ rewrite 6MD-H.xml (95%)
+ rewrite 6MD.xml (95%)
+ rewrite 6TA.xml (94%)
+ rewrite 6TB.xml (94%)
+ rewrite 6TD-H.xml (95%)
+ rewrite 7MA.xml (94%)
+ rewrite 7TA.xml (94%)
+ rewrite HC-10A.xml (95%)
+ rewrite HC-10B.xml (95%)
+ rewrite HC-10C.xml (95%)
+ rewrite HC-15B.xml (95%)
+ rewrite HC-8A.xml (95%)
+ rewrite HC-8B.xml (95%)
+ rewrite HC-8C.xml (95%)
+ rewrite HC-8E.xml (95%)
+ rewrite IQC.xml (85%)
+ rewrite TestGroup1.xml (100%)
+To github.com:syntecautotest/OQCFileConfig.git
+   3e0ac97..01f147a  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
