@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216540"><author>simon</author><date>2019-01-16T10:23:48.661855Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\CutRTCP.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/CutRTCP.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.17/OCKrnl/Source/MotionPlan/CutRTCP.cpp</path></paths><msg>merge(2nd): HSHP_2285_f_New5AxAlgoImplement_118_17, 216538, to 10.118.17 by 敬元
+
+fix:
+	少一個unlock.</msg></logentry><logentry revision="216573"><author>marskao</author><date>2019-01-16T10:59:02.590368Z</date><paths><path action="M" localPath="Build\Release_utf8.txt" kind="file">/cnckernel/trunk/Build/Release_utf8.txt</path></paths><msg>update release note</msg></logentry></log>

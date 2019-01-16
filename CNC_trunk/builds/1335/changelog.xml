@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216498"><author>1384</author><date>2019-01-16T07:39:48.351772Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path></paths><msg>merge(2nd): CNCKL_2615_f_KrnlMMI_MutexCheck_118x, 215868 to 10.118.17
+by 振宇
+
+補上 pIntMotionPlanner 為 NULL pointer 的保護</msg></logentry></log>
