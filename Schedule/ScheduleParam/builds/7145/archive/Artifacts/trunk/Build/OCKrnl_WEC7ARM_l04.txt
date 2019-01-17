@@ -1,0 +1,49 @@
+------ Rebuild All started: Project: EventAP, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+EventAP.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCKrnl\Source\EventAP\WCE700ARM_Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Event, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCKrnl\Source\Event\WCE700ARM_Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KePLC, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'KePLC', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+LadderCompiler.cpp
+PLCUtility.cpp
+PLCScanner.cpp
+PLCDeviceManager.cpp
+PLCAlarmDef.cpp
+LadderWRPool.cpp
+LadderParser.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCKrnl\Source\KePLC\WCE700ARM_Release\BuildLog.htm"
+KePLC - 0 error(s), 0 warning(s)
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========
+

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216583"><author>simon</author><date>2019-01-17T01:00:56.965199Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\ProductSetTest.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/ProductInfoTest/ProductSetTest.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.17/OCKrnl/Source/GMock/ProductInfoTest/ProductSetTest.cpp</path></paths><msg>merge(2nd): HSHP_1140_f_SubMachineFunction_v2, 216582, to 10.118.17 by 儀禕
+
+fix:
+	修正GTest記憶體破壞問題</msg></logentry></log>

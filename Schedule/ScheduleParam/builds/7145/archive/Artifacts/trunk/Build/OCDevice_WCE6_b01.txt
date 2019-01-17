@@ -1,0 +1,516 @@
+------ Rebuild All started: Project: ServoLink, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'ServoLink', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ServoLink.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ServoCommHost.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SerialPort.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SanyoServo.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+RS232Export.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+MitsubishiComm.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library WCE600Release\ServoLink.lib and object WCE600Release\ServoLink.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\ServoLink\WCE600Release\BuildLog.htm"
+ServoLink - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CANObjectDictionary, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CANObjectDictionary', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CANObjDicLoader.cpp
+VendorObjDictionary.cpp
+CommonObjDictionary.cpp
+CANObjDictionary.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\CANObjectDictionary\WCE600Release\BuildLog.htm"
+CANObjectDictionary - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CNC2ASIC, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CNC2ASIC', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+CNC2ASIC.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+M3Mechatrolink.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CNC2Driver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\CNC2ASIC\WCE600Release\BuildLog.htm"
+CNC2ASIC - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SvoUtility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'SvoUtility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+CtrlParam.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+MotorInfoResMap.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+MotorInfoLoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LatchFunction.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DelayCount.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\SvoUtility\WCE600Release\BuildLog.htm"
+SvoUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoTuning, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ChTuningControl.cpp
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\ServoTuning\WCE600Release\BuildLog.htm"
+ServoTuning - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SerialParam, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'SerialParam', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+DeviceParamSync.cpp
+SyntecMemoryMap.cpp
+SerialParamTable.cpp
+SerialParamSync.cpp
+SerialParamLoader.cpp
+SerialParamInit.cpp
+SerialParamDefManager.cpp
+ParamAttrMapManager.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\SerialParam\WCE600Release\BuildLog.htm"
+SerialParam - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoDriver, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'ServoDriver', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+30gmASIC.cpp
+XY2Channel.cpp
+VirtaulServo5.cpp
+TnCtrlChannel.cpp
+SysIDRead.cpp
+SvoRtl.cpp
+SvoMultiplier.cpp
+SvoMinAbsFilter.cpp
+SvoFineDDA.cpp
+SvoDriver.cpp
+SvoChannel.cpp
+ServoDevice.cpp
+Servo60Driver.cpp
+Servo60Channel.cpp
+Servo5Driver.cpp
+Servo5Channel.cpp
+RWObjMgr.cpp
+NulMCIChannel.cpp
+NullDriver.cpp
+NullChannel.cpp
+Generating Code...
+Compiling...
+NetServoDriver.cpp
+NetServoChannel.cpp
+M2JL098Driver.cpp
+M2JL080Driver.cpp
+M2Driver.cpp
+M2Channel.cpp
+M2ASICCommDriver.cpp
+LaserChannel.cpp
+FineInterpolation.cpp
+EPCIOSVO5.cpp
+EPCIORIO.cpp
+EPCIOPCL.cpp
+EPCIOLIO.cpp
+EPCIOENC.cpp
+EPCIOEDM.cpp
+EPCIODriver.cpp
+EPCIODDA.cpp
+EPCIODAC.cpp
+EPCIOChannel.cpp
+EPCIOASIC.cpp
+Generating Code...
+Compiling...
+EPCIOADC.cpp
+DAChannel.cpp
+CANSvtnx.cpp
+CANPana.cpp
+CANOpenHomeSearch.cpp
+CANMitsu.cpp
+CANDelta.cpp
+30gmDriver.cpp
+30gmChannel.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\ServoDriver\WCE600Release\BuildLog.htm"
+ServoDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RTCommDriver, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RTCommDriver', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Socket.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+RTCommNetDrv.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+MessageQueue.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+EthercatDrv.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ESIManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ESILoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ESIDevice.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ErrorCodeStack.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ECATDeviceDrv.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DebugModeMgr.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANopenDrv.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANNetMgr.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANCookie.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library WCE600Release/RTCommDriver.lib and object WCE600Release/RTCommDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\RTCommDriver\WCE600Release\BuildLog.htm"
+RTCommDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: IODriver, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'IODriver', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+CNC2IoChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+NullLatchIBitChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+NullIoCh.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+MpgIoChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LatchIBitChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IoMapFile.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IoMap.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IoEPCIO.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IoCNC2PIO.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IoChRly2.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IoChRly1.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IoChHardkey96.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IoChHardkey.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IOCh.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\IODriver\WCE600Release\BuildLog.htm"
+IODriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CANDeviceDriver, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CANDeviceDriver', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+XmlReaderAgent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+PdoSdoMap.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ORXAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANDeviceManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANDeviceDriver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANDevice_CONFIG.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANDEVAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library WCE600Release/CANDeviceDriver.lib and object WCE600Release/CANDeviceDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\CANDeviceDriver\WCE600Release\BuildLog.htm"
+CANDeviceDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: DeviceAlarm, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'DeviceAlarm', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+DeviceAlarmIDDef.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DeviceAlarmTypeDef.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\DeviceAlarm\WCE600Release\BuildLog.htm"
+DeviceAlarm - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PhysicalDriver, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'PhysicalDriver', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+AIOChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+PhysicalDriver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+IOChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ENCChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\PhysicalDriver\WCE600Release\BuildLog.htm"
+PhysicalDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioNull, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CioNull', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CioNull.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library WCE600Release\NullIO.lib and object WCE600Release\NullIO.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\CioNull\WCE600Release\BuildLog.htm"
+CioNull - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciM2, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MciM2', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+MciM2.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\M2.lib and object WCE600Release\M2.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\MciM2\WCE600Release\BuildLog.htm"
+MciM2 - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciNetServo, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MciNetServo', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+MciNetServo.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\NetServo.lib and object WCE600Release\NetServo.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\MciNetServo\WCE600Release\BuildLog.htm"
+MciNetServo - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciServo60, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MciServo60', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+MciServo60.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\Servo60.lib and object WCE600Release\Servo60.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\MciServo60\WCE600Release\BuildLog.htm"
+MciServo60 - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciRTEX, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MciRTEX', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+RTEXProtocol.cpp
+RTEXDriver.cpp
+RTEXChannel.cpp
+MNM1221.cpp
+MciRTEX.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\RTEX.lib and object WCE600Release\RTEX.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\MciRTEX\WCE600Release\BuildLog.htm"
+MciRTEX - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Mci30GM, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Mci30GM', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+Mci30GM.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\30GM.lib and object WCE600Release\30GM.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\Mci30GM\WCE600Release\BuildLog.htm"
+Mci30GM - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SriDriver, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'SriDriver', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SriSupDevManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SriPLCPanel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SriModule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SriDriver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SriDeviceLoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SriConfigSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SriComPort.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+ModbusFrame.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library WCE600Release\SriDriver.lib and object WCE600Release\SriDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\SriDriver\WCE600Release\BuildLog.htm"
+SriDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: DLLPhysicalDriver, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'DLLPhysicalDriver', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DllPhysicalDriver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library WCE600Release\PhysicalDriver.lib and object WCE600Release\PhysicalDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\DllPhysicalDriver\WCE600Release\BuildLog.htm"
+DLLPhysicalDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioPio2, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CioPio2', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+CioPio2.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\PIO2.lib and object WCE600Release\PIO2.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\CioPio2\WCE600Release\BuildLog.htm"
+CioPio2 - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioCNC2PIO, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CioCNC2PIO', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+CioCNC2PIO.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\CNC2PIO.lib and object WCE600Release\CNC2PIO.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\CioCNC2PIO\WCE600Release\BuildLog.htm"
+CioCNC2PIO - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciServo5, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MciServo5', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+MciServo5.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\SERVO5.lib and object WCE600Release\SERVO5.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\MciServo5\WCE600Release\BuildLog.htm"
+MciServo5 - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciNull, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MciNull', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+MciNull.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library WCE600Release\Null.lib and object WCE600Release\Null.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\MciNull\WCE600Release\BuildLog.htm"
+MciNull - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciEpcio, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MciEpcio', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+MciEpcio.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\SERVO6.lib and object WCE600Release\SERVO6.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\MciEpcio\WCE600Release\BuildLog.htm"
+MciEpcio - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RFDriver, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RFDriver', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+RFDriver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library WCE600Release\RFDriver.lib and object WCE600Release\RFDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\RFDriver\WCE600Release\BuildLog.htm"
+RFDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioEpcio, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'CioEpcio', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+CioEpcio.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\EPCIO.lib and object WCE600Release\EPCIO.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\CioEpcio\WCE600Release\BuildLog.htm"
+CioEpcio - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: BuildAll, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'BuildAll', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+Compiling...
+BuildAll.cpp
+Compiling resources...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCDevice\Source\BuildAll\WCE600Release\BuildLog.htm"
+BuildAll - 0 error(s), 0 warning(s)
+========== Rebuild All: 28 succeeded, 0 failed, 0 skipped ==========
+

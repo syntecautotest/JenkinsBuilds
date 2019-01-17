@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216584"><author>simon</author><date>2019-01-17T01:03:09.393832Z</date><paths><path action="M" localPath="OCKrnl\Source\MotUtility\MotUtility.vcproj" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/MotUtility.vcproj</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.17/OCKrnl/Source/MotUtility/MotUtility.vcproj</path></paths><msg>merge(3rd): HSHP_2285_f_New5AxAlgoImplement_118_17, 216580, to 10.118.17 by 敬元
+
+fix:
+	補上release project 設定</msg></logentry></log>

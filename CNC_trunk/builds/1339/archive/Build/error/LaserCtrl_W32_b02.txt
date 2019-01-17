@@ -1,0 +1,57 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArrayTypeBuffer.cpp
+VirDynStage.cpp
+TransformManager.cpp
+TimeTrigSrc.cpp
+StageMoveCompensator.cpp
+ObjVirTrig.cpp
+NullDynStage.cpp
+NulLaserChannel.cpp
+ManualJog.cpp
+LaserPLCPanel.cpp
+LaserFileReader.cpp
+LaserDebugData.cpp
+LaserCtrlParamSync.cpp
+LaserCtrl.cpp
+LaserCmdInterpolator.cpp
+LaserAxis.cpp
+GalvoHome.cpp
+GalvoAxisParamSync.cpp
+GalvoAxis.cpp
+DynStageTrackingCtrl.cpp
+Generating Code...
+Compiling...
+DynStageMarkMgr.cpp
+DistortionTransform.cpp
+DCTLoader.cpp
+DCTCreater.cpp
+CBMParamSync.cpp
+BeltDynStage.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\Release\BuildLog.htm"
+LaserCtrl - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: LaserCtrlTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrlTest', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+GalvoAxisTest.cpp
+LaserAxisTest.cpp
+LaserCtrlTest.cpp
+LaserCtrlTestAll.cpp
+LaserPLCPanelTest.cpp
+LaserTransformTest.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'MotUtility.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\GMock\LaserCtrlTest\Release\BuildLog.htm"
+LaserCtrlTest - 1 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 1 failed, 0 skipped ==========
+
