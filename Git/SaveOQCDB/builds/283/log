@@ -1,0 +1,53 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2499111063987815702.bat
+ID:10101436 Date:2019/01/18 10:56:16
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 5128a4f] 2019/01/18 10:56:16 by 10101436, Modified Products: TESTGROUP1,TESTGROUP3
+ 29 files changed, 1 insertion(+)
+ create mode 100644 LOCK
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/10inch/package_977ef64c.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/10inch_Touch/package_977ef64c.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/15inch/package_977ef64c.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/15inch_Touch/package_977ef64c.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/8inch/package_977ef64c.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/8inch_Touch/package_977ef64c.zip
+ create mode 100644 TESTGROUP3/Software/Delivery/Common/Common/package_977ef64c.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/10inch/package_e28c311c.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/10inch_Touch/package_657f3f8.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/15inch/package_a3602521.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/15inch_Touch/package_bcb2d0ab.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/8inch/package_91d0ab0a.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/8inch_Touch/package_b6270e.zip
+ create mode 100644 TESTGROUP3/Software/Test/Common/Common/package_ca6e32a5.zip
+ create mode 100644 TestGroup1/Software/Delivery/Common/10inch/package_977ef64c.zip
+ create mode 100644 TestGroup1/Software/Delivery/Common/10inch_Touch/package_977ef64c.zip
+ create mode 100644 TestGroup1/Software/Delivery/Common/15inch/package_977ef64c.zip
+ create mode 100644 TestGroup1/Software/Delivery/Common/15inch_Touch/package_977ef64c.zip
+ create mode 100644 TestGroup1/Software/Delivery/Common/8inch/package_977ef64c.zip
+ create mode 100644 TestGroup1/Software/Delivery/Common/8inch_Touch/package_977ef64c.zip
+ create mode 100644 TestGroup1/Software/Delivery/Common/Common/package_977ef64c.zip
+ create mode 100644 TestGroup1/Software/Test/Common/10inch/package_bed33fc2.zip
+ create mode 100644 TestGroup1/Software/Test/Common/10inch_Touch/package_a9d16770.zip
+ create mode 100644 TestGroup1/Software/Test/Common/15inch/package_c77c9029.zip
+ create mode 100644 TestGroup1/Software/Test/Common/15inch_Touch/package_bdca6dc0.zip
+ create mode 100644 TestGroup1/Software/Test/Common/8inch/package_a4d0af1e.zip
+ create mode 100644 TestGroup1/Software/Test/Common/8inch_Touch/package_fa5ec47b.zip
+ create mode 100644 TestGroup1/Software/Test/Common/Common/package_998c907c.zip
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   a7e68fb..5128a4f  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

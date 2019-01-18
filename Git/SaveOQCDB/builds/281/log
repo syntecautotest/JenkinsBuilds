@@ -1,0 +1,54 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7705405834950649348.bat
+ID:10101436 Date:2019/01/18 10:23:45
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master a7e68fb] 2019/01/18 10:23:45 by 10101436, Modified Products: TESTGROUP1,TESTGROUP3
+ 30 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 TESTGROUP3/Software/Delivery/Common/10inch/package_977ef64c.zip
+ delete mode 100644 TESTGROUP3/Software/Delivery/Common/10inch_Touch/package_977ef64c.zip
+ delete mode 100644 TESTGROUP3/Software/Delivery/Common/15inch/package_977ef64c.zip
+ delete mode 100644 TESTGROUP3/Software/Delivery/Common/15inch_Touch/package_977ef64c.zip
+ delete mode 100644 TESTGROUP3/Software/Delivery/Common/8inch/package_977ef64c.zip
+ delete mode 100644 TESTGROUP3/Software/Delivery/Common/8inch_Touch/package_977ef64c.zip
+ delete mode 100644 TESTGROUP3/Software/Delivery/Common/Common/package_977ef64c.zip
+ delete mode 100644 TESTGROUP3/Software/Test/Common/10inch_Touch/package_50cf3a38.zip
+ delete mode 100644 TESTGROUP3/Software/Test/Common/15inch/package_839d10f5.zip
+ delete mode 100644 TESTGROUP3/Software/Test/Common/15inch_Touch/package_df0b99ed.zip
+ delete mode 100644 TESTGROUP3/Software/Test/Common/8inch/package_944fc323.zip
+ delete mode 100644 TESTGROUP3/Software/Test/Common/8inch_Touch/package_41110863.zip
+ delete mode 100644 TESTGROUP3/Software/Test/Common/Common/package_c10f03e5.zip
+ delete mode 100644 TESTGROUP3/Software/Test/Common/package_b61625e2.zip
+ rename TestGroup1/Software/Test/Common/15inch_Touch/package_aba9bcf7.zip => TESTGROUP3/Software/Test/Common/package_d9cc3a14.zip (99%)
+ delete mode 100644 TestGroup1/Software/Delivery/Common/10inch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/10inch_Touch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/15inch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/15inch_Touch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/8inch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/8inch_Touch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/Common/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/10inch/package_969c5b45.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/10inch_Touch/package_6841679d.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/15inch/package_ea74b8.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/8inch/package_fa2f3c5c.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/8inch_Touch/package_d0535db.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/Common/package_624886b6.zip
+ rename TESTGROUP3/Software/Test/Common/10inch/package_5a2c8164.zip => TestGroup1/Software/Test/Common/package_24f3cabc.zip (99%)
+ delete mode 100644 TestGroup1/Software/Test/Common/package_dbb4f094.zip
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   44a6670..a7e68fb  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

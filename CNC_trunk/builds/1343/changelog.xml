@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216758"><author>simon</author><date>2019-01-18T03:19:21.970340Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/PathPlan/ArcResolver.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/ArcResolver.h</path><path action="M" localPath="OCKrnl\Source\PathPlan\ArcResolver.h" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/ArcResolver.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/ArcResolver.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/PathPlan/ArcResolver.cpp</path><path action="M" localPath="OCKrnl\Source\PathPlan\ArcResolver.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/ArcResolver.cpp</path></paths><msg>merge: ISSUE_13750_b_G2004TrackingErr, 216333-216472, to 10.116.54B, 10.118.12J, 10.118.18 by 友廷
+
+fix:
+	修正 G2.04圓弧偏位的錯誤
+	修正coding style</msg></logentry></log>

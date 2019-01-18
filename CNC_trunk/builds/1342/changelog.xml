@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216736"><author>hebenctu</author><date>2019-01-18T01:28:40.789075Z</date><paths><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12/OCTest</path><path action="A" copyfrom-path="/cnckernel/branches/CNCTEST/CNCTEST_731_f_HPCCIndicators/OCTest/Data/HPCCIndicators" copyfrom-rev="215626" kind="dir">/cnckernel/branches/release_v10.118.12/OCTest/Data/HPCCIndicators</path><path action="M" localPath="OCTest" kind="dir">/cnckernel/trunk/OCTest</path><path action="M" localPath="." kind="dir">/cnckernel/trunk</path><path action="A" localPath="OCTest\Data\HPCCIndicators" copyfrom-path="/cnckernel/branches/CNCTEST/CNCTEST_731_f_HPCCIndicators/OCTest/Data/HPCCIndicators" copyfrom-rev="215626" kind="dir">/cnckernel/trunk/OCTest/Data/HPCCIndicators</path><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12</path></paths><msg>merge: CNCTEST_731_f_HPCCIndicators, r215626, to 10.118.12J, 10.118.18
+by 其樺
+
+note:
+* 新增銑床HPCC快指標與準指標自動測試pattern</msg></logentry></log>
