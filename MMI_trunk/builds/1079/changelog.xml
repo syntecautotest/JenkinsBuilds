@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216917"><author>1362</author><date>2019-01-19T07:02:19.371190Z</date><paths><path action="M" localPath="Res\_Arm\_Delta\Common\AppData\Soft_Board_Manual.xml" kind="file">/appkernel/trunk/Res/_Arm/_Delta/Common/AppData/Soft_Board_Manual.xml</path><path action="M" localPath="Res\_Arm\_Artic\Screen\OffsetSet\Brw_OffsetSet_main.xml" kind="file">/appkernel/trunk/Res/_Arm/_Artic/Screen/OffsetSet/Brw_OffsetSet_main.xml</path><path action="M" localPath="Res\_Arm\_Scara\Screen\OffsetSet\Brw_OffsetSet_main.xml" kind="file">/appkernel/trunk/Res/_Arm/_Scara/Screen/OffsetSet/Brw_OffsetSet_main.xml</path><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\MotionCmd\Scr_ArticMotionCmd.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotPluginScreen/MotionCmd/Scr_ArticMotionCmd.cs</path><path action="M" localPath="Res\_Arm\Screen\MotionCmd\Brw_MotionCmd_main_SysAxis.xml" kind="file">/appkernel/trunk/Res/_Arm/Screen/MotionCmd/Brw_MotionCmd_main_SysAxis.xml</path><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\OffsetSet\Scr_ArticOffsetSet.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotPluginScreen/OffsetSet/Scr_ArticOffsetSet.cs</path><path action="M" localPath="Res\_Arm\_Scara\Common\AppData\Soft_Board_Manual.xml" kind="file">/appkernel/trunk/Res/_Arm/_Scara/Common/AppData/Soft_Board_Manual.xml</path><path action="M" localPath="Res\_Arm\_Delta\Screen\OffsetSet\Brw_OffsetSet_main.xml" kind="file">/appkernel/trunk/Res/_Arm/_Delta/Screen/OffsetSet/Brw_OffsetSet_main.xml</path></paths><msg>merge appkernel/ROBOT_287_b_MotionCmdEditDisplayIncorrect r214070-r216395 to 10.118.12J, 10.118.18 by 瑞鴻
+
+機器人產品( ARTIC, SCARA, DELTA ) 
+1. 修正運動教導指令頁面顯示外部軸速度的錯誤 
+2. 修正運動教導指令頁面特定機型顯示座標的錯誤 
+3. 修改局部偏移設定頁面對應不同機型的顯示 
+
+機器人產品( SCARA, DELTA ) 
+1. 修正手動軟體面板的顯示錯誤</msg></logentry></log>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216970"><author>1384</author><date>2019-01-19T10:27:36.014023Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\DriverManager.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/DriverManager.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/DriverManager.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.12I/OCKrnl/Source/Operation/DriverManager.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.17/OCKrnl/Source/Operation/DriverManager.cpp</path></paths><msg>merge: CNCKL_2667_f_KrnlTestKey, 215907-215919 to 10.118.12I, 10.118.17
+by 竺晏
+
+新增Kernel Test Key (此功能為自動測試用)</msg></logentry></log>

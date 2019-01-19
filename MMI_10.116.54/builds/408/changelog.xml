@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216953"><author>colingsta</author><date>2019-01-19T09:29:18.066679Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Install_Backup/Upgrade.cs</path><path action="M" localPath="MMICommon\Source\Install_Backup\Upgrade.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Install_Backup/Upgrade.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Install_Backup/Upgrade.cs</path></paths><msg>merge appkernel/ISSUE_13504_b_ImageInstallFail r216695-r216872 to 10.116.56B, 10.118.12J, 10.118.18, by 家齊
+
+修正
+    韌體安裝包檔案路徑有空白時安裝失效 問題</msg></logentry></log>

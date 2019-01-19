@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="216859"><author>colingsta</author><date>2019-01-19T00:43:03.065220Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Scr_FileI_O.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Scr_FileI_O.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_FileI_O.cs</path></paths><msg>merge appkernel/MMI_3762_b_CannotSelectMultiFile r215312 to 10.118.12J, 10.118.18, by 鎮宇
+
+修正
+    客製檔案管理頁面無法一次選多檔</msg></logentry></log>
