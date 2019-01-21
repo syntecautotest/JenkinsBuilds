@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7194979184921682996.bat
+Product: 21MA
+<FileConfig ProductName="21MA" PackageHead="21AMillCE7_ARM"><Files><File Category="Software" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>package_85183be.zip</Name><Hash>963aead2203fdcbaf99e11ca029c1cd9</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/21MA/Software/Test/Common/package_85183be.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>Test.zip</Name><Hash>8be995a5b785dd725b4831827cdfb8b5</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>package_96ee570a.zip</Name><Hash>a0f5e1ba99c185f7a3f04fda2bda9f68</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/21MA/Software/Delivery/Common/package_96ee570a.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common" Size_Touch="Common"><Version>10.116.54V</Version><Name>Delivery.zip</Name><Hash>def07f0cd055eb7e791a9507c6f8a299</Hash></File><File Category="Image" Usage="Common" Hardware="AM335x" Size_Touch="Common"><Version>7.60.0</Version><Name>WCE7_AM335x_7.60.0.bin</Name><Hash>2ae106883481d82bb36c995de954960a</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.60.0/ARMCE7_Image/WCE7_AM335x_7.60.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

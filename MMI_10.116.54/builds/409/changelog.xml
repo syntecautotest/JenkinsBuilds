@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="217068"><author>colingsta</author><date>2019-01-21T08:24:02.401944Z</date><paths><path action="M" kind="file">/appkernel/trunk/OCUser/Source/Swingw/JListInputEditor.cpp</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/OCUser/Source/Swingw/JListInputEditor.cpp</path><path action="M" localPath="OCUser\Source\Swingw\JListInputEditor.cpp" kind="file">/appkernel/branches/AppKernel_10.116.54/OCUser/Source/Swingw/JListInputEditor.cpp</path></paths><msg>merge appkernel/ISSUE_13983_b_CycleEditWithListInputMemeoryProblem r216382-r217034 to 10.116.56B, 10.118.12J, 10.118.18, by 存澤
+
+修正
+    CycleEdit表格含有ListInput時，不斷切換會造成記憶體下降問題</msg></logentry></log>

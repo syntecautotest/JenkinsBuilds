@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="217073"><author>colingsta</author><date>2019-01-21T08:31:08.267092Z</date><paths><path action="M" localPath="OCUser\Source\OCUser\Cuboid.cpp" kind="file">/appkernel/branches/AppKernel_10.116.54/OCUser/Source/OCUser/Cuboid.cpp</path></paths><msg>merge appkernel/ISSUE_14074_b_3DBug r215203-r215280 to 10.116.56B, by 禮芳
+
+修正
+    『折板3D模擬繪圖不完整』的問題</msg></logentry></log>
