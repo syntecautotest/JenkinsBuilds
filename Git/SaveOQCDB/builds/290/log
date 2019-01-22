@@ -1,0 +1,133 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8646291730636987120.bat
+ID:10101255 Date:2019/01/22 09:42:53
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master f95241f] 2019/01/22 09:42:53 by 10101255, Modified Products: 210TB-H5
+ 109 files changed, 1 insertion(+)
+ rename 11MA/Software/Test/Common/{package_e139cd68.zip => package_facf4f49.zip} (77%)
+ rename 11MB/Software/Test/Common/{package_eb3c01e1.zip => package_d4342899.zip} (76%)
+ rename 11TA/Software/Test/Common/{package_c3a5751f.zip => package_14c6a7bb.zip} (76%)
+ rename 11TB/Software/Test/Common/{package_7f22b95a.zip => package_72b88e9.zip} (76%)
+ rename 210MA_H/Software/Test/Common/{package_8c2aeff9.zip => package_f343c1dc.zip} (77%)
+ rename 210MA_H5/Software/Test/Common/{package_dfa23b05.zip => package_261c39a8.zip} (76%)
+ rename 210MB_H/Software/Test/Common/{package_1b8f29c2.zip => package_c9c75d15.zip} (76%)
+ rename 210MB_H5/Software/Test/Common/{package_bf43c776.zip => package_23cb988f.zip} (76%)
+ rename 210TB_H/Software/Test/Common/{package_9856d790.zip => package_61edaafc.zip} (76%)
+ rename 210TB_H5/Software/Test/Common/{package_b09a0643.zip => package_fdee0ef5.zip} (76%)
+ create mode 100644 6GB_G/Software/Delivery/Common/10inch/package_60788904.zip
+ create mode 100644 6GB_G/Software/Delivery/Common/10inch_Touch/package_60788904.zip
+ create mode 100644 6GB_G/Software/Delivery/Common/15inch/package_60788904.zip
+ create mode 100644 6GB_G/Software/Delivery/Common/15inch_Touch/package_60788904.zip
+ create mode 100644 6GB_G/Software/Delivery/Common/8inch/package_60788904.zip
+ create mode 100644 6GB_G/Software/Delivery/Common/8inch_Touch/package_60788904.zip
+ create mode 100644 6GB_G/Software/Delivery/Common/Common/package_60788904.zip
+ create mode 100644 6GB_G/Software/Test/Common/10inch/package_66e3e9b1.zip
+ create mode 100644 6GB_G/Software/Test/Common/10inch_Touch/package_66e3e9b1.zip
+ create mode 100644 6GB_G/Software/Test/Common/15inch/package_66e3e9b1.zip
+ create mode 100644 6GB_G/Software/Test/Common/15inch_Touch/package_66e3e9b1.zip
+ create mode 100644 6GB_G/Software/Test/Common/8inch/package_66e3e9b1.zip
+ create mode 100644 6GB_G/Software/Test/Common/8inch_Touch/package_66e3e9b1.zip
+ create mode 100644 6GB_G/Software/Test/Common/Common/package_66e3e9b1.zip
+ create mode 100644 6MA/Software/Delivery/Common/10inch/package_6DAFE98A.zip
+ create mode 100644 6MA/Software/Delivery/Common/10inch_Touch/package_6DAFE98A.zip
+ create mode 100644 6MA/Software/Delivery/Common/15inch/package_6DAFE98A.zip
+ create mode 100644 6MA/Software/Delivery/Common/15inch_Touch/package_6DAFE98A.zip
+ create mode 100644 6MA/Software/Delivery/Common/8inch/package_6DAFE98A.zip
+ create mode 100644 6MA/Software/Delivery/Common/8inch_Touch/package_6DAFE98A.zip
+ create mode 100644 6MA/Software/Delivery/Common/Common/package_6DAFE98A.zip
+ create mode 100644 6MA/Software/Test/Common/10inch/package_a2a08a25.zip
+ create mode 100644 6MA/Software/Test/Common/10inch_Touch/package_a2a08a25.zip
+ create mode 100644 6MA/Software/Test/Common/15inch/package_a2a08a25.zip
+ create mode 100644 6MA/Software/Test/Common/15inch_Touch/package_a2a08a25.zip
+ create mode 100644 6MA/Software/Test/Common/8inch/package_a2a08a25.zip
+ create mode 100644 6MA/Software/Test/Common/8inch_Touch/package_a2a08a25.zip
+ create mode 100644 6MA/Software/Test/Common/Common/package_a2a08a25.zip
+ create mode 100644 6MB/Software/Delivery/Common/10inch/package_6C1F456C.zip
+ create mode 100644 6MB/Software/Delivery/Common/10inch_Touch/package_6C1F456C.zip
+ create mode 100644 6MB/Software/Delivery/Common/15inch/package_6C1F456C.zip
+ create mode 100644 6MB/Software/Delivery/Common/15inch_Touch/package_6C1F456C.zip
+ create mode 100644 6MB/Software/Delivery/Common/8inch/package_6C1F456C.zip
+ create mode 100644 6MB/Software/Delivery/Common/8inch_Touch/package_6C1F456C.zip
+ create mode 100644 6MB/Software/Delivery/Common/Common/package_6C1F456C.zip
+ create mode 100644 6MB/Software/Test/Common/10inch/package_423c5fb4.zip
+ create mode 100644 6MB/Software/Test/Common/10inch_Touch/package_423c5fb4.zip
+ create mode 100644 6MB/Software/Test/Common/15inch/package_423c5fb4.zip
+ create mode 100644 6MB/Software/Test/Common/15inch_Touch/package_423c5fb4.zip
+ create mode 100644 6MB/Software/Test/Common/8inch/package_423c5fb4.zip
+ create mode 100644 6MB/Software/Test/Common/8inch_Touch/package_423c5fb4.zip
+ create mode 100644 6MB/Software/Test/Common/Common/package_423c5fb4.zip
+ create mode 100644 6TA/Software/Delivery/Common/10inch/package_A883DEA3.zip
+ create mode 100644 6TA/Software/Delivery/Common/10inch_Touch/package_A883DEA3.zip
+ create mode 100644 6TA/Software/Delivery/Common/15inch/package_A883DEA3.zip
+ create mode 100644 6TA/Software/Delivery/Common/15inch_Touch/package_A883DEA3.zip
+ create mode 100644 6TA/Software/Delivery/Common/8inch/package_A883DEA3.zip
+ create mode 100644 6TA/Software/Delivery/Common/8inch_Touch/package_A883DEA3.zip
+ create mode 100644 6TA/Software/Delivery/Common/Common/package_A883DEA3.zip
+ create mode 100644 6TA/Software/Test/Common/10inch/package_fd12c5e5.zip
+ create mode 100644 6TA/Software/Test/Common/10inch_Touch/package_fd12c5e5.zip
+ create mode 100644 6TA/Software/Test/Common/15inch/package_fd12c5e5.zip
+ create mode 100644 6TA/Software/Test/Common/15inch_Touch/package_fd12c5e5.zip
+ create mode 100644 6TA/Software/Test/Common/8inch/package_fd12c5e5.zip
+ create mode 100644 6TA/Software/Test/Common/8inch_Touch/package_fd12c5e5.zip
+ create mode 100644 6TA/Software/Test/Common/Common/package_fd12c5e5.zip
+ create mode 100644 6TB/Software/Delivery/Common/10inch/package_0E0F783C.zip
+ create mode 100644 6TB/Software/Delivery/Common/10inch_Touch/package_0E0F783C.zip
+ create mode 100644 6TB/Software/Delivery/Common/15inch/package_0E0F783C.zip
+ create mode 100644 6TB/Software/Delivery/Common/15inch_Touch/package_0E0F783C.zip
+ create mode 100644 6TB/Software/Delivery/Common/8inch/package_0E0F783C.zip
+ create mode 100644 6TB/Software/Delivery/Common/8inch_Touch/package_0E0F783C.zip
+ create mode 100644 6TB/Software/Delivery/Common/Common/package_0E0F783C.zip
+ create mode 100644 6TB/Software/Test/Common/10inch/package_8d04bf18.zip
+ create mode 100644 6TB/Software/Test/Common/10inch_Touch/package_8d04bf18.zip
+ create mode 100644 6TB/Software/Test/Common/15inch/package_8d04bf18.zip
+ create mode 100644 6TB/Software/Test/Common/15inch_Touch/package_8d04bf18.zip
+ create mode 100644 6TB/Software/Test/Common/8inch/package_8d04bf18.zip
+ create mode 100644 6TB/Software/Test/Common/8inch_Touch/package_8d04bf18.zip
+ create mode 100644 6TB/Software/Test/Common/Common/package_8d04bf18.zip
+ create mode 100644 7MA/Software/Delivery/Common/10inch/package_c7aa0580.zip
+ create mode 100644 7MA/Software/Delivery/Common/10inch_Touch/package_c7aa0580.zip
+ create mode 100644 7MA/Software/Delivery/Common/15inch/package_c7aa0580.zip
+ create mode 100644 7MA/Software/Delivery/Common/15inch_Touch/package_c7aa0580.zip
+ create mode 100644 7MA/Software/Delivery/Common/8inch/package_c7aa0580.zip
+ create mode 100644 7MA/Software/Delivery/Common/8inch_Touch/package_c7aa0580.zip
+ create mode 100644 7MA/Software/Delivery/Common/Common/package_c7aa0580.zip
+ create mode 100644 7MA/Software/Test/Common/10inch/package_952cdb88.zip
+ create mode 100644 7MA/Software/Test/Common/10inch_Touch/package_952cdb88.zip
+ create mode 100644 7MA/Software/Test/Common/15inch/package_952cdb88.zip
+ create mode 100644 7MA/Software/Test/Common/15inch_Touch/package_952cdb88.zip
+ create mode 100644 7MA/Software/Test/Common/8inch/package_952cdb88.zip
+ create mode 100644 7MA/Software/Test/Common/8inch_Touch/package_952cdb88.zip
+ create mode 100644 7MA/Software/Test/Common/Common/package_952cdb88.zip
+ create mode 100644 7TA/Software/Delivery/Common/10inch/package_98cace16.zip
+ create mode 100644 7TA/Software/Delivery/Common/10inch_Touch/package_98cace16.zip
+ create mode 100644 7TA/Software/Delivery/Common/15inch/package_98cace16.zip
+ create mode 100644 7TA/Software/Delivery/Common/15inch_Touch/package_98cace16.zip
+ create mode 100644 7TA/Software/Delivery/Common/8inch/package_98cace16.zip
+ create mode 100644 7TA/Software/Delivery/Common/8inch_Touch/package_98cace16.zip
+ create mode 100644 7TA/Software/Delivery/Common/Common/package_98cace16.zip
+ create mode 100644 7TA/Software/Test/Common/10inch/package_29a9cda6.zip
+ create mode 100644 7TA/Software/Test/Common/10inch_Touch/package_29a9cda6.zip
+ create mode 100644 7TA/Software/Test/Common/15inch/package_29a9cda6.zip
+ create mode 100644 7TA/Software/Test/Common/15inch_Touch/package_29a9cda6.zip
+ create mode 100644 7TA/Software/Test/Common/8inch/package_29a9cda6.zip
+ create mode 100644 7TA/Software/Test/Common/8inch_Touch/package_29a9cda6.zip
+ create mode 100644 7TA/Software/Test/Common/Common/package_29a9cda6.zip
+ create mode 100644 LOCK
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   379a01d..f95241f  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

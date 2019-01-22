@@ -1,0 +1,132 @@
+Date: 2019/01/22 星期二	16:38:20 
+OCBuildVersion: 10.116.56A 
+PlatformSDKVersion: 1.36.0 
+SecuritySDKVersion: 10.116.x.0 
+FirmwareVersion: 1143 
+FCVersion: 1.4.2 
+ 
+Build Configuration: 
+	W32=1 
+	CE6=1 
+	CE7 ARM=1 
+ 
+Execute Both Compile and Packing Sections 
+ 
+/* Clean Output Working Directory */ 
+ 
+/* Build Executable Files */ 
+Prepare to Compile Files ... 
+	Init OCSDK Directory 
+	Download Platform SDK 
+	Download Security SDK 
+Start to Sync Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\GMock Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\LaserCtrl Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\OCDevice Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\OCKrnl Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\OCProtocol Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\OCTest Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\Preprocessor Header 
+	Sync D:\Jenkins\workspace\CNC_10.116.54\SerialPLCAxis Header 
+Start to Sync /makew32 Library 
+	Sync GMock Library 
+	Sync OCProtocol Library 
+	Sync OCKrnl Library 
+	Sync SerialPLCAxis Library 
+	Sync LaserCtrl Library 
+	Sync OCDevice Library 
+	Sync OCTest Library 
+	Sync Preprocessor Library 
+Start to Compile /makew32 Executable Files 
+	Compile GMock Executable Files 
+	Compile OCProtocol Executable Files 
+	Compile OCKrnl Executable Files 
+	Compile SerialPLCAxis Executable Files 
+	Compile LaserCtrl Executable Files 
+	Compile OCDevice Executable Files 
+	Compile OCTest Executable Files 
+	Compile Preprocessor Executable Files 
+Start to Sync /makewce600 Library 
+	Sync GMock Library 
+	Sync OCProtocol Library 
+	Sync OCKrnl Library 
+	Sync SerialPLCAxis Library 
+	Sync LaserCtrl Library 
+	Sync OCDevice Library 
+	Sync OCTest Library 
+	Sync Preprocessor Library 
+Start to Compile /makewce600 Executable Files 
+	Compile GMock Executable Files 
+	Compile OCProtocol Executable Files 
+	Compile OCKrnl Executable Files 
+	Compile SerialPLCAxis Executable Files 
+	Compile LaserCtrl Executable Files 
+	Compile OCDevice Executable Files 
+	Compile OCTest Executable Files 
+	Compile Preprocessor Executable Files 
+Start to Sync /makewce700arm Library 
+	Sync GMock Library 
+	Sync OCProtocol Library 
+	Sync OCKrnl Library 
+	Sync SerialPLCAxis Library 
+	Sync LaserCtrl Library 
+	Sync OCDevice Library 
+	Sync OCTest Library 
+	Sync Preprocessor Library 
+Start to Compile /makewce700arm Executable Files 
+	Compile GMock Executable Files 
+	Compile OCProtocol Executable Files 
+	Compile OCKrnl Executable Files 
+	Compile SerialPLCAxis Executable Files 
+	Compile LaserCtrl Executable Files 
+	Compile OCDevice Executable Files 
+	Compile OCTest Executable Files 
+	Compile Preprocessor Executable Files 
+ 
+/* Check Error Logs */ 
+Compile Succeeded! 
+ 
+/* Make Packages */ 
+Prepare to Pack Files ... 
+	Pack Pin Files 
+	Make Macro Files 
+Prepare to Copy Release Packages ... 
+Start to Make Package Files 
+	Init Package Directory 
+	Pack Dummy Lad Files 
+	Pack Config Files 
+	Pack Install Tools 
+	Pack /packw32 Executable Files 
+Compress Package to ZIP File 
+	Compare 10.116.56A pack ZIP 
+Copy /copyw32 Package 
+Start to Make Package Files 
+	Init Package Directory 
+	Pack Dummy Lad Files 
+	Pack Config Files 
+	Pack Install Tools 
+	Pack /packwce600 Executable Files 
+Compress Package to ZIP File 
+	Compare 10.116.56A pack ZIP 
+Copy /copywce600 Package 
+Start to Make Package Files 
+	Init Package Directory 
+	Pack Dummy Lad Files 
+	Pack Config Files 
+	Pack Install Tools 
+	Pack /packwce700arm Executable Files 
+Compress Package to ZIP File 
+	Compare 10.116.56A pack ZIP 
+Copy /copywce700arm Package 
+ 
+/* Pack SDKs */ 
+Copy /copysdk Package 
+Copy OCRes 
+	Merge Alarm Files 
+	Compare 10.116.56A res ZIP 
+Copy OCSDK 
+	Compare 10.116.56A sdk ZIP 
+Copy Product-param and ParamDefEdit.exe 
+Copy Auto Test Pattern 
+Upload Auto Test PXT Files 
+Process Finished at 2019/01/22 星期二	17:49:30 
