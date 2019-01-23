@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="217308"><author>1362</author><date>2019-01-23T03:37:07.984940Z</date><paths><path action="M" localPath="RobotPlugin\Build\BuildBin.bat" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Build/BuildBin.bat</path></paths><msg>merge appkernel/ROBOT_342_b_ROBOTMMIBuildProductErrorOnWin10 r216288-r216313 to 10.118.12J, 10.118.18 by 育豪
+
+[內部] 機器人產品( ARTIC, SCARA, DELTA ) 的 RobotPlugin 支援在Win 10 VM環境下建立安裝包</msg></logentry></log>

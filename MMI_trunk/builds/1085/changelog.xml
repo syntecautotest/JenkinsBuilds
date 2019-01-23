@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="217270"><author>colingsta</author><date>2019-01-23T01:16:16.763696Z</date><paths><path action="M" localPath="Syntec.OpenCNC\SerialServo.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/SerialServo.cs</path></paths><msg>merge appkernel/MMI_3787_b_SvoSetSampleDividerFail r216866 to 10.118.18, by 景媖
+
+修正
+    驅動器除頻數設定API</msg></logentry></log>

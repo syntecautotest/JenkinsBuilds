@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="217378"><author>1384</author><date>2019-01-23T09:04:29.081487Z</date><paths><path action="M" localPath="OCKrnl\Source\PathPlan\BackgndExecuter.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/BackgndExecuter.cpp</path></paths><msg>merge: ISSUE_14271_b_BGndErr_11654x, 217351 to 10.116.56B
+by 振宇
+
+補上ISSUE-12473的修改，修正PLC背景執行元件小數點型態設定為計算機時賦值錯誤的問題</msg></logentry></log>
