@@ -1,0 +1,194 @@
+------ Rebuild All started: Project: Swingw, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\arc3d.h(13) : fatal error C1083: Cannot open include file: 'Matrix4d.h': No such file or directory
+XSmZoom.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\xcomponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XSmDrawer.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\xcomponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XSmCursor.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\xcomponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XPathSimuBase.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\xpathsimubase.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XComponent.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\xcomponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XCanvas3d.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\xcomponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+WIN32GraphicsPeer.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\igraphicspeer.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+ToolBox.cpp
+TLabel.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+TextManager.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\textmanager.cpp(3) : fatal error C1083: Cannot open include file: 'ILineStore.h': No such file or directory
+TDisplay.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+TComponentFactory.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\tcomponentfactory.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+TComponent.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\igraphicspeer.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+SimuStorage.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\simustorage.cpp(6) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+SimuServiceProxy.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\simuserviceproxy.h(12) : fatal error C1083: Cannot open include file: 'ISimulator.h': No such file or directory
+Rectangle.cpp
+OCImage.cpp
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\loadladder.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+Line3d.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\line3d.h(13) : fatal error C1083: Cannot open include file: 'Matrix4d.h': No such file or directory
+JXmlStringTable.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jxmlstringtable.cpp(3) : fatal error C1083: Cannot open include file: 'JAllocateOnlyHeap.h': No such file or directory
+JXMLPreConfig.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jxmlpreconfig.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JXMLPreCompiler.cpp
+JWin32ProcThunk.cpp
+JTemplateFactory.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jtemplatefactory.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JTemplateComponent.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JTable.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jtable.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JStringConnectRule.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jstringconnectrule.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JSelectButton.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JPreCompilerRule.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jprecompilerrule.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JPicture.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JPanel.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JPageRegistry.cpp
+JPagePool.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JPageDeviceTable.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jpagedevicetable.cpp(2) : fatal error C1083: Cannot open include file: 'commonstruct.h': No such file or directory
+JPage.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ijpagehost.h(8) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JOCText.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JOCSimu.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Compiling...
+JNativeWindow.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JMeter.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JMarquee.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JListInputEditor.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JListInput.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JLink.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JLamp.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JLabel.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JInputline.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JInputEditor.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JInputBase.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JInput.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JIncludePage.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JGroup.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JGrid.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JFileList.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JFenuContextManager.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jfenucontextmanager.cpp(4) : fatal error C1083: Cannot open include file: '_UNCC.h': No such file or directory
+JFenuContext.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jfenucontext.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JFenu.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jfenu.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JDynamicPicture.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Compiling...
+JDisplay.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JDeviceControl.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JCycleTable.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcycletable.cpp(2) : fatal error C1083: Cannot open include file: 'JCycleDocument.h': No such file or directory
+JCycleEditor.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcycleeditor.cpp(5) : fatal error C1083: Cannot open include file: 'JCycleDocument.h': No such file or directory
+JCustomControl.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JCoordBox.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JControlTemplatePool.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcontroltemplatepool.cpp(4) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JControlTemplate.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcontroltemplate.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JControl.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JComponent.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JButton.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+ISimuEvent.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\isimuevent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+GridPad.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\gridpad.cpp(7) : fatal error C1083: Cannot open include file: 'ZMath.h': No such file or directory
+Graphics3d.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\cube3d.h(13) : fatal error C1083: Cannot open include file: 'Matrix4d.h': No such file or directory
+FormatConverter.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\formatconverter.cpp(2) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+DoAction.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\doaction.cpp(2) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+Cube3d.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\cube3d.h(13) : fatal error C1083: Cannot open include file: 'Matrix4d.h': No such file or directory
+CTLabel.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+CTInput.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+CTDisplay.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Compiling...
+CncDevice.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\cncdevice.cpp(2) : fatal error C1083: Cannot open include file: 'LadderDef.h': No such file or directory
+CCycleValue.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ccyclevalue.cpp(6) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleSchemaFile.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ccycleschemafile.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleSchema.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ccycleschema.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleFieldValue.cpp
+CCycleFieldSchemaFactory.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ccyclefieldschemafactory.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleFieldSchema.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ccyclefieldschema.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleFieldGroupValue.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ccyclefieldgroupvalue.cpp(2) : fatal error C1083: Cannot open include file: 'JCycleValue.h': No such file or directory
+CCycleFieldGroupSchema.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ccyclefieldgroupschema.cpp(6) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+AxCube.cpp
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\axcube.cpp(6) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\debug\AxCube.sbr': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\Swingw\Debug\BuildLog.htm"
+Swingw - 82 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

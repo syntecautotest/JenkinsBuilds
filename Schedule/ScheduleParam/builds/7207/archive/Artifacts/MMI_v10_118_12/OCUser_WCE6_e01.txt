@@ -1,0 +1,390 @@
+------ Rebuild All started: Project: Swingw, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+Arc3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\Arc3d.h(13) : fatal error C1083: Cannot open include file: 'Matrix4d.h': No such file or directory
+XSmZoom.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\XComponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XSmDrawer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\XComponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XSmCursor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\XComponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XPathSimuBase.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\XPathSimuBase.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\XComponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+XCanvas3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\XComponent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+WIN32GraphicsPeer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\IGraphicsPeer.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+ToolBox.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+TextManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\TextManager.cpp(3) : fatal error C1083: Cannot open include file: 'ILineStore.h': No such file or directory
+TDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+TComponentFactory.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\TComponentFactory.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+TComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\IGraphicsPeer.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+SimuStorage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\SimuStorage.cpp(6) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+SimuServiceProxy.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\SimuServiceProxy.h(12) : fatal error C1083: Cannot open include file: 'ISimulator.h': No such file or directory
+Rectangle.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCImage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OcHotKey.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+NcWpPlane.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+LoadLadder.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\LoadLadder.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+Line3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\Line3d.h(13) : fatal error C1083: Cannot open include file: 'Matrix4d.h': No such file or directory
+JXmlStringTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JXmlStringTable.cpp(3) : fatal error C1083: Cannot open include file: 'JAllocateOnlyHeap.h': No such file or directory
+JXMLPreConfig.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JXMLPreConfig.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JXMLPreCompiler.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JWin32ProcThunk.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JTemplateFactory.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JTemplateFactory.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JTemplateComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JTable.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JStringConnectRule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JStringConnectRule.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JSelectButton.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JPreCompilerRule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JPreCompilerRule.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JPicture.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JPanel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JPageRegistry.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPagePool.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JPageDeviceTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JPageDeviceTable.cpp(2) : fatal error C1083: Cannot open include file: 'commonstruct.h': No such file or directory
+JPage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ijpagehost.h(8) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JOCText.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JOCSimu.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Compiling...
+JNativeWindow.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JMeter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JMarquee.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JListInputEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JListInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JLink.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JLamp.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JInputline.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JInputEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JInputBase.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JIncludePage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JGroup.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JGrid.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JFileList.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JFenuContextManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JFenuContextManager.cpp(4) : fatal error C1083: Cannot open include file: '_UNCC.h': No such file or directory
+JFenuContext.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JFenuContext.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JFenu.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JFenu.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JDynamicPicture.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Compiling...
+JDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JDeviceControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JCycleTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JCycleTable.cpp(2) : fatal error C1083: Cannot open include file: 'JCycleDocument.h': No such file or directory
+JCycleEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JCycleEditor.cpp(5) : fatal error C1083: Cannot open include file: 'JCycleDocument.h': No such file or directory
+JCustomControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JCoordBox.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JControlTemplatePool.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JControlTemplatePool.cpp(4) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JControlTemplate.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JControlTemplate.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+JControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+JButton.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+ISimuEvent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\ISimuEvent.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+GridPad.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\GridPad.cpp(7) : fatal error C1083: Cannot open include file: 'ZMath.h': No such file or directory
+Graphics3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\Cube3d.h(13) : fatal error C1083: Cannot open include file: 'Matrix4d.h': No such file or directory
+FormatConverter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\FormatConverter.cpp(2) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+DoAction.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\DoAction.cpp(2) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+Cube3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\Cube3d.h(13) : fatal error C1083: Cannot open include file: 'Matrix4d.h': No such file or directory
+CTLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+CTInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+CTDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\jcomponent.h(14) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Compiling...
+CncDevice.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CncDevice.cpp(2) : fatal error C1083: Cannot open include file: 'LadderDef.h': No such file or directory
+CCycleValue.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CCycleValue.cpp(6) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleSchemaFile.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CCycleSchemaFile.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleSchema.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CCycleSchema.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleFieldValue.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CCycleFieldSchemaFactory.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CCycleFieldSchemaFactory.cpp(2) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleFieldSchema.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CCycleFieldSchema.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+CCycleFieldGroupValue.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CCycleFieldGroupValue.cpp(2) : fatal error C1083: Cannot open include file: 'JCycleValue.h': No such file or directory
+CCycleFieldGroupSchema.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CCycleFieldGroupSchema.cpp(6) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+AxCube.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\AxCube.cpp(6) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\Swingw\WCE600Release\BuildLog.htm"
+Swingw - 81 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCHotKey, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCHotKey', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+OCHotKey.cpp
+Generating Code...
+Linking...
+   Creating library WCE600Release\OCHotKey.lib and object WCE600Release\OCHotKey.exp
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\OCHotKey\WCE600Release\BuildLog.htm"
+OCHotKey - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPIServerDown, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCAPIServerDown', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+OCAPIServerDown.cpp
+.\OCAPIServerDown.cpp(5) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\OCAPIServerDown\WCE600Release\BuildLog.htm"
+OCAPIServerDown - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCKbdMs, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCKbdMs', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+OCKbdMs.cpp
+.\OCKbdMs.cpp(6) : fatal error C1083: Cannot open include file: 'WindowsRegistry.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\OCKbdMs\WCE600Release\BuildLog.htm"
+OCKbdMs - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: KbdMouse, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'KbdMouse', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+VKRMPSIMPLE.CPP
+VKCHENGUS1.CPP
+SCVKENGUS2.CPP
+PS2PORT.CPP
+PS2MOUSE.CPP
+PS2KEYBD.CPP
+KeypadProxy.cpp
+.\KeypadProxy.cpp(5) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+KBDMOUSE.CPP
+KBDIST.CPP
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\KbdMouse\WCE600Release\BuildLog.htm"
+KbdMouse - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCUp, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCUp', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+OCUp.cpp
+Generating Code...
+Linking...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\OCUp\WCE600_Release\BuildLog.htm"
+OCUp - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCDown, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCDown', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+OCDown.cpp
+.\OCDown.cpp(5) : fatal error C1083: Cannot open include file: 'OCAPI.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\OcDown\WCE600Release\BuildLog.htm"
+OCDown - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCUSER, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCUSER', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+TextWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StrResMap.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\StrResMap.cpp(7) : fatal error C1083: Cannot open include file: 'FileDirInfo.h': No such file or directory
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+PathSimuWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\Swingw\SimuStorage.h(12) : fatal error C1083: Cannot open include file: 'ISimulator.h': No such file or directory
+OCUSER.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\Swingw\SimuStorage.h(12) : fatal error C1083: Cannot open include file: 'ISimulator.h': No such file or directory
+OCTextFileMgr.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCLabelWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\IGraphicsPeer.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+LadderWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\LadderWnd.cpp(6) : fatal error C1083: Cannot open include file: 'KrnlAPI.h': No such file or directory
+KbdReceiver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+HugeEdit.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\IGraphicsPeer.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+FenuWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\swingw\IGraphicsPeer.h(12) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+CanvasWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\opencnc\schedule\mmi_v10_118_12\ocuser\source\ocuser\canvaswnd.h(8) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+BrowserWnd.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\Swingw\ijpagehost.h(8) : fatal error C1083: Cannot open include file: 'nstdlib.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\MMI_v10_118_12\OCUser\Source\OCUser\WCE600Release\BuildLog.htm"
+OCUSER - 9 error(s), 0 warning(s)
+------ Skipped Rebuild All: Project: kbdHid, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: DcomCnfg, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: CeCncMMI, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: Keypad, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: KpLoader, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Project not selected to build for this solution configuration 
+========== Rebuild All: 2 succeeded, 6 failed, 5 skipped ==========
+

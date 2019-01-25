@@ -1,0 +1,329 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters class="java.util.Arrays$ArrayList">
+        <a class="hudson.model.ParameterValue-array">
+          <hudson.model.StringParameterValue>
+            <name>BRANCH_VER</name>
+            <description>cnckernel branch name</description>
+            <value>v10_118_12</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>SECTION</name>
+            <description>section of the program</description>
+            <value>MMI</value>
+          </hudson.model.StringParameterValue>
+        </a>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <hudson.model.ChoiceParameterDefinition>
+              <name>BRANCH_VER</name>
+              <description>cnckernel branch name</description>
+              <choices class="java.util.Arrays$ArrayList">
+                <a class="string-array">
+                  <string>v10_116_36</string>
+                  <string>v10_116_50</string>
+                  <string>v10_116_52</string>
+                  <string>v10_116_54</string>
+                  <string>v10_118_0</string>
+                  <string>v10_118_12</string>
+                  <string>trunk</string>
+                </a>
+              </choices>
+            </hudson.model.ChoiceParameterDefinition>
+            <hudson.model.ChoiceParameterDefinition>
+              <name>SECTION</name>
+              <description>section of the program</description>
+              <choices class="java.util.Arrays$ArrayList">
+                <a class="string-array">
+                  <string>CNC</string>
+                  <string>API</string>
+                  <string>MMI</string>
+                </a>
+              </choices>
+            </hudson.model.ChoiceParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.plugins.parameterizedtrigger.DifferentiatingAction plugin="parameterized-trigger@2.33"/>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Schedule/ScheduleCheck_appkernel_118_12</upstreamProject>
+            <upstreamUrl>job/Schedule/job/ScheduleCheck_appkernel_118_12/</upstreamUrl>
+            <upstreamBuild>104</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>Schedule/ScheduleCheck_apikernel_118_12</upstreamProject>
+                <upstreamUrl>job/Schedule/job/ScheduleCheck_apikernel_118_12/</upstreamUrl>
+                <upstreamBuild>109</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UpstreamCause>
+                    <upstreamProject>Schedule/ScheduleCheck_cnckernel_118_12</upstreamProject>
+                    <upstreamUrl>job/Schedule/job/ScheduleCheck_cnckernel_118_12/</upstreamUrl>
+                    <upstreamBuild>111</upstreamBuild>
+                    <upstreamCauses>
+                      <hudson.model.Cause_-UpstreamCause>
+                        <upstreamProject>Schedule/ScheduleCheck_pipe</upstreamProject>
+                        <upstreamUrl>job/Schedule/job/ScheduleCheck_pipe/</upstreamUrl>
+                        <upstreamBuild>605</upstreamBuild>
+                        <upstreamCauses>
+                          <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+                        </upstreamCauses>
+                      </hudson.model.Cause_-UpstreamCause>
+                    </upstreamCauses>
+                  </hudson.model.Cause_-UpstreamCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>229266</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.model.Cause$UpstreamCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.model.Cause_-UpstreamCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9"/>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+    <org.jenkinsci.plugins.EnvironmentVarSetter plugin="build-name-setter@1.6.5">
+      <log>
+        <autoFlush>false</autoFlush>
+        <trouble>false</trouble>
+        <formatter>
+          <a class="java.io.PrintStream" reference="../.."/>
+          <l>zh_TW</l>
+          <zero>0</zero>
+        </formatter>
+        <closing>true</closing>
+      </log>
+      <envVars>
+        <entry>
+          <string>BUILD_DISPLAY_NAME</string>
+          <string>#7207 v10_118_12 MMI [2019-01-25]</string>
+        </entry>
+      </envVars>
+    </org.jenkinsci.plugins.EnvironmentVarSetter>
+    <org.jenkinsci.plugins.envinject.EnvInjectBuilderContributionAction plugin="envinject@1.93.1"/>
+    <hudson.plugins.copyartifact.CopyArtifact_-EnvAction plugin="copyartifact@1.38.1"/>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>ECncMonCE_autotest.txt</string>
+          <string>bd28d2441df22665cdaed287a7162c01</string>
+        </entry>
+        <entry>
+          <string>BuildPrintLabelWorker32.txt</string>
+          <string>ede63fda469a268ab2b4c0aa3c9df5fe</string>
+        </entry>
+        <entry>
+          <string>WorkinglistConverterCE.txt</string>
+          <string>aef691fe8a3e81157f6b2c99b3224638</string>
+        </entry>
+        <entry>
+          <string>CEMMIAPI_32.txt</string>
+          <string>de5830cb1be047d91dec917bfb5edf0d</string>
+        </entry>
+        <entry>
+          <string>ESyntec.RemoteCNC.WinCE_autotest.txt</string>
+          <string>48626cd36bd853a8c7843176704f271d</string>
+        </entry>
+        <entry>
+          <string>ESyntecBackup.txt</string>
+          <string>487dd2a5f9c6cad180ff5aa8ca8437ba</string>
+        </entry>
+        <entry>
+          <string>KeypadPatch_wce6_CAB.txt</string>
+          <string>f3b25701fe362ec84616a93a45ce9998</string>
+        </entry>
+        <entry>
+          <string>BuildPluginCE.txt</string>
+          <string>38a226d96a9153aeb177a1f60dc3ee27</string>
+        </entry>
+        <entry>
+          <string>EFileCleanSettingCE.txt</string>
+          <string>cf9a6aff99413cec60d0ad30c3ce2a64</string>
+        </entry>
+        <entry>
+          <string>ECncMonCE.txt</string>
+          <string>fc1b002d29f83b5360def024da280d57</string>
+        </entry>
+        <entry>
+          <string>OCUser_W32_e03.txt</string>
+          <string>67de68feb489da5d9088c51ad16334c7</string>
+        </entry>
+        <entry>
+          <string>BuildDrillCAM32.txt</string>
+          <string>1fa99e67b1ea74f067443776eb472a4c</string>
+        </entry>
+        <entry>
+          <string>OCUser_W64_e01.txt</string>
+          <string>09cbc53482d7b485784378c0f07c2f71</string>
+        </entry>
+        <entry>
+          <string>OCUser_W64_e03.txt</string>
+          <string>4e8a2495194685ece18ef1b4517e4f10</string>
+        </entry>
+        <entry>
+          <string>LaserAction32.txt</string>
+          <string>832dff41c7e3123d333a81e162b87a82</string>
+        </entry>
+        <entry>
+          <string>OCUser_W32_e01.txt</string>
+          <string>858ec6d888d61cd345e1015af30fdcca</string>
+        </entry>
+        <entry>
+          <string>CEMMIAPI_CE6.txt</string>
+          <string>b7439265c23c3866edbe492e79e7f6c5</string>
+        </entry>
+        <entry>
+          <string>ERobotMMI.txt</string>
+          <string>9c08213b36233106f551f43c34eafed6</string>
+        </entry>
+        <entry>
+          <string>EEHMC32.txt</string>
+          <string>4435c0617226594a6326d30e1af30e12</string>
+        </entry>
+        <entry>
+          <string>ERobotMMICE.txt</string>
+          <string>b4aeb942843110ceaa2bb7b989f79026</string>
+        </entry>
+        <entry>
+          <string>EDipoleServerCE.txt</string>
+          <string>c8a826a3a9916c83d8f4a5e3b67ce708</string>
+        </entry>
+        <entry>
+          <string>KeypadPatch_wce7_ARM_CAB.txt</string>
+          <string>f3b25701fe362ec84616a93a45ce9998</string>
+        </entry>
+        <entry>
+          <string>EHMCCE.txt</string>
+          <string>57443453286bedebbdaa4af498fa2db4</string>
+        </entry>
+        <entry>
+          <string>ECncMon32.txt</string>
+          <string>8545c7cd548e3c17b14eec2e4373b675</string>
+        </entry>
+        <entry>
+          <string>EAutoTestPlugin32.txt</string>
+          <string>3b1ebefb4fb136c572f429f9115d3960</string>
+        </entry>
+        <entry>
+          <string>CEMMIAPI_CE7.txt</string>
+          <string>d104d63a9853b0958f76f7214f00885f</string>
+        </entry>
+        <entry>
+          <string>ESyntec.RemoteCNC.WinCE.txt</string>
+          <string>48626cd36bd853a8c7843176704f271d</string>
+        </entry>
+        <entry>
+          <string>WorkinglistConverter32.txt</string>
+          <string>7c62b850ba3e4421b76637ac3335571f</string>
+        </entry>
+        <entry>
+          <string>OCUser_WCE6_e01.txt</string>
+          <string>b592a45b2ace0c8b73ba76b635c139f7</string>
+        </entry>
+        <entry>
+          <string>EMAutoTestPluginCE.txt</string>
+          <string>a6ff93ae5c82431ab19c540ae8de3631</string>
+        </entry>
+        <entry>
+          <string>ESyntec.RemoteCNC.Win32_EHMC_Win32.txt</string>
+          <string>a80a021ca8430ef0ecadd04a1790d476</string>
+        </entry>
+        <entry>
+          <string>LaserActionCE.txt</string>
+          <string>f3c0d19c574a9ad631712a1ee2b103f9</string>
+        </entry>
+        <entry>
+          <string>BuildDrillCAMCE.txt</string>
+          <string>76ff92ed9e69d7ab5ff77e1d6d55dccd</string>
+        </entry>
+        <entry>
+          <string>check.log</string>
+          <string>3de5335e4c16f46b22361880202ac10b</string>
+        </entry>
+        <entry>
+          <string>ESyntec.RemoteCNC.txt</string>
+          <string>a80a021ca8430ef0ecadd04a1790d476</string>
+        </entry>
+        <entry>
+          <string>BuildPlugin32.txt</string>
+          <string>6987d757a0c9043dfdf86ef108438aab</string>
+        </entry>
+        <entry>
+          <string>ECncMon32_autotest.txt</string>
+          <string>f9c9e2127a764dc4ffa97365518054d0</string>
+        </entry>
+        <entry>
+          <string>EDipoleServer.txt</string>
+          <string>c8cfe756e9eb18471b41860faa7adc9c</string>
+        </entry>
+        <entry>
+          <string>ESyntec.RemoteCNC.Win32_autotest.txt</string>
+          <string>a80a021ca8430ef0ecadd04a1790d476</string>
+        </entry>
+        <entry>
+          <string>ESyntec.RemoteCNC.WinCE_EHMC_WinCE.txt</string>
+          <string>48626cd36bd853a8c7843176704f271d</string>
+        </entry>
+        <entry>
+          <string>ESystemAgent.txt</string>
+          <string>a8fac5eb5177e375db528b94dff842a8</string>
+        </entry>
+        <entry>
+          <string>BuildPrintLabelWorkerCE.txt</string>
+          <string>d2db9c46a8a6ce66ea3db845cc780222</string>
+        </entry>
+        <entry>
+          <string>Build.log</string>
+          <string>f8dbb8343bc1d0ec39b14bfa995c9b46</string>
+        </entry>
+        <entry>
+          <string>OCUser_W32_e02.txt</string>
+          <string>7a4c9b1b623b2d2f975c1696a84746b8</string>
+        </entry>
+        <entry>
+          <string>OCUser_WEC7ARM_e01.txt</string>
+          <string>9f422bbb94a97c2ff3abb4d46795c63d</string>
+        </entry>
+        <entry>
+          <string>OCUser_W64_e02.txt</string>
+          <string>82fd97204bef1f802f6b63c519152316</string>
+        </entry>
+        <entry>
+          <string>EFileCleanSetting.txt</string>
+          <string>10844e4f452298e4da2a503d600d77d0</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+  </actions>
+  <queueId>2531</queueId>
+  <timestamp>1548393019655</timestamp>
+  <startTime>1548393019656</startTime>
+  <result>FAILURE</result>
+  <displayName>#7207 v10_118_12 MMI [2019-01-25]</displayName>
+  <duration>4405</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn>Schedule_BM</builtOn>
+  <workspace>D:\OpenCNC\Schedule</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>
