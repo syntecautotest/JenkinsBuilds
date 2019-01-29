@@ -1,0 +1,25 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3289337669112098324.bat
+ID:10101345 Date:2019/01/29 16:59:03
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 78ed1f2] 2019/01/29 16:59:03 by 10101345, Modified Products:
+ 1 file changed, 1 insertion(+)
+ create mode 100644 LOCK
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   0baf1c8..78ed1f2  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
