@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218129"><author>simon</author><date>2019-01-30T10:46:08.792393Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/CNCCenter.h</path><path action="M" localPath="OCKrnl\Source\Operation\cncapi.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/cncapi.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/cncapi.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/OpPLCPanel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/CNCCenter.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/cncapi.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/OpPLCPanel.h</path></paths><msg>merge: HSHP_2563_b_M96SourceTriggerProblem_118.12, 216790-217662, to 10.118.12K, 10.118.18 by 芝峰
+
+fix:
+    1. 修正M96 指定訊號源時，若訊號在 M96 執行之前就 ON，會造成上緣觸發判斷錯誤。
+    2. 軸群 Feedhold/BStop 時，M96 的維持時間暫停計時，訊號條件也暫停觸發。 
+    3. CNCAPI RegisterOpPLCScanInfo 若CNC不存在, 回傳錯誤而非成功.
+  
+ps: 10.118.18 的修改於 HSHP-2474 上傳.</msg></logentry></log>
