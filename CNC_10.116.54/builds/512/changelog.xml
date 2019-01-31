@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218179"><author>1384</author><date>2019-01-31T01:25:04.201418Z</date><paths><path action="M" kind="file">/cnckernel/tags/release_v10.116.56B/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" localPath="OCKrnl\Source\MotUtility\MotionPlanDef.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotUtility/MotionPlanDef.h</path><path action="M" kind="file">/cnckernel/tags/release_v10.116.56B/OCKrnl/Source/MotUtility/MotionPlanDef.h</path><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/MacroCore.cpp</path></paths><msg>merge: ISSUE_13912_b_dispatchNErr, 215128-215321 to 10.116.56B
+by 竺晏
+
+修正車削循環遇到,C ,R時，路徑異常的問題</msg></logentry></log>

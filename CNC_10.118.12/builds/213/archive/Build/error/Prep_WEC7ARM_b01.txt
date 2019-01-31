@@ -1,0 +1,17 @@
+------ Rebuild All started: Project: PREP_WinCE_ARM, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'PREP_WinCE_ARM', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+PREP.cpp
+StreamReader.cpp
+StdAfx.cpp
+PrepTx.cpp
+PrepRule.cpp
+Generating Code...
+Linking...
+   Creating library .\ReleaseWinCE70_ARM/PREP.lib and object .\ReleaseWinCE70_ARM/PREP.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\Preprocessor\Source\PREP\ReleaseWinCE70_ARM\BuildLog.htm"
+PREP_WinCE_ARM - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+
