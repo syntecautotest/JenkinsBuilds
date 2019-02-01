@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218321"><author>simon</author><date>2019-02-01T00:49:37.359036Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ServoSpindle.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ServoSpindle.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ServoSpindle.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ServoSpindle.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ServoSpindle.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ServoSpindle.h</path></paths><msg>merge: ISSUE_14138_b_v118_Spd18error_12G_216758, 218188, to 10.118.12K, 10.118.18 by 糧安
+
+fix:
+    修正118版本在主軸定位時跳SPD-018警報</msg></logentry></log>

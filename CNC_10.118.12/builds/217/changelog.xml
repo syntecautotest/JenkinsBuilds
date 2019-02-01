@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218436"><author>1200</author><date>2019-02-01T08:17:55.799880Z</date><paths><path action="M" localPath="OCKrnl\Source\TPDAPI\TPDAPIDef.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/TPDAPI/TPDAPIDef.h</path></paths><msg>merge: ROBOT-282_b_TPDSampleV1.0.4_118_17, 216398-216627, to 10.118.12K, 10.118.18
+by 立珩
+
+from 10.118.12, HSHP-2092
+
+修正TPD_Sample編譯錯誤</msg></logentry></log>
