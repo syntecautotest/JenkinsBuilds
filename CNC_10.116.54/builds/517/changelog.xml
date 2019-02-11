@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218597"><author>1384</author><date>2019-02-11T08:07:20.013790Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/NCExecutive.h</path><path action="M" localPath="OCKrnl\Source\PathPlan\Coordinate.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/PathPlan/Coordinate.cpp</path></paths><msg>merge: ISSUE_14304_b_HardStrokeLimitErr, 218078-218337 to 10.116.56C
+by 建明
+
+修正"Cor-333 單節終點超過硬體行程極限"跳出時，行號錯誤的問題。</msg></logentry></log>

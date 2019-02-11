@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218478"><author>simon</author><date>2019-02-11T02:31:53.862150Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/TimeBase.cpp</path><path action="M" localPath="OCKrnl\Source\MotUtility\TimeBase.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotUtility/TimeBase.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/TimeBase.h</path><path action="M" localPath="OCKrnl\Source\MotUtility\TimeBase.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotUtility/TimeBase.h</path></paths><msg>merge: ISSUE_14172_b_WrongFeedrateMode_118.17_new, 218013-218094, to 10.118.12K, 10.118.18 by 旭沅
+
+fix:
+    修正進給量單位設定失敗的問題。</msg></logentry></log>

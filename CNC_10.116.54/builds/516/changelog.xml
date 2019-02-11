@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218539"><author>1384</author><date>2019-02-11T05:49:43.933289Z</date><paths><path action="M" kind="file">/cnckernel/trunk/Preprocessor/Source/PREP/StreamReader.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/Preprocessor/Source/PREP/StreamReader.cpp</path><path action="M" localPath="Preprocessor\Source\PREP\StreamReader.cpp" kind="file">/cnckernel/branches/release_v10.116.54/Preprocessor/Source/PREP/StreamReader.cpp</path></paths><msg>merge: ISSUE_14180_b_PrepErr, 217983 to 10.116.56C, 10.118.12K, 10.118.18
+by 建明
+
+修正Macro前處理器邏輯錯誤造成的當機現象。</msg></logentry></log>
