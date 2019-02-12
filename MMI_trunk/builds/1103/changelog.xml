@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218959"><author>colingsta</author><date>2019-02-12T09:25:00.367500Z</date><paths><path action="M" localPath="MMICommon\Source\Dialog\Frm_FileDialog.cs" kind="file">/appkernel/trunk/MMICommon/Source/Dialog/Frm_FileDialog.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Dialog/Frm_InstallFileDialog.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Dialog/Frm_FileDialog.cs</path><path action="M" localPath="MMICommon\Source\Dialog\Frm_InstallFileDialog.cs" kind="file">/appkernel/trunk/MMICommon/Source/Dialog/Frm_InstallFileDialog.cs</path></paths><msg>merge appkernel/ATEST_1058_b_ImageInstallException r218409 to 10.118.12K, 10.118.18 by 鎮宇
+
+修正
+    映像檔安裝、軟體安裝，按太快會crash問題</msg></logentry><logentry revision="218969"><author>colingsta</author><date>2019-02-12T09:44:18.560334Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Component/ScreenBase_Ex.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScreenBase.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScreenBase.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/ScreenBase.cs</path></paths><msg>merge appkernel/MMI_3764_f_CusSimuSupportFullPath_54x r218968 to 10.116.56C,
+merge appkernel/MMI_3764_f_CusSimuSupportFullPath r218290 to 10.118.12K, 10.118.18 by 鎮宇
+
+增加
+    客製圖型模擬支援子資料夾功能</msg></logentry></log>

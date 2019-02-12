@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="218823"><author>swdjojo</author><date>2019-02-12T04:03:55.316463Z</date><paths><path action="M" localPath="CncMon\Source\CncMonCE.sln" kind="file">/appkernel/trunk/CncMon/Source/CncMonCE.sln</path><path action="D" localPath="AutoTestPlugin\Source\AutoTestPluginCE.sln" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTestPluginCE.sln</path><path action="M" localPath="AutoTestPlugin\Build\BuildBin.bat" kind="file">/appkernel/trunk/AutoTestPlugin/Build/BuildBin.bat</path><path action="M" localPath="." kind="dir">/appkernel/trunk</path><path action="M" localPath="CncMon\Source\CncMon32.sln" kind="file">/appkernel/trunk/CncMon/Source/CncMon32.sln</path><path action="D" localPath="AutoTestPlugin\Source\AutoTestPlugin.sln" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTestPlugin.sln</path></paths><msg>merge appkernel/MMI_3807_f_AutoTestPluginMove r218596-r218803 to 10.118.18 by 維軒
+
+修正
+  * AutoTest專案加入CncMon.sln中
+  * 移除AutoTest project file
+  * batch檔修改
+</msg></logentry></log>

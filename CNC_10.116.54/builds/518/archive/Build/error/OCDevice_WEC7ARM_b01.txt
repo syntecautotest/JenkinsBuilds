@@ -1,0 +1,436 @@
+------ Rebuild All started: Project: DeviceAlarm, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'DeviceAlarm', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+DeviceAlarmIDDef.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+DeviceAlarmTypeDef.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\DeviceAlarm\WCE700ARM_Release\BuildLog.htm"
+DeviceAlarm - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoLink, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ServoLink', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+MitsubishiComm.cpp
+ServoLink.cpp
+ServoCommHost.cpp
+SerialPort.cpp
+SanyoServo.cpp
+RS232Export.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\ServoLink.lib and object WCE700ARM_Release\ServoLink.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\ServoLink\WCE700ARM_Release\BuildLog.htm"
+ServoLink - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SvoUtility, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SvoUtility', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+CtrlParam.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+MotorInfoResMap.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+MotorInfoLoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LatchFunction.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\SvoUtility\WCE700ARM_Release\BuildLog.htm"
+SvoUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoTuning, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ChTuningControl.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\ServoTuning\WCE700ARM_Release\BuildLog.htm"
+ServoTuning - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CNC2ASIC, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CNC2ASIC', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CNC2ASIC.cpp
+M3Mechatrolink.cpp
+CNC2Driver.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CNC2ASIC\WCE700ARM_Release\BuildLog.htm"
+CNC2ASIC - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SerialParam, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SerialParam', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+SerialParamDefManager.cpp
+SyntecMemoryMap.cpp
+SerialParamTable.cpp
+.\SerialParamTable.cpp(374) : warning C4244: 'argument' : conversion from 'long' to 'WORD', possible loss of data
+SerialParamSync.cpp
+SerialParamLoader.cpp
+SerialParamInit.cpp
+Generating Code...
+d:\jenkins\workspace\cnc_10.116.54\ocdevice\source\serialparam\syntecmemorymap.cpp(105) : warning C4715: 'CSyntecMemoryMap::getFuncDefine' : not all control paths return a value
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\SerialParam\WCE700ARM_Release\BuildLog.htm"
+SerialParam - 0 error(s), 2 warning(s)
+------ Rebuild All started: Project: RTCommDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'RTCommDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CANAPI.cpp
+Socket.cpp
+RTCommNetDrv.cpp
+MessageQueue.cpp
+FlexrayDrv.cpp
+Flexray4310NetDriver.cpp
+Flexray4200NetDriver.cpp
+EthercatDrv.cpp
+ESIManager.cpp
+ESILoader.cpp
+ESIDevice.cpp
+ErrorCodeStack.cpp
+CANopenDrv.cpp
+CANnullDrv.cpp
+CANNetMgr.cpp
+CANCookie.cpp
+CANbusDrv.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release/RTCommDriver.lib and object WCE700ARM_Release/RTCommDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\RTCommDriver\WCE700ARM_Release\BuildLog.htm"
+RTCommDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ServoDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+30gmASIC.cpp
+XY2Channel.cpp
+VirtaulServo5.cpp
+TnCtrlChannel.cpp
+SvoRtl.cpp
+SvoMultiplier.cpp
+SvoMinAbsFilter.cpp
+SvoFineDDA.cpp
+SvoDriver.cpp
+SvoChannel.cpp
+Servo60Driver.cpp
+Servo60Channel.cpp
+Servo5Driver.cpp
+Servo5Channel.cpp
+NulMCIChannel.cpp
+NullDriver.cpp
+NullChannel.cpp
+NetServoDriver.cpp
+.\NetServoDriver.cpp(186) : error C2065: 'myBuffer' : undeclared identifier
+NetServoChannel.cpp
+M2JL098Driver.cpp
+Generating Code...
+Compiling...
+M2JL080Driver.cpp
+M2Driver.cpp
+M2Channel.cpp
+.\M2Channel.cpp(924) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+.\M2Channel.cpp(927) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+.\M2Channel.cpp(941) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+.\M2Channel.cpp(5391) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+.\M2Channel.cpp(5392) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+.\M2Channel.cpp(5393) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+.\M2Channel.cpp(5456) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+.\M2Channel.cpp(5464) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+.\M2Channel.cpp(5468) : warning C4244: 'argument' : conversion from 'DWORD' to 'WORD', possible loss of data
+M2ASICCommDriver.cpp
+LaserChannel.cpp
+.\LaserChannel.cpp(116) : warning C4244: '=' : conversion from 'double' to 'WORD', possible loss of data
+.\LaserChannel.cpp(152) : warning C4244: '=' : conversion from 'double' to 'WORD', possible loss of data
+.\LaserChannel.cpp(454) : warning C4244: '=' : conversion from 'double' to 'WORD', possible loss of data
+FineInterpolation.cpp
+EPCIOSVO5.cpp
+EPCIORIO.cpp
+EPCIOPCL.cpp
+EPCIOLIO.cpp
+EPCIOENC.cpp
+EPCIOEDM.cpp
+EPCIODriver.cpp
+EPCIODDA.cpp
+EPCIODAC.cpp
+EPCIOChannel.cpp
+EPCIOASIC.cpp
+EPCIOADC.cpp
+DAChannel.cpp
+CANOpenHomeSearch.cpp
+Generating Code...
+Compiling...
+30gmDriver.cpp
+30gmChannel.cpp
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\ServoDriver\WCE700ARM_Release\BuildLog.htm"
+ServoDriver - 1 error(s), 12 warning(s)
+------ Rebuild All started: Project: CANObjectDictionary, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CANObjectDictionary', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+CANObjDicLoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CANObjDictionary.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CANObjectDictionary\WCE700ARM_Release\BuildLog.htm"
+CANObjectDictionary - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: IODriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'IODriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CNC2IoChannel.cpp
+NullLatchIBitChannel.cpp
+NullIoCh.cpp
+MpgIoChannel.cpp
+LatchIBitChannel.cpp
+IoMapManager.cpp
+IoMap.cpp
+IoEPCIO.cpp
+IoCNC2PIO.cpp
+IoChRly2.cpp
+IoChRly1.cpp
+IoChHardkey96.cpp
+IoChHardkey.cpp
+IOCh.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\IODriver\WCE700ARM_Release\BuildLog.htm"
+IODriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CANDeviceDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CANDeviceDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CANDEVAPI.cpp
+XmlReaderAgent.cpp
+ORXAPI.cpp
+CANDeviceManager.cpp
+CANDeviceDriver.cpp
+CANDevice_CONFIG.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release/CANDeviceDriver.lib and object WCE700ARM_Release/CANDeviceDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CANDeviceDriver\WCE700ARM_Release\BuildLog.htm"
+CANDeviceDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SriDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SriDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ModbusFrame.cpp
+SriPLCPanel.cpp
+SriDriver.cpp
+SriConfigSync.cpp
+SriChannel.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\SriDriver.lib and object WCE700ARM_Release\SriDriver.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\SriDriver\WCE700ARM_Release\BuildLog.htm"
+SriDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Mci30GM, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Mci30GM', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+Mci30GM.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\Mci30GM\WCE700ARM_Release\BuildLog.htm"
+Mci30GM - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciM3, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciM3', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+M3Driver.cpp
+MciM3.cpp
+M3UnitConverter.cpp
+M3Tuning.cpp
+M3SynScope.cpp
+M3SynDeviceUpdate.cpp
+M3SvoChannel.cpp
+M3Station.cpp
+M3Protocol.cpp
+M3MsgControl.cpp
+M3MsgComm.cpp
+M3IOProfile.cpp
+M3IOChannel.cpp
+M3ExtIOChannel.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\MciM3\WCE700ARM_Release\BuildLog.htm"
+MciM3 - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioNull, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CioNull', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CioNull.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CioNull\WCE700ARM_Release\BuildLog.htm"
+CioNull - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioCNC2PIO, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CioCNC2PIO', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+CioCNC2PIO.cpp
+StdAfx.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CioCNC2PIO\WCE700ARM_Release\BuildLog.htm"
+CioCNC2PIO - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciRTEX, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciRTEX', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+MciRTEX.cpp
+StdAfx.cpp
+RTEXProtocol.cpp
+RTEXDriver.cpp
+RTEXChannel.cpp
+MNM1221.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\MciRTEX\WCE700ARM_Release\BuildLog.htm"
+MciRTEX - 1 error(s), 0 warning(s)
+------ Skipped Rebuild All: Project: MciServo60, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Rebuild All started: Project: MciServo5, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciServo5', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+MciServo5.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\MciServo5\WCE700ARM_Release\BuildLog.htm"
+MciServo5 - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciNull, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciNull', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+MciNull.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\MciNull\WCE700ARM_Release\BuildLog.htm"
+MciNull - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciNetServo, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciNetServo', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+MciNetServo.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\MciNetServo\WCE700ARM_Release\BuildLog.htm"
+MciNetServo - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciEpcio, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciEpcio', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+MciEpcio.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\MciEpcio\WCE700ARM_Release\BuildLog.htm"
+MciEpcio - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: PhysicalDriver, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'PhysicalDriver', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+PhysicalDriver.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\PhysicalDriver\WCE700ARM_Release\BuildLog.htm"
+PhysicalDriver - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioPio2, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CioPio2', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+CioPio2.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CioPio2\WCE700ARM_Release\BuildLog.htm"
+CioPio2 - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioEpcio, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'CioEpcio', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+CioEpcio.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\CioEpcio\WCE700ARM_Release\BuildLog.htm"
+CioEpcio - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: MciM2, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'MciM2', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+MciM2.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\servodriver\wce700arm_release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\MciM2\WCE700ARM_Release\BuildLog.htm"
+MciM2 - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: BuildAll, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'BuildAll', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+BuildAll.cpp
+Compiling resources...
+Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCDevice\Source\BuildAll\WCE700ARM_Release\BuildLog.htm"
+BuildAll - 0 error(s), 0 warning(s)
+========== Rebuild All: 12 succeeded, 14 failed, 1 skipped ==========
+
