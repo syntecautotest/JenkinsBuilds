@@ -1,0 +1,300 @@
+------ Rebuild All started: Project: Event, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Event\Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: EventAP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventAP.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\EventAP\Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MotUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MotUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ADQueue.cpp
+ZeroSpeedCheck.cpp
+VelocityControl.cpp
+VelAccMeter.cpp
+TrajectoryThread.cpp
+TrajectoryTapping.cpp
+TrajectorySyncTracking.cpp
+TrajectoryOscillator.cpp
+TrajectoryNormal.cpp
+TrajectoryDef.cpp
+TrajectoryChopping.cpp
+Trajectory.cpp
+TimeBase.cpp
+SyncTracking.cpp
+SCurveTrajectory.cpp
+RobotWaitSignalManager.cpp
+RobotMRPQueue.cpp
+RobotMRPPool.cpp
+RobotMotion.cpp
+RobotInterpolator.cpp
+Generating Code...
+Compiling...
+PostAccelerator_Int.cpp
+PostAccelerator.cpp
+PlayModeInterpolator.cpp
+OneBlockInterpolator.cpp
+MultiPassMovingAverageFilter.cpp
+MpHoming.cpp
+MpHomeSearch.cpp
+MovingAverageFilter.cpp
+MotionPlanner.cpp
+LANodePool.cpp
+LAMotionPlanner.cpp
+KickNode.cpp
+InterruptSignalManager.cpp
+Interpolator.cpp
+HomeSearchCore.cpp
+GradientDescent.cpp
+FLThreadNormal.cpp
+FLRobotMoveL.cpp
+FLRobotMoveJ.cpp
+FLCutString.cpp
+Generating Code...
+Compiling...
+FLCutSCurve.cpp
+FLCutRTCP.cpp
+FLCutCSlopeForSpring.cpp
+FLCutCSlope.cpp
+FeedLimit.cpp
+FeedControl.cpp
+FCThreadNormal.cpp
+FCCutString.cpp
+FCCutSmoothScurve.cpp
+FCCutSCurve.cpp
+FCCutRTCP.cpp
+FCCutCSlope.cpp
+DelayFilter.cpp
+CurvatureCalculatorNode.cpp
+CurvatureCalculator.cpp
+CJerkLineInt.cpp
+CJerkHelicalInt.cpp
+BPTLimiter.cpp
+AuxInterpolator.cpp
+ArcFeature.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\MotUtility\Release\BuildLog.htm"
+MotUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: WinPAL, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'WinPAL', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CommAPI.cpp
+WinXSignal.cpp
+WinRTTimer.cpp
+VersionInfo.cpp
+ThreadAPI.cpp
+RTMutex.cpp
+Pal.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\WinPAL\Release\BuildLog.htm"
+WinPAL - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Utility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+_UNCC.cpp
+.\_UNCC.cpp(106) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(107) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(108) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(109) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(110) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+.\_UNCC.cpp(156) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+ZRtl.cpp
+ZMath.cpp
+ZipArch.cpp
+ZCRC32.cpp
+x86Platform.cpp
+VStack.cpp
+Vector4d.cpp
+Vector3d.cpp
+Vector2d.cpp
+VArray.cpp
+Variant.cpp
+Unzip.cpp
+TZPlex.cpp
+Tuple4d.cpp
+Tuple3d.cpp
+Tuple2d.cpp
+Test_HugeFileEditor.cpp
+StringConverter.cpp
+Stream.cpp
+Generating Code...
+Compiling...
+Stack.cpp
+Sphere.cpp
+SmallFileEditor.cpp
+ShapeData.cpp
+SetupPacking.cpp
+QuickMatrixN.cpp
+Quaternion.cpp
+PropertyBag.cpp
+PoolOfLinkedListOfBulk.cpp
+PolynomialRootSolver.cpp
+Point3d.cpp
+Point2d.cpp
+Platform.cpp
+PID.cpp
+ParamStore.cpp
+ParamCracker.cpp
+PalStdLib.cpp
+OcStreamReader.cpp
+OcFileReader.cpp
+OcDesFileReader.cpp
+Generating Code...
+Compiling...
+NumericalRecipes.cpp
+NumberBag.cpp
+MiddleVoteFilter.cpp
+MatrixN.cpp
+Matrix4d.cpp
+Matrix3d.cpp
+Matrix2d.cpp
+LinkedListPool.cpp
+LinePage.cpp
+LineMap.cpp
+LANAdapterInfo.cpp
+KStringMap.cpp
+JXmlTextWriter.cpp
+JXmlTextReader.cpp
+JReplication.cpp
+JRectLayout.cpp
+JFileInfo.cpp
+JCycleValue.cpp
+JCycleSchemaPool.cpp
+JCycleSchema.cpp
+Generating Code...
+Compiling...
+JCycleDocument.cpp
+JAllocateOnlyHeap.cpp
+IntervalChecker.cpp
+Internet.cpp
+IntegerQueue.cpp
+IniRegManager.cpp
+IniReg.cpp
+HugeFileSharedEditor.cpp
+HugeFileReader.cpp
+HugeFileEditor.cpp
+HighPerformanceTimer.cpp
+GVector.cpp
+GuardStore.cpp
+GuardRegistry.cpp
+GMatrix.cpp
+Geometry2d.cpp
+FramStore.cpp
+Frame3d.cpp
+FRAM_Parallel.cpp
+FileDirInfo.cpp
+Generating Code...
+Compiling...
+FIFOQueue.cpp
+EventCPBase.cpp
+DocStoreAPI.cpp
+DNCChannel.cpp
+DeviceInfoManager.cpp
+DeviceInfo.cpp
+DESObj.cpp
+Cylinder.cpp
+Complex.cpp
+CommPort.cpp
+CharQueue.cpp
+ByteOrder.cpp
+Box.cpp
+BitSet.cpp
+BitFilter.cpp
+BinFileLoader.cpp
+AxisDimension.cpp
+AxisAngle4d.cpp
+AxFrame.cpp
+AsynQueue.cpp
+Generating Code...
+Compiling...
+Argument.cpp
+ArchMgr.cpp
+AlarmFlags.cpp
+AlarmCode.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\Utility\Release\BuildLog.htm"
+Utility - 0 error(s), 9 warning(s)
+------ Rebuild All started: Project: MotUtilityTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MotUtilityTest', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+MotUtilityTest.cpp
+AuxInterpolatorTest.cpp
+Generating Code...
+Linking...
+gmock_main.lib(gmock_main.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+Generating code
+Finished generating code
+Embedding manifest...
+Performing Post-Build Event...
+Running main() from gmock_main.cc
+[==========] Running 73 tests from 2 test cases.
+[----------] Global test environment set-up.
+[----------] 1 test from MotUtilityTest (0 ms total)
+[----------] 72 tests from TestAuxInterpolator/CAuxInterpolatorTest (47 ms total)
+[----------] Global test environment tear-down
+[==========] 73 tests from 2 test cases ran. (47 ms total)
+[  PASSED  ] 73 tests.
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCKrnl\Source\GMock\MotUtilityTest\Release\BuildLog.htm"
+MotUtilityTest - 0 error(s), 0 warning(s)
+========== Rebuild All: 6 succeeded, 0 failed, 0 skipped ==========
+

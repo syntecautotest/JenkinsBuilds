@@ -1,0 +1,387 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArrayTypeBuffer.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+VirDynStage.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+TransformManager.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+TimeTrigSrc.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+StageMoveCompensator.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+ObjVirTrig.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+NullDynStage.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+NulLaserChannel.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+ManualJog.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserPLCPanel.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserFileReader.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserCtrlParamSync.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserCtrl.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+.\LaserCtrl.cpp(216) : error C2059: syntax error : ')'
+.\LaserCtrl.cpp(277) : error C2059: syntax error : ')'
+LaserCmdInterpolator.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserAxis.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+GalvoHome.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+GalvoAxisParamSync.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+GalvoAxis.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+DynStageTrackingCtrl.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+DynStageMarkMgr.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+Generating Code...
+Compiling...
+DistortionTransform.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+DCTLoader.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+DCTCreater.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+CBMParamSync.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+BeltDynStage.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrl\Release\BuildLog.htm"
+LaserCtrl - 277 error(s), 25 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+LaserCtrlDll.cpp
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\OpenCNC\BM_Local\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrlDll\Release\BuildLog.htm"
+LaserCtrlDll - 11 error(s), 1 warning(s)
+========== Rebuild All: 0 succeeded, 2 failed, 0 skipped ==========
+

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="219131"><author>1384</author><date>2019-02-13T07:58:02.033658Z</date><paths><path action="M" localPath="OCKrnl\Source" kind="dir">/cnckernel/branches/release_v10.118.12/OCKrnl/Source</path><path action="A" localPath="res\_Arm\_Mill\_SUPER" copyfrom-path="/cnckernel/branches/CNCKL/CNCKL_2662_f_SuperCE7_Super-X5_118.12.x/res/_Arm/_Mill/_SUPER" copyfrom-rev="218962" kind="dir">/cnckernel/branches/release_v10.118.12/res/_Arm/_Mill/_SUPER</path><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\GoldenData.txt" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="A" localPath="res\_Arm\_Mill\_SUPER-X5" copyfrom-path="/cnckernel/branches/CNCKL/CNCKL_2662_f_SuperCE7_Super-X5_118.12.x/res/_Arm/_Mill/_SUPER-X5" copyfrom-rev="218962" kind="dir">/cnckernel/branches/release_v10.118.12/res/_Arm/_Mill/_SUPER-X5</path><path action="M" localPath="OCKrnl\Source\ProductInfo\OptionDef.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/ProductInfo/OptionDef.h</path><path action="M" localPath="OCKrnl" kind="dir">/cnckernel/branches/release_v10.118.12/OCKrnl</path><path action="M" localPath="OCKrnl\Source\ProductInfo\CncModel.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/ProductInfo/CncModel.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/ProductInfo/ProductTable.h</path><path action="M" localPath="OCKrnl\Source\ProductInfo\OptionTable.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/ProductInfo/OptionTable.cpp</path><path action="A" copyfrom-path="/cnckernel/branches/CNCKL/CNCKL_2662_f_SuperCE7_Super-X5(spring)_118x/res/_Arm/_Spring" copyfrom-rev="218964" kind="dir">/cnckernel/trunk/res/_Arm/_Spring</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/ProductInfo/OptionDef.h</path><path action="A" localPath="res\_Arm\_Spring" copyfrom-path="/cnckernel/branches/CNCKL/CNCKL_2662_f_SuperCE7_Super-X5_118.12.x/res/_Arm/_Spring" copyfrom-rev="218962" kind="dir">/cnckernel/branches/release_v10.118.12/res/_Arm/_Spring</path><path action="M" localPath="OCKrnl\Source\ProductInfo\ProductTable.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/ProductInfo/ProductTable.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/ProductInfo/OptionTable.cpp</path><path action="A" localPath="res\_Arm\_Lathe\_SUPER" copyfrom-path="/cnckernel/branches/CNCKL/CNCKL_2662_f_SuperCE7_Super-X5_118.12.x/res/_Arm/_Lathe/_SUPER" copyfrom-rev="218962" kind="dir">/cnckernel/branches/release_v10.118.12/res/_Arm/_Lathe/_SUPER</path><path action="M" localPath="." kind="dir">/cnckernel/branches/release_v10.118.12</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/ProductInfo/CncModel.h</path></paths><msg>merge: CNCKL_2662_f_SuperCE7_Super-X5_116.56.x, 217987-218736 to 10.116.56C
+merge: CNCKL_2662_f_SuperCE7_Super-X5_118.12.x, 217941-218962 to 10.118.12K
+merge: CNCKL_2662_f_SuperCE7_Super-X5(spring)_118x, 217966-218964 to 10.118.18
+by 侑庭
+
+10.116.56C:
+1.調整Super/Super-X選配/標配內容
+2.新增機型: Mill / Lathe super
+3.新增機型: Mill Super-X5
+
+10.118.12K:
+1.調整Super/Super-X選配/標配內容
+2.新增機型: Mill / Lathe super
+3.新增機型: Mill Super-X5
+4.新增機型: Spring Super-X5
+5.調整Spring機型選配/標配內容 
+
+10.118.18:
+1.調整Super/Super-X選配/標配內容
+2.新增機型: Spring Super-X5
+3.調整Spring機型選配/標配內容</msg></logentry></log>

@@ -1,0 +1,373 @@
+------ Rebuild All started: Project: Event, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: EventAP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventAP.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: DataLog, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'DataLog', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+DataCatch.cpp
+TimerManager.cpp
+KernelLog.cpp
+GrinderLog.cpp
+DataRecorder.cpp
+DataListener.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\DataLog\Release\BuildLog.htm"
+DataLog - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MSTExeChannel, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MSTExeChannel', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AxPLCCall.cpp
+PLCCall.cpp
+PartCount.cpp
+MSTChannel.cpp
+ModePLCCall.cpp
+CycleTimer.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MSTExeChannel\Release\BuildLog.htm"
+MSTExeChannel - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PLCNet, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PLCNet', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+OCClient.cpp
+PLCNet.cpp
+PDU.cpp
+OCServer.cpp
+OCNode.cpp
+OCClientService.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PLCNet\Release\BuildLog.htm"
+PLCNet - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ToolTable, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ToolTable', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+HMultiToolTable.cpp
+SingleToolTable.cpp
+MultiToolTable.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ToolTable\Release\BuildLog.htm"
+ToolTable - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AlarmHistoryStore.cpp
+XMLDatabase.cpp
+VelGlitchCompKeyMap.cpp
+TCPServer.cpp
+SystemIdentify.cpp
+SysPLCPanel.cpp
+SysParamSync.cpp
+SvoDevStateTable.cpp
+SvoChMap.cpp
+StrokeLimitDesk.cpp
+SlaveFrame.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : error C2065: 'pListener' : undeclared identifier
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : error C2182: 'NcAddOnCncEvent' : illegal use of type 'void'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : fatal error C1903: unable to recover from previous error(s); stopping compilation
+SimuPool.cpp
+Simulator.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+SerialDeviceServ.cpp
+SerialDeviceCtrl.cpp
+RTUSlave.cpp
+RobotSimulator.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+RobotPLCPanel.cpp
+RobotDrawer.cpp
+ResourceMgr.cpp
+Generating Code...
+Compiling...
+ProgrammableDesk.cpp
+PLCEventMonitor.cpp
+ParseContext.cpp
+ParamManager.cpp
+ORXManager.cpp
+OpPLCPanel.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\CNCCenter.h(754) : error C2061: syntax error : identifier 'IOnCncEvent'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\CNCCenter.h(757) : error C2061: syntax error : identifier 'IOnCncEvent'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\CNCCenter.h(859) : error C2143: syntax error : missing ';' before '*'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\CNCCenter.h(859) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\CNCCenter.h(859) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+.\OpPLCPanel.cpp(1964) : fatal error C1903: unable to recover from previous error(s); stopping compilation
+OpParamSync.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+OpOutStream.cpp
+OPLog.cpp
+NcDrawer.cpp
+ModeGroup.cpp
+ModbusSlaveComm.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : error C2065: 'pListener' : undeclared identifier
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : error C2182: 'NcAddOnCncEvent' : illegal use of type 'void'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : fatal error C1903: unable to recover from previous error(s); stopping compilation
+MakerConfigInfo.cpp
+LatchIBitControl.cpp
+LatchDrvSglControl.cpp
+GVPWorkVar.cpp
+GVPPLCRegister.cpp
+GVPPersist.cpp
+GVPInMemory.cpp
+GVCInMemory.cpp
+Generating Code...
+Compiling...
+GVCBase.cpp
+FrameUtility.cpp
+FileWriter.cpp
+FileReader.cpp
+FileBase.cpp
+ExtStrokeTableParamSync.cpp
+ExtStrokeTable.cpp
+ECamPLCPanel.cpp
+DumpDbg.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+DriverManager.cpp
+DataListenManager.cpp
+CoordStateTable.cpp
+cncctrl.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+.\cncctrl.cpp(921) : error C2059: syntax error : ')'
+.\cncctrl.cpp(1210) : error C2059: syntax error : ')'
+CNCCenter.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+.\CNCCenter.cpp(1892) : error C2039: 'OnCncEvent' : is not a member of 'IOnCncEvent'
+        d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(9) : see declaration of 'IOnCncEvent'
+.\CNCCenter.cpp(1897) : error C2065: 'lpListener' : undeclared identifier
+.\CNCCenter.cpp(1899) : error C2448: 'CCNCCenter::add_OnCncEvent' : function-style initializer appears to be a function definition
+.\CNCCenter.cpp(1910) : error C2448: 'CCNCCenter::remove_OnCncEvent' : function-style initializer appears to be a function definition
+cncapi.cpp
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(62) : error C2061: syntax error : identifier 'IOnCncEvent'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\ISriDriver.h(65) : error C2061: syntax error : identifier 'IOnCncEvent'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : error C2065: 'pListener' : undeclared identifier
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : warning C4229: anachronism used : modifiers on data are ignored
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : error C2182: 'NcAddOnCncEvent' : illegal use of type 'void'
+d:\jenkins\workspace\cnc_10.118.12\ockrnl\source\operation\cncapi.h(67) : fatal error C1903: unable to recover from previous error(s); stopping compilation
+BackgndExePanel.cpp
+BackgndExeCenter.cpp
+AxisDesk.cpp
+AlarmPendingStore.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\cncapi.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Operation\Release\BuildLog.htm"
+Operation - 152 error(s), 13 warning(s)
+------ Rebuild All started: Project: OperationTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OperationTest', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+OperationTest.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\..\release\operation.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\GMock\OperationTest\Release\BuildLog.htm"
+OperationTest - 1 error(s), 0 warning(s)
+========== Rebuild All: 6 succeeded, 2 failed, 0 skipped ==========
+

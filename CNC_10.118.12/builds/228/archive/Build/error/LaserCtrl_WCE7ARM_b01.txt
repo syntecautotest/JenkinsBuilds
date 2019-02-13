@@ -1,0 +1,412 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+ArrayTypeBuffer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+VirDynStage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+TransformManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+TimeTrigSrc.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StageMoveCompensator.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+ObjVirTrig.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+NullDynStage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+NulLaserChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+ManualJog.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserPLCPanel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserFileReader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserCtrlParamSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserCtrl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+.\LaserCtrl.cpp(216) : error C2059: syntax error : ')'
+.\LaserCtrl.cpp(277) : error C2059: syntax error : ')'
+LaserCmdInterpolator.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+LaserAxis.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+GalvoHome.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+GalvoAxisParamSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+GalvoAxis.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+DynStageTrackingCtrl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+Generating Code...
+Compiling...
+DynStageMarkMgr.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+DistortionTransform.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+DCTLoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+DCTCreater.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+CBMParamSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+BeltDynStage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrl\WCE700ARM_Release\BuildLog.htm"
+LaserCtrl - 277 error(s), 25 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+LaserCtrlDll.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(33) : error C2146: syntax error : missing '}' before identifier 'NCEV_SMBUTStateChanged'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(34) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2588: '::~IOnCncEvent' : illegal global destructor
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C2575: 'IOnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(36) : warning C4508: 'IOnCncEvent' : function should return a value; 'void' return type assumed
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2575: 'OnCncEvent' : only member functions and bases can be virtual
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2072: 'OnCncEvent' : initialization of a function
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(39) : error C2440: 'initializing' : cannot convert from 'int' to 'void (int,DWORD)'
+        There are no conversions to function types, although there are conversions to references or pointers to functions
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2143: syntax error : missing ';' before '}'
+D:\Jenkins\workspace\CNC_10.118.12\OCSDK\inc\IOnCncEvent.h(40) : error C2059: syntax error : '}'
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\BuildLog.htm"
+LaserCtrlDll - 11 error(s), 1 warning(s)
+========== Rebuild All: 0 succeeded, 2 failed, 0 skipped ==========
+

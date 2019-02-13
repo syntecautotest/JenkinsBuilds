@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="219012"><author>1200</author><date>2019-02-13T01:59:15.191524Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotMotionPlanner.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotMotionPlanner.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/RobotMotionPlanner.cpp</path></paths><msg>merge: ROBOT_363_b_SuddenUnintendedAcceleration, 218527, to 10.118.12K, 10.118.18
+by 亭諭
+
+from 10.118.8, HSHP-1663
+
+[內部]
+修正機器人動程特定函式對於多執行緒保護不周的問題</msg></logentry></log>
