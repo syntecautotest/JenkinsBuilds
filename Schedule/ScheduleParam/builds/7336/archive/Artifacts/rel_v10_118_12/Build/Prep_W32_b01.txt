@@ -1,0 +1,15 @@
+------ Rebuild All started: Project: PREP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PREP', configuration 'Release|Win32'
+Compiling...
+StreamReader.cpp
+StdAfx.cpp
+PrepTx.cpp
+PrepRule.cpp
+PREP.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'OCKrnl.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\rel_v10_118_12\Preprocessor\Source\PREP\Release\BuildLog.htm"
+PREP - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

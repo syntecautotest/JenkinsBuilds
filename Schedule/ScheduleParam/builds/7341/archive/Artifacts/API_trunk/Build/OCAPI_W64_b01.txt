@@ -1,0 +1,62 @@
+------ Rebuild All started: Project: KrnlAPI, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+.\KrnlAPI.cpp(2) : fatal error C1083: Cannot open include file: 'CommonStruct.h': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\KrnlAPI\x64\Debug\BuildLog.htm"
+KrnlAPI - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Debug|x64'
+Compiling...
+TCPClient.cpp
+.\TCPClient.cpp(9) : fatal error C1083: Cannot open include file: 'ThreadAPI.h': No such file or directory
+TCPFunction.cpp
+d:\opencnc\schedule\api_trunk\ocapi\source\socketutility\TCPFunction.h(9) : fatal error C1083: Cannot open include file: 'RTMutex.h': No such file or directory
+StdAfx.cpp
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\SocketUtility\x64\Debug\BuildLog.htm"
+SocketUtility - 2 error(s), 0 warning(s)
+------ Rebuild All started: Project: BridgeAPI, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Debug|x64'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+.\BridgeAPI.cpp(4) : fatal error C1083: Cannot open include file: 'CommonStruct.h': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\BridgeAPI\x64\Debug\BuildLog.htm"
+BridgeAPI - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Debug|x64'
+Performing Pre-Build Event...
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(2) : fatal error C1083: Cannot open include file: 'ThreadAPI.h': No such file or directory
+TCPClientLink.cpp
+.\TCPClientLink.cpp(2) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(6) : fatal error C1083: Cannot open include file: 'RTMutex.h': No such file or directory
+TCPAlarmServer.cpp
+.\TCPAlarmServer.cpp(9) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPAlarmServer.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+..\SocketUtility\TCPFunction.h(9) : fatal error C1083: Cannot open include file: 'RTMutex.h': No such file or directory
+OcXmlTextReader.cpp
+.\OcXmlTextReader.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\OcXmlTextReader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\OcXmlTextReader.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+DipoleDeviceBuffer.cpp
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\DipoleDeviceBuffer.cpp(2) : fatal error C1083: Cannot open include file: 'CommonStruct.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\API_trunk\OCAPI\Source\OCAPI\x64\Debug\BuildLog.htm"
+OCAPI - 5 error(s), 10 warning(s)
+========== Rebuild All: 0 succeeded, 4 failed, 0 skipped ==========
+
