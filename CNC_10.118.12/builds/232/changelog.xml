@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="219538"><author>firticket</author><date>2019-02-15T10:50:25.258502Z</date><paths><path action="M" localPath="Bin\cnc2_hhb_rtex.bin" kind="file">/cnckernel/branches/release_v10.118.12/Bin/cnc2_hhb_rtex.bin</path></paths><msg>merge CNC2:
+CNC2 Build Time: 2019-02-15 13:53
+CNC2 Version: 00010
+
+the logs are in the following:
+
+fix: 檔案結尾補空行
+
+merge: CNCKL_2691_b_RTEXHHB_Error, 217676 to 10.118.12K
+by 青杉
+
+fix
+
+修正81R控制器RTEX通訊異常的問題。
+
+</msg></logentry></log>
