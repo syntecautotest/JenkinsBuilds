@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="219608"><author>1384</author><date>2019-02-18T07:53:26.081443Z</date><paths><path action="M" localPath="res\Common\Data\ParamDef.xml" kind="file">/cnckernel/branches/release_v10.118.12/res/Common/Data/ParamDef.xml</path><path action="M" kind="file">/cnckernel/trunk/res/Common/Data/ParamDef.xml</path></paths><msg>merge(2nd): ATEST_1072_b_CommonParamDef_12x, 218373 to 10.118.12K
+merge(2nd): ATEST_1072_b_CommonParamDef, 218371 to 10.118.18
+by 竺晏
+
+修正自動測試用參數範圍</msg></logentry><logentry revision="219622"><author>marskao</author><date>2019-02-18T09:02:53.566362Z</date><paths><path action="M" localPath="Build\Release_utf8.txt" kind="file">/cnckernel/branches/release_v10.118.12/Build/Release_utf8.txt</path></paths><msg>publish : 10.118.12K</msg></logentry></log>
