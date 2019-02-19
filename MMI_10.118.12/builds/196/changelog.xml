@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="219714"><author>1362</author><date>2019-02-19T03:47:08.755641Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_ArticRobotProgram.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_ArticRobotProgram.cs</path><path action="M" localPath="RobotPlugin\Plugin\RobotMachine\RobotCommand\RobotCmdManager.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotMachine/RobotCommand/RobotCmdManager.cs</path></paths><msg>merge appkernel/ROBOT_234_ParseNCFilesTiming r217127-r218902 to 10.118.12L, 10.118.19 by 才婷
+
+機器人產品( ARTIC, SCARA, DELTA )
+  1. 修正機器人人機上開啟加工檔，檔頭顯示亂碼的問題。 
+  2. [內部] 新增開檔流程步驟: 於開檔時會同步主程式及其呼叫的所有副程式的 CYC 內容至其對應的加工檔。</msg></logentry></log>

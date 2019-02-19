@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="219726"><author>swdjojo</author><date>2019-02-19T05:23:43.276619Z</date><paths><path action="D" localPath="CncMon\Source\CncMonCE.sln" kind="file">/appkernel/trunk/CncMon/Source/CncMonCE.sln</path><path action="M" localPath="AutoTestPlugin\Build\BuildBin.bat" kind="file">/appkernel/trunk/AutoTestPlugin/Build/BuildBin.bat</path><path action="M" localPath="CncMon\Build\BuildBin.bat" kind="file">/appkernel/trunk/CncMon/Build/BuildBin.bat</path><path action="M" localPath="PlugIn\FileClean\build\BuildBin.bat" kind="file">/appkernel/trunk/PlugIn/FileClean/build/BuildBin.bat</path><path action="M" localPath="." kind="dir">/appkernel/trunk</path><path action="M" localPath="Debug\readme.txt" kind="file">/appkernel/trunk/Debug/readme.txt</path><path action="A" localPath="Appkernel32.sln" copyfrom-path="/appkernel/branches/MMI_3809_f_CnsMonSlnAdjust/Appkernel32.sln" copyfrom-rev="219718" kind="file">/appkernel/trunk/Appkernel32.sln</path><path action="A" localPath="AppkernelCE.sln" copyfrom-path="/appkernel/branches/MMI_3809_f_CnsMonSlnAdjust/AppkernelCE.sln" copyfrom-rev="219718" kind="file">/appkernel/trunk/AppkernelCE.sln</path><path action="M" localPath="RobotPlugin\Build\BuildBin.bat" kind="file">/appkernel/trunk/RobotPlugin/Build/BuildBin.bat</path><path action="D" localPath="CncMon\Source\CncMon32.sln" kind="file">/appkernel/trunk/CncMon/Source/CncMon32.sln</path></paths><msg>merge appkernel/MMI_3809_f_CnsMonSlnAdjust r219556-r219718 to 10.118.19 by 維軒
+
+修正
+  * CncMon Solution檔案搬移至最外層.
+  * 修改 sln更名, CncMon --&gt; Appkernel.
+  * 修改sln內對專案徑.
+  * 修改batch檔路徑.
+</msg></logentry></log>
