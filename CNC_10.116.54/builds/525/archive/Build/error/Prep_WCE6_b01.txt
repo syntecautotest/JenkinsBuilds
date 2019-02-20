@@ -1,0 +1,17 @@
+------ Rebuild All started: Project: PREP_WinCE, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'PREP_WinCE', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StreamReader.cpp
+StdAfx.cpp
+PrepTx.cpp
+PrepRule.cpp
+PREP.cpp
+Generating Code...
+Linking...
+   Creating library ReleaseWinCE60\PREP_WinCE.lib and object ReleaseWinCE60\PREP_WinCE.exp
+PREP.obj : error LNK2001: unresolved external symbol "__declspec(dllimport) long * NcStateTable" (__imp_?NcStateTable@@3PAJA)
+.\ReleaseWinCE60/PREP.dll : fatal error LNK1120: 1 unresolved externals
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\Preprocessor\Source\PREP\ReleaseWinCE60\BuildLog.htm"
+PREP_WinCE - 2 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+
