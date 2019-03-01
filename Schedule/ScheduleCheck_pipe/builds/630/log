@@ -1,0 +1,11 @@
+由計時器啟動
+[EnvInject] - Loading node environment variables.
+在 Master 上建置 工作區 C:\Jenkins\jobs\Schedule\jobs\ScheduleCheck_pipe\workspace
+FATAL: Java heap space
+FATAL: Java heap space
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+FATAL: null
