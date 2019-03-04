@@ -1,0 +1,41 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1727508180767073432.bat
+ID:1193 Date:2019/03/04 15:46:05
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master a922eda] 2019/03/04 15:46:05 by 1193, Modified Products: 21GA-E
+ 17 files changed, 1 deletion(-)
+ rename 21GA_E/Software/Test/Common/{package_85d7e586.zip => package_d18c7aa1.zip} (77%)
+ delete mode 100644 LOCK
+ delete mode 100644 TestGroup1/Software/Delivery/Common/10inch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/10inch_Touch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/15inch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/15inch_Touch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/8inch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/8inch_Touch/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Delivery/Common/Common/package_977ef64c.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/10inch/package_43834afc.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/10inch_Touch/package_e96e7bc8.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/15inch/package_357d1cb0.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/15inch_Touch/package_4b3e3dc0.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/8inch/package_1a88bf9.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/8inch_Touch/package_c9f951f0.zip
+ delete mode 100644 TestGroup1/Software/Test/Common/Common/package_a1b95cee.zip
+ rename TestGroup1/Software/Test/Common/{package_49449eb8.zip => package_79b86e04.zip} (76%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   1731663..a922eda  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
