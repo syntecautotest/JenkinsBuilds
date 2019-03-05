@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="220988"><author>1200</author><date>2019-03-05T08:16:11.849348Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\GoldenData.txt" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" localPath="OCKrnl\Source\ProductInfo\ProductTable.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/ProductInfo/ProductTable.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/ProductInfo/ProductTable.h</path></paths><msg>merge: ROBOT_178_f_RobotMaxAxesNum_118_18, 220739-220842, to 10.118.12L, 10.118.19
+by 晉毅
+
+機器人產品(ARTIC、SCARA、DELTA)之81R機型選配軸數與同動軸數擴充為12軸。
+[內部]
+機器人產品(ARTIC、SCARA、DELTA)之AT機型選配軸數與同動軸數擴充為12軸。 </msg></logentry></log>

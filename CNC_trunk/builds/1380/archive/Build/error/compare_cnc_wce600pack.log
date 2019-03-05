@@ -1,0 +1,8 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\ESI\INVT_EtherCAT_171_Syntec.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+DiskC\OpenCNC\StdRes\EtherCAT\EtherCAT.xml
+----------------------------------------------------------------------

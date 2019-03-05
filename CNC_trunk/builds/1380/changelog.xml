@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="220936"><author>1200</author><date>2019-03-05T06:15:19.069009Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\RobotSyncOut.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/RobotSyncOut.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/RobotSyncOut.h</path></paths><msg>merge: ROBOT_354_f_SYNCOUTSizeBound_118_17, 220269, to 10.118.12L, 10.118.19
+by 晉毅
+
+機器人產品( ARTIC, SCARA, DELTA )修改SYNCOUT( 進階輸出功能 )規格，同一單節的SYNCOUT數量上限由5個開放到10個</msg></logentry></log>
