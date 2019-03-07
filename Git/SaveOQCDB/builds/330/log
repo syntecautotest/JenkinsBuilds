@@ -1,0 +1,52 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1635825067110664138.bat
+ID:10101345 Date:2019/03/07 12:11:55
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 0eb5a43] 2019/03/07 12:11:55 by 10101345, Modified Products: 22MA,21MA,11TB,21TA,6MD,21TB,210TB-H5,210TB-H,11MA,21MA-E,210MB-H5,210MA-H5,210MB-H,210MA-H,21TB-E,6MA-E,220TB-5,220MB-5,220MA-5,6MB-E,11TA,21TA-E,6TA-E,6MD-H,21TB-H,21MA-H,11MB,21TA-H
+ 28 files changed, 0 insertions(+), 0 deletions(-)
+ rename 11MA/Software/Test/Common/{package_1760b901.zip => package_c046b12.zip} (76%)
+ rename 11MB/Software/Test/Common/{package_107a4723.zip => package_8dff0bed.zip} (76%)
+ rename 11TA/Software/Test/Common/{package_87dd7785.zip => package_4e2f31e8.zip} (76%)
+ rename 11TB/Software/Test/Common/{package_20270ad.zip => package_d8614a7e.zip} (76%)
+ rename 210MA_H5/Software/Test/Common/package_c313b8b4.zip => 210MA_H/Software/Test/Common/package_5e9dd008.zip (76%)
+ rename 210MA_H/Software/Test/Common/package_fe75d7df.zip => 210MA_H5/Software/Test/Common/package_12361b8e.zip (76%)
+ rename 210MB_H5/Software/Test/Common/package_8ae22786.zip => 210MB_H/Software/Test/Common/package_d46484ec.zip (76%)
+ rename 210MB_H/Software/Test/Common/package_8e7bffc8.zip => 210MB_H5/Software/Test/Common/package_47b8ecaf.zip (76%)
+ rename 210TB_H/Software/Test/Common/{package_b7ead8c0.zip => package_ceb655b5.zip} (76%)
+ rename 210TB_H5/Software/Test/Common/{package_aebcace7.zip => package_9b1d4f58.zip} (76%)
+ rename 21MA/Software/Test/Common/{package_5c4287b1.zip => package_c152cb4d.zip} (76%)
+ rename 21MA_E/Software/Test/Common/{package_5fb63ad5.zip => package_631d4f27.zip} (76%)
+ rename 21MA_H/Software/Test/Common/{package_b127000a.zip => package_13e2a251.zip} (76%)
+ rename 21TA/Software/Test/Common/{package_58912015.zip => package_b31fe201.zip} (76%)
+ rename 21TA_E/Software/Test/Common/{package_d0c9ebe0.zip => package_6b7e36e1.zip} (76%)
+ rename 21TA_H/Software/Test/Common/{package_4a63737d.zip => package_d9f075e3.zip} (76%)
+ rename 21TB/Software/Test/Common/{package_eeb935a3.zip => package_1702089e.zip} (76%)
+ rename 21TB_E/Software/Test/Common/{package_dafaed69.zip => package_105a81f9.zip} (76%)
+ rename 21TB_H/Software/Test/Common/{package_8b2a20c1.zip => package_f94f118.zip} (76%)
+ rename 220MA_5/Software/Test/Common/{package_c1eb13fe.zip => package_cfa16ce8.zip} (76%)
+ rename 220MB_5/Software/Test/Common/{package_4c9acb9.zip => package_27b9ae6c.zip} (76%)
+ rename 220TB_5/Software/Test/Common/{package_b61e8bc0.zip => package_70111ef2.zip} (76%)
+ rename 22MA/Software/Test/Common/{package_7b40eea7.zip => package_501cba5b.zip} (76%)
+ rename 6MA_E/Software/Test/Common/{package_b522867d.zip => package_b99d347a.zip} (76%)
+ rename 6MB_E/Software/Test/Common/{package_e12d5aab.zip => package_faa2f8bb.zip} (76%)
+ rename 6MD/Software/Test/Common/{package_e780c92e.zip => package_7a7a62ae.zip} (76%)
+ rename 6MD_H/Software/Test/Common/{package_599f6bd.zip => package_5098cefb.zip} (76%)
+ rename 6TA_E/Software/Test/Common/{package_335a3b39.zip => package_28ad7261.zip} (76%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   7986c64..0eb5a43  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

@@ -1,0 +1,60 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4Aev4xMDS9OymgJjgLBrNEo1NjhHkDu/H922PdYmRr9PAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9sbAAA2QLuvM8AAAA=[0m330 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2488944555508990406.bat
+ID:10101345 Date:2019/03/07 12:11:55
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   11MA.xml
+	modified:   11MB.xml
+	modified:   11TA.xml
+	modified:   11TB.xml
+	modified:   210MA-H.xml
+	modified:   210MA-H5.xml
+	modified:   210MB-H.xml
+	modified:   210MB-H5.xml
+	modified:   210TB-H.xml
+	modified:   210TB-H5.xml
+	modified:   21MA-E.xml
+	modified:   21MA-H.xml
+	modified:   21MA.xml
+	modified:   21TA-E.xml
+	modified:   21TA-H.xml
+	modified:   21TA.xml
+	modified:   21TB-E.xml
+	modified:   21TB-H.xml
+	modified:   21TB.xml
+	modified:   220MA-5.xml
+	modified:   220MB-5.xml
+	modified:   220TB-5.xml
+	modified:   22MA.xml
+	modified:   6MA-E.xml
+	modified:   6MB-E.xml
+	modified:   6MD-H.xml
+	modified:   6MD.xml
+	modified:   6TA-E.xml
+	modified:   REV.props
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 403eb49] 2019/03/07 12:11:55 by 10101345, Modified Products: 22MA,21MA,11TB,21TA,6MD,21TB,210TB-H5,210TB-H,11MA,21MA-E,210MB-H5,210MA-H5,210MB-H,210MA-H,21TB-E,6MA-E,220TB-5,220MB-5,220MA-5,6MB-E,11TA,21TA-E,6TA-E,6MD-H,21TB-H,21MA-H,11MB,21TA-H
+ 29 files changed, 29 insertions(+), 29 deletions(-)
+ rewrite 11MA.xml (89%)
+ rewrite 11TB.xml (89%)
+ rewrite 21TB-H.xml (89%)
+ rewrite 220MB-5.xml (89%)
+ rewrite 6MD-H.xml (89%)
+To github.com:syntecautotest/OQCFileConfig.git
+   19a36f8..403eb49  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

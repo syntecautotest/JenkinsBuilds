@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="221232"><author>1384</author><date>2019-03-07T05:12:27.512465Z</date><paths><path action="M" localPath="OCDevice\Source\MciM3\M3Driver.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCDevice/Source/MciM3/M3Driver.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.116.56C/OCDevice/Source/MciM3/M3Driver.cpp</path></paths><msg>merge: ISSUE_14359_b_Pr21set19CauseOP80, 221211-221213 to 10.116.56C, 10.116.56D
+by 青杉
+
+修正Pr21~設定成19或20的時候，控制器異常跳出OP-080的問題。</msg></logentry></log>
