@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="221321"><author>swdjojo</author><date>2019-03-08T05:02:01.579919Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Scr_SimpleTips.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_SimpleTips.cs</path><path action="M" localPath="MMICommon\Source\Screen\NetSet\Scr_WifiSet.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/NetSet/Scr_WifiSet.cs</path><path action="M" localPath="." kind="dir">/appkernel/trunk</path><path action="M" localPath="Res\Build\PackFiles.bat" kind="file">/appkernel/trunk/Res/Build/PackFiles.bat</path><path action="M" localPath="MMICommon\Source\Screen\ScrDiagnostic\Scr_Install_Software.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrDiagnostic/Scr_Install_Software.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScrDiagnostic\Scr_Install_Image.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrDiagnostic/Scr_Install_Image.cs</path></paths><msg>merge appkernel/ATEST_1112_b_UnableToInstallSoftwareAndImage r221319-r221320 to 10.118.19 by 盟仁
+
+修正
+  * 修改 autotest 打包流程，移入對應 CE7 的 dll 與執行檔
+  * Screen的constructor改成public.
+</msg></logentry></log>
