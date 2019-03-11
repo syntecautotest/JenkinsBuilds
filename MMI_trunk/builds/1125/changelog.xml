@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="221415"><author>swdjojo</author><date>2019-03-11T04:02:48.660981Z</date><paths><path action="M" localPath="." kind="dir">/appkernel/trunk</path><path action="M" localPath="AutoTestPlugin\Source\AutoTestThread.cs" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTestThread.cs</path></paths><msg>merge appkernel/MMI_3808_b_FixBugForAutoTest r221406 to 10.118.19 by 維軒
+
+修正
+  * 修正 AutoTest拿不到共享資料夾路徑的問題.
+</msg></logentry></log>

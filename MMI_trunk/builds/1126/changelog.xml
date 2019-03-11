@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="221426"><author>swdjojo</author><date>2019-03-11T05:16:02.689499Z</date><paths><path action="M" localPath="." kind="dir">/appkernel/trunk</path><path action="M" localPath="AutoTestPlugin\Source\AutoTest.cs" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTest.cs</path><path action="M" localPath="AutoTestPlugin\Source\AutoTestThread.cs" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTestThread.cs</path></paths><msg>merge appkernel/MMI_3808_b_FixBugForAutoTest r221420 to 10.118.19 by 維軒
+
+修正
+  * 修正 MMIConfig.ConfigInfo.Init 時機點調整
+</msg></logentry></log>
