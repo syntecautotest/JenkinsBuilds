@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="221700"><author>simon</author><date>2019-03-13T05:14:29.809267Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\MPInterpolation.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/MPInterpolation.cpp</path></paths><msg>merge: HSHP_2616_b_HSHP_2616_b_G10L1810L1820NotWorking, 221632, to 10.118.19 by 芝峰
+
+fix:
+    將錯誤移除的 CMPInterpolation::InterpretFuncCall() 對 case 1810/1820 的處理加回去.</msg></logentry></log>
