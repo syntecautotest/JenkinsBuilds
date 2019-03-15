@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="222023"><author>swdjojo</author><date>2019-03-15T08:22:10.460952Z</date><paths><path action="M" localPath="AutoTestPlugin\Source\AutoTestPluginCE.csproj" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTestPluginCE.csproj</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.19/MMICommon/Source/Tools/AutoTest.cs</path><path action="M" localPath="AutoTestPlugin\Source\AutoTestPlugin.csproj" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTestPlugin.csproj</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.19/AutoTestPlugin/Source/AutoTestPluginCE.csproj</path><path action="M" localPath="MMICommon\Source\Tools\AutoTest.cs" kind="file">/appkernel/trunk/MMICommon/Source/Tools/AutoTest.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.19/AutoTestPlugin/Source/AutoTestPlugin.csproj</path></paths><msg>merge appkernel/ATEST_1119_b_RefreshTestFailv2 r221931 to 10.118.19 by 維軒
+
+修正
+  * 修正 AutoTest頻率測試失效問題
+</msg></logentry></log>
