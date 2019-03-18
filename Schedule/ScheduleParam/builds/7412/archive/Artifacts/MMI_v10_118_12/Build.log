@@ -1,0 +1,25 @@
+Date: 2019/03/16 ¬P´Á¤»	 2:57:04 
+CPU: x86;Arm 
+Machine: Mill;Lathe;HC;FC;WOOD;GlassGrind;Cutting;Scanning;Print;Drill;Gantry;Artic;Delta;Scara;Spring; 
+Model: 6A;6B;6D;6D-H;6A-E;6B-E;11A;11B;11A-X;11B-X;21A;21B;21A-X;21B-X;21A-H;21B-H;21A-E;21B-E;30GM;7C;8A;8B;8C;8C-5;8E;8S;10A;10B;10C;10C-5;10E;12A;12B;15A;15B;15C;15C-5;15E;A;B;B-5;80GM;80MI;60A;60B;60C;60E;610A-H;610B-H;70A;70B;70B-5;71A;80R;81R;7A;22A;22B;210A-H;210B-H;210A-H5;210B-H5;220A;200A-X;220B;200B-X;220A-5;200A-X5;220B-5;200B-X5;210A-E;210A-E5;210B-E;210B-E5;610A-E5;HHB;SUPER-X;610A-H5;SUPER;SUPER-X5; 
+ 
+Execute Both Compile and Packing Sections 
+ 
+Start Build Bin 
+/* Cleaning Files */ 
+/* Unpacking OCSDK 10.118.12L */ 
+/* Compile OCUSER */ 
+/* Compile CEMMIAPI */ 
+/* Compile Std. CncMon and MMICommon Library */ 
+/* Compile EHMC CncMon and MMICommon Library */ 
+/* Compile CncMon and MMICommon for Autotest */ 
+/* Compile AutoTest Module */ 
+/* Compile RobotPlugin Module */ 
+/* Compile Plugin Module */ 
+/* Remove OCSDK */ 
+/* Check Compile Results */ 
+Compile Failed 
+ 
+Start Packing Files 
+/* Check file zise before packing file */ 
+Packing Process Terminated due to Compile Error 

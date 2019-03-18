@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="222107"><author>1362</author><date>2019-03-18T02:07:58.497079Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_ArticRobotProgram.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_ArticRobotProgram.cs</path></paths><msg>merge(2nd) appkernel/ROBOT_280_f_StitchOnOffScreen_v2 r222101 to 10.118.12M, 10.118.20 by 育豪
+
+修正: ROBOTMMI, ROBOTMMICE Build Error</msg></logentry></log>
