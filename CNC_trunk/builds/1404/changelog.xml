@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="222421"><author>1200</author><date>2019-03-19T10:10:03.639160Z</date><paths><path action="M" localPath="OCKrnl\Source\Operation\CNCCenter.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/CNCCenter.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/CNCCenter.cpp</path></paths><msg>merge: ROBOT_71_f_RobotAlmAddToHistory_118.17, 220691, to 10.118.12M, 10.118.20
+by 柏維
+
+機器人產品( ARTIC, SCARA, DELTA )，修改機器人警報( RobotCritical、RobotAlarm、RobotWarning )規格，報警後會紀錄至歷史警報。 </msg></logentry></log>
