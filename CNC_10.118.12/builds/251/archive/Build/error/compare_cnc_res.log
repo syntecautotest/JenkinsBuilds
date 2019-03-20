@@ -1,0 +1,15 @@
+Files that are found in folder Current_res but NOT in folder Previous_res :
+
+Res\_Arm\_SCARA\_81R\Res\119_rbpmeng.pin
+Res\_Arm\_SCARA\_80R\Res\119_rbpmeng.pin
+Res\_Arm\_GANTRY\_81R\Res\119_rbpmeng.pin
+Res\_Arm\_GANTRY\_80R\Res\119_rbpmeng.pin
+Res\_Arm\_DELTA\_81R\Res\119_rbpmeng.pin
+Res\_Arm\_DELTA\_80R\Res\119_rbpmeng.pin
+Res\_Arm\_Cutting\_60B\Data\PrepRule.xml
+Res\_Arm\_ARTIC\_81R\Res\119_rbpmeng.pin
+Res\_Arm\_ARTIC\_80R\Res\119_rbpmeng.pin
+----------------------------------------------------------------------
+Files that are found in folder Previous_res but NOT in folder Current_res :
+
+----------------------------------------------------------------------

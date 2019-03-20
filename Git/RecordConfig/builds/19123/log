@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7669146973588910319.bat
+Product: 6GB-G
+<FileConfig ProductName="6GB-G" PackageHead="6BGlassGrindCE7_ARM"><Files><File Category="Packing" Usage="Common" Hardware="Common"><Version>1.0.29</Version></File><File Category="Software" Usage="Test" Hardware="Common"><Version>1.0.29</Version><Name>package_66e3e9b1.zip</Name><Hash>121abb8ac927cd9526a5c7e19087f0b2</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/6GB_G/Software/Test/Common/package_66e3e9b1.zip</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>1.0.29</Version><Name>package_60788904.zip</Name><Hash>1f8b4c7742c675211f5fe8f860529bed</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/6GB_G/Software/Delivery/Common/package_60788904.zip</URL></File><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.60.0</Version><Name>WCE7_AM335x_7.60.0.bin</Name><Hash>2ae106883481d82bb36c995de954960a</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.60.0/ARMCE7_Image/WCE7_AM335x_7.60.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
