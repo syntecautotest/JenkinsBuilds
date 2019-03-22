@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7120712233755322148.bat
+Product: 210MB-E5
+<FileConfig ProductName="210MB-E5" PackageHead="210B-E5MillCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.13.0</Version><Name>WCE7_I.MX6_9.13.0.bin</Name><Hash>b6630b5566343e28230c96e5df70350d</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.13.0/ARMCE7_Image/WCE7_I.MX6_9.13.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.118.12J</Version><Name>package_f16ad738.zip</Name><Hash>12bf99e0f862813c5bba7c846293ed68</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/210MB_E5/Software/Test/Common/package_f16ad738.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.118.12J</Version><Name>Test.zip</Name><Hash>56760ad1543b50236183fcec26d49dab</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.118.12J</Version><Name>package_7d5115b0.zip</Name><Hash>1a4120dacd846190305fc6ec36b5aded</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/210MB_E5/Software/Delivery/Common/package_7d5115b0.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.118.12J</Version><Name>Delivery.zip</Name><Hash>44fca86aaf9c3274ae72264c423e9b36</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

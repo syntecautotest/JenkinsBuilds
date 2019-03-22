@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="222739"><author>1384</author><date>2019-03-22T06:38:18.299305Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\GoldenData.txt" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" localPath="OCKrnl\Source\ProductInfo\ProductTable.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/ProductInfo/ProductTable.h</path></paths><msg>merge: ATEST_1127_b_10MFOpt5Err, 222729 to 10.118.12M
+by 竺晏
+
+修正10MF未標配Option5的問題。</msg></logentry></log>
