@@ -1,0 +1,17 @@
+------ Rebuild All started: Project: SerialPLCAxis, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SerialPLCAxis', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+SerialPLCAxis.cpp
+SerialPLCParamSync.cpp
+SerialPLCPanel.cpp
+SerialPLCCenter.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'Utility.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\SerialPLCAxis\Source\SerialPLCAxis\WCE700ARM_Release\BuildLog.htm"
+SerialPLCAxis - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

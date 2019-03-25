@@ -1,0 +1,19 @@
+------ Rebuild All started: Project: EnIP, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'EnIP', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+Compiling...
+EnIP_API.cpp
+EnIP_MsgEncoder.cpp
+EnIP_MsgDecoder.cpp
+EnIP_MRPacket.cpp
+EnIP_Device_Manager.cpp
+EnIP_Device.cpp
+EnIP_DEF.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'Utility.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCProtocol\Source\EnIP\WCE700ARM_Release\BuildLog.htm"
+EnIP - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

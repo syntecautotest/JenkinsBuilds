@@ -1,0 +1,49 @@
+------ Rebuild All started: Project: Utility, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+JDevice.cpp
+d:\jenkins\workspace\cnc_10.118.12\octest\source\utility\_Utility.h(20) : fatal error C1083: Cannot open include file: 'PlatformAPI.h': No such file or directory
+JVector.cpp
+d:\jenkins\workspace\cnc_10.118.12\octest\source\utility\_Utility.h(20) : fatal error C1083: Cannot open include file: 'PlatformAPI.h': No such file or directory
+JTime.cpp
+d:\jenkins\workspace\cnc_10.118.12\octest\source\utility\_Utility.h(20) : fatal error C1083: Cannot open include file: 'PlatformAPI.h': No such file or directory
+JSystem.cpp
+d:\jenkins\workspace\cnc_10.118.12\octest\source\utility\_Utility.h(20) : fatal error C1083: Cannot open include file: 'PlatformAPI.h': No such file or directory
+JFile.cpp
+d:\jenkins\workspace\cnc_10.118.12\octest\source\utility\_Utility.h(20) : fatal error C1083: Cannot open include file: 'PlatformAPI.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\WCE700ARM_Release\BuildLog.htm"
+Utility - 5 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ATLogger.cpp
+LOG.cpp
+d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\_Utility.h(20) : fatal error C1083: Cannot open include file: 'PlatformAPI.h': No such file or directory
+KinematicLogger.cpp
+DriverLogger.cpp
+BPT.cpp
+d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\_Utility.h(20) : fatal error C1083: Cannot open include file: 'PlatformAPI.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Operation\WCE700ARM_Release\BuildLog.htm"
+Operation - 2 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCTest, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCTest', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+OCTest.cpp
+TestManager.cpp
+d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\_Utility.h(20) : fatal error C1083: Cannot open include file: 'PlatformAPI.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\OCTest\WCE700ARM_Release\BuildLog.htm"
+OCTest - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 3 failed, 0 skipped ==========
+

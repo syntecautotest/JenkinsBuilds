@@ -1,0 +1,45 @@
+------ Rebuild All started: Project: Utility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+JDevice.cpp
+JVector.cpp
+JTime.cpp
+JSystem.cpp
+JFile.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\WCE600Release\BuildLog.htm"
+Utility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ATLogger.cpp
+LOG.cpp
+KinematicLogger.cpp
+DriverLogger.cpp
+BPT.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Operation\WCE600Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCTest, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCTest', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+TestManager.cpp
+OCTest.cpp
+Generating Code...
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'utility.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\OCTest\WCE600Release\BuildLog.htm"
+OCTest - 1 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 1 failed, 0 skipped ==========
+
