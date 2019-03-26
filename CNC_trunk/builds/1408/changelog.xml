@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223066"><author>1384</author><date>2019-03-26T10:53:40.037320Z</date><paths><path action="M" kind="file">/cnckernel/tags/release_v10.118.12M/OCKrnl/Source/DataLog/KernelLog.cpp</path><path action="M" localPath="OCKrnl\Source\DataLog\KernelLog.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/DataLog/KernelLog.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.12M/OCKrnl/Source/DataLog/KernelLog.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/DataLog/KernelLog.cpp</path><path action="M" localPath="OCKrnl\Source\DataLog\KernelLog.h" kind="file">/cnckernel/trunk/OCKrnl/Source/DataLog/KernelLog.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/DataLog/KernelLog.h</path></paths><msg>merge: CNCKL_2752_f_ReduceRAMofBatteryLog_11812x, 222451-222535 to 10.118.12M
+merge: CNCKL_2752_f_ReduceRAMofBatteryLog_118x, 222452-222536 to 10.118.20
+by 嘉倫
+
+優化電池資訊記錄記憶體使用情形。</msg></logentry></log>
