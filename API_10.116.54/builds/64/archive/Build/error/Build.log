@@ -1,0 +1,65 @@
+Date: 2019/03/27 星期三	10:35:37 
+OCBuildVersion: 10.116.56E 
+PlatformSDKVersion: 1.23.0 
+ 
+Build Configuration: 
+	W32=1 
+	CE6=1 
+	CE7 ARM=1 
+ 
+Execute Both Compile and Packing Sections 
+ 
+/* Clean Output Working Directory */ 
+ 
+/* Build Executable Files */ 
+Prepare to Compile Files ... 
+	Init OCSDK Directory 
+	Download CNCSDK 
+Start to Sync Header 
+	Sync D:\OpenCNC\BM_Local\workspace\API_10.116.54\OCAPI Header 
+Start to Sync /makew32 Library 
+	Sync OCAPI Library 
+Start to Compile /makew32 Executable Files 
+	Compile OCAPI Executable Files 
+Start to Sync /makewce600 Library 
+	Sync OCAPI Library 
+Start to Compile /makewce600 Executable Files 
+	Compile OCAPI Executable Files 
+Start to Sync /makewce700arm Library 
+	Sync OCAPI Library 
+Start to Compile /makewce700arm Executable Files 
+	Compile OCAPI Executable Files 
+ 
+/* Check Error Logs */ 
+Compile Succeeded! 
+ 
+/* Make Packages */ 
+Prepare to Pack Files ... 
+Prepare to Copy Release Packages ... 
+Start to Make Package Files 
+	Init Package Directory 
+	Pack Install Tools 
+	Pack /packw32 Executable Files 
+Compress Package to ZIP File 
+	Compare 10.116.56E pack ZIP 
+Copy /copyw32 Package 
+Start to Make Package Files 
+	Init Package Directory 
+	Pack Install Tools 
+	Pack /packwce600 Executable Files 
+Compress Package to ZIP File 
+	Compare 10.116.56E pack ZIP 
+Copy /copywce600 Package 
+Start to Make Package Files 
+	Init Package Directory 
+	Pack Install Tools 
+	Pack /packwce700arm Executable Files 
+Compress Package to ZIP File 
+	Compare 10.116.56E pack ZIP 
+Copy /copywce700arm Package 
+ 
+/* Pack SDKs */ 
+Copy /copysdk Package 
+Copy OCSDK 
+	Compare 10.116.56E sdk ZIP 
+Process Finished at 2019/03/27 星期三	10:36:39 

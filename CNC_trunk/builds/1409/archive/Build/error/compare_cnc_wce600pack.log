@@ -1,0 +1,8 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\ESI\INVT_EtherCAT_171_Syntec.xml
+DiskC\OpenCNC\StdRes\ESI\Panasonic_MINAS-A5B_V0_22_Syntec.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------

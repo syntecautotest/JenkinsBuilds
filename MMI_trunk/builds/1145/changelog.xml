@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223154"><author>swdjojo</author><date>2019-03-27T05:19:02.791541Z</date><paths><path action="D" localPath="MMICommon\Source\Tools\Net.cs" kind="file">/appkernel/trunk/MMICommon/Source/Tools/Net.cs</path><path action="M" localPath="MMICommon\Source\MMICommon.csproj" kind="file">/appkernel/trunk/MMICommon/Source/MMICommon.csproj</path><path action="M" localPath="MMICommon\Source\MMICommon32.csproj" kind="file">/appkernel/trunk/MMICommon/Source/MMICommon32.csproj</path><path action="M" localPath="AutoTestPlugin\Source\AutoTest.cs" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTest.cs</path><path action="A" localPath="MMICommon\Source\Api\Plugins\Net" copyfrom-path="/appkernel/branches/MMI_3830_b_AutoTestCopyFileIOException/MMICommon/Source/Api/Plugins/Net" copyfrom-rev="223086" kind="dir">/appkernel/trunk/MMICommon/Source/Api/Plugins/Net</path><path action="A" localPath="MMICommon\Source\Tools\NetDir.cs" copyfrom-path="/appkernel/branches/MMI_3830_b_AutoTestCopyFileIOException/MMICommon/Source/Tools/NetDir.cs" copyfrom-rev="223086" kind="file">/appkernel/trunk/MMICommon/Source/Tools/NetDir.cs</path></paths><msg>merge appkernel/MMI_3830_b_AutoTestCopyFileIOException r223020-r223086 to 10.118.20 by 盟仁
+
+修正
+  * 新增 _SharedFolder 提供內部 Plugin API
+  * 更名 Net.cs -&gt; NetDir.cs 以跟 class 名稱符合
+  * 修改 AutoTestPlugin，在拿取共享資料夾路徑後，會先呼叫 SharedFolder.Init()，確保共享資料夾初始化
+  * 修改 AutoTest 類別中 GetUSBDiskDir 與 GetSharedFolder 函式，直接回傳路徑
+</msg></logentry></log>

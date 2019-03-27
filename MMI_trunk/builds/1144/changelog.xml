@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223131"><author>1362</author><date>2019-03-27T03:27:36.657239Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\Scr_GantryRobotProgram.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/Scr_GantryRobotProgram.cs</path><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\RobotProgram\GantryRobotProgramParser.cs" kind="file">/appkernel/trunk/RobotPlugin/Plugin/RobotPluginScreen/RobotProgram/GantryRobotProgramParser.cs</path></paths><msg>merge appkernel/ISSUE_14360_b_CurrentProcessStep_1180x r223018-r223111 to 10.118.0Q,
+merge appkernel/ISSUE_14360_b_CurrentProcessStep r221820-r222931 to 10.118.12N, 10.118.20 by 展毓
+
+機器人產品(ARTIC, SCARA, DELTA, GANTRY) 
+1. 修改''程序設定''頁面中實際加工步驟與畫面上顯示的當下加工步驟不吻合。</msg></logentry></log>

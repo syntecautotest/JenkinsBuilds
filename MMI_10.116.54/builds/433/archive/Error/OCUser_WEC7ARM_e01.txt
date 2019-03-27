@@ -1,0 +1,409 @@
+------ Rebuild All started: Project: OCUp, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCUp', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+OCUp.cpp
+Linking...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.116.54\OCUser\Source\OCUp\WCE700ARM_Release\BuildLog.htm"
+OCUp - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCHotKey, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCHotKey', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+OCHotKey.cpp
+StdAfx.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\OCHotKey.lib and object WCE700ARM_Release\OCHotKey.exp
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.116.54\OCUser\Source\OCHotKey\WCE700ARM_Release\BuildLog.htm"
+OCHotKey - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCKbdMs, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCKbdMs', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+OCKbdMs.cpp
+StdAfx.cpp
+Generating Code...
+Linking...
+   Creating library WCE700ARM_Release\OCKbdMs.lib and object WCE700ARM_Release\OCKbdMs.exp
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.116.54\OCUser\Source\OCKbdMs\WCE700ARM_Release\BuildLog.htm"
+OCKbdMs - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Swingw, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+Arc3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmZoom.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmDrawer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XSmCursor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XPathSimuBase.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+XCanvas3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+WIN32GraphicsPeer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\WIN32GraphicsPeer.cpp(501) : warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+.\WIN32GraphicsPeer.cpp(502) : warning C4244: 'initializing' : conversion from 'float' to 'int', possible loss of data
+.\WIN32GraphicsPeer.cpp(507) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\WIN32GraphicsPeer.cpp(508) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\WIN32GraphicsPeer.cpp(552) : warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+.\WIN32GraphicsPeer.cpp(553) : warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+.\WIN32GraphicsPeer.cpp(569) : warning C4244: 'initializing' : conversion from 'double' to 'BYTE', possible loss of data
+ToolBox.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+TextManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\TextManager.cpp(397) : warning C4018: '>' : signed/unsigned mismatch
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SimuStorage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SimuServiceProxy.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Rectangle.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+OCImage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\OCImage.cpp(185) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(185) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+.\OCImage.cpp(210) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(210) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+.\OCImage.cpp(240) : warning C4076: 'unsigned' : can not be used with type 'double'
+.\OCImage.cpp(240) : warning C4244: 'initializing' : conversion from 'double' to 'unsigned int', possible loss of data
+OcHotKey.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+NcWpPlane.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LoadLadder.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\LoadLadder.cpp(645) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+.\LoadLadder.cpp(645) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+.\LoadLadder.cpp(680) : warning C4482: nonstandard extension used: enum 'CLoadLadder::CommentType' used in qualified name
+Line3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JXmlStringTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+JXMLPreConfig.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JXMLPreConfig.cpp(240) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JXMLPreConfig.cpp(246) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JXMLPreConfig.cpp(252) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+JXMLPreCompiler.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JWin32ProcThunk.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JStringConnectRule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JSelectButton.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPreCompilerRule.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPicture.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JPicture.cpp(161) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JPicture.cpp(161) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JPanel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPageRegistry.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPagePool.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPageDeviceTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JPage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JNativeWindow.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JMeter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JMeter.cpp(1586) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1787) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1787) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1788) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1788) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JMeter.cpp(1831) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(1864) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(1876) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1890) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1903) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(1909) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(1996) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(2027) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+.\JMeter.cpp(2041) : warning C4244: '=' : conversion from 'float' to 'LONG', possible loss of data
+.\JMeter.cpp(2049) : warning C4244: '=' : conversion from 'long' to 'float', possible loss of data
+JMarquee.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JMarquee.cpp(67) : warning C4018: '>=' : signed/unsigned mismatch
+.\JMarquee.cpp(192) : warning C4018: '>' : signed/unsigned mismatch
+JListInputEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JListInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JLink.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JLamp.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JLamp.cpp(170) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JLamp.cpp(170) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JLabel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+JInputline.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JInputline.cpp(71) : warning C4018: '<' : signed/unsigned mismatch
+JInputEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JInputBase.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JInputBase.cpp(299) : warning C4018: '<' : signed/unsigned mismatch
+.\JInputBase.cpp(346) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(349) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(352) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(356) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(360) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(564) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(571) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(576) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(580) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(550) : warning C4101: 'lpszActiveRange' : unreferenced local variable
+.\JInputBase.cpp(551) : warning C4101: 'hr' : unreferenced local variable
+.\JInputBase.cpp(595) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(649) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+.\JInputBase.cpp(696) : warning C4482: nonstandard extension used: enum 'CJInputBase::AcceptVal' used in qualified name
+JInput.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JInput.cpp(96) : warning C4018: '<' : signed/unsigned mismatch
+JIncludePage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JGroup.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JGrid.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenuContextManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenuContext.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JFenu.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JFenu.cpp(45) : warning C4018: '<' : signed/unsigned mismatch
+.\JFenu.cpp(487) : warning C4018: '<' : signed/unsigned mismatch
+JDynamicPicture.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JDynamicPicture.cpp(140) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JDynamicPicture.cpp(140) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+JDisplay.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JDeviceControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCycleTable.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JCycleEditor.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JCycleEditor.cpp(1740) : warning C4244: 'initializing' : conversion from 'LONGLONG' to 'LONG', possible loss of data
+.\JCycleEditor.cpp(1726) : warning C4101: 'ptLineHeaderSize' : unreferenced local variable
+.\JCycleEditor.cpp(1727) : warning C4101: 'backupRECT' : unreferenced local variable
+.\JCycleEditor.cpp(1725) : warning C4101: 'lpszValueBuf' : unreferenced local variable
+JCoordBox.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControlTemplatePool.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControlTemplate.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JControl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+JComponent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Compiling...
+JButton.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\JButton.cpp(671) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JButton.cpp(671) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\JButton.cpp(696) : warning C4800: 'BOOL' : forcing value to bool 'true' or 'false' (performance warning)
+.\JButton.cpp(955) : warning C4101: 'BtnOrgEdgeColor' : unreferenced local variable
+.\JButton.cpp(1109) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1110) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1118) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1119) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1130) : warning C4018: '>=' : signed/unsigned mismatch
+.\JButton.cpp(1138) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1139) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1169) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1170) : warning C4244: '=' : conversion from 'double' to 'INT', possible loss of data
+.\JButton.cpp(1178) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1179) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1190) : warning C4018: '>=' : signed/unsigned mismatch
+.\JButton.cpp(1198) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+.\JButton.cpp(1199) : warning C4244: '=' : conversion from 'DOUBLE' to 'LONG', possible loss of data
+ISimuEvent.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+GridPad.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Graphics3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+FormatConverter.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\FormatConverter.cpp(162) : warning C4018: '<' : signed/unsigned mismatch
+.\FormatConverter.cpp(168) : warning C4018: '<' : signed/unsigned mismatch
+DoAction.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Cube3d.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+CncDevice.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+.\CncDevice.cpp(1153) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1177) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1195) : warning C4244: '=' : conversion from 'long' to 'BYTE', possible loss of data
+.\CncDevice.cpp(1117) : warning C4101: 'chVal' : unreferenced local variable
+AxCube.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+StdAfx.obj : warning LNK4221: no public symbols found; archive member will be inaccessible
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.116.54\OCUser\Source\Swingw\WCE700ARM_Release\BuildLog.htm"
+Swingw - 0 error(s), 91 warning(s)
+------ Rebuild All started: Project: OCDown, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCDown', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+OCDown.cpp
+StdAfx.cpp
+Generating Code...
+Compiling resources...
+Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Linking...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.116.54\OCUser\Source\OcDown\WCE700ARM_Release\BuildLog.htm"
+OCDown - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPIServerDown, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCAPIServerDown', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+OCAPIServerDown.cpp
+StdAfx.cpp
+Generating Code...
+Linking...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.116.54\OCUser\Source\OCAPIServerDown\WCE700ARM_Release\BuildLog.htm"
+OCAPIServerDown - 0 error(s), 0 warning(s)
+------ Skipped Rebuild All: Project: kbdHid, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Rebuild All started: Project: OCUSER, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCUSER', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+3DSimuWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\3DSimuWnd.cpp(550) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(551) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(553) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(554) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(559) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(561) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(565) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(567) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(572) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(573) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(575) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\3DSimuWnd.cpp(576) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+Vector3.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\Vector3.cpp(26) : warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+.\Vector3.cpp(31) : warning C4244: 'return' : conversion from 'double' to 'float', possible loss of data
+TextWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+StrResMap.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+StdAfx.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+Pipe.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\Pipe.cpp(36) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(45) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(46) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(55) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(56) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(124) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(125) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(128) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(130) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(133) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(134) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\Pipe.cpp(135) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+PathSimuWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+OCUSER.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+OCTextFileMgr.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+OCLabelWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+LadderWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\LadderWnd.cpp(137) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+.\LadderWnd.cpp(141) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+.\LadderWnd.cpp(2748) : warning C4101: 'bBiCell' : unreferenced local variable
+.\LadderWnd.cpp(3166) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+.\LadderWnd.cpp(3167) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+KbdReceiver.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+JMarquee.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+..\Swingw\JMarquee.cpp(67) : warning C4018: '>=' : signed/unsigned mismatch
+..\Swingw\JMarquee.cpp(192) : warning C4018: '>' : signed/unsigned mismatch
+HugeEdit.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\HugeEdit.cpp(2885) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2898) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2904) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2909) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2916) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2927) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2944) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+.\HugeEdit.cpp(2949) : warning C4482: nonstandard extension used: enum 'CHugeEdit::ECommentType' used in qualified name
+FenuWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\FenuWnd.cpp(1163) : warning C4172: returning address of local variable or temporary
+.\FenuWnd.cpp(1987) : warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+.\FenuWnd.cpp(1991) : warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+.\FenuWnd.cpp(1995) : warning C4244: '=' : conversion from 'double' to 'LONG', possible loss of data
+CurvePipe.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+.\CurvePipe.cpp(34) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(52) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(52) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(52) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(58) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(58) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(58) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(66) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(66) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(66) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(72) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(72) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+.\CurvePipe.cpp(72) : warning C4244: 'argument' : conversion from 'double' to 'float', possible loss of data
+Cuboid.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+CanvasWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+BrowserWnd.cpp
+WINVER was defined to be 0x0400, as it was either not set or set to a lower value
+Generating Code...
+Compiling resources...
+Microsoft (R) Windows (R) Resource Compiler Version 6.1.6723.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+Linking...
+   Creating library WCE700ARM_Release\OCUSER.lib and object WCE700ARM_Release\OCUSER.exp
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_10.116.54\OCUser\Source\OCUser\WCE700ARM_Release\BuildLog.htm"
+OCUSER - 0 error(s), 58 warning(s)
+------ Skipped Rebuild All: Project: Keypad, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: KpLoader, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+------ Skipped Rebuild All: Project: CeCncMMI, Configuration: Release WEC7 (ARMv4I) ------
+Project not selected to build for this solution configuration 
+========== Rebuild All: 7 succeeded, 0 failed, 4 skipped ==========
+

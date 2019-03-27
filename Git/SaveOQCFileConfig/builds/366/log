@@ -1,0 +1,33 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4Gqut40mX+RRCrOQ5cbMuLBez53HkmFUT0le/7YOZnCYAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9sbgEA709Z1s8AAAA=[0m378 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1365056004794631142.bat
+ID:10101345 Date:2019/03/27 09:48:43
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   210TB-E.xml
+	modified:   210TB-E5.xml
+	deleted:    F01-11MA-SEP-DG.xml
+	deleted:    F01-21TA-SEP-DG.xml
+	modified:   REV.props
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 3914971] 2019/03/27 09:48:43 by 10101345, Modified Products: 210TB-E,210TB-E5
+ 5 files changed, 3 insertions(+), 5 deletions(-)
+ delete mode 100644 F01-11MA-SEP-DG.xml
+ delete mode 100644 F01-21TA-SEP-DG.xml
+To github.com:syntecautotest/OQCFileConfig.git
+   e48e834..3914971  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
