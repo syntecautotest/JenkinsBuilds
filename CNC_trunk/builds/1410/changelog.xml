@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223226"><author>1384</author><date>2019-03-28T01:13:19.411924Z</date><paths><path action="M" localPath="OCDevice\Source\ServoDriver\NetServoChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/ServoDriver/NetServoChannel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/ServoDriver/NetServoChannel.cpp</path></paths><msg>merge(2nd): ISSUE_14081_b_DeltaECATServoParamInitErr_11812, 223223 to 10.118.12N
+merge(2nd): ISSUE_14081_b_DeltaECATServoParamInitErr_v2, 223222 to 10.118.20
+by 孟學
+
+fix bug</msg></logentry></log>
