@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223657"><author>simon</author><date>2019-04-01T10:00:10.472934Z</date><paths><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/MacroCore.cpp</path><path action="M" localPath="OCKrnl\Source\PathPlan\MacroCore.h" kind="file">/cnckernel/trunk/OCKrnl/Source/PathPlan/MacroCore.h</path></paths><msg>merge: HSHP_2461_f_BPT_Improvement, 222519, to 10.118.20 by 鴻鈞
+
+add:
+    修正「解譯加工G碼時，重複查找同動軸數」的效能浪費</msg></logentry></log>
