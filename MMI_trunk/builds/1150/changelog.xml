@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223685"><author>colingsta</author><date>2019-04-02T02:19:59.004591Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\Scr_AbsoluteSetting.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/Scr_AbsoluteSetting.cs</path><path action="M" localPath="MMICommon\Source\Screen\ScreenBase.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScreenBase.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/ScreenBase.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/Scr_AbsoluteSetting.cs</path></paths><msg>merge appkernel/ISSUE_14241_b_DipoleClientFocus r222758-r222944 to 10.118.12N, 10.118.20 by 鎮宇
+
+修正
+    前台無法使用上下鍵操作絕對式原點畫面</msg></logentry></log>

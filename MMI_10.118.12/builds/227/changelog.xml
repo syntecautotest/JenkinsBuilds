@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223700"><author>colingsta</author><date>2019-04-02T02:45:32.331284Z</date><paths><path action="M" kind="file">/appkernel/trunk/Res/_Arm/_Gantry/Common/AppData/Soft_Board.xml</path><path action="M" kind="file">/appkernel/trunk/Res/_Arm/_Gantry/Common/AppData/Soft_Board2.xml</path><path action="M" localPath="Res\_Arm\_Gantry\Common\AppData\Soft_Board2.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Gantry/Common/AppData/Soft_Board2.xml</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.0/Res/_Arm/_Gantry/Common/AppData/Soft_Board.xml</path><path action="M" localPath="Res\_Arm\_Gantry\Common\AppData\Soft_Board.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Gantry/Common/AppData/Soft_Board.xml</path></paths><msg>merge appkernel/ROBOT_406_f_HomingReferenceChange_1180x r223046-r223087 to 10.118.0Q,
+merge appkernel/ROBOT_406_f_HomingReferenceChange r223042-r223088 to 10.118.12N, 10.118.20 by 展毓
+
+修正
+    機器人產品( Gantry )"尋原點"功能參考條件（Pr201）。</msg></logentry></log>

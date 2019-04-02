@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223714"><author>colingsta</author><date>2019-04-02T03:21:38.145488Z</date><paths><path action="M" kind="file">/appkernel/trunk/Debug/MMIDebugEnv.bat</path><path action="M" localPath="Debug\MMIDebugEnv.bat" kind="file">/appkernel/branches/AppKernel_10.118.12/Debug/MMIDebugEnv.bat</path></paths><msg>merge appkernel/MMI_3648_b_BuildDebigEnvNoOCRes r223138 to 10.118.12N, 10.118.20 by 玲巧
+
+修正
+    開發模式下未抓到核心檔案 問題。</msg></logentry></log>

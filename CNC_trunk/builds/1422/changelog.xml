@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223825"><author>1384</author><date>2019-04-02T10:54:20.835197Z</date><paths><path action="M" localPath="OCKrnl\Source\Utility\AxisDimension.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/AxisDimension.cpp</path></paths><msg>merge: ISSUE_14326_b_SimuErr, 223767 to 10.118.12N, 10.118.20
+by 建明
+
+修正控制精度為次微米時，旋轉軸圖形模擬錯誤的問題。</msg></logentry></log>

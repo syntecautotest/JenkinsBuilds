@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223815"><author>colingsta</author><date>2019-04-02T09:29:35.132664Z</date><paths><path action="M" localPath="MMICommon\Source\Tools\NK.cs" kind="file">/appkernel/trunk/MMICommon/Source/Tools/NK.cs</path></paths><msg>merge appkernel/MMI_3799_f_DualImage r223335-r223745 to 10.118.20 by 鎮宇
+
+新增
+    增加支援雙核映像檔安裝判斷</msg></logentry></log>

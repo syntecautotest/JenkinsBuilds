@@ -1,0 +1,159 @@
+------ Rebuild All started: Project: ServoLink, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoLink', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ServoLink.cpp
+ServoCommHost.cpp
+SerialPort.cpp
+SanyoServo.cpp
+RS232Export.cpp
+MitsubishiComm.cpp
+Linking...
+   Creating library D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\Release\ServoLink.lib and object D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\Release\ServoLink.exp
+Generating code
+Finished generating code
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoLink\Release\BuildLog.htm"
+ServoLink - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoTuning, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ChTuningControl.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoTuning\Release\BuildLog.htm"
+ServoTuning - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SvoUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SvoUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CtrlParam.cpp
+SvoAlarmFlag.cpp
+MotorInfoResMap.cpp
+MotorInfoLoader.cpp
+LatchFunction.cpp
+DelayCount.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SvoUtility\Release\BuildLog.htm"
+SvoUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SerialParam, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SerialParam', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+DeviceParamSync.cpp
+SyntecMemoryMap.cpp
+SerialParamTable.cpp
+SerialParamSync.cpp
+SerialParamLoader.cpp
+SerialParamInit.cpp
+SerialParamDefManager.cpp
+ParamAttrMapManager.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SerialParam\Release\BuildLog.htm"
+SerialParam - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoDriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoDriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+30gmASIC.cpp
+XY2Channel.cpp
+VirtaulServo5.cpp
+TnCtrlChannel.cpp
+SysIDRead.cpp
+SvoRtl.cpp
+SvoMultiplier.cpp
+SvoMinAbsFilter.cpp
+SvoFineDDA.cpp
+SvoDriver.cpp
+SvoChannel.cpp
+ServoDevice.cpp
+Servo60Driver.cpp
+Servo60Channel.cpp
+Servo5Driver.cpp
+Servo5Channel.cpp
+RWObjMgr.cpp
+NulMCIChannel.cpp
+NullDriver.cpp
+NullChannel.cpp
+Generating Code...
+Compiling...
+NetServoDriver.cpp
+NetServoChannel.cpp
+.\NetServoChannel.cpp(231) : error C2065: 'MAX_SHORT' : undeclared identifier
+.\NetServoChannel.cpp(234) : error C2065: 'MIN_SHORT' : undeclared identifier
+M2JL098Driver.cpp
+M2JL080Driver.cpp
+M2Driver.cpp
+M2Channel.cpp
+M2ASICCommDriver.cpp
+LaserChannel.cpp
+FineInterpolation.cpp
+EPCIOSVO5.cpp
+EPCIORIO.cpp
+EPCIOPCL.cpp
+EPCIOLIO.cpp
+EPCIOENC.cpp
+EPCIOEDM.cpp
+EPCIODriver.cpp
+EPCIODDA.cpp
+EPCIODAC.cpp
+EPCIOChannel.cpp
+EPCIOASIC.cpp
+Generating Code...
+Compiling...
+EPCIOADC.cpp
+DAChannel.cpp
+CANSvtnx.cpp
+CANPana.cpp
+CANOpenHomeSearch.cpp
+CANMitsu.cpp
+CANInvt.cpp
+CANDelta.cpp
+30gmDriver.cpp
+30gmChannel.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoDriver\Release\BuildLog.htm"
+ServoDriver - 2 error(s), 0 warning(s)
+------ Rebuild All started: Project: PhysicalDriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PhysicalDriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AIOChannel.cpp
+PhysicalDriver.cpp
+IOChannel.cpp
+ENCChannel.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\PhysicalDriver\Release\BuildLog.htm"
+PhysicalDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: DllPhysicalDriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'DllPhysicalDriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+DllPhysicalDriver.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\release\servodriver.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCDevice\Source\DllPhysicalDriver\Release\BuildLog.htm"
+DllPhysicalDriver - 1 error(s), 0 warning(s)
+========== Rebuild All: 5 succeeded, 2 failed, 0 skipped ==========
+

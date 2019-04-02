@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223791"><author>1200</author><date>2019-04-02T07:57:25.219352Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_DELTA/Macro/G0100</path><path action="M" localPath="res\_Arm\_ARTIC\Macro\G0100" kind="file">/cnckernel/trunk/res/_Arm/_ARTIC/Macro/G0100</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_ARTIC/Macro/G0100</path><path action="M" localPath="res\_Arm\_SCARA\Macro\G0100" kind="file">/cnckernel/trunk/res/_Arm/_SCARA/Macro/G0100</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_SCARA/Macro/G0100</path><path action="M" localPath="res\_Arm\_DELTA\Macro\G0100" kind="file">/cnckernel/trunk/res/_Arm/_DELTA/Macro/G0100</path></paths><msg>merge: ROBOT_384_b_PalletPeripheralCtrl_118_19, 223490, to 10.118.12N, 10.118.20
+by 晉毅
+
+from 10.118.12H, 10.118.17, ROBOT-185
+
+機器人產品( ARTIC, SCARA, DELTA )修正料盤動作無法執行周邊副程式的問題。 </msg></logentry></log>
