@@ -1,0 +1,8 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\ObjDictionary\ECAT_OD_INVENTOR_DA200.xml
+DiskC\OpenCNC\StdRes\DriverParam\ECAT_PM_INVENTOR_DA200.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------

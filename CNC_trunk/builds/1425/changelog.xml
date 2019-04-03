@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223867"><author>1384</author><date>2019-04-03T01:52:13.330219Z</date><paths><path action="M" localPath="OCKrnl\Source\Utility\Utility.vcproj" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/Utility.vcproj</path><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\GoldenData.txt" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" localPath="OCKrnl\Source\ProductInfo\ProductTable.h" kind="file">/cnckernel/trunk/OCKrnl/Source/ProductInfo/ProductTable.h</path></paths><msg>merge: CNCKL_2759_f_CuttingSup3DArcInterpolation_11812x, 223599-223846 to 10.118.12N
+merge: CNCKL_2759_f_CuttingSup3DArcInterpolation_118x, 223598-223845 to 10.118.20
+by 嘉倫
+
+1. 全系列銑床產品支援快攻/快鑽。
+2. 雷射切割70CA, 70CB, 70CB-5標配「三維空間圓弧插補功能」(Option 19)</msg></logentry></log>

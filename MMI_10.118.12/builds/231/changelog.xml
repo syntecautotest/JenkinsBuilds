@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223864"><author>1212</author><date>2019-04-03T01:46:33.390022Z</date><paths><path action="A" localPath="Res\_Arm\_Scanning\PrdMMIRes" copyfrom-path="/appkernel/branches/ISSUE_13372_b_LaserMarkingExpensionParam/Res/_Arm/_Scanning/PrdMMIRes" copyfrom-rev="220341" kind="dir">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scanning/PrdMMIRes</path><path action="M" localPath="Res\_Arm\_Scanning\Build\Build.bat" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scanning/Build/Build.bat</path><path action="M" localPath="Res\Build\PackFiles.bat" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/Build/PackFiles.bat</path></paths><msg>merge appkernel/ISSUE_13372_b_LaserMarkingExpensionParam r220341 to 10.118.12N, 10.118.20 by 晉安
+
+修正
+   修正雷射打標擴充參數字串說明</msg></logentry></log>

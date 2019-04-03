@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="223861"><author>1384</author><date>2019-04-03T01:38:01.599923Z</date><paths><path action="M" localPath="OCKrnl\Source\GMock\ProductInfoTest\GoldenData.txt" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/GMock/ProductInfoTest/GoldenData.txt</path><path action="M" localPath="OCKrnl\Source\ProductInfo\ProductTable.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/ProductInfo/ProductTable.h</path><path action="M" localPath="OCKrnl\Source\Utility\Utility.vcproj" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/Utility/Utility.vcproj</path></paths><msg>merge: ISSUE_14429_b_SupAllMillFunc40_11654x, 223609-223849 to 10.116.56F
+by 嘉倫
+
+全系列銑床產品支援快攻/快鑽。</msg></logentry></log>
