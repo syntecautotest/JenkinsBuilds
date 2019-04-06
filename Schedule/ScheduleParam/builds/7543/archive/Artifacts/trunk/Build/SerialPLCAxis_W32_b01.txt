@@ -1,0 +1,23 @@
+------ Rebuild All started: Project: SerialPLCAxis, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SerialPLCAxis', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+SerialPLCParamSync.cpp
+SerialPLCPanel.cpp
+SerialPLCCenter.cpp
+SerialPLCAxis.cpp
+Generating Code...
+Linking...
+   Creating library D:\OpenCNC\Schedule\trunk\SerialPLCAxis\Source\Release\SerialPLCAxis.lib and object D:\OpenCNC\Schedule\trunk\SerialPLCAxis\Source\Release\SerialPLCAxis.exp
+Embedding manifest...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\SerialPLCAxis\Source\SerialPLCAxis\Release\BuildLog.htm"
+SerialPLCAxis - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+
