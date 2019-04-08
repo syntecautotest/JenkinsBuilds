@@ -1,0 +1,179 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4IO0hpH8hvwJKxo9germ5lrAOZIspfGf1nBfNJXNsDc0AAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9saQoA3B5rNs8AAAA=[0m395 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5700240304984671142.bat
+ID:1 Date:2019/04/08 11:42:48
+On branch master
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	11MA.xml
+	11MB.xml
+	11TA.xml
+	11TB.xml
+	210MA-E.xml
+	210MA-E5.xml
+	210MA-H.xml
+	210MA-H5.xml
+	210MB-E.xml
+	210MB-E5.xml
+	210MB-H.xml
+	210TB-E.xml
+	210TB-E5.xml
+	21GA-E.xml
+	21MA-E.xml
+	21MA-H.xml
+	21MA.xml
+	21TA-E.xml
+	21TA-H.xml
+	21TA.xml
+	21TB-E.xml
+	21TB-H.xml
+	21TB.xml
+	220MA-5.xml
+	220MA.xml
+	220MB-5.xml
+	220MB.xml
+	220TB-5.xml
+	220TB.xml
+	22MA.xml
+	22TA.xml
+	22TB.xml
+	60PB.xml
+	60PC.xml
+	60PE.xml
+	610MA-E5.xml
+	610MA-H5.xml
+	610WA-H.xml
+	610WB-H.xml
+	6GB-G.xml
+	6MA-E.xml
+	6MA.xml
+	6MB-E.xml
+	6MB.xml
+	6MD-H.xml
+	6MD.xml
+	6TA-E.xml
+	6TA.xml
+	6TB.xml
+	6TD-E.xml
+	6TD-H.xml
+	7MA.xml
+	7TA.xml
+	F01-11MA-SEP-DG.xml
+	F01-21TA-SEP-DG.xml
+	HC-10A.xml
+	HC-10B.xml
+	HC-10C-5.xml
+	HC-10C.xml
+	HC-10E.xml
+	HC-15A.xml
+	HC-15B.xml
+	HC-15C-5.xml
+	HC-15C.xml
+	HC-15E.xml
+	HC-80MI.xml
+	HC-8A.xml
+	HC-8B.xml
+	HC-8C-5.xml
+	HC-8C.xml
+	HC-8E.xml
+	HC-8S.xml
+	IQC.xml
+	NewGroup.xml
+	Test-11TB.xml
+	TestGroup.xml
+	TestGroup2.xml
+
+nothing added to commit but untracked files present (use "git add" to track)
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 37b3c0e] 2019/04/08 11:42:48 by 1, Modified Products: TESTGROUP3
+ 77 files changed, 77 insertions(+)
+ create mode 100644 11MA.xml
+ create mode 100644 11MB.xml
+ create mode 100644 11TA.xml
+ create mode 100644 11TB.xml
+ create mode 100644 210MA-E.xml
+ create mode 100644 210MA-E5.xml
+ create mode 100644 210MA-H.xml
+ create mode 100644 210MA-H5.xml
+ create mode 100644 210MB-E.xml
+ create mode 100644 210MB-E5.xml
+ create mode 100644 210MB-H.xml
+ create mode 100644 210TB-E.xml
+ create mode 100644 210TB-E5.xml
+ create mode 100644 21GA-E.xml
+ create mode 100644 21MA-E.xml
+ create mode 100644 21MA-H.xml
+ create mode 100644 21MA.xml
+ create mode 100644 21TA-E.xml
+ create mode 100644 21TA-H.xml
+ create mode 100644 21TA.xml
+ create mode 100644 21TB-E.xml
+ create mode 100644 21TB-H.xml
+ create mode 100644 21TB.xml
+ create mode 100644 220MA-5.xml
+ create mode 100644 220MA.xml
+ create mode 100644 220MB-5.xml
+ create mode 100644 220MB.xml
+ create mode 100644 220TB-5.xml
+ create mode 100644 220TB.xml
+ create mode 100644 22MA.xml
+ create mode 100644 22TA.xml
+ create mode 100644 22TB.xml
+ create mode 100644 60PB.xml
+ create mode 100644 60PC.xml
+ create mode 100644 60PE.xml
+ create mode 100644 610MA-E5.xml
+ create mode 100644 610MA-H5.xml
+ create mode 100644 610WA-H.xml
+ create mode 100644 610WB-H.xml
+ create mode 100644 6GB-G.xml
+ create mode 100644 6MA-E.xml
+ create mode 100644 6MA.xml
+ create mode 100644 6MB-E.xml
+ create mode 100644 6MB.xml
+ create mode 100644 6MD-H.xml
+ create mode 100644 6MD.xml
+ create mode 100644 6TA-E.xml
+ create mode 100644 6TA.xml
+ create mode 100644 6TB.xml
+ create mode 100644 6TD-E.xml
+ create mode 100644 6TD-H.xml
+ create mode 100644 7MA.xml
+ create mode 100644 7TA.xml
+ create mode 100644 F01-11MA-SEP-DG.xml
+ create mode 100644 F01-21TA-SEP-DG.xml
+ create mode 100644 HC-10A.xml
+ create mode 100644 HC-10B.xml
+ create mode 100644 HC-10C-5.xml
+ create mode 100644 HC-10C.xml
+ create mode 100644 HC-10E.xml
+ create mode 100644 HC-15A.xml
+ create mode 100644 HC-15B.xml
+ create mode 100644 HC-15C-5.xml
+ create mode 100644 HC-15C.xml
+ create mode 100644 HC-15E.xml
+ create mode 100644 HC-80MI.xml
+ create mode 100644 HC-8A.xml
+ create mode 100644 HC-8B.xml
+ create mode 100644 HC-8C-5.xml
+ create mode 100644 HC-8C.xml
+ create mode 100644 HC-8E.xml
+ create mode 100644 HC-8S.xml
+ create mode 100644 IQC.xml
+ create mode 100644 NewGroup.xml
+ create mode 100644 Test-11TB.xml
+ create mode 100644 TestGroup.xml
+ create mode 100644 TestGroup2.xml
+To github.com:syntecautotest/OQCFileConfig.git
+   847142f..37b3c0e  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
