@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="224188"><author>swdjojo</author><date>2019-04-09T05:08:22.486089Z</date><paths><path action="M" localPath="Bin\MMICore\WinCE_ARM\MMICore.dll" kind="file">/appkernel/trunk/Bin/MMICore/WinCE_ARM/MMICore.dll</path><path action="M" localPath="Bin\MMICore\Win32\MMICore.dll" kind="file">/appkernel/trunk/Bin/MMICore/Win32/MMICore.dll</path><path action="M" localPath="Bin\MMICore\WinCE\MMICore.dll" kind="file">/appkernel/trunk/Bin/MMICore/WinCE/MMICore.dll</path><path action="M" localPath="AutoTestPlugin\Source\AutoTest.cs" kind="file">/appkernel/trunk/AutoTestPlugin/Source/AutoTest.cs</path></paths><msg>merge appkernel/ATEST_1138_b_RestartCNCFail r224173 to 10.118.20 by 盟仁
+
+修正
+  * 修正 AutoTestPlugin 中的 GetDestDir 函式在錯誤情況給予的 szDestDir
+  * 更新 MMICore.dll
+</msg></logentry></log>

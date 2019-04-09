@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="224229"><author>swdjojo</author><date>2019-04-09T09:18:45.000474Z</date><paths><path action="M" localPath="Syntec.OpenCNC\MMICore\Autho.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/MMICore/Autho.cs</path></paths><msg>Merged revision(s)  from appkernel/branches/:
+
+........
+
+merge appkernel/ATEST_1141_b_MemorySlowlyGoDown r224210 to 10.118.20 by 盟仁
+
+修正
+  * 修正 MMICore.Autho 在某些 API 中 Marshal.AllocHGlobal 沒有 Free 的問題.
+</msg></logentry></log>
