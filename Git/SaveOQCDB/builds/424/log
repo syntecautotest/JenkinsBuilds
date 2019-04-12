@@ -1,0 +1,165 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8398251655523805552.bat
+ID:10101345 Date:2019/04/12 17:05:11
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+error: open("6MA - è¤‡è£½/Software/Delivery/Common/10inch/package_6DAFE98A.zip"): No such file or directory
+error: unable to index file 6MA - è¤‡è£½/Software/Delivery/Common/10inch/package_6DAFE98A.zip
+fatal: adding files failed
+On branch master
+Changes not staged for commit:
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/10inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/10inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/15inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/15inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/8inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/8inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/Common/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/10inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/10inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/15inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/15inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/8inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/8inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/Common/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Software/Delivery/Common/package_7e00c8dc.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Software/Test/Common/package_12da7810.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/10inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/10inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/15inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/15inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/8inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/8inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/Common/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/10inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/10inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/15inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/15inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/8inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/8inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/Common/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Software/Delivery/Common/package_7e00c8dc.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (2)/Software/Test/Common/package_12da7810.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/10inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/10inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/15inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/15inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/8inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/8inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/Common/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/10inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/10inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/15inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/15inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/8inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/8inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/Common/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Software/Delivery/Common/package_7e00c8dc.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Software/Test/Common/package_12da7810.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/10inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/10inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/15inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/15inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/8inch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/8inch_Touch/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/Common/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/Delivery.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/10inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/10inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/15inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/15inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/8inch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/8inch_Touch/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/Common/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/Test.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Software/Delivery/Common/package_7e00c8dc.zip"
+	deleted:    "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Software/Test/Common/package_12da7810.zip"
+	deleted:    5/Packing/Delivery/Common/10inch/Delivery.zip
+	deleted:    5/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+	deleted:    5/Packing/Delivery/Common/15inch/Delivery.zip
+	deleted:    5/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+	deleted:    5/Packing/Delivery/Common/8inch/Delivery.zip
+	deleted:    5/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+	deleted:    5/Packing/Delivery/Common/Common/Delivery.zip
+	deleted:    5/Packing/Delivery/Common/Delivery.zip
+	deleted:    5/Packing/Test/Common/10inch/Test.zip
+	deleted:    5/Packing/Test/Common/10inch_Touch/Test.zip
+	deleted:    5/Packing/Test/Common/15inch/Test.zip
+	deleted:    5/Packing/Test/Common/15inch_Touch/Test.zip
+	deleted:    5/Packing/Test/Common/8inch/Test.zip
+	deleted:    5/Packing/Test/Common/8inch_Touch/Test.zip
+	deleted:    5/Packing/Test/Common/Common/Test.zip
+	deleted:    5/Packing/Test/Common/TEST.zip
+	deleted:    5/Software/Delivery/Common/package_c161640.zip
+	deleted:    5/Software/Test/Common/package_62988173.zip
+	deleted:    F01_220MB_5_10_SEP_DG_S/Software/Test/Common/package_770f7f67.zip
+	deleted:    F01_220MB_5_10_SEP_DG_S_T/Software/Test/Common/package_c66eee90.zip
+	deleted:    F01_22TB_10_SEP_DG_S/Software/Test/Common/package_12da7810.zip
+	modified:   IgnorePacking.txt
+
+Untracked files:
+	"6MA - \350\244\207\350\243\275 (2)/"
+	"6MA - \350\244\207\350\243\275 (3)/"
+	"6MA - \350\244\207\350\243\275 (4)/"
+	"6MA - \350\244\207\350\243\275 (5)/"
+	"6MA - \350\244\207\350\243\275 (6)/"
+	F01-22TB-15-SEP-DG-S-T/
+	F01-22TB-15-SEP-DG-S/
+	F01-22TB-15E/
+	F01-22TB-8-SEP-DG/
+	F01_220MB_5_10_SEP_DG_S/Software/Test/Common/package_3b1786a8.zip
+	F01_220MB_5_10_SEP_DG_S_T/Software/Test/Common/package_43b9b850.zip
+	F01_22TB_10_SEP_DG_S/Software/Test/Common/package_308eb524.zip
+	F01_610MA_E5_150_SEP/
+	F01_610MA_E5_150_SEP_TOUCH/
+	F01_610MA_E5_VGA/
+	F01_610MA_H5_150_SEP/
+	F01_610MA_H5_150_SEP_TOUCH/
+	F01_610MA_H5_SEP_DG/
+	F01_610MA_H5_VGA/
+	F01_610WA_H_VGA/
+	F01_610WB_H_VGA/
+	F01_6A_4012_M/
+	F11-10C-80MI-S/
+	F11-60PB-S/
+	F11-60PC-S/
+	F11-60PE-S/
+	F11-8C-80MI-S/
+	F11-HC10A-JY/
+	F11-HC10A-K/
+	F11-HC10A-S-FY/
+	F11-HC10A-S/
+	F11-HC10B-JY/
+	F11-HC10B-K/
+	F11-HC10B-S/
+	"HC_10C - \350\244\207\350\243\275/"
+	LOCK
+
+
+It took 9.28 seconds to enumerate untracked files. 'status -uno'
+may speed it up, but you have to be careful not to forget to add
+new files yourself (see 'git help status').
+no changes added to commit
+warning: could not open directory 'HC_10C_5 - è¤‡è£½/': No such file or directory
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+Everything up-to-date
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

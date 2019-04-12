@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1152614655315733419.bat
+Product: F01-22TA-8-SEP-DG
+<FileConfig ProductName="F01-22TA-8-SEP-DG"><Files><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.13.0</Version><Name>WCE7_I.MX6_9.13.0.bin</Name><Hash>b6630b5566343e28230c96e5df70350d</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.13.0/ARMCE7_Image/WCE7_I.MX6_9.13.0.bin</URL></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54Y</Version><Name>package_7dc2f074.zip</Name><Hash>1f2f699318193a884121c32868697478</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_22TA_8_SEP_DG/Software/Delivery/Common/package_7dc2f074.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54Y</Version><Name>Delivery.zip</Name><Hash>fc389218299e9a672f35311cd4a2ae59</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

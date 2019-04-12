@@ -1,0 +1,38 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5058969302650182736.bat
+ID:10101487 Date:2019/04/12 15:40:42
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master b8d1509] 2019/04/12 15:40:42 by 10101487, Modified Products: F01-220MB-5-10-SEP-DG-S-T,F01-220MB-5-10-STD-DG,F01-220MB-5-10-TOUCH-DG,F01-220MB-5-15-SEP-DG-S,F01-220MB-5-15-SEP-DG-S-T,F01-220MB-5-15E,F01-220TB-10-SEP-DG,F01-220TB-10-SEP-DG-S,F01-220TB-10-SEP-DG-S-T,F01-220TB-10-STD-DG,F01-220TB-15E,F01-220TB-15-SEP-DG-S,F01-220TB-15-SEP-DG-S-T,F01-220TB-5-10-SEP-DG-S,F01-220TB-5-10-SEP-DG-S-T,F01-220TB-5-10-STD-DG,F01-220TB-5-15-SEP-DG-S,F01-220TB-5-15-SEP-DG-S-T,F01-22A-DG-M,F01-22MA-8-SEP-DG,F01-22MA-15-SEP-DG-S-T,F01-22MA-15-SEP-DG-S,F01-22MA-15E,F01-22MA-10-STD-DG,F01-22MA-10-SEP-DG-S-T,F01-22MA-10-SEP-DG-S,F01-22MA-10-SEP-DG,F01-22A-DG-T,F01-22TA-8-SEP-DG,F01-22TA-15-SEP-DG-S-T,F01-22TA-15-SEP-DG-S,F01-22TA-15E,F01-22TA-10-STD-DG,F01-22TA-10-SEP-DG-S-T,F01-22TA-10-SEP-DG-S,F01-22TA-10-SEP-DG,F01-22B-DG-T,F01-22TB-10-SEP-DG-S,F01-22TB-10-SEP-DG
+ 14 files changed, 0 insertions(+), 0 deletions(-)
+ rename F01_220MB_5_10_SEP_DG_S_T/Software/Test/Common/{package_27b9ae6c.zip => package_c66eee90.zip} (99%)
+ rename F01_220MB_5_10_STD_DG/Software/Test/Common/{package_27b9ae6c.zip => package_9cde65a9.zip} (99%)
+ rename F01_220MB_5_15_SEP_DG_S/Software/Test/Common/package_8e518173.zip => F01_220MB_5_10_TOUCH_DG/Software/Test/Common/package_911ecf0d.zip (57%)
+ rename F01_220MB_5_15E/Software/Test/Common/{package_27b9ae6c.zip => package_c74644c2.zip} (99%)
+ rename F01_220MB_5_10_TOUCH_DG/Software/Test/Common/package_8e518173.zip => F01_220MB_5_15_SEP_DG_S/Software/Test/Common/package_987d58e2.zip (57%)
+ rename F01_220MB_5_15_SEP_DG_S_T/Software/Test/Common/{package_8e518173.zip => package_535d4ae2.zip} (57%)
+ rename F01_22B_DG_T/Software/Test/Common/package_12da7810.zip => F01_220TB_5_15_SEP_DG_S_T/Software/Test/Common/package_de931cae.zip (57%)
+ rename F01_22MA_10_SEP_DG/Software/Test/Common/package_501cba5b.zip => F01_22A_DG_M/Software/Test/Common/package_7654491e.zip (99%)
+ rename F01_22TA_10_SEP_DG/Software/Test/Common/package_e809456f.zip => F01_22A_DG_T/Software/Test/Common/package_6cd3dbe4.zip (57%)
+ rename F01_220TB_5_15_SEP_DG_S_T/Software/Test/Common/package_68c654ab.zip => F01_22B_DG_T/Software/Test/Common/package_30cb4558.zip (57%)
+ rename F01_22A_DG_M/Software/Test/Common/package_501cba5b.zip => F01_22MA_10_SEP_DG/Software/Test/Common/package_34977004.zip (99%)
+ rename F01_22A_DG_T/Software/Test/Common/package_e809456f.zip => F01_22TA_10_SEP_DG/Software/Test/Common/package_30c0c52a.zip (57%)
+ rename F01_22TB_10_SEP_DG/Software/Test/Common/{package_12da7810.zip => package_ff694e8f.zip} (57%)
+ delete mode 100644 TestGroup/Packing/Delivery/Common/8inch/Delivery.zip
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   18e0fb6..b8d1509  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

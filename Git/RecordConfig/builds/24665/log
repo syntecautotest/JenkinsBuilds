@@ -1,0 +1,12 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7456336657342268173.bat
+Product: F01-11TB-SEP-DG-A
+<FileConfig ProductName="F01-11TB-SEP-DG-A" PackageHead="11BLatheCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.60.0</Version><Name>WCE7_AM335x_7.60.0.bin</Name><Hash>2ae106883481d82bb36c995de954960a</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.60.0/ARMCE7_Image/WCE7_AM335x_7.60.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.56B</Version><Name>package_d883a53b.zip</Name><Hash>34654f1f6b0ba5efd0c5b2690594f352</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_11TB_SEP_DG_A/Software/Test/Common/package_d883a53b.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.56B</Version><Name>Test.zip</Name><Hash>ca12bfac99d4a682b1e4e00ab2ea94ae</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.56B</Version><Name>package_acc87c95.zip</Name><Hash>fe10f5cd4b5cebda1e09ea0a3f661258</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_11TB_SEP_DG_A/Software/Delivery/Common/package_acc87c95.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.56B</Version><Name>Delivery.zip</Name><Hash>478df5cbb85c44056821cf07fd78ac6b</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

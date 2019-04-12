@@ -1,0 +1,104 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4KfVeMImJpBrytMUKA60YZG2S9HzGpQnuzXaOYUcB3gzAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9iaAAA3naXi88AAAA=[0m410 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8827689027381019473.bat
+ID:10101093 Date:2019/04/12 14:41:43
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   F01-11MA-SEP-DG.xml
+	modified:   F01-21TA-SEP-DG.xml
+	modified:   REV.props
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	F01-11MA-VGA.xml
+	F01-11MB-SEP-DG-A.xml
+	F01-11MB-SEP-DG.xml
+	F01-11MB-VGA.xml
+	F01-11MB150-SEP-TOUCH.xml
+	F01-11TA-SEP-DG.xml
+	F01-11TB-SEP-DG-A.xml
+	F01-11TB-SEP-DG.xml
+	F01-210MA-E-10-SEP-DG.xml
+	F01-210MA-E-VGA.xml
+	F01-210MA-E5-10-SEP-DG.xml
+	F01-210MA-E5-VGA.xml
+	F01-210MA-H-SEP-DG.xml
+	F01-210MA-H-VGA.xml
+	F01-210MA-H5-SEP-DG.xml
+	F01-210MA-H5-VGA.xml
+	F01-210MB-E-10-SEP-DG.xml
+	F01-210MB-E-VGA.xml
+	F01-210MB-E5-10-SEP-DG.xml
+	F01-210MB-E5-VGA.xml
+	F01-6GA-E-8-SEP-DG.xml
+	F01-6GA-E-8-STD-DG.xml
+	F01-6MA-E-8-SEP-DG.xml
+	F01-6MA-E-8-STD-DG.xml
+	F01-6MB-E-8-SEP-DG.xml
+	F01-6MB-E-8-STD-DG.xml
+	F01-6MD-8-SEP-DG.xml
+	F01-6MD-DG.xml
+	F01-6MD-H-8-SEP-DG.xml
+	F01-6MD-H-DG.xml
+	F01-6TA-E-8-SEP-DG.xml
+	F01-6TA-E-8-STD-DG.xml
+	F01-70CB-5-VGA.xml
+	F01-70CB-UltraCam.xml
+	F01-70CB-VGA.xml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 99ae01d] 2019/04/12 14:41:43 by 10101093, Modified Products: F01-21TA-SEP-DG,F01-11MA-SEP-DG,F01-11MA-VGA,F01-6GA-E-8-STD-DG,F01-6GA-E-8-SEP-DG,F01-6MA-E-8-STD-DG,F01-6MA-E-8-SEP-DG,F01-6MB-E-8-STD-DG,F01-6MB-E-8-SEP-DG,F01-6MD-DG,F01-6MD-8-SEP-DG,F01-6MD-H-8-SEP-DG,F01-6MD-H-DG,F01-6TA-E-8-SEP-DG,F01-6TA-E-8-STD-DG,F01-70CB-VGA,F01-70CB-ULTRACAM,F01-70CB-5-VGA,F01-11MB-SEP-DG,F01-11MB-SEP-DG-A,F01-11MB-VGA,F01-11MB150-SEP-TOUCH,F01-11TA-SEP-DG,F01-11TB-SEP-DG,F01-11TB-SEP-DG-A,F01-210MA-E-10-SEP-DG,F01-210MA-E-VGA,F01-210MA-E5-10-SEP-DG,F01-210MA-E5-VGA,F01-210MA-H-SEP-DG,F01-210MA-H-VGA,F01-210MA-H5-SEP-DG,F01-210MA-H5-VGA,F01-210MB-E-10-SEP-DG,F01-210MB-E-VGA,F01-210MB-E5-10-SEP-DG,F01-210MB-E5-VGA
+ 38 files changed, 38 insertions(+), 3 deletions(-)
+ rewrite F01-11MA-SEP-DG.xml (89%)
+ create mode 100644 F01-11MA-VGA.xml
+ create mode 100644 F01-11MB-SEP-DG-A.xml
+ create mode 100644 F01-11MB-SEP-DG.xml
+ create mode 100644 F01-11MB-VGA.xml
+ create mode 100644 F01-11MB150-SEP-TOUCH.xml
+ create mode 100644 F01-11TA-SEP-DG.xml
+ create mode 100644 F01-11TB-SEP-DG-A.xml
+ create mode 100644 F01-11TB-SEP-DG.xml
+ create mode 100644 F01-210MA-E-10-SEP-DG.xml
+ create mode 100644 F01-210MA-E-VGA.xml
+ create mode 100644 F01-210MA-E5-10-SEP-DG.xml
+ create mode 100644 F01-210MA-E5-VGA.xml
+ create mode 100644 F01-210MA-H-SEP-DG.xml
+ create mode 100644 F01-210MA-H-VGA.xml
+ create mode 100644 F01-210MA-H5-SEP-DG.xml
+ create mode 100644 F01-210MA-H5-VGA.xml
+ create mode 100644 F01-210MB-E-10-SEP-DG.xml
+ create mode 100644 F01-210MB-E-VGA.xml
+ create mode 100644 F01-210MB-E5-10-SEP-DG.xml
+ create mode 100644 F01-210MB-E5-VGA.xml
+ create mode 100644 F01-6GA-E-8-SEP-DG.xml
+ create mode 100644 F01-6GA-E-8-STD-DG.xml
+ create mode 100644 F01-6MA-E-8-SEP-DG.xml
+ create mode 100644 F01-6MA-E-8-STD-DG.xml
+ create mode 100644 F01-6MB-E-8-SEP-DG.xml
+ create mode 100644 F01-6MB-E-8-STD-DG.xml
+ create mode 100644 F01-6MD-8-SEP-DG.xml
+ create mode 100644 F01-6MD-DG.xml
+ create mode 100644 F01-6MD-H-8-SEP-DG.xml
+ create mode 100644 F01-6MD-H-DG.xml
+ create mode 100644 F01-6TA-E-8-SEP-DG.xml
+ create mode 100644 F01-6TA-E-8-STD-DG.xml
+ create mode 100644 F01-70CB-5-VGA.xml
+ create mode 100644 F01-70CB-UltraCam.xml
+ create mode 100644 F01-70CB-VGA.xml
+To github.com:syntecautotest/OQCFileConfig.git
+   60c9fba..99ae01d  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

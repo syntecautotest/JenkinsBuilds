@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1192387518581347403.bat
+Product: HC-8A
+<FileConfig ProductName="HC-8A" PackageHead="HC_8A_K"><Files><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54V</Version><Name>package_8ef3fcc3.zip</Name><Hash>282ef7481cd3610801cfc5611ce80ab2</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_8A/Software/Test/Common/package_8ef3fcc3.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54V</Version><Name>Test.zip</Name><Hash>256d30bc8a6d0dd69d67c01e03dca574</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54V</Version><Name>package_a37076cf.zip</Name><Hash>e881532c5fcdc1a08a7e29d73ee62c19</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/HC_8A/Software/Delivery/Common/package_a37076cf.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54V</Version><Name>Delivery.zip</Name><Hash>88120140ba1418c61add3bdb0800e5ae</Hash></File><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.60.0</Version><Name>WCE7_AM335x_7.60.0.bin</Name><Hash>2ae106883481d82bb36c995de954960a</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.60.0/ARMCE7_Image/WCE7_AM335x_7.60.0.bin</URL></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

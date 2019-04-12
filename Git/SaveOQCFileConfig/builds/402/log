@@ -1,0 +1,50 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4IST0bShX+vfrBRBzscgn7cyhCnWRhsSZ+hN2VYtyyKCAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9iaAIAx7L6jM8AAAA=[0m414 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins7954591713305449041.bat
+ID:10101487 Date:2019/04/12 16:08:01
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   F01-220MB-5-10-TOUCH-DG.xml
+	modified:   F01-220MB-5-15-SEP-DG-S-T.xml
+	modified:   F01-220MB-5-15-SEP-DG-S.xml
+	modified:   F01-220TB-10-SEP-DG-S-T.xml
+	modified:   F01-220TB-10-SEP-DG-S.xml
+	modified:   F01-220TB-10-SEP-DG.xml
+	modified:   F01-220TB-10-STD-DG.xml
+	modified:   F01-220TB-15-SEP-DG-S-T.xml
+	modified:   F01-220TB-15-SEP-DG-S.xml
+	modified:   F01-220TB-15E.xml
+	modified:   F01-220TB-5-15-SEP-DG-S-T.xml
+	modified:   F01-22A-DG-T.xml
+	modified:   F01-22B-DG-T.xml
+	modified:   F01-22TA-10-SEP-DG-S-T.xml
+	modified:   F01-22TA-10-SEP-DG-S.xml
+	modified:   F01-22TA-10-SEP-DG.xml
+	modified:   F01-22TA-10-STD-DG.xml
+	modified:   F01-22TA-15-SEP-DG-S-T.xml
+	modified:   F01-22TA-15-SEP-DG-S.xml
+	modified:   F01-22TA-15E.xml
+	modified:   F01-22TA-8-SEP-DG.xml
+	modified:   F01-22TB-10-SEP-DG-S.xml
+	modified:   F01-22TB-10-SEP-DG.xml
+	modified:   REV.props
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master c2040ee] 2019/04/12 16:08:01 by 10101487, Modified Products: F01-220MB-5-10-TOUCH-DG,F01-220MB-5-15-SEP-DG-S,F01-220MB-5-15-SEP-DG-S-T,F01-220TB-10-SEP-DG,F01-220TB-10-SEP-DG-S,F01-220TB-10-SEP-DG-S-T,F01-220TB-10-STD-DG,F01-220TB-15E,F01-220TB-15-SEP-DG-S,F01-220TB-15-SEP-DG-S-T,F01-220TB-5-10-SEP-DG-S,F01-220TB-5-10-SEP-DG-S-T,F01-220TB-5-10-STD-DG,F01-220TB-5-15-SEP-DG-S,F01-220TB-5-15-SEP-DG-S-T,F01-22MA-8-SEP-DG,F01-22MA-15-SEP-DG-S-T,F01-22MA-15-SEP-DG-S,F01-22MA-15E,F01-22MA-10-STD-DG,F01-22MA-10-SEP-DG-S-T,F01-22MA-10-SEP-DG-S,F01-22A-DG-T,F01-22TA-8-SEP-DG,F01-22TA-15-SEP-DG-S-T,F01-22TA-15-SEP-DG-S,F01-22TA-15E,F01-22TA-10-STD-DG,F01-22TA-10-SEP-DG-S-T,F01-22TA-10-SEP-DG-S,F01-22TA-10-SEP-DG,F01-22B-DG-T,F01-22TB-10-SEP-DG-S,F01-22TB-10-SEP-DG
+ 24 files changed, 24 insertions(+), 24 deletions(-)
+To github.com:syntecautotest/OQCFileConfig.git
+   e57ed8e..c2040ee  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

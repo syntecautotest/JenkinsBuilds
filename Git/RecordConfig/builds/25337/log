@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins3470225303430563460.bat
+Product: F01-6MA-E-8-SEP-DG
+<FileConfig ProductName="F01-6MA-E-8-SEP-DG" PackageHead="6A-EMillCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.60.0</Version><Name>WCE7_AM335x_7.60.0.bin</Name><Hash>2ae106883481d82bb36c995de954960a</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.60.0/ARMCE7_Image/WCE7_AM335x_7.60.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.56B</Version><Name>package_1a56ad5f.zip</Name><Hash>65eac9f5ef5d5cace343d2fc354dbf46</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_6MA_E_8_SEP_DG/Software/Test/Common/package_1a56ad5f.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.56B</Version><Name>Test.zip</Name><Hash>678c8cdbfdb1756c307560a85c47c9c5</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.56B</Version><Name>package_7e868c7c.zip</Name><Hash>54aeba12d0647e9f985d22e8297ca3f1</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_6MA_E_8_SEP_DG/Software/Delivery/Common/package_7e868c7c.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.56B</Version><Name>Delivery.zip</Name><Hash>49d341c31878abe352664d99cf94006b</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

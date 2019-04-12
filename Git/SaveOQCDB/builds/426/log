@@ -1,0 +1,595 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1026735769155588247.bat
+ID:10101487 Date:2019/04/12 17:26:02
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+warning: could not open directory '6MA - è¤‡è£½ (6)/': No such file or directory
+[master 7569f70] 2019/04/12 17:26:02 by 10101487, Modified Products: F01-220MB-5-10-SEP-DG,F01-220MB-5-10-SEP-DG-S,F01-220MB-5-10-SEP-DG-S-T
+ 571 files changed, 34 insertions(+), 1 deletion(-)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/10inch/Delivery.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Delivery/Common/10inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/10inch_Touch/Delivery.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Delivery/Common/10inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/15inch/Delivery.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Delivery/Common/15inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/15inch_Touch/Delivery.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Delivery/Common/15inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/8inch/Delivery.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Delivery/Common/8inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/8inch_Touch/Delivery.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Delivery/Common/8inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/Common/Delivery.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Delivery/Common/Common/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Delivery/Common/Delivery.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Delivery/Common/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/10inch/Test.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Test/Common/10inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/10inch_Touch/Test.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Test/Common/10inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/15inch/Test.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Test/Common/15inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/15inch_Touch/Test.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Test/Common/15inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/8inch/Test.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Test/Common/8inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/8inch_Touch/Test.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Test/Common/8inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/Common/Test.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Test/Common/Common/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Packing/Test/Common/Test.zip" => F01-22TB-15-SEP-DG-S-T/Packing/Test/Common/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Software/Delivery/Common/package_7e00c8dc.zip" => F01-22TB-15-SEP-DG-S-T/Software/Delivery/Common/package_7e00c8dc.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2) - \350\244\207\350\243\275/Software/Test/Common/package_12da7810.zip" => F01-22TB-15-SEP-DG-S-T/Software/Test/Common/package_12da7810.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/10inch/Delivery.zip" => F01-22TB-15-SEP-DG-S/Packing/Delivery/Common/10inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/10inch_Touch/Delivery.zip" => F01-22TB-15-SEP-DG-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/15inch/Delivery.zip" => F01-22TB-15-SEP-DG-S/Packing/Delivery/Common/15inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/15inch_Touch/Delivery.zip" => F01-22TB-15-SEP-DG-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/8inch/Delivery.zip" => F01-22TB-15-SEP-DG-S/Packing/Delivery/Common/8inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/8inch_Touch/Delivery.zip" => F01-22TB-15-SEP-DG-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/Common/Delivery.zip" => F01-22TB-15-SEP-DG-S/Packing/Delivery/Common/Common/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/Delivery.zip" => F01-22TB-15-SEP-DG-S/Packing/Delivery/Common/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/10inch/Test.zip" => F01-22TB-15-SEP-DG-S/Packing/Test/Common/10inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/10inch_Touch/Test.zip" => F01-22TB-15-SEP-DG-S/Packing/Test/Common/10inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/15inch/Test.zip" => F01-22TB-15-SEP-DG-S/Packing/Test/Common/15inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/15inch_Touch/Test.zip" => F01-22TB-15-SEP-DG-S/Packing/Test/Common/15inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/8inch/Test.zip" => F01-22TB-15-SEP-DG-S/Packing/Test/Common/8inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/8inch_Touch/Test.zip" => F01-22TB-15-SEP-DG-S/Packing/Test/Common/8inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/Common/Test.zip" => F01-22TB-15-SEP-DG-S/Packing/Test/Common/Common/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Packing/Test/Common/Test.zip" => F01-22TB-15-SEP-DG-S/Packing/Test/Common/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Software/Delivery/Common/package_7e00c8dc.zip" => F01-22TB-15-SEP-DG-S/Software/Delivery/Common/package_7e00c8dc.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (2)/Software/Test/Common/package_12da7810.zip" => F01-22TB-15-SEP-DG-S/Software/Test/Common/package_12da7810.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/10inch/Delivery.zip" => F01-22TB-15E/Packing/Delivery/Common/10inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/10inch_Touch/Delivery.zip" => F01-22TB-15E/Packing/Delivery/Common/10inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/15inch/Delivery.zip" => F01-22TB-15E/Packing/Delivery/Common/15inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/15inch_Touch/Delivery.zip" => F01-22TB-15E/Packing/Delivery/Common/15inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/8inch/Delivery.zip" => F01-22TB-15E/Packing/Delivery/Common/8inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/8inch_Touch/Delivery.zip" => F01-22TB-15E/Packing/Delivery/Common/8inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/Common/Delivery.zip" => F01-22TB-15E/Packing/Delivery/Common/Common/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Delivery/Common/Delivery.zip" => F01-22TB-15E/Packing/Delivery/Common/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/10inch/Test.zip" => F01-22TB-15E/Packing/Test/Common/10inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/10inch_Touch/Test.zip" => F01-22TB-15E/Packing/Test/Common/10inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/15inch/Test.zip" => F01-22TB-15E/Packing/Test/Common/15inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/15inch_Touch/Test.zip" => F01-22TB-15E/Packing/Test/Common/15inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/8inch/Test.zip" => F01-22TB-15E/Packing/Test/Common/8inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/8inch_Touch/Test.zip" => F01-22TB-15E/Packing/Test/Common/8inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/Common/Test.zip" => F01-22TB-15E/Packing/Test/Common/Common/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Packing/Test/Common/Test.zip" => F01-22TB-15E/Packing/Test/Common/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Software/Delivery/Common/package_7e00c8dc.zip" => F01-22TB-15E/Software/Delivery/Common/package_7e00c8dc.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 (3) - \350\244\207\350\243\275/Software/Test/Common/package_12da7810.zip" => F01-22TB-15E/Software/Test/Common/package_12da7810.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/10inch/Delivery.zip" => F01-22TB-8-SEP-DG/Packing/Delivery/Common/10inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/10inch_Touch/Delivery.zip" => F01-22TB-8-SEP-DG/Packing/Delivery/Common/10inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/15inch/Delivery.zip" => F01-22TB-8-SEP-DG/Packing/Delivery/Common/15inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/15inch_Touch/Delivery.zip" => F01-22TB-8-SEP-DG/Packing/Delivery/Common/15inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/8inch/Delivery.zip" => F01-22TB-8-SEP-DG/Packing/Delivery/Common/8inch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/8inch_Touch/Delivery.zip" => F01-22TB-8-SEP-DG/Packing/Delivery/Common/8inch_Touch/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/Common/Delivery.zip" => F01-22TB-8-SEP-DG/Packing/Delivery/Common/Common/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Delivery/Common/Delivery.zip" => F01-22TB-8-SEP-DG/Packing/Delivery/Common/Delivery.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/10inch/Test.zip" => F01-22TB-8-SEP-DG/Packing/Test/Common/10inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/10inch_Touch/Test.zip" => F01-22TB-8-SEP-DG/Packing/Test/Common/10inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/15inch/Test.zip" => F01-22TB-8-SEP-DG/Packing/Test/Common/15inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/15inch_Touch/Test.zip" => F01-22TB-8-SEP-DG/Packing/Test/Common/15inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/8inch/Test.zip" => F01-22TB-8-SEP-DG/Packing/Test/Common/8inch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/8inch_Touch/Test.zip" => F01-22TB-8-SEP-DG/Packing/Test/Common/8inch_Touch/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/Common/Test.zip" => F01-22TB-8-SEP-DG/Packing/Test/Common/Common/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Packing/Test/Common/Test.zip" => F01-22TB-8-SEP-DG/Packing/Test/Common/Test.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Software/Delivery/Common/package_7e00c8dc.zip" => F01-22TB-8-SEP-DG/Software/Delivery/Common/package_7e00c8dc.zip (100%)
+ rename "22TB - \350\244\207\350\243\275 - \350\244\207\350\243\275 (2)/Software/Test/Common/package_12da7810.zip" => F01-22TB-8-SEP-DG/Software/Test/Common/package_12da7810.zip (100%)
+ rename F01_220MB_5_10_SEP_DG_S/Software/Test/Common/{package_770f7f67.zip => package_3b1786a8.zip} (99%)
+ rename F01_220MB_5_10_SEP_DG_S_T/Software/Test/Common/{package_c66eee90.zip => package_43b9b850.zip} (99%)
+ delete mode 100644 F01_22TB_10_SEP_DG_S/Software/Test/Common/package_12da7810.zip
+ create mode 100644 F01_22TB_10_SEP_DG_S/Software/Test/Common/package_308eb524.zip
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Delivery/Common/10inch/Delivery.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Delivery/Common/10inch_Touch/Delivery.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Delivery/Common/15inch/Delivery.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Delivery/Common/15inch_Touch/Delivery.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Delivery/Common/8inch/Delivery.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Delivery/Common/8inch_Touch/Delivery.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Delivery/Common/Common/Delivery.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Delivery/Common/Delivery.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Test/Common/10inch/Test.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Test/Common/10inch_Touch/Test.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Test/Common/15inch/Test.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Test/Common/15inch_Touch/Test.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Test/Common/8inch/Test.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Test/Common/8inch_Touch/Test.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Test/Common/Common/Test.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Packing/Test/Common/TEST.zip (100%)
+ rename {5 => F01_610MA_E5_150_SEP}/Software/Delivery/Common/package_c161640.zip (100%)
+ create mode 100644 F01_610MA_E5_150_SEP/Software/Test/Common/package_7df3d298.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Packing/Test/Common/TEST.zip
+ create mode 100644 F01_610MA_E5_150_SEP_TOUCH/Software/Delivery/Common/package_c161640.zip
+ rename {5 => F01_610MA_E5_150_SEP_TOUCH}/Software/Test/Common/package_62988173.zip (100%)
+ create mode 100644 F01_610MA_E5_VGA/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F01_610MA_E5_VGA/Packing/Test/Common/TEST.zip
+ create mode 100644 F01_610MA_E5_VGA/Software/Delivery/Common/package_c161640.zip
+ create mode 100644 F01_610MA_E5_VGA/Software/Test/Common/package_62988173.zip
+ create mode 100644 F01_610MA_H5_150_SEP/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_610MA_H5_150_SEP/Packing/Test/Common/TEST.zip
+ create mode 100644 F01_610MA_H5_150_SEP/Software/Delivery/Common/package_7d5115b0.zip
+ create mode 100644 F01_610MA_H5_150_SEP/Software/Test/Common/package_cfec3c3e.zip
+ create mode 100644 F01_610MA_H5_150_SEP_TOUCH/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_610MA_H5_150_SEP_TOUCH/Packing/Test/Common/TEST.zip
+ create mode 100644 F01_610MA_H5_150_SEP_TOUCH/Software/Delivery/Common/package_7d5115b0.zip
+ create mode 100644 F01_610MA_H5_150_SEP_TOUCH/Software/Test/Common/package_cfec3c3e.zip
+ create mode 100644 F01_610MA_H5_SEP_DG/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_610MA_H5_SEP_DG/Packing/Test/Common/TEST.zip
+ create mode 100644 F01_610MA_H5_SEP_DG/Software/Delivery/Common/package_7d5115b0.zip
+ create mode 100644 F01_610MA_H5_SEP_DG/Software/Test/Common/package_cfec3c3e.zip
+ create mode 100644 F01_610MA_H5_VGA/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_610MA_H5_VGA/Packing/Test/Common/TEST.zip
+ create mode 100644 F01_610MA_H5_VGA/Software/Delivery/Common/package_7d5115b0.zip
+ create mode 100644 F01_610MA_H5_VGA/Software/Test/Common/package_cfec3c3e.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F01_610WA_H_VGA/Packing/Test/Common/Test.zip
+ create mode 100644 F01_610WA_H_VGA/Software/Delivery/Common/package_fff9c0c8.zip
+ create mode 100644 F01_610WA_H_VGA/Software/Test/Common/package_bb58d94b.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F01_610WB_H_VGA/Packing/Test/Common/Test.zip
+ create mode 100644 F01_610WB_H_VGA/Software/Delivery/Common/package_daace03e.zip
+ create mode 100644 F01_610WB_H_VGA/Software/Test/Common/package_c1e292e6.zip
+ create mode 100644 F01_6A_4012_M/Software/Delivery/Common/10inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_M/Software/Delivery/Common/10inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_M/Software/Delivery/Common/15inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_M/Software/Delivery/Common/15inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_M/Software/Delivery/Common/8inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_M/Software/Delivery/Common/8inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_M/Software/Delivery/Common/Common/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_M/Software/Delivery/Common/package_E0198213.zip
+ create mode 100644 F01_6A_4012_M/Software/Test/Common/10inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_M/Software/Test/Common/10inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_M/Software/Test/Common/15inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_M/Software/Test/Common/15inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_M/Software/Test/Common/8inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_M/Software/Test/Common/8inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_M/Software/Test/Common/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_M/Software/Test/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_ME/Software/Delivery/Common/10inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_ME/Software/Delivery/Common/10inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_ME/Software/Delivery/Common/15inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_ME/Software/Delivery/Common/15inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_ME/Software/Delivery/Common/8inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_ME/Software/Delivery/Common/8inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_ME/Software/Delivery/Common/Common/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4012_ME/Software/Delivery/Common/package_E0198213.zip
+ create mode 100644 F01_6A_4012_ME/Software/Test/Common/10inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_ME/Software/Test/Common/10inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_ME/Software/Test/Common/15inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_ME/Software/Test/Common/15inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_ME/Software/Test/Common/8inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_ME/Software/Test/Common/8inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_ME/Software/Test/Common/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4012_ME/Software/Test/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2/Software/Delivery/Common/10inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2/Software/Delivery/Common/10inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2/Software/Delivery/Common/15inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2/Software/Delivery/Common/15inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2/Software/Delivery/Common/8inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2/Software/Delivery/Common/8inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2/Software/Delivery/Common/Common/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2/Software/Delivery/Common/package_E0198213.zip
+ create mode 100644 F01_6A_4018_M2/Software/Test/Common/10inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2/Software/Test/Common/10inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2/Software/Test/Common/15inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2/Software/Test/Common/15inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2/Software/Test/Common/8inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2/Software/Test/Common/8inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2/Software/Test/Common/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2/Software/Test/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Delivery/Common/10inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Delivery/Common/10inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Delivery/Common/15inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Delivery/Common/15inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Delivery/Common/8inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Delivery/Common/8inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Delivery/Common/Common/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Delivery/Common/package_E0198213.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Test/Common/10inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Test/Common/10inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Test/Common/15inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Test/Common/15inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Test/Common/8inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Test/Common/8inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Test/Common/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2E/Software/Test/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Delivery/Common/10inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Delivery/Common/10inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Delivery/Common/15inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Delivery/Common/15inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Delivery/Common/8inch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Delivery/Common/8inch_Touch/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Delivery/Common/Common/package_6DAFE98A.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Delivery/Common/package_E0198213.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Test/Common/10inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Test/Common/10inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Test/Common/15inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Test/Common/15inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Test/Common/8inch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Test/Common/8inch_Touch/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Test/Common/Common/package_a2a08a25.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Software/Test/Common/package_a2a08a25.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-10C-80MI-S/Packing/Test/Common/Test.zip
+ create mode 100644 F11-10C-80MI-S/Software/Delivery/Common/package_6df9af48.zip
+ create mode 100644 F11-10C-80MI-S/Software/Test/Common/package_d2f2a021.zip
+ create mode 100644 F11-60PB-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-60PB-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-60PB-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-60PB-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-60PB-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-60PB-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-60PB-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-60PB-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-60PB-S/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-60PB-S/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-60PB-S/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-60PB-S/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-60PB-S/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-60PB-S/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-60PB-S/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-60PB-S/Packing/Test/Common/Test.zip
+ create mode 100644 F11-60PB-S/Software/Delivery/Common/package_aa895ef7.zip
+ create mode 100644 F11-60PB-S/Software/Test/Common/package_28b99101.zip
+ create mode 100644 F11-60PC-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-60PC-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-60PC-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-60PC-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-60PC-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-60PC-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-60PC-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-60PC-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-60PC-S/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-60PC-S/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-60PC-S/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-60PC-S/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-60PC-S/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-60PC-S/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-60PC-S/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-60PC-S/Packing/Test/Common/Test.zip
+ create mode 100644 F11-60PC-S/Software/Delivery/Common/package_63dd9435.zip
+ create mode 100644 F11-60PC-S/Software/Test/Common/package_6803f96e.zip
+ create mode 100644 F11-60PE-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-60PE-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-60PE-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-60PE-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-60PE-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-60PE-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-60PE-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-60PE-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-60PE-S/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-60PE-S/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-60PE-S/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-60PE-S/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-60PE-S/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-60PE-S/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-60PE-S/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-60PE-S/Packing/Test/Common/TEST.zip
+ create mode 100644 F11-60PE-S/Software/Delivery/Common/package_e28be550.zip
+ create mode 100644 F11-60PE-S/Software/Test/Common/package_dfcfc2a4.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-8C-80MI-S/Packing/Test/Common/Test.zip
+ create mode 100644 F11-8C-80MI-S/Software/Delivery/Common/package_6df9af48.zip
+ create mode 100644 F11-8C-80MI-S/Software/Test/Common/package_d2f2a021.zip
+ create mode 100644 F11-HC10A-JY/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10A-JY/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-JY/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10A-JY/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-JY/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10A-JY/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-JY/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10A-JY/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10A-JY/Packing/TEST/Common/10inch/Test.zip
+ create mode 100644 F11-HC10A-JY/Packing/TEST/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-JY/Packing/TEST/Common/15inch/Test.zip
+ create mode 100644 F11-HC10A-JY/Packing/TEST/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-JY/Packing/TEST/Common/8inch/Test.zip
+ create mode 100644 F11-HC10A-JY/Packing/TEST/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-JY/Packing/TEST/Common/Common/Test.zip
+ create mode 100644 F11-HC10A-JY/Packing/TEST/Common/Test.zip
+ create mode 100644 F11-HC10A-JY/Software/Delivery/Common/package_84d5c26d.zip
+ create mode 100644 F11-HC10A-JY/Software/Test/Common/package_a131ecf7.zip
+ create mode 100644 F11-HC10A-K/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10A-K/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-K/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10A-K/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-K/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10A-K/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-K/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10A-K/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10A-K/Packing/TEST/Common/10inch/Test.zip
+ create mode 100644 F11-HC10A-K/Packing/TEST/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-K/Packing/TEST/Common/15inch/Test.zip
+ create mode 100644 F11-HC10A-K/Packing/TEST/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-K/Packing/TEST/Common/8inch/Test.zip
+ create mode 100644 F11-HC10A-K/Packing/TEST/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-K/Packing/TEST/Common/Common/Test.zip
+ create mode 100644 F11-HC10A-K/Packing/TEST/Common/Test.zip
+ create mode 100644 F11-HC10A-K/Software/Delivery/Common/package_84d5c26d.zip
+ create mode 100644 F11-HC10A-K/Software/Test/Common/package_a131ecf7.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/TEST/Common/10inch/Test.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/TEST/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/TEST/Common/15inch/Test.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/TEST/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/TEST/Common/8inch/Test.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/TEST/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/TEST/Common/Common/Test.zip
+ create mode 100644 F11-HC10A-S-FY/Packing/TEST/Common/Test.zip
+ create mode 100644 F11-HC10A-S-FY/Software/Delivery/Common/package_84d5c26d.zip
+ create mode 100644 F11-HC10A-S-FY/Software/Test/Common/package_a131ecf7.zip
+ create mode 100644 F11-HC10A-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10A-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10A-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10A-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10A-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10A-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10A-S/Packing/TEST/Common/10inch/Test.zip
+ create mode 100644 F11-HC10A-S/Packing/TEST/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-S/Packing/TEST/Common/15inch/Test.zip
+ create mode 100644 F11-HC10A-S/Packing/TEST/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-S/Packing/TEST/Common/8inch/Test.zip
+ create mode 100644 F11-HC10A-S/Packing/TEST/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10A-S/Packing/TEST/Common/Common/Test.zip
+ create mode 100644 F11-HC10A-S/Packing/TEST/Common/Test.zip
+ create mode 100644 F11-HC10A-S/Software/Delivery/Common/package_84d5c26d.zip
+ create mode 100644 F11-HC10A-S/Software/Test/Common/package_a131ecf7.zip
+ create mode 100644 F11-HC10B-JY/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10B-JY/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-JY/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10B-JY/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-JY/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10B-JY/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-JY/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10B-JY/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10B-JY/Packing/TEST/Common/10inch/Test.zip
+ create mode 100644 F11-HC10B-JY/Packing/TEST/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-JY/Packing/TEST/Common/15inch/Test.zip
+ create mode 100644 F11-HC10B-JY/Packing/TEST/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-JY/Packing/TEST/Common/8inch/Test.zip
+ create mode 100644 F11-HC10B-JY/Packing/TEST/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-JY/Packing/TEST/Common/Common/Test.zip
+ create mode 100644 F11-HC10B-JY/Packing/TEST/Common/Test.zip
+ create mode 100644 F11-HC10B-JY/Software/Delivery/Common/package_2f67a66e.zip
+ create mode 100644 F11-HC10B-JY/Software/Test/Common/package_7764af37.zip
+ create mode 100644 F11-HC10B-K/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10B-K/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-K/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10B-K/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-K/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10B-K/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-K/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10B-K/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10B-K/Packing/TEST/Common/10inch/Test.zip
+ create mode 100644 F11-HC10B-K/Packing/TEST/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-K/Packing/TEST/Common/15inch/Test.zip
+ create mode 100644 F11-HC10B-K/Packing/TEST/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-K/Packing/TEST/Common/8inch/Test.zip
+ create mode 100644 F11-HC10B-K/Packing/TEST/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-K/Packing/TEST/Common/Common/Test.zip
+ create mode 100644 F11-HC10B-K/Packing/TEST/Common/Test.zip
+ create mode 100644 F11-HC10B-K/Software/Delivery/Common/package_2f67a66e.zip
+ create mode 100644 F11-HC10B-K/Software/Test/Common/package_7764af37.zip
+ create mode 100644 F11-HC10B-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10B-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10B-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10B-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10B-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10B-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10B-S/Packing/TEST/Common/10inch/Test.zip
+ create mode 100644 F11-HC10B-S/Packing/TEST/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-S/Packing/TEST/Common/15inch/Test.zip
+ create mode 100644 F11-HC10B-S/Packing/TEST/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-S/Packing/TEST/Common/8inch/Test.zip
+ create mode 100644 F11-HC10B-S/Packing/TEST/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10B-S/Packing/TEST/Common/Common/Test.zip
+ create mode 100644 F11-HC10B-S/Packing/TEST/Common/Test.zip
+ create mode 100644 F11-HC10B-S/Software/Delivery/Common/package_2f67a66e.zip
+ create mode 100644 F11-HC10B-S/Software/Test/Common/package_7764af37.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-HC10C-S-5/Packing/Test/Common/Test.zip
+ create mode 100644 F11-HC10C-S-5/Software/Delivery/Common/package_cf1286d6.zip
+ create mode 100644 F11-HC10C-S-5/Software/Test/Common/package_61dcc5ab.zip
+ create mode 100644 F11-HC10C-S-5/Thumbs.db
+ create mode 100644 F11-HC10C-S-NF/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-HC10C-S-NF/Packing/Test/Common/Test.zip
+ create mode 100644 F11-HC10C-S-NF/Software/Delivery/Common/package_6df9af48.zip
+ create mode 100644 F11-HC10C-S-NF/Software/Test/Common/package_2a6468d7.zip
+ create mode 100644 F11-HC10C-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10C-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10C-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10C-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10C-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10C-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10C-S/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-HC10C-S/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-HC10C-S/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-HC10C-S/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10C-S/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-HC10C-S/Packing/Test/Common/Test.zip
+ create mode 100644 F11-HC10C-S/Software/Delivery/Common/package_6df9af48.zip
+ create mode 100644 F11-HC10C-S/Software/Test/Common/package_2a6468d7.zip
+ create mode 100644 F11-HC10E-K/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10E-K/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10E-K/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10E-K/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10E-K/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10E-K/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10E-K/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10E-K/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10E-K/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-HC10E-K/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10E-K/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-HC10E-K/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10E-K/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-HC10E-K/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10E-K/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-HC10E-K/Packing/Test/Common/Test.zip
+ create mode 100644 F11-HC10E-K/Software/Delivery/Common/package_5f6a2e7.zip
+ create mode 100644 F11-HC10E-K/Software/Test/Common/package_7f5d15a6.zip
+ create mode 100644 F11-HC10E-S/Packing/Delivery/Common/10inch/Delivery.zip
+ create mode 100644 F11-HC10E-S/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10E-S/Packing/Delivery/Common/15inch/Delivery.zip
+ create mode 100644 F11-HC10E-S/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10E-S/Packing/Delivery/Common/8inch/Delivery.zip
+ create mode 100644 F11-HC10E-S/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ create mode 100644 F11-HC10E-S/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F11-HC10E-S/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F11-HC10E-S/Packing/Test/Common/10inch/Test.zip
+ create mode 100644 F11-HC10E-S/Packing/Test/Common/10inch_Touch/Test.zip
+ create mode 100644 F11-HC10E-S/Packing/Test/Common/15inch/Test.zip
+ create mode 100644 F11-HC10E-S/Packing/Test/Common/15inch_Touch/Test.zip
+ create mode 100644 F11-HC10E-S/Packing/Test/Common/8inch/Test.zip
+ create mode 100644 F11-HC10E-S/Packing/Test/Common/8inch_Touch/Test.zip
+ create mode 100644 F11-HC10E-S/Packing/Test/Common/Common/Test.zip
+ create mode 100644 F11-HC10E-S/Packing/Test/Common/Test.zip
+ create mode 100644 F11-HC10E-S/Software/Delivery/Common/package_5f6a2e7.zip
+ create mode 100644 F11-HC10E-S/Software/Test/Common/package_7f5d15a6.zip
+ create mode 100644 LOCK
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   00c31c5..7569f70  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

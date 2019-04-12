@@ -1,0 +1,52 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins6226200704265171114.bat
+ID:10101487 Date:2019/04/12 16:08:01
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 1c50b3f] 2019/04/12 16:08:01 by 10101487, Modified Products: F01-220MB-5-10-TOUCH-DG,F01-220MB-5-15-SEP-DG-S,F01-220MB-5-15-SEP-DG-S-T,F01-220TB-10-SEP-DG,F01-220TB-10-SEP-DG-S,F01-220TB-10-SEP-DG-S-T,F01-220TB-10-STD-DG,F01-220TB-15E,F01-220TB-15-SEP-DG-S,F01-220TB-15-SEP-DG-S-T,F01-220TB-5-10-SEP-DG-S,F01-220TB-5-10-SEP-DG-S-T,F01-220TB-5-10-STD-DG,F01-220TB-5-15-SEP-DG-S,F01-220TB-5-15-SEP-DG-S-T,F01-22MA-8-SEP-DG,F01-22MA-15-SEP-DG-S-T,F01-22MA-15-SEP-DG-S,F01-22MA-15E,F01-22MA-10-STD-DG,F01-22MA-10-SEP-DG-S-T,F01-22MA-10-SEP-DG-S,F01-22A-DG-T,F01-22TA-8-SEP-DG,F01-22TA-15-SEP-DG-S-T,F01-22TA-15-SEP-DG-S,F01-22TA-15E,F01-22TA-10-STD-DG,F01-22TA-10-SEP-DG-S-T,F01-22TA-10-SEP-DG-S,F01-22TA-10-SEP-DG,F01-22B-DG-T,F01-22TB-10-SEP-DG-S,F01-22TB-10-SEP-DG
+ 28 files changed, 0 insertions(+), 0 deletions(-)
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Delivery/Common/10inch/Delivery.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Delivery/Common/10inch_Touch/Delivery.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Delivery/Common/15inch/Delivery.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Delivery/Common/15inch_Touch/Delivery.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Delivery/Common/8inch/Delivery.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Delivery/Common/8inch_Touch/Delivery.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Delivery/Common/Common/Delivery.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Delivery/Common/Delivery.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Test/Common/10inch/Test.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Test/Common/10inch_Touch/Test.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Test/Common/15inch/Test.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Test/Common/15inch_Touch/Test.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Test/Common/8inch/Test.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Test/Common/8inch_Touch/Test.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Test/Common/Common/Test.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Packing/Test/Common/TEST.zip"
+ delete mode 100644 "610MA_E5 - \350\244\207\350\243\275/Software/Delivery/Common/package_c161640.zip"
+ delete mode 100644 F01_220MB_5_10_TOUCH_DG/Software/Test/Common/package_911ecf0d.zip
+ rename "610MA_E5 - \350\244\207\350\243\275/Software/Test/Common/package_2569df8f.zip" => F01_220MB_5_10_TOUCH_DG/Software/Test/Common/package_e9a5be4e.zip (58%)
+ delete mode 100644 F01_220MB_5_15_SEP_DG_S/Software/Test/Common/package_987d58e2.zip
+ create mode 100644 F01_220MB_5_15_SEP_DG_S/Software/Test/Common/package_afc7817c.zip
+ delete mode 100644 F01_220MB_5_15_SEP_DG_S_T/Software/Test/Common/package_535d4ae2.zip
+ rename F01_22A_DG_T/Software/Test/Common/package_6cd3dbe4.zip => F01_220MB_5_15_SEP_DG_S_T/Software/Test/Common/package_e99115c0.zip (57%)
+ rename F01_22B_DG_T/Software/Test/Common/package_30cb4558.zip => F01_220TB_5_15_SEP_DG_S_T/Software/Test/Common/package_856cc05c.zip (57%)
+ create mode 100644 F01_22A_DG_T/Software/Test/Common/package_6905748f.zip
+ rename F01_22TB_10_SEP_DG/Software/Test/Common/package_ff694e8f.zip => F01_22B_DG_T/Software/Test/Common/package_25df38a1.zip (57%)
+ rename F01_22TA_10_SEP_DG/Software/Test/Common/{package_30c0c52a.zip => package_7b88aed5.zip} (57%)
+ rename F01_220TB_5_15_SEP_DG_S_T/Software/Test/Common/package_de931cae.zip => F01_22TB_10_SEP_DG/Software/Test/Common/package_23ebd61a.zip (57%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   72e82e3..1c50b3f  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS
