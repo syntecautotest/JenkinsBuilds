@@ -1,0 +1,166 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters class="java.util.Arrays$ArrayList">
+        <a class="hudson.model.ParameterValue-array">
+          <hudson.model.StringParameterValue>
+            <name>BRANCH_VER</name>
+            <description>cnckernel branch name</description>
+            <value>v10_118_12</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>SECTION</name>
+            <description>section of the program</description>
+            <value>API</value>
+          </hudson.model.StringParameterValue>
+        </a>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <hudson.model.ChoiceParameterDefinition>
+              <name>BRANCH_VER</name>
+              <description>cnckernel branch name</description>
+              <choices class="java.util.Arrays$ArrayList">
+                <a class="string-array">
+                  <string>v10_116_36</string>
+                  <string>v10_116_50</string>
+                  <string>v10_116_52</string>
+                  <string>v10_116_54</string>
+                  <string>v10_118_0</string>
+                  <string>v10_118_12</string>
+                  <string>trunk</string>
+                </a>
+              </choices>
+            </hudson.model.ChoiceParameterDefinition>
+            <hudson.model.ChoiceParameterDefinition>
+              <name>SECTION</name>
+              <description>section of the program</description>
+              <choices class="java.util.Arrays$ArrayList">
+                <a class="string-array">
+                  <string>CNC</string>
+                  <string>API</string>
+                  <string>MMI</string>
+                </a>
+              </choices>
+            </hudson.model.ChoiceParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.plugins.parameterizedtrigger.DifferentiatingAction plugin="parameterized-trigger@2.33"/>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Schedule/ScheduleCheck_apikernel_118_12</upstreamProject>
+            <upstreamUrl>job/Schedule/job/ScheduleCheck_apikernel_118_12/</upstreamUrl>
+            <upstreamBuild>148</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UpstreamCause>
+                <upstreamProject>Schedule/ScheduleCheck_cnckernel_118_12</upstreamProject>
+                <upstreamUrl>job/Schedule/job/ScheduleCheck_cnckernel_118_12/</upstreamUrl>
+                <upstreamBuild>153</upstreamBuild>
+                <upstreamCauses>
+                  <hudson.model.Cause_-UpstreamCause>
+                    <upstreamProject>Schedule/ScheduleCheck_pipe</upstreamProject>
+                    <upstreamUrl>job/Schedule/job/ScheduleCheck_pipe/</upstreamUrl>
+                    <upstreamBuild>660</upstreamBuild>
+                    <upstreamCauses>
+                      <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+                    </upstreamCauses>
+                  </hudson.model.Cause_-UpstreamCause>
+                </upstreamCauses>
+              </hudson.model.Cause_-UpstreamCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>39370</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.model.Cause$UpstreamCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.model.Cause_-UpstreamCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9"/>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+    <org.jenkinsci.plugins.EnvironmentVarSetter plugin="build-name-setter@1.6.5">
+      <log>
+        <autoFlush>false</autoFlush>
+        <trouble>false</trouble>
+        <formatter>
+          <a class="java.io.PrintStream" reference="../.."/>
+          <l>zh_TW</l>
+          <zero>0</zero>
+        </formatter>
+        <closing>true</closing>
+      </log>
+      <envVars>
+        <entry>
+          <string>BUILD_DISPLAY_NAME</string>
+          <string>#7593 v10_118_12 API [2019-04-13]</string>
+        </entry>
+      </envVars>
+    </org.jenkinsci.plugins.EnvironmentVarSetter>
+    <org.jenkinsci.plugins.envinject.EnvInjectBuilderContributionAction plugin="envinject@1.93.1"/>
+    <hudson.plugins.copyartifact.CopyArtifact_-EnvAction plugin="copyartifact@1.38.1"/>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>OCAPI_W32_b01.txt</string>
+          <string>92db370356fff11d159e73ec250bdb6b</string>
+        </entry>
+        <entry>
+          <string>OCAPI_W32_b02.txt</string>
+          <string>ac0d507bdb1e0957fee6d24a6aedfb19</string>
+        </entry>
+        <entry>
+          <string>OCAPI_W64_b02.txt</string>
+          <string>4fb04ed97dac62e7f8ab84b326ad47d6</string>
+        </entry>
+        <entry>
+          <string>OCAPI_WCE6_b01.txt</string>
+          <string>4235b6008390603e7a519e9a5e370cdf</string>
+        </entry>
+        <entry>
+          <string>OCAPI_W64_b01.txt</string>
+          <string>b91870e389585deed9410381dbc06855</string>
+        </entry>
+        <entry>
+          <string>Build.log</string>
+          <string>9f88dff1bb02bafe5896ba8cae80c154</string>
+        </entry>
+        <entry>
+          <string>check.log</string>
+          <string>42122b262dd5a7bd0f2132485fd3b897</string>
+        </entry>
+        <entry>
+          <string>OCAPI_WEC7ARM_b01.txt</string>
+          <string>be45ff7f8a1bee01bf45da17aaf9dada</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+  </actions>
+  <queueId>6044</queueId>
+  <timestamp>1555128249368</timestamp>
+  <startTime>1555128249369</startTime>
+  <result>FAILURE</result>
+  <displayName>#7593 v10_118_12 API [2019-04-13]</displayName>
+  <duration>590</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn>Schedule_BM</builtOn>
+  <workspace>D:\OpenCNC\Schedule</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

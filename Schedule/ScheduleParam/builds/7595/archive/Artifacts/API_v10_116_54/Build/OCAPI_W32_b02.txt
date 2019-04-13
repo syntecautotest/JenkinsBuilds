@@ -1,0 +1,67 @@
+------ Rebuild All started: Project: BridgeAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+.\BridgeAPI.cpp(4) : fatal error C1083: Cannot open include file: 'CommonStruct.h': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_116_54\OCAPI\Source\BridgeAPI\Release\BuildLog.htm"
+BridgeAPI - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: KrnlAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+.\KrnlAPI.cpp(2) : fatal error C1083: Cannot open include file: 'CommonStruct.h': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_116_54\OCAPI\Source\KrnlAPI\Release\BuildLog.htm"
+KrnlAPI - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+TCPFunction.cpp
+d:\opencnc\schedule\api_v10_116_54\ocapi\source\socketutility\TCPFunction.h(9) : fatal error C1083: Cannot open include file: 'RTMutex.h': No such file or directory
+TCPClient.cpp
+d:\opencnc\schedule\api_v10_116_54\ocapi\source\socketutility\TCPFunction.h(9) : fatal error C1083: Cannot open include file: 'RTMutex.h': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_116_54\OCAPI\Source\SocketUtility\Release\BuildLog.htm"
+SocketUtility - 2 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+.\OCKrnlDrv.cpp(7) : fatal error C1083: Cannot open include file: 'cncapi.h': No such file or directory
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_116_54\OCAPI\Source\OCKrnlDrv\Release\BuildLog.htm"
+OCKrnlDrv - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(3) : fatal error C1083: Cannot open include file: 'RTMutex.h': No such file or directory
+TCPClientLink.cpp
+.\TCPClientLink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(6) : fatal error C1083: Cannot open include file: 'RTMutex.h': No such file or directory
+TCPAlarmServer.cpp
+.\TCPAlarmServer.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+d:\OpenCNC\Schedule\API_v10_116_54\OCAPI\Source\SocketUtility\TCPFunction.h(9) : fatal error C1083: Cannot open include file: 'RTMutex.h': No such file or directory
+OcXmlTextReader.cpp
+.\OcXmlTextReader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\OcXmlTextReader.cpp(3) : fatal error C1083: Cannot open include file: 'JXmlTextReader.h': No such file or directory
+OcKrnlDrvDll32.cpp
+.\OcKrnlDrvDll32.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\OcKrnlDrvDll32.cpp(3) : fatal error C1083: Cannot open include file: 'ISimulator.h': No such file or directory
+DipoleDeviceBuffer.cpp
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\DipoleDeviceBuffer.cpp(2) : fatal error C1083: Cannot open include file: 'CommonStruct.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_116_54\OCAPI\Source\OCAPI\Release\BuildLog.htm"
+OCAPI - 6 error(s), 6 warning(s)
+========== Rebuild All: 0 succeeded, 5 failed, 0 skipped ==========
+
