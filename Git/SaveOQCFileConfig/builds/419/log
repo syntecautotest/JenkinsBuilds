@@ -1,0 +1,74 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4PCaRXqAj4552zNgpC1DCUPV2IC6bNhyfwPFU4oA6vg3AAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9ibAgAyiSmzs8AAAA=[0m431 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins8999451856266876931.bat
+ID:10101255 Date:2019/04/15 13:52:46
+On branch master
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   F01-210MB-H-SEP-DG.xml
+	modified:   F01-210MB-H-VGA.xml
+	modified:   F01-210MB-H5-SEP-DG.xml
+	modified:   F01-210MB-H5-VGA.xml
+	modified:   F01-210TB-E-10-SEP-DG.xml
+	modified:   F01-210TB-E-8-SEP-DG.xml
+	modified:   F01-210TB-E-8-STD-DG.xml
+	modified:   F01-210TB-E-VGA.xml
+	modified:   F01-210TB-E5-10-SEP-DG.xml
+	modified:   F01-210TB-H-DG.xml
+	modified:   F01-210TB-H-SEP-DG.xml
+	modified:   F01-210TB-H-VGA.xml
+	modified:   F01-210TB-H5-SEP-DG.xml
+	modified:   F01-21GA-E-10-SEP-DG.xml
+	modified:   F01-21MA-8-SEP-DG.xml
+	modified:   F01-21MA-DG.xml
+	modified:   F01-21MA-E-10-SEP-DG.xml
+	modified:   F01-21MA-E-150-SEP-TOUCH.xml
+	modified:   F01-21MA-E-150-SEP.xml
+	deleted:    F01-21MA-E-8-SEP-DG.xml
+	modified:   F01-21MA-E-8-STD-DG.xml
+	modified:   F01-21MA-E-VGA.xml
+	modified:   F01-21MA-H-8-SEP-DG.xml
+	modified:   F01-21MA-H-DG.xml
+	modified:   F01-21MA-H-SEP-DG.xml
+	modified:   F01-21MA-H-VGA.xml
+	modified:   F01-21MA-SEP-DG.xml
+	modified:   F01-21MA-SEP-K-TOUCH.xml
+	modified:   F01-21MA104-SEP.xml
+	modified:   F01-21MA104I-SEP.xml
+	modified:   F01-21MA121-H-SEP.xml
+	modified:   F01-21MA121-SEP.xml
+	modified:   F01-21MA150-H-SEP-TOUCH.xml
+	modified:   F01-21MA150-H-SEP.xml
+	modified:   F01-21MA150-SEP.xml
+	modified:   F01-21TA-8-SEP-DG.xml
+	modified:   F01-21TA-DG.xml
+	modified:   F01-21TA-E-10-SEP-DG.xml
+	modified:   F01-21TA-E-8-SEP-DG.xml
+	modified:   F01-21TA-E-8-STD-DG.xml
+	modified:   REV.props
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 0da4611] 2019/04/15 13:52:46 by 10101255, Modified Products: F01-210MB-H5-SEP-DG,F01-210MB-H5-VGA,F01-210MB-H-SEP-DG,F01-210MB-H-VGA,F01-210TB-E-10-SEP-DG,F01-210TB-E5-10-SEP-DG,F01-210TB-E-8-SEP-DG,F01-210TB-E-8-STD-DG,F01-210TB-E-VGA,F01-210TB-H5-SEP-DG,F01-210TB-H-DG,F01-210TB-H-SEP-DG,F01-210TB-H-VGA,F01-21GA-E-10-SEP-DG,F01-21MA104I-SEP,F01-21MA104-SEP,F01-21MA121-H-SEP,F01-21MA121-SEP,F01-21MA150-H-SEP,F01-21MA150-H-SEP-TOUCH,F01-21MA150-SEP,F01-21MA-8-SEP-DG,F01-21MA-DG,F01-21MA-E-10-SEP-DG,F01-21MA-E-150-SEP,F01-21MA-E-150-SEP-TOUCH,F01-21MA-E-8-SEP-DG,F01-21MA-E-8-STD-DG,F01-21MA-E-VGA,F01-21MA-H-8-SEP-DG,F01-21MA-H-DG,F01-21MA-H-SEP-DG,F01-21MA-H-VGA,F01-21MA-SEP-DG,F01-21MA-SEP-K-TOUCH,F01-21TA-8-SEP-DG,F01-21TA-DG,F01-21TA-E-10-SEP-DG,F01-21TA-E-8-SEP-DG,F01-21TA-E-8-STD-DG
+ 41 files changed, 40 insertions(+), 41 deletions(-)
+ delete mode 100644 F01-21MA-E-8-SEP-DG.xml
+ rewrite F01-21MA-H-8-SEP-DG.xml (100%)
+ rewrite F01-21MA-H-DG.xml (100%)
+ rewrite F01-21MA-H-SEP-DG.xml (100%)
+ rewrite F01-21MA-H-VGA.xml (100%)
+ rewrite F01-21MA150-H-SEP-TOUCH.xml (100%)
+ rewrite F01-21MA150-H-SEP.xml (100%)
+To github.com:syntecautotest/OQCFileConfig.git
+   882f951..0da4611  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

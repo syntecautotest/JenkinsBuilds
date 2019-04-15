@@ -1,0 +1,25 @@
+Files that are found in folder Current_sdk but NOT in folder Previous_sdk :
+
+CNCSDK\lib\wce700arm\RobotMotUtility.lib
+CNCSDK\lib\wce700arm\RobotUtility.lib
+CNCSDK\lib\wce600\RobotMotUtility.lib
+CNCSDK\lib\wce600\RobotUtility.lib
+CNCSDK\inc\InterpolationInfo.h
+----------------------------------------------------------------------
+Files that are found in folder Previous_sdk but NOT in folder Current_sdk :
+
+CNCSDK\inc\FLRobotMoveJ.h
+CNCSDK\inc\FLRobotMoveL.h
+CNCSDK\inc\InterruptSignalManager.h
+CNCSDK\inc\IRobotFeedLimit.h
+CNCSDK\inc\IRobotMotionHandler.h
+CNCSDK\inc\IStdProcessFcn.h
+CNCSDK\inc\RobotDynamicsDef.h
+CNCSDK\inc\RobotInterpolationDef.h
+CNCSDK\inc\RobotInterpolator.h
+CNCSDK\inc\RobotIOFcnDef.h
+CNCSDK\inc\RobotMotion.h
+CNCSDK\inc\RobotMRPPool.h
+CNCSDK\inc\RobotMRPQueue.h
+CNCSDK\inc\RobotWaitSignalManager.h
+----------------------------------------------------------------------

@@ -1,0 +1,104 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins5127759997498248830.bat
+ID:10101438 Date:2019/04/15 15:45:28
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master d4c1214] 2019/04/15 15:45:28 by 10101438, Modified Products: F11-10C-80MI-S,F11-60PB-S,F11-60PC-S,F11-60PE-S,F11-8C-80MI-S,F11-HC10A-JY,F11-HC10A-K,F11-HC10A-S,F11-HC10A-S-FY,F11-HC10B-JY,F11-HC10B-K,F11-HC10B-S,F11-HC10C-S,F11-HC10C-S-5,F11-HC10C-S-NF,F11-HC10E-K,F11-HC10E-S,F11-HC15A-S,F11-HC15B-S,F11-HC15C-S,F11-HC15C-S-5,F11-HC15E-S,F11-HC8A-K,F11-HC8A-S,F11-HC8B-E,F11-HC8B-K,F11-HC8B-S,F11-HC8C-S,F11-HC8C-S-5,F11-HC8E-K,F11-HC8E-S,F11-HC8S-5E,F11-HC8S-S
+ 80 files changed, 1 deletion(-)
+ rename F01_21TA104I_SEP/Software/Test/Common/{package_b31fe201.zip => package_9d9174e5.zip} (99%)
+ rename F01_21TA104_SEP/Software/Test/Common/{package_b31fe201.zip => package_934a1eba.zip} (99%)
+ rename F01_21TA121_SEP/Software/Test/Common/{package_b31fe201.zip => package_3a2c7970.zip} (99%)
+ rename F01_21TA150_SEP/Software/Test/Common/{package_b31fe201.zip => package_5c0f71c8.zip} (99%)
+ rename F01_21TA_H_8_SEP_DG/Software/Test/Common/{package_d9f075e3.zip => package_8a979e3a.zip} (99%)
+ rename F01_21TA_H_DG/Software/Test/Common/{package_d9f075e3.zip => package_9f8a2784.zip} (99%)
+ rename F01_21TA_H_SEP_DG/Software/Test/Common/{package_d9f075e3.zip => package_eb6a4c6b.zip} (99%)
+ rename F01_21TB_8_SEP_DG/Software/Test/Common/{package_1702089e.zip => package_bd1c2214.zip} (99%)
+ rename F01_21TB_DG/Software/Test/Common/{package_1702089e.zip => package_b74235fd.zip} (99%)
+ delete mode 100644 F01_21TB_E_10_SEP_DG/Software/Test/Common/package_105a81f9.zip
+ create mode 100644 F01_21TB_E_10_SEP_DG/Software/Test/Common/package_d40c4f29.zip
+ delete mode 100644 F01_21TB_E_8_SEP_DG/Software/Test/Common/package_105a81f9.zip
+ create mode 100644 F01_21TB_E_8_SEP_DG/Software/Test/Common/package_c29bec18.zip
+ delete mode 100644 F01_21TB_E_8_STD_DG/Software/Test/Common/package_105a81f9.zip
+ create mode 100644 F01_21TB_E_8_STD_DG/Software/Test/Common/package_dfc72570.zip
+ rename F01_21TB_SEP_DG/Software/Test/Common/package_1702089e.zip => F01_21TB_H_8_SEP_DG/Software/Test/Common/package_1c2e043d.zip (99%)
+ delete mode 100644 F01_21TB_H_8_SEP_DG/Software/Test/Common/package_f94f118.zip
+ create mode 100644 F01_21TB_H_DG/Software/Test/Common/package_b5285cd5.zip
+ delete mode 100644 F01_21TB_H_DG/Software/Test/Common/package_f94f118.zip
+ create mode 100644 F01_21TB_H_SEP_DG/Software/Test/Common/package_9d75cf1c.zip
+ delete mode 100644 F01_21TB_H_SEP_DG/Software/Test/Common/package_f94f118.zip
+ create mode 100644 F01_21TB_SEP_DG/Software/Test/Common/package_fef7fd51.zip
+ rename F01_220MA_10_SEP_DG_S_T/Software/Test/Common/package_ed20e2db.zip => F01_220MA_10_SEP_DG/Software/Test/Common/package_4636c6ce.zip (99%)
+ rename F01_220MA_10_SEP_DG/Software/Test/Common/package_ed20e2db.zip => F01_220MA_10_SEP_DG_S/Software/Test/Common/package_6a6f5262.zip (99%)
+ rename F01_220MA_10_SEP_DG_S/Software/Test/Common/package_ed20e2db.zip => F01_220MA_10_SEP_DG_S_T/Software/Test/Common/package_833cc0e1.zip (99%)
+ rename F01_220MA_10_STD_DG/Software/Test/Common/{package_ed20e2db.zip => package_9652d329.zip} (99%)
+ delete mode 100644 F01_220MA_15E/Software/Test/Common/package_ed20e2db.zip
+ create mode 100644 F01_220MA_15E/Software/Test/Common/package_f267b74d.zip
+ create mode 100644 F01_220MA_15_SEP_DG_S/Software/Test/Common/package_ba39ea3c.zip
+ delete mode 100644 F01_220MA_15_SEP_DG_S/Software/Test/Common/package_ed20e2db.zip
+ create mode 100644 F01_220MA_15_SEP_DG_S_T/Software/Test/Common/package_74ebdc9b.zip
+ delete mode 100644 F01_220MA_15_SEP_DG_S_T/Software/Test/Common/package_ed20e2db.zip
+ create mode 100644 F01_220MA_5_10_SEP_DG/Software/Test/Common/package_d3712ee2.zip
+ delete mode 100644 F01_220MA_5_10_SEP_DG/Software/Test/Common/package_ed20e2db.zip
+ delete mode 100644 F01_220MA_5_10_SEP_DG_S/Software/Test/Common/package_cfa16ce8.zip
+ create mode 100644 F01_220MA_5_10_SEP_DG_S/Software/Test/Common/package_eda81780.zip
+ create mode 100644 F01_220MA_5_10_SEP_DG_S_T/Software/Test/Common/package_ae842f44.zip
+ delete mode 100644 F01_220MA_5_10_SEP_DG_S_T/Software/Test/Common/package_cfa16ce8.zip
+ create mode 100644 F01_220MA_5_10_STD_DG/Software/Test/Common/package_1c5a8d13.zip
+ delete mode 100644 F01_220MA_5_10_STD_DG/Software/Test/Common/package_cfa16ce8.zip
+ create mode 100644 F01_220MA_5_10_TOUCH_DG/Software/Test/Common/package_483a5f90.zip
+ delete mode 100644 F01_220MA_5_10_TOUCH_DG/Software/Test/Common/package_ed20e2db.zip
+ create mode 100644 F01_220MA_5_15E/Software/Test/Common/package_50af9fd4.zip
+ delete mode 100644 F01_220MA_5_15E/Software/Test/Common/package_cfa16ce8.zip
+ create mode 100644 F01_220MA_5_15_SEP_DG_S/Software/Test/Common/package_378873bd.zip
+ delete mode 100644 F01_220MA_5_15_SEP_DG_S/Software/Test/Common/package_ed20e2db.zip
+ create mode 100644 F01_220MA_5_15_SEP_DG_S_T/Software/Test/Common/package_e54093c.zip
+ delete mode 100644 F01_220MA_5_15_SEP_DG_S_T/Software/Test/Common/package_ed20e2db.zip
+ rename F01_220MB_10_SEP_DG/Software/Test/Common/{package_8e518173.zip => package_c71bb102.zip} (99%)
+ rename F01_220MB_10_STD_DG/Software/Test/Common/package_8e518173.zip => F01_220MB_10_SEP_DG_S/Software/Test/Common/package_f71a2f98.zip (99%)
+ rename F01_220MB_10_SEP_DG_S/Software/Test/Common/package_8e518173.zip => F01_220MB_10_SEP_DG_S_T/Software/Test/Common/package_62da1ecb.zip (99%)
+ create mode 100644 F01_220MB_10_STD_DG/Software/Test/Common/package_e90e447e.zip
+ create mode 100644 F01_220MB_15E/Software/Test/Common/package_25ee661e.zip
+ delete mode 100644 F01_220MB_15E/Software/Test/Common/package_8e518173.zip
+ delete mode 100644 F01_220MB_15_SEP_DG_S/Software/Test/Common/package_8e518173.zip
+ create mode 100644 F01_220MB_15_SEP_DG_S/Software/Test/Common/package_fea1558e.zip
+ delete mode 100644 F01_220MB_15_SEP_DG_S_T/Software/Test/Common/package_8e518173.zip
+ rename F01_220MB_10_SEP_DG_S_T/Software/Test/Common/package_8e518173.zip => F01_220MB_15_SEP_DG_S_T/Software/Test/Common/package_9c7f1ec0.zip (99%)
+ create mode 100644 F01_220MB_5_10_SEP_DG/Software/Test/Common/package_6ef4de9b.zip
+ delete mode 100644 F01_220MB_5_10_SEP_DG/Software/Test/Common/package_8e518173.zip
+ rename F11_HC10C_S_NF/Software/Test/Common/{package_2a6468d7.zip => package_ec294295.zip} (99%)
+ rename F11_HC10E_K/Software/Test/Common/{package_7f5d15a6.zip => package_a7c9a6bb.zip} (99%)
+ rename F11_HC10E_S/Software/Test/Common/{package_7f5d15a6.zip => package_687f5612.zip} (99%)
+ rename F11_HC15A_S/Software/Test/Common/{package_f6387882.zip => package_297757cd.zip} (99%)
+ rename F11_HC15B_S/Software/Test/Common/{package_40ad1831.zip => package_53042923.zip} (99%)
+ rename F11_HC15C_S/Software/Test/Common/{package_7d7c88fe.zip => package_c59588e8.zip} (99%)
+ rename F11_HC15C_S_5/Software/Test/Common/{package_bfdb3dab.zip => package_3307d224.zip} (99%)
+ rename F11_HC15E_S/Software/Test/Common/{package_e0add947.zip => package_969dbd70.zip} (99%)
+ rename F11_HC8A_K/Software/Test/Common/{package_8ef3fcc3.zip => package_82051b10.zip} (99%)
+ rename F11_HC8A_S/Software/Test/Common/{package_8ef3fcc3.zip => package_d92aecc.zip} (99%)
+ rename F11_HC8B_K/Software/Test/Common/package_720cad28.zip => F11_HC8B_E/Software/Test/Common/package_46ac477c.zip (99%)
+ rename F11_HC8B_S/Software/Test/Common/package_720cad28.zip => F11_HC8B_K/Software/Test/Common/package_6166ac56.zip (99%)
+ rename F11_HC8B_E/Software/Test/Common/package_720cad28.zip => F11_HC8B_S/Software/Test/Common/package_9831069e.zip (99%)
+ rename F11_HC8C_S/Software/Test/Common/{package_1a132ef0.zip => package_25602648.zip} (99%)
+ rename F11_HC8C_S_5/Software/Test/Common/{package_9122f45f.zip => package_d7ae21b.zip} (99%)
+ rename F11_HC8E_S/Software/Test/Common/package_38768c7.zip => F11_HC8E_K/Software/Test/Common/package_d4ea81af.zip (99%)
+ rename F11_HC8E_K/Software/Test/Common/package_38768c7.zip => F11_HC8E_S/Software/Test/Common/package_820d6cb5.zip (99%)
+ rename F11_HC8S_5E/Software/Test/Common/{package_b75d6acc.zip => package_81d634b8.zip} (99%)
+ rename F11_HC8S_S/Software/Test/Common/{package_b75d6acc.zip => package_e0080a6e.zip} (99%)
+ delete mode 100644 LOCK
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   5411f84..d4c1214  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

@@ -1,0 +1,11 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins369071069676994104.bat
+Product: F01-6MD-H-8-SEP-DG
+<FileConfig ProductName="F01-6MD-H-8-SEP-DG" PackageHead="6D-HMillCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="AM335x"><Version>7.60.0</Version><Name>WCE7_AM335x_7.60.0.bin</Name><Hash>2ae106883481d82bb36c995de954960a</Hash><URL>http://www.syntecclub.com.tw/cncrel/7.60.0/ARMCE7_Image/WCE7_AM335x_7.60.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.56B</Version><Name>package_9bc6233e.zip</Name><Hash>e42b7f81a71f1459db761c1c52ba2ebe</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_6MD_H_8_SEP_DG/Software/Test/Common/package_9bc6233e.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.56B</Version><Name>Test.zip</Name><Hash>353862ca3fea4a1f61fb2169be3db7bf</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.56B</Version><Name>package_f8b3eaa6.zip</Name><Hash>1227c5f2c014a83ef22b54380faaab22</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_6MD_H_8_SEP_DG/Software/Delivery/Common/package_f8b3eaa6.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.56B</Version><Name>Delivery.zip</Name><Hash>56ec2471a849d319fa403e4c379e0275</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

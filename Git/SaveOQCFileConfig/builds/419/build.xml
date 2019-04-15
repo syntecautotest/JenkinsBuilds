@@ -1,0 +1,120 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters class="java.util.Arrays$ArrayList">
+        <a class="hudson.model.ParameterValue-array">
+          <hudson.model.StringParameterValue>
+            <name>ModifyID</name>
+            <description></description>
+            <value>10101255</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>ModifyDate</name>
+            <description></description>
+            <value>2019/04/15 13:52:46</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>ConfigGitDir</name>
+            <description></description>
+            <value>D:\OQCFileConfig</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>ConfigGitRemote</name>
+            <description></description>
+            <value>git@github.com:syntecautotest/OQCFileConfig.git</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>Message</name>
+            <description></description>
+            <value>Modified Products: F01-210MB-H5-SEP-DG,F01-210MB-H5-VGA,F01-210MB-H-SEP-DG,F01-210MB-H-VGA,F01-210TB-E-10-SEP-DG,F01-210TB-E5-10-SEP-DG,F01-210TB-E-8-SEP-DG,F01-210TB-E-8-STD-DG,F01-210TB-E-VGA,F01-210TB-H5-SEP-DG,F01-210TB-H-DG,F01-210TB-H-SEP-DG,F01-210TB-H-VGA,F01-21GA-E-10-SEP-DG,F01-21MA104I-SEP,F01-21MA104-SEP,F01-21MA121-H-SEP,F01-21MA121-SEP,F01-21MA150-H-SEP,F01-21MA150-H-SEP-TOUCH,F01-21MA150-SEP,F01-21MA-8-SEP-DG,F01-21MA-DG,F01-21MA-E-10-SEP-DG,F01-21MA-E-150-SEP,F01-21MA-E-150-SEP-TOUCH,F01-21MA-E-8-SEP-DG,F01-21MA-E-8-STD-DG,F01-21MA-E-VGA,F01-21MA-H-8-SEP-DG,F01-21MA-H-DG,F01-21MA-H-SEP-DG,F01-21MA-H-VGA,F01-21MA-SEP-DG,F01-21MA-SEP-K-TOUCH,F01-21TA-8-SEP-DG,F01-21TA-DG,F01-21TA-E-10-SEP-DG,F01-21TA-E-8-SEP-DG,F01-21TA-E-8-STD-DG</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>FileGitDir</name>
+            <description></description>
+            <value>\\file\cncrel\qcrel\oqcdb</value>
+          </hudson.model.StringParameterValue>
+          <hudson.model.StringParameterValue>
+            <name>FileGitRemote</name>
+            <description></description>
+            <value>git@github.com:syntecautotest/OQCDB.git</value>
+          </hudson.model.StringParameterValue>
+        </a>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <hudson.model.StringParameterDefinition>
+              <name>ModifyID</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>ModifyDate</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>ConfigGitDir</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>ConfigGitRemote</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>Message</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UpstreamCause>
+            <upstreamProject>Git/SaveOQCDB</upstreamProject>
+            <upstreamUrl>job/Git/job/SaveOQCDB/</upstreamUrl>
+            <upstreamBuild>431</upstreamBuild>
+            <upstreamCauses>
+              <hudson.model.Cause_-UserIdCause>
+                <userId>remotetrigger</userId>
+              </hudson.model.Cause_-UserIdCause>
+            </upstreamCauses>
+          </hudson.model.Cause_-UpstreamCause>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>5127</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.model.Cause$UpstreamCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.model.Cause_-UpstreamCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9"/>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+  </actions>
+  <queueId>7135</queueId>
+  <timestamp>1555311909219</timestamp>
+  <startTime>1555311909220</startTime>
+  <result>SUCCESS</result>
+  <duration>11588</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

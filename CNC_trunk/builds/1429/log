@@ -1,0 +1,1177 @@
+¥Ñ SCM ÅÜ§ó©Ò±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b [8mha:////4I+xUYJ3WUEc9pQ+bqL3PHA0V30gAGjhnSsafy0q0bsnAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/cj8xLzE+IiA+DBfAJGSfgXKAAAA[0mYoana_XP_VM ¤W»·ºİ«Ø¸m (BM) ¤u§@°Ï D:\Jenkins\workspace\CNC_trunk
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\Jenkins\workspace\CNC_trunk\.
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\OCTest\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\OCTest\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\OCTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Utility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Utility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Utility\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Operation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Operation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Operation\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Common\Data\BgndAlarmMsgChi.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Common\Data\AlarmMsgEng.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Common\Data\BgndAlarmMsgEng.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Common\Data\AlarmMsgChi.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\HC\Data\AlarmMsgChi.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\HC\Data\AlarmMsgEng.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\108_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\107_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\118_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\106_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\117_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\226_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\116_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\227_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\119_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\151_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\152_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\121_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\111_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\101_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\122_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\176_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\123_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\177_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\226_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\151_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\227_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\124_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\121_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\117_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\106_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\101_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\107_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\116_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\118_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\123_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\108_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\119_rbpmeng.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\124_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\152_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\177_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\176_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\122_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Robot\Data\111_rbpmchi.pxt
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\DllPhysicalDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\DllPhysicalDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\DllPhysicalDriver\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CANDeviceDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CANDeviceDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CANDeviceDriver\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciServo60\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciNull\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciNull\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciNull\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SerialParam\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SerialParam\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SerialParam\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\RTCommDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\RTCommDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\RTCommDriver\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CNC2ASIC\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CNC2ASIC\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioEpcio\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioEpcio\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciM3\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciM2\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciM2\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioPio2\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioPio2\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SvoUtility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SvoUtility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SvoUtility\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\BuildAll\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\BuildAll\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioCNC2PIO\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioCNC2PIO\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciNetServo\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciNetServo\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\RFDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\RFDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\IODriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\IODriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\IODriver\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciServo5\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciServo5\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\DeviceAlarm\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\DeviceAlarm\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciRTEX\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciRTEX\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SriDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\SriDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\PhysicalDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\PhysicalDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\PhysicalDriver\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\Mci30GM\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\Mci30GM\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoDriver\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoDriver\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoDriver\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciEpcio\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\MciEpcio\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoLink\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoLink\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoLink\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoTuning\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoTuning\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\ServoTuning\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CANObjectDictionary\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CANObjectDictionary\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CANObjectDictionary\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioNull\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioNull\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCDevice\Source\CioNull\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\TPDSDK
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\EnIPModule\WCE600_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\EnIPModule\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\EnIPModule\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\SerialPLCAxis\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\SerialPLCAxis\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\SerialPLCAxis\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\Rot\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\Rot\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\Rot\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\wce600_release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\release
+Deleting D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis\Source\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\diskc
+Deleting D:\Jenkins\workspace\CNC_trunk\Build\error
+Deleting D:\Jenkins\workspace\CNC_trunk\Build\Packing
+Deleting D:\Jenkins\workspace\CNC_trunk\Build\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\release
+Deleting D:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\GMock\LaserCtrlTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\LadDLL\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\FFTransform\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\FFTransform\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\FFTransform\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\FFTransform\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCNet\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCNet\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCNet\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\x64
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Operation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Operation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Operation\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Comm\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Comm\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Comm\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\x64
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DebugLib\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Utility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Utility\x64
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Utility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Utility\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Utility\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NcLoader\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NcLoader\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NcLoader\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KePLC\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KePLC\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KePLC\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KePLC\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KePLC\x64
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\XSignal\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\XSignal\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\XSignal\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ProductInfo\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ProductInfo\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ProductInfo\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PathPlan\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PathPlan\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PathPlan\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DataLog\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DataLog\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DataLog\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\LAPACK\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\LAPACK\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\LAPACK\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\TPDAPI\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\TPDAPI\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\TPDAPI\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCDevice\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCDevice\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCDevice\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Interpolation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Interpolation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Interpolation\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ToolTable\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ToolTable\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ToolTable\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\x64
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\x64
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\OCKrnl\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\OCKrnl\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\OCKrnl\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\MotUtilityTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\DataLogTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\ProductInfoTest\ProductOutput.txt
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\ProductInfoTest\UTTimeOutput.txt
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\ProductInfoTest\CurrentData2.txt
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\ProductInfoTest\CurrentData.txt
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\ProductInfoTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\InterpolationTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\OperationTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\KinematicTransformTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\UtilityTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\PathPlanTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\MotionPlanTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\EnIP\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\EnIP\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\EnIP\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\EnIP\WCE600_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\debug
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\wce600_release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\Preprocessor\Source\PREP\ReleaseWinCE70_ARM
+Deleting D:\Jenkins\workspace\CNC_trunk\Preprocessor\Source\PREP\ReleaseWinCE60
+Deleting D:\Jenkins\workspace\CNC_trunk\Preprocessor\Source\PREP\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\GMock\Source\Debug
+Deleting D:\Jenkins\workspace\CNC_trunk\GMock\Source\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCSDK
+Updating http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk at revision '2019-04-15T14:18:34.973 +0800'
+U         Build\Release_utf8.txt
+U         OCKrnl\Build\SyncHeader.bat
+D         OCKrnl\Source\MotUtility\RobotWaitSignalManager.cpp
+D         OCKrnl\Source\MotUtility\InterruptSignalManager.h
+D         OCKrnl\Source\MotUtility\FLRobotMoveJ.h
+D         OCKrnl\Source\MotUtility\RobotIOFcnDef.h
+D         OCKrnl\Source\MotUtility\RobotInterpolator.h
+D         OCKrnl\Source\MotUtility\RobotMRPPool.cpp
+D         OCKrnl\Source\MotUtility\IRobotFeedLimit.h
+D         OCKrnl\Source\MotUtility\RobotMotionDef.h
+D         OCKrnl\Source\MotUtility\RobotMRPPool.h
+D         OCKrnl\Source\MotUtility\RobotMRPQueue.cpp
+D         OCKrnl\Source\MotUtility\RobotMotion.h
+D         OCKrnl\Source\MotUtility\FLRobotMoveJ.cpp
+D         OCKrnl\Source\MotUtility\FLRobotMoveL.cpp
+D         OCKrnl\Source\MotUtility\RobotMotion.cpp
+D         OCKrnl\Source\MotUtility\RobotInterpolator.cpp
+D         OCKrnl\Source\MotUtility\FLRobotMoveL.h
+D         OCKrnl\Source\MotUtility\InterruptSignalManager.cpp
+D         OCKrnl\Source\MotUtility\IRobotMotionHandler.h
+D         OCKrnl\Source\MotUtility\IStdProcessFcn.h
+D         OCKrnl\Source\MotUtility\RobotWaitSignalManager.h
+D         OCKrnl\Source\MotUtility\RobotMRPQueue.h
+D         OCKrnl\Source\MotUtility\RobotInterpolationDef.h
+U         OCKrnl\Source\MotUtility\OneBlockInterpolator.cpp
+U         OCKrnl\Source\MotUtility\MotUtility_WinCE_ARM.vcproj
+U         OCKrnl\Source\MotUtility\MotUtility_WinCE.vcproj
+U         OCKrnl\Source\MotUtility\_MotUtility.h
+U         OCKrnl\Source\MotUtility\MotUtility.vcproj
+U         OCKrnl\Source\MotUtility\MotionPlanDef.h
+A         OCKrnl\Source\RobotMotUtility
+AU        OCKrnl\Source\RobotMotUtility\RobotMRPPool.h
+AU        OCKrnl\Source\RobotMotUtility\IRobotStdProcessFcn.h
+AU        OCKrnl\Source\RobotMotUtility\FLRobotMoveJ.cpp
+AU        OCKrnl\Source\RobotMotUtility\RobotMRPQueue.cpp
+A         OCKrnl\Source\RobotMotUtility\RobotMotUtility.vcproj
+AU        OCKrnl\Source\RobotMotUtility\FLRobotMoveL.cpp
+AU        OCKrnl\Source\RobotMotUtility\RobotMotion.cpp
+AU        OCKrnl\Source\RobotMotUtility\FLRobotMoveJ.h
+AU        OCKrnl\Source\RobotMotUtility\RobotMRPQueue.h
+AU        OCKrnl\Source\RobotMotUtility\FLRobotMoveL.h
+AU        OCKrnl\Source\RobotMotUtility\RobotMotion.h
+AU        OCKrnl\Source\RobotMotUtility\RobotInterpolationDef.h
+AU        OCKrnl\Source\RobotMotUtility\IRobotFeedLimit.h
+AU        OCKrnl\Source\RobotMotUtility\IRobotMotionHandler.h
+AU        OCKrnl\Source\RobotMotUtility\RobotIOFcnDef.h
+AU        OCKrnl\Source\RobotMotUtility\RobotInterpolator.cpp
+A         OCKrnl\Source\RobotMotUtility\stdafx.cpp
+A         OCKrnl\Source\RobotMotUtility\ReadMe.txt
+AU        OCKrnl\Source\RobotMotUtility\RobotInterpolator.h
+AU        OCKrnl\Source\RobotMotUtility\RobotMRPPool.cpp
+A         OCKrnl\Source\RobotMotUtility\RobotMotUtility_WinCE_ARM.vcproj
+A         OCKrnl\Source\RobotMotUtility\stdafx.h
+A         OCKrnl\Source\RobotMotUtility\RobotMotUtility_WinCE.vcproj
+AU        OCKrnl\Source\RobotMotUtility\RobotMotionDef.h
+D         OCKrnl\Source\KinematicTransformation\RobotV1L2A.h
+D         OCKrnl\Source\KinematicTransformation\RobotV3L0A.h
+D         OCKrnl\Source\KinematicTransformation\RobotKinematics.h
+D         OCKrnl\Source\KinematicTransformation\RobotV4L1A.h
+D         OCKrnl\Source\KinematicTransformation\RobotSixAxis.h
+D         OCKrnl\Source\KinematicTransformation\AdditionalAx.h
+D         OCKrnl\Source\KinematicTransformation\RobotDeltaTypeA.h
+D         OCKrnl\Source\KinematicTransformation\RobotFourAxisTypeA.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotFourAxisTypeB.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotH4L1A.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotH2L2A.h
+D         OCKrnl\Source\KinematicTransformation\RobotV1L2A.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotV3L0A.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotKinematics.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotV4L1A.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotToolCalibration.h
+D         OCKrnl\Source\KinematicTransformation\AdditionalAx.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotPaintSixAxisTypeA.h
+D         OCKrnl\Source\KinematicTransformation\RobotScara.h
+D         OCKrnl\Source\KinematicTransformation\RobotFourAxisTypeB.h
+D         OCKrnl\Source\KinematicTransformation\RobotToolCalibration.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotFiveAxisTypeA.h
+D         OCKrnl\Source\KinematicTransformation\RobotPaintSixAxisTypeA.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotHighPayloadPalletizerTypeA.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotScara.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotHighPayloadSixAxis.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotDeltaTypeB.h
+D         OCKrnl\Source\KinematicTransformation\RobotH2L2B.h
+D         OCKrnl\Source\KinematicTransformation\RobotPalletizerTypeA.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotFiveAxisTypeA.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotSixAxis.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotDeltaTypeA.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotHighPayloadPalletizerTypeA.h
+D         OCKrnl\Source\KinematicTransformation\RobotDeltaTypeB.cpp
+D         OCKrnl\Source\KinematicTransformation\IRobotKinematics.h
+D         OCKrnl\Source\KinematicTransformation\RobotHighPayloadSixAxis.h
+D         OCKrnl\Source\KinematicTransformation\RobotH2L2A.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotFourAxisTypeA.h
+D         OCKrnl\Source\KinematicTransformation\RobotH2L2B.cpp
+D         OCKrnl\Source\KinematicTransformation\RobotH4L1A.h
+D         OCKrnl\Source\KinematicTransformation\RobotPalletizerTypeA.h
+U         OCKrnl\Source\KinematicTransformation\KinematicTransformation_WinCE_ARM.vcproj
+U         OCKrnl\Source\KinematicTransformation\KinematicTransformation_WinCE.vcproj
+U         OCKrnl\Source\KinematicTransformation\_KinematicTransform.h
+U         OCKrnl\Source\KinematicTransformation\KinematicsDef.h
+U         OCKrnl\Source\KinematicTransformation\KinematicTransformation.vcproj
+U         OCKrnl\Source\KinematicTransformation\_RTCPKinematicUtility.h
+U         OCKrnl\Source\KinematicTransformation\TriplePRSType.h
+D         OCKrnl\Source\Operation\RobotDrawer.cpp
+D         OCKrnl\Source\Operation\RobotPLCPanel.cpp
+D         OCKrnl\Source\Operation\RobotDrawer.h
+D         OCKrnl\Source\Operation\RobotCoordStateDef.h
+D         OCKrnl\Source\Operation\RobotSimulator.h
+D         OCKrnl\Source\Operation\RobotPLCPanel.h
+D         OCKrnl\Source\Operation\RobotSimulator.cpp
+U         OCKrnl\Source\Operation\OpPLCPanel.cpp
+U         OCKrnl\Source\Operation\Operation_WinCE_ARM.vcproj
+U         OCKrnl\Source\Operation\DumpDbg.cpp
+U         OCKrnl\Source\Operation\Operation.vcproj
+U         OCKrnl\Source\Operation\Operation_WinCE.vcproj
+U         OCKrnl\Source\GMock\KinematicTransformTest\KinematicTransformationTest.vcproj
+U         OCKrnl\Source\GMock\MotionPlanTest\MotionPlanTest.vcproj
+U         OCKrnl\Source\GMock\OperationTest\OperationTest.vcproj
+U         OCKrnl\Source\GMock\MotUtilityTest\MotUtilityTest.vcproj
+U         OCKrnl\Source\GMock\UtilityTest\UtilityTest.vcproj
+U         OCKrnl\Source\GMock\InterpolationTest\InterpolationTest.vcproj
+U         OCKrnl\Source\GMock\PathPlanTest\PathPlanTest.vcproj
+U         OCKrnl\Source\GMock\DataLogTest\DataLogTest.vcproj
+U         OCKrnl\Source\GMock\ProductInfoTest\ProductInfoTest.vcproj
+A         OCKrnl\Source\RobotOperation
+A         OCKrnl\Source\RobotOperation\stdafx.cpp
+AU        OCKrnl\Source\RobotOperation\RobotDrawer.cpp
+A         OCKrnl\Source\RobotOperation\ReadMe.txt
+AU        OCKrnl\Source\RobotOperation\RobotSimulator.h
+AU        OCKrnl\Source\RobotOperation\RobotCoordinate.cpp
+A         OCKrnl\Source\RobotOperation\stdafx.h
+AU        OCKrnl\Source\RobotOperation\RobotIOFcnManager.cpp
+AU        OCKrnl\Source\RobotOperation\RobotDrawer.h
+AU        OCKrnl\Source\RobotOperation\RobotCoordStateDef.h
+AU        OCKrnl\Source\RobotOperation\RobotCoordinate.h
+AU        OCKrnl\Source\RobotOperation\RobotParamSync.cpp
+AU        OCKrnl\Source\RobotOperation\RobotIOFcnManager.h
+AU        OCKrnl\Source\RobotOperation\RobotPLCPanel.cpp
+AU        OCKrnl\Source\RobotOperation\RobotCSManager.cpp
+AU        OCKrnl\Source\RobotOperation\RobotParamSync.h
+AU        OCKrnl\Source\RobotOperation\RobotPLCPanel.h
+AU        OCKrnl\Source\RobotOperation\RobotCSManager.h
+A         OCKrnl\Source\RobotOperation\RobotOperation_WinCE_ARM.vcproj
+A         OCKrnl\Source\RobotOperation\RobotOperation_WinCE.vcproj
+AU        OCKrnl\Source\RobotOperation\RobotSimulator.cpp
+AU        OCKrnl\Source\RobotOperation\RobotAlarmDef.h
+A         OCKrnl\Source\RobotOperation\RobotOperation.vcproj
+D         OCKrnl\Source\MotionPlan\RobotDynamics.h
+D         OCKrnl\Source\MotionPlan\IOFcnManager.cpp
+D         OCKrnl\Source\MotionPlan\RobotWeaving.cpp
+D         OCKrnl\Source\MotionPlan\RobotCoordTransform.cpp
+D         OCKrnl\Source\MotionPlan\RobotStrokeLimit.cpp
+D         OCKrnl\Source\MotionPlan\ConveyorTrackingManager.cpp
+D         OCKrnl\Source\MotionPlan\QuaternionConverter.h
+D         OCKrnl\Source\MotionPlan\IRobotDynamics.h
+D         OCKrnl\Source\MotionPlan\RobotMotionPlanner.h
+D         OCKrnl\Source\MotionPlan\RobotInterpolation.h
+D         OCKrnl\Source\MotionPlan\RobotCoordLoader.h
+D         OCKrnl\Source\MotionPlan\RobotWeaving.h
+D         OCKrnl\Source\MotionPlan\RobotUnitConverter.cpp
+D         OCKrnl\Source\MotionPlan\ConveyorTrackingManager.h
+D         OCKrnl\Source\MotionPlan\RobotMotionPlanner.cpp
+D         OCKrnl\Source\MotionPlan\RobotDynamicsLearning.h
+D         OCKrnl\Source\MotionPlan\RobotCoordLoader.cpp
+D         OCKrnl\Source\MotionPlan\CoordinateCalibration.h
+D         OCKrnl\Source\MotionPlan\RobotDirectTeachingTRQ.cpp
+D         OCKrnl\Source\MotionPlan\RobotSyncOut.cpp
+D         OCKrnl\Source\MotionPlan\RobotExecutive.h
+D         OCKrnl\Source\MotionPlan\RobotMoveL.h
+D         OCKrnl\Source\MotionPlan\IOFcnManager.h
+D         OCKrnl\Source\MotionPlan\CoordinateCalibration.cpp
+D         OCKrnl\Source\MotionPlan\RobotTrajectoryBlending.h
+D         OCKrnl\Source\MotionPlan\RobotDirectTeachingPOS.cpp
+D         OCKrnl\Source\MotionPlan\RobotExecutive.cpp
+D         OCKrnl\Source\MotionPlan\RobotDirectTeachingTRQ.h
+D         OCKrnl\Source\MotionPlan\RobotSyncOut.h
+D         OCKrnl\Source\MotionPlan\RobotTrajectoryBlending.cpp
+D         OCKrnl\Source\MotionPlan\RobotStitching.cpp
+D         OCKrnl\Source\MotionPlan\RobotDynamics.cpp
+D         OCKrnl\Source\MotionPlan\RobotUnitConverter.h
+D         OCKrnl\Source\MotionPlan\ConveyorTracking.h
+D         OCKrnl\Source\MotionPlan\RobotDynamicsDef.h
+D         OCKrnl\Source\MotionPlan\RobotCSManager.cpp
+D         OCKrnl\Source\MotionPlan\RobotStitching.h
+D         OCKrnl\Source\MotionPlan\QuaternionConverter.cpp
+D         OCKrnl\Source\MotionPlan\RobotCoordTransform.h
+D         OCKrnl\Source\MotionPlan\RobotStrokeLimit.h
+D         OCKrnl\Source\MotionPlan\ProtectionZone.cpp
+D         OCKrnl\Source\MotionPlan\RobotMoveJ.cpp
+D         OCKrnl\Source\MotionPlan\ConveyorTracking.cpp
+D         OCKrnl\Source\MotionPlan\RobotMoveL.cpp
+D         OCKrnl\Source\MotionPlan\RobotSCARADynamics.h
+D         OCKrnl\Source\MotionPlan\RobotInterpolation.cpp
+D         OCKrnl\Source\MotionPlan\RobotDirectTeachingPOS.h
+D         OCKrnl\Source\MotionPlan\RobotCSManager.h
+D         OCKrnl\Source\MotionPlan\ProtectionZone.h
+D         OCKrnl\Source\MotionPlan\RobotSCARADynamics.cpp
+D         OCKrnl\Source\MotionPlan\RobotMoveJ.h
+D         OCKrnl\Source\MotionPlan\RobotDynamicsLearning.cpp
+U         OCKrnl\Source\MotionPlan\MotionPlan.vcproj
+U         OCKrnl\Source\MotionPlan\MotionPlan_WinCE.vcproj
+U         OCKrnl\Source\MotionPlan\MotionPlan_WinCE_ARM.vcproj
+U         OCKrnl\Source\OCKrnl.sln
+A         OCKrnl\Source\RobotMotionPlan
+A         OCKrnl\Source\RobotMotionPlan\RobotMotionPlan.vcproj
+AU        OCKrnl\Source\RobotMotionPlan\RobotDirectTeachingPOS.h
+AU        OCKrnl\Source\RobotMotionPlan\RobotDirectTeachingTRQ.cpp
+AU        OCKrnl\Source\RobotMotionPlan\RobotDirectTeachingTRQ.h
+AU        OCKrnl\Source\RobotMotionPlan\RobotMoveJ.cpp
+AU        OCKrnl\Source\RobotMotionPlan\RobotMoveL.cpp
+A         OCKrnl\Source\RobotMotionPlan\stdafx.cpp
+A         OCKrnl\Source\RobotMotionPlan\ReadMe.txt
+AU        OCKrnl\Source\RobotMotionPlan\RobotMoveJ.h
+AU        OCKrnl\Source\RobotMotionPlan\RobotMotionPlanner.cpp
+A         OCKrnl\Source\RobotMotionPlan\RobotMotionPlan_WinCE_ARM.vcproj
+A         OCKrnl\Source\RobotMotionPlan\RobotMotionPlan_WinCE.vcproj
+AU        OCKrnl\Source\RobotMotionPlan\RobotInterpolation.cpp
+AU        OCKrnl\Source\RobotMotionPlan\RobotConveyorTracking.cpp
+AU        OCKrnl\Source\RobotMotionPlan\RobotMoveL.h
+A         OCKrnl\Source\RobotMotionPlan\stdafx.h
+AU        OCKrnl\Source\RobotMotionPlan\RobotTrajectoryBlending.cpp
+AU        OCKrnl\Source\RobotMotionPlan\RobotMotionPlanner.h
+AU        OCKrnl\Source\RobotMotionPlan\RobotConveyorTracking.h
+AU        OCKrnl\Source\RobotMotionPlan\RobotInterpolation.h
+AU        OCKrnl\Source\RobotMotionPlan\RobotTrajectoryBlending.h
+AU        OCKrnl\Source\RobotMotionPlan\RobotDirectTeachingPOS.cpp
+A         OCKrnl\Source\RobotKinematics
+A         OCKrnl\Source\RobotKinematics\_RobotKinematics.h
+AU        OCKrnl\Source\RobotKinematics\RobotDeltaTypeA.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotV4L1A.h
+AU        OCKrnl\Source\RobotKinematics\RobotHighPayloadPalletizerTypeA.h
+AU        OCKrnl\Source\RobotKinematics\RobotDeltaTypeB.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotSixAxis.h
+AU        OCKrnl\Source\RobotKinematics\RobotAdditionalAx.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotFourAxisTypeA.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotFourAxisTypeB.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotHighPayloadSixAxis.h
+A         OCKrnl\Source\RobotKinematics\RobotKinematics.vcproj
+AU        OCKrnl\Source\RobotKinematics\RobotH4L1A.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotH2L2A.h
+AU        OCKrnl\Source\RobotKinematics\RobotH2L2B.h
+AU        OCKrnl\Source\RobotKinematics\RobotPalletizerTypeA.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotFiveAxisTypeA.cpp
+A         OCKrnl\Source\RobotKinematics\stdafx.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotV1L2A.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotV3L0A.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotV4L1A.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotHighPayloadPalletizerTypeA.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotSixAxis.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotPaintSixAxisTypeA.h
+A         OCKrnl\Source\RobotKinematics\RobotKinematics_WinCE_ARM.vcproj
+AU        OCKrnl\Source\RobotKinematics\RobotKinematics.h
+A         OCKrnl\Source\RobotKinematics\RobotKinematics_WinCE.vcproj
+AU        OCKrnl\Source\RobotKinematics\RobotScara.h
+AU        OCKrnl\Source\RobotKinematics\RobotDeltaTypeA.h
+AU        OCKrnl\Source\RobotKinematics\RobotHighPayloadSixAxis.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotDeltaTypeB.h
+AU        OCKrnl\Source\RobotKinematics\IRobotKinematics.h
+AU        OCKrnl\Source\RobotKinematics\RobotAdditionalAx.h
+AU        OCKrnl\Source\RobotKinematics\RobotH2L2A.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotFourAxisTypeA.h
+AU        OCKrnl\Source\RobotKinematics\RobotFourAxisTypeB.h
+AU        OCKrnl\Source\RobotKinematics\RobotH2L2B.cpp
+A         OCKrnl\Source\RobotKinematics\RobotKinematicsDef.h
+AU        OCKrnl\Source\RobotKinematics\RobotH4L1A.h
+AU        OCKrnl\Source\RobotKinematics\RobotPalletizerTypeA.h
+A         OCKrnl\Source\RobotKinematics\ReadMe.txt
+AU        OCKrnl\Source\RobotKinematics\RobotFiveAxisTypeA.h
+AU        OCKrnl\Source\RobotKinematics\RobotKinematics.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotPaintSixAxisTypeA.cpp
+A         OCKrnl\Source\RobotKinematics\stdafx.h
+AU        OCKrnl\Source\RobotKinematics\RobotScara.cpp
+AU        OCKrnl\Source\RobotKinematics\RobotV3L0A.h
+AU        OCKrnl\Source\RobotKinematics\RobotV1L2A.h
+D         OCKrnl\Source\PathPlan\RobotToolLoader.cpp
+D         OCKrnl\Source\PathPlan\RobotToolManager.cpp
+D         OCKrnl\Source\PathPlan\RobotToolLoader.h
+D         OCKrnl\Source\PathPlan\RobotToolManager.h
+D         OCKrnl\Source\PathPlan\RobotParamSync.h
+D         OCKrnl\Source\PathPlan\RobotAlarmDef.h
+D         OCKrnl\Source\PathPlan\RobotCoordinate.h
+D         OCKrnl\Source\PathPlan\RobotParamSync.cpp
+D         OCKrnl\Source\PathPlan\RobotCoordinate.cpp
+U         OCKrnl\Source\PathPlan\PathPlan.vcproj
+U         OCKrnl\Source\PathPlan\MacroCore.cpp
+U         OCKrnl\Source\PathPlan\PathPlan_WinCE_ARM.vcproj
+U         OCKrnl\Source\PathPlan\PathPlan_WinCE.vcproj
+A         OCKrnl\Source\RobotApplication
+AU        OCKrnl\Source\RobotApplication\RobotConveyorTrackingManager.cpp
+A         OCKrnl\Source\RobotApplication\ReadMe.txt
+AU        OCKrnl\Source\RobotApplication\RobotToolCalibration.cpp
+AU        OCKrnl\Source\RobotApplication\RobotDynamicsLearning.cpp
+AU        OCKrnl\Source\RobotApplication\RobotProtectionZone.h
+A         OCKrnl\Source\RobotApplication\stdafx.h
+AU        OCKrnl\Source\RobotApplication\RobotInterruptSignalManager.h
+AU        OCKrnl\Source\RobotApplication\RobotWaitSignalManager.cpp
+AU        OCKrnl\Source\RobotApplication\RobotStitching.h
+AU        OCKrnl\Source\RobotApplication\RobotCoordLoader.h
+AU        OCKrnl\Source\RobotApplication\RobotToolLoader.cpp
+AU        OCKrnl\Source\RobotApplication\RobotWeaving.h
+AU        OCKrnl\Source\RobotApplication\RobotCoordTransform.h
+AU        OCKrnl\Source\RobotApplication\RobotToolManager.cpp
+AU        OCKrnl\Source\RobotApplication\RobotSyncOut.h
+AU        OCKrnl\Source\RobotApplication\RobotStrokeLimit.h
+AU        OCKrnl\Source\RobotApplication\RobotProtectionZone.cpp
+A         OCKrnl\Source\RobotApplication\stdafx.cpp
+A         OCKrnl\Source\RobotApplication\RobotApplication.vcproj
+AU        OCKrnl\Source\RobotApplication\RobotInterruptSignalManager.cpp
+AU        OCKrnl\Source\RobotApplication\RobotConveyorTrackingManager.h
+AU        OCKrnl\Source\RobotApplication\RobotToolCalibration.h
+AU        OCKrnl\Source\RobotApplication\RobotDynamicsLearning.h
+AU        OCKrnl\Source\RobotApplication\RobotStitching.cpp
+AU        OCKrnl\Source\RobotApplication\RobotCoordLoader.cpp
+AU        OCKrnl\Source\RobotApplication\RobotWeaving.cpp
+AU        OCKrnl\Source\RobotApplication\RobotCoordTransform.cpp
+AU        OCKrnl\Source\RobotApplication\RobotWaitSignalManager.h
+AU        OCKrnl\Source\RobotApplication\RobotSyncOut.cpp
+AU        OCKrnl\Source\RobotApplication\RobotStrokeLimit.cpp
+A         OCKrnl\Source\RobotApplication\RobotApplication_WinCE_ARM.vcproj
+AU        OCKrnl\Source\RobotApplication\RobotToolLoader.h
+A         OCKrnl\Source\RobotApplication\RobotApplication_WinCE.vcproj
+AU        OCKrnl\Source\RobotApplication\RobotToolManager.h
+A         OCKrnl\Source\RobotUtility
+A         OCKrnl\Source\RobotUtility\ReadMe.txt
+AU        OCKrnl\Source\RobotUtility\RobotCoordinateCalibration.h
+A         OCKrnl\Source\RobotUtility\RobotUtility.vcproj
+AU        OCKrnl\Source\RobotUtility\RobotUnitConverter.cpp
+A         OCKrnl\Source\RobotUtility\RobotUtility_WinCE_ARM.vcproj
+A         OCKrnl\Source\RobotUtility\stdafx.h
+A         OCKrnl\Source\RobotUtility\RobotUtility_WinCE.vcproj
+AU        OCKrnl\Source\RobotUtility\RobotUnitConverter.h
+AU        OCKrnl\Source\RobotUtility\RobotCoordinateCalibration.cpp
+A         OCKrnl\Source\RobotUtility\stdafx.cpp
+U         OCKrnl\Source\RemotePanel\RemotePanel.vcproj
+A         OCKrnl\Source\RobotDynamics
+A         OCKrnl\Source\RobotDynamics\RobotDynamics_WinCE.vcproj
+AU        OCKrnl\Source\RobotDynamics\RobotSCARADynamics.cpp
+A         OCKrnl\Source\RobotDynamics\stdafx.cpp
+A         OCKrnl\Source\RobotDynamics\ReadMe.txt
+AU        OCKrnl\Source\RobotDynamics\IRobotDynamics.h
+AU        OCKrnl\Source\RobotDynamics\RobotSCARADynamics.h
+AU        OCKrnl\Source\RobotDynamics\RobotDynamics.cpp
+A         OCKrnl\Source\RobotDynamics\RobotDynamics.vcproj
+A         OCKrnl\Source\RobotDynamics\stdafx.h
+AU        OCKrnl\Source\RobotDynamics\RobotDynamicsDef.h
+A         OCKrnl\Source\RobotDynamics\_RobotDynamics.h
+AU        OCKrnl\Source\RobotDynamics\RobotDynamics.h
+A         OCKrnl\Source\RobotDynamics\RobotDynamics_WinCE_ARM.vcproj
+A         OCKrnl\Source\RobotPathPlan
+AU        OCKrnl\Source\RobotPathPlan\RobotExecutive.h
+A         OCKrnl\Source\RobotPathPlan\RobotPathPlan.vcproj
+A         OCKrnl\Source\RobotPathPlan\stdafx.h
+A         OCKrnl\Source\RobotPathPlan\RobotPathPlan_WinCE_ARM.vcproj
+A         OCKrnl\Source\RobotPathPlan\RobotPathPlan_WinCE.vcproj
+AU        OCKrnl\Source\RobotPathPlan\RobotQuaternionConverter.cpp
+AU        OCKrnl\Source\RobotPathPlan\RobotExecutive.cpp
+AU        OCKrnl\Source\RobotPathPlan\RobotQuaternionConverter.h
+A         OCKrnl\Source\RobotPathPlan\stdafx.cpp
+A         OCKrnl\Source\RobotPathPlan\ReadMe.txt
+U         OCKrnl\Source\OCKrnl_WinCE70_ARM.sln
+U         OCKrnl\Source\OCKrnl_WinCE60.sln
+At revision 224716
+
+Äµ§i: Subversion ¦øªA¾¹ªº®É¶¡¦ü¥G¤£¦P¨B¡C¥i¯à·|¾É­P Checkout ¦æ¬°¼Ò¦¡¿ù»~¡C
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Executing and processing the following script content: 
+svn log %SVN_URL% -r %SVN_REVISION%
+
+[CNC_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins7684644112837564182.bat
+
+D:\Jenkins\workspace\CNC_trunk>svn log http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk -r 224716 
+------------------------------------------------------------------------
+r224716 | 1200 | 2019-04-15 14:17:32 +0800 (¬P´Á¤@, 15 ¥|¤ë 2019) | 5 lines
+
+merge: ROBOT_111_f_RobotSourceFileOrganization_118_20, 224020-224146, to 10.118.20
+by «F¿Ù
+
+[¤º³¡]
+®Ö¤ß¤º³¡¾÷¾¹¤H±M®×¬[ºc½Õ¾ã 
+------------------------------------------------------------------------
+
+D:\Jenkins\workspace\CNC_trunk>exit 0 
+[EnvInject] - Script executed successfully.
+Set build name.
+New build name is '#1429  at rev224716 by «F¿Ù
+'
+[JIRA] Setting JIRA_ISSUES to .
+[CNC_trunk] $ cmd /c call C:\DOCUME~1\ADMINI~1\LOCALS~1\Temp\jenkins9162362752630739479.bat
+D:\Jenkins\workspace\CNC_trunk\Build
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 77136 bytes (76 KiB)
+
+Extracting archive: \\file\DeveloperZone\PlatformSDK\PlatformSDK1.39.0.zip
+--
+Path = \\file\DeveloperZone\PlatformSDK\PlatformSDK1.39.0.zip
+Type = zip
+Physical Size = 77136
+
+Everything is Ok
+
+Folders: 5
+Files: 5
+Size:       284962
+Compressed: 77136
+PlatformSDK\ReleaseNote.txt
+PlatformSDK\inc\PlatformAPI.h
+PlatformSDK\inc\PlatformDrv.h
+PlatformSDK\lib\wce600\PlatformAPI.lib
+PlatformSDK\lib\wce700arm\PlatformAPI.lib
+½Æ»s 5 ­ÓÀÉ®×
+
+7-Zip 18.05 (x86) : Copyright (c) 1999-2018 Igor Pavlov : 2018-04-30
+
+Scanning the drive for archives:
+1 file, 708202 bytes (692 KiB)
+
+Extracting archive: \\file\DeveloperZone\SecuritySDK\SecuritySDK10.118.x.1.zip
+WARNING:
+\\file\DeveloperZone\SecuritySDK\SecuritySDK10.118.x.1.zip
+Can not open the file as [zip] archive
+The file is open as [Rar] archive
+
+--
+Path = \\file\DeveloperZone\SecuritySDK\SecuritySDK10.118.x.1.zip
+Open WARNING: Can not open the file as [zip] archive
+Type = Rar
+Physical Size = 708202
+Solid = -
+Blocks = 16
+Multivolume = -
+Volumes = 1
+
+Everything is Ok
+
+Archives with Warnings: 1
+Folders: 8
+Files: 8
+Size:       13274633
+Compressed: 708202
+SecuritySDK\release.txt
+SecuritySDK\inc\PasswordBitsFunc.h
+SecuritySDK\inc\UseTimeCommon.h
+SecuritySDK\inc\UTPassword.h
+SecuritySDK\lib\w32\Debug\SecurityUtil.lib
+SecuritySDK\lib\w32\release\SecurityUtil.lib
+SecuritySDK\lib\wce600\SecurityUtil.lib
+SecuritySDK\lib\wce700arm\SecurityUtil.lib
+½Æ»s 8 ­ÓÀÉ®×
+make header directory
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_trunk\Build\..\OCSDK ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_trunk\Build\..\OCSDK\inc ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_trunk\Build\..\OCSDK\inc\w32 ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_trunk\Build\..\OCSDK\inc\w64 ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_trunk\Build\..\TPDSDK ¤w¸g¦s¦b¡C
+¤l¥Ø¿ı©ÎÀÉ®× D:\Jenkins\workspace\CNC_trunk\Build\..\TPDSDK\inc ¤w¸g¦s¦b¡C
+copy D:\Jenkins\workspace\CNC_trunk\GMock header to OCSDK
+inc\gmock\gmock-actions.h
+inc\gmock\gmock-cardinalities.h
+inc\gmock\gmock-generated-actions.h
+inc\gmock\gmock-generated-actions.h.pump
+inc\gmock\gmock-generated-function-mockers.h
+inc\gmock\gmock-generated-function-mockers.h.pump
+inc\gmock\gmock-generated-matchers.h
+inc\gmock\gmock-generated-matchers.h.pump
+inc\gmock\gmock-generated-nice-strict.h
+inc\gmock\gmock-generated-nice-strict.h.pump
+inc\gmock\gmock-matchers.h
+inc\gmock\gmock-more-actions.h
+inc\gmock\gmock-more-matchers.h
+inc\gmock\gmock-spec-builders.h
+inc\gmock\gmock.h
+inc\gmock\internal\gmock-generated-internal-utils.h
+inc\gmock\internal\gmock-generated-internal-utils.h.pump
+inc\gmock\internal\gmock-internal-utils.h
+inc\gmock\internal\gmock-port.h
+inc\gtest\gtest-death-test.h
+inc\gtest\gtest-message.h
+inc\gtest\gtest-param-test.h
+inc\gtest\gtest-param-test.h.pump
+inc\gtest\gtest-printers.h
+inc\gtest\gtest-spi.h
+inc\gtest\gtest-test-part.h
+inc\gtest\gtest-typed-test.h
+inc\gtest\gtest.h
+inc\gtest\gtest_pred_impl.h
+inc\gtest\gtest_prod.h
+inc\gtest\internal\gtest-death-test-internal.h
+inc\gtest\internal\gtest-filepath.h
+inc\gtest\internal\gtest-internal.h
+inc\gtest\internal\gtest-linked_ptr.h
+inc\gtest\internal\gtest-param-util-generated.h
+inc\gtest\internal\gtest-param-util-generated.h.pump
+inc\gtest\internal\gtest-param-util.h
+inc\gtest\internal\gtest-port.h
+inc\gtest\internal\gtest-string.h
+inc\gtest\internal\gtest-tuple.h
+inc\gtest\internal\gtest-tuple.h.pump
+inc\gtest\internal\gtest-type-util.h
+inc\gtest\internal\gtest-type-util.h.pump
+½Æ»s 43 ­ÓÀÉ®×
+copy D:\Jenkins\workspace\CNC_trunk\LaserCtrl header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\Jenkins\workspace\CNC_trunk\OCDevice header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\Jenkins\workspace\CNC_trunk\OCKrnl header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+¨t²Î§ä¤£¨ì«ü©wªºÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\Jenkins\workspace\CNC_trunk\OCProtocol header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+copy D:\Jenkins\workspace\CNC_trunk\OCTest header to OCSDK
+copy D:\Jenkins\workspace\CNC_trunk\Preprocessor header to OCSDK
+copy D:\Jenkins\workspace\CNC_trunk\SerialPLCAxis header to OCSDK
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+/makew32 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library FIles
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library Files
+Compile and Copy Desktop Win32 Library FIles
+Compile and Copy Desktop Win32 Library Files
+/makew32 binary files ...
+Compile and Copy Desktop Win32 Binary Files
+Compile OCProtocol Win32 Projects and Copy Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Run GTEST
+Compile Win32 Projects and Copy Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Compile and Copy Desktop Win32 Binary Files
+Compile OCProtocol Win32 Projects and Copy Binary Files
+/makew64 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop Win64 Library Files
+/makew64 binary files ...
+/makewce600 library files ...
+Setting environment for using Microsoft Visual Studio 2005 x86 tools.
+Compile and Copy Desktop windows CE 600 Library Files
+Microsoft (R) Library Manager Version 8.00.50727.762
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+   Creating library ModbusComm\WCE600Release\ModbusComm.lib and object ModbusComm\WCE600Release\ModbusComm.exp
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Compile and Copy Desktop windows CE 600 Library Files
+Microsoft (R) Library Manager Version 8.00.50727.762
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+   Creating library OCKrnl\WCE600Release\OCKrnl.lib and object OCKrnl\WCE600Release\OCKrnl.exp
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Compile and Copy Desktop windows CE 600 Library FIles
+Compile and Copy Desktop windows CE 600 Library Files
+Compile and Copy Desktop windows CE 600 Library Files
+Compile and Copy Desktop windows CE 600 Library FIles
+Compile and Copy Desktop windows CE 600 Library Files
+/makewce600 binary files ...
+Compile OCProtocol WinCE6 Projects and Copy Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile WinCE6 Projects and Copy Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile and Copy Desktop windows CE 600 Binary Files
+Compile OCProtocol WinCE6 Projects and Copy Binary Files
+/makewce700arm library files ...
+Setting environment for using Microsoft Visual Studio 2008 x86 tools.
+Compile and Copy Desktop windows CE 700 ARM Library Files
+Microsoft (R) Library Manager Version 9.00.30729.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+   Creating library ModbusComm\WCE700ARM_Release\ModbusComm.lib and object ModbusComm\WCE700ARM_Release\ModbusComm.exp
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Compile and Copy Desktop windows CE 700 ARM Library Files
+Microsoft (R) Library Manager Version 9.00.30729.01
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+   Creating library OCKrnl\WCE700ARM_Release\OCKrnl.lib and object OCKrnl\WCE700ARM_Release\OCKrnl.exp
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+½Æ»s¤F         1 ­ÓÀÉ®×¡C
+Compile and Copy Desktop windows CE 700 ARM Library FIles
+Compile and Copy Desktop windows CE 700 ARM Library Files
+Compile and Copy Desktop windows CE 700 ARM Library Files
+Compile and Copy Desktop windows CE 700 ARM Library FIles
+Compile and Copy Desktop windows CE 700 ARM Library Files
+/makewce700arm binary files ...
+Compile OCProtocol WinCE7 ARM Projects and Copy Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile WinCE7 ARM Projects and Copy Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile and Copy Desktop windows CE 700 ARM Binary Files
+Compile OCProtocol WinCE7 ARM Projects and Copy Binary Files
+Check D:\Jenkins\workspace\CNC_trunk\Build\error...
+2019/04/15 ¬P´Á¤@ 15:05:42
+Compile Failed!
+55
+Bulid Failed Due to http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk at 224716
+Build step '°õ¦æ Windows §å¦¸«ü¥O' marked build as failure
+Set build name.
+New build name is '#1429  at rev224716 by «F¿Ù
+'
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#1429  at rev224716 by «F¿Ù
+', new value: '#1429  at rev224716 by «F¿Ù
+'
+Post-Build Update: Updated Dashboard DB
+«Ê¦s¦¨«~
+°O¿ı«ü¯¾
+Sending e-mails to: WeiJen@syntecclub.com.tw marskao@syntecclub.com.tw albert1002@syntecclub.com.tw hebe.am96g@g2.nctu.edu.tw yoana.shih@syntecclub.com.tw chengwei.lin@syntecclub.com.tw evolution6423@yahoo.com.tw JWLee@syntecclub.com.tw simon@syntecclub.com.tw alpha0729@syntecclub.com.tw edonis.chen@syntecclub.com.tw mstsai0113@syntecclub.com.tw
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  6 second
+Finished: FAILURE
