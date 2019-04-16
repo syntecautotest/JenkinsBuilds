@@ -1,0 +1,81 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>ProductName</name>
+          <description></description>
+          <value>210TB-E5</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>FileConfig</name>
+          <description></description>
+          <value>^&lt;FileConfig ProductName=&quot;210TB-E5&quot; PackageHead=&quot;210B-E5LatheCE7_ARM&quot;^&gt;^&lt;Files^&gt;^&lt;File Category=&quot;Image&quot; Usage=&quot;Common&quot; Hardware=&quot;IMX6&quot;^&gt;^&lt;Version^&gt;9.13.0^&lt;/Version^&gt;^&lt;Name^&gt;WCE7_I.MX6_9.13.0.bin^&lt;/Name^&gt;^&lt;Hash^&gt;b6630b5566343e28230c96e5df70350d^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/9.13.0/ARMCE7_Image/WCE7_I.MX6_9.13.0.bin^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot;^&gt;^&lt;Version^&gt;10.118.12J^&lt;/Version^&gt;^&lt;Name^&gt;package_41b18880.zip^&lt;/Name^&gt;^&lt;Hash^&gt;a280f5b61b1778622a7b5f5b66f4a590^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/210TB_E5/Software/Test/Common/package_41b18880.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Test&quot; Hardware=&quot;Common&quot;^&gt;^&lt;Version^&gt;10.118.12J^&lt;/Version^&gt;^&lt;Name^&gt;Test.zip^&lt;/Name^&gt;^&lt;Hash^&gt;56760ad1543b50236183fcec26d49dab^&lt;/Hash^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Software&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot;^&gt;^&lt;Version^&gt;10.118.12J^&lt;/Version^&gt;^&lt;Name^&gt;package_9f93be26.zip^&lt;/Name^&gt;^&lt;Hash^&gt;aca202bd7364535e9b162494a3b1ae4c^&lt;/Hash^&gt;^&lt;URL^&gt;http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/210TB_E5/Software/Delivery/Common/package_9f93be26.zip^&lt;/URL^&gt;^&lt;/File^&gt;^&lt;File Category=&quot;Packing&quot; Usage=&quot;Delivery&quot; Hardware=&quot;Common&quot;^&gt;^&lt;Version^&gt;10.118.12J^&lt;/Version^&gt;^&lt;Name^&gt;Delivery.zip^&lt;/Name^&gt;^&lt;Hash^&gt;d0bce730f1f11475879c10095467d0a0^&lt;/Hash^&gt;^&lt;/File^&gt;^&lt;/Files^&gt;^&lt;/FileConfig^&gt;</value>
+        </hudson.model.StringParameterValue>
+        <hudson.model.StringParameterValue>
+          <name>ConfigGitDir</name>
+          <description></description>
+          <value>D:\OQCFileConfig</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <hudson.model.StringParameterDefinition>
+              <name>ConfigGitDir</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>ProductName</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+            <hudson.model.StringParameterDefinition>
+              <name>FileConfig</name>
+              <description></description>
+              <defaultValue></defaultValue>
+            </hudson.model.StringParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.model.Cause_-UserIdCause>
+            <userId>remotetrigger</userId>
+          </hudson.model.Cause_-UserIdCause>
+          <int>9</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>7061204</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.model.Cause$UserIdCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.model.Cause_-UserIdCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9"/>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+  </actions>
+  <queueId>7924</queueId>
+  <timestamp>1555385406780</timestamp>
+  <startTime>1555385406782</startTime>
+  <result>SUCCESS</result>
+  <duration>4541</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+</build>

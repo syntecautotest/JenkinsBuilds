@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="224927"><author>1212</author><date>2019-04-16T06:50:49.430744Z</date><paths><path action="M" localPath="PlugIn\LaserScanningCADCAM\Source\LaserUtility.cs" kind="file">/appkernel/trunk/PlugIn/LaserScanningCADCAM/Source/LaserUtility.cs</path><path action="M" localPath="PlugIn\LaserScanningCADCAM\Source\LaserPrinter.cs" kind="file">/appkernel/trunk/PlugIn/LaserScanningCADCAM/Source/LaserPrinter.cs</path><path action="M" localPath="PlugIn\LaserScanningCADCAM\Source\RValueDefine.cs" kind="file">/appkernel/trunk/PlugIn/LaserScanningCADCAM/Source/RValueDefine.cs</path></paths><msg>merge appkernel/AUTO_1957_f_VisionCalibration to 10.118.20 by 國育
+
+新增
+   新增視覺雷射整合 - 校正功能</msg></logentry></log>
