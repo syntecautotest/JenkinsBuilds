@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225068"><author>1384</author><date>2019-04-17T02:34:43.297509Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciRTEX/RTEXChannel.h</path><path action="M" localPath="OCDevice\Source\MciRTEX\RTEXChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciRTEX/RTEXChannel.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciRTEX/RTEXChannel.cpp</path><path action="M" localPath="OCDevice\Source\MciRTEX\RTEXChannel.h" kind="file">/cnckernel/trunk/OCDevice/Source/MciRTEX/RTEXChannel.h</path></paths><msg>merge: CNCKL_2763_b_RTEX_VFF_SupportFrictionCompensation, 224556-225032 to 10.118.12O, 10.118.21
+by 侑庭
+
+RTEX支援速度前饋摩擦力補償</msg></logentry></log>

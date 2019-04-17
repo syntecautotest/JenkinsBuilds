@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225173"><author>1384</author><date>2019-04-17T09:51:49.236772Z</date><paths><path action="M" localPath="OCKrnl\Source\MotUtility\MpHomeSearch.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotUtility/MpHomeSearch.cpp</path></paths><msg>merge: ATEST_1131_b_Cannot_Clear_Alarm_MOT36, 224900 to 10.116.56G
+by 旻憲
+
+修正MOT-29/MOT-30/MOT-36/MOT-46 重置無法清除警報的問題</msg></logentry></log>

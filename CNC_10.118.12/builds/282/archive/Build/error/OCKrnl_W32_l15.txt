@@ -1,0 +1,16 @@
+------ Rebuild All started: Project: TPDAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'TPDAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+TPDAPI.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\TPDAPI\Release\BuildLog.htm"
+TPDAPI - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

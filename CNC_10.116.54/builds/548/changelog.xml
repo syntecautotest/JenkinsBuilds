@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225106"><author>1384</author><date>2019-04-17T05:53:06.742416Z</date><paths><path action="M" localPath="Preprocessor\Source\PREP\PrepTx.h" kind="file">/cnckernel/branches/release_v10.116.54/Preprocessor/Source/PREP/PrepTx.h</path><path action="M" localPath="Preprocessor\Source\PREP\StreamReader.h" kind="file">/cnckernel/branches/release_v10.116.54/Preprocessor/Source/PREP/StreamReader.h</path></paths><msg>merge: ISSUE_14546_b_NCFile_Preprocess_Error, 224500 to 10.116.56G
+by 旻憲
+
+修正60CA/B加工檔含連續空白字元導致無法加工問題</msg></logentry></log>

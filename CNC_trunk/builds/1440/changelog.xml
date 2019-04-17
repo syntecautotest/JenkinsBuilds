@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225172"><author>1384</author><date>2019-04-17T09:47:19.512299Z</date><paths><path action="M" localPath="OCDevice\Source\SerialParam\SerialParamSync.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/SerialParam/SerialParamSync.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.20/OCDevice/Source/SerialParam/SerialParamSync.cpp</path></paths><msg>merge: ATEST_1151_b_Op1WithM2M3Comm, 225159 to 10.118.20
+by 嘉倫
+
+修正控制器串列通訊必發OP1問題。</msg></logentry></log>

@@ -1,0 +1,29 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins1092774094861745582.bat
+ID:10101345 Date:2019/04/17 10:19:13
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master e7130bd] 2019/04/17 10:19:13 by 10101345, Modified Products: F01-610MA-E5-10-SEP-DG,F01-610MA-E5-150-SEP,F01-610MA-E5-150-SEP-TOUCH,F01-610MA-E5-VGA
+ 5 files changed, 1 deletion(-)
+ rename F01_610MA_E5_150_SEP/Software/Test/Common/package_7df3d298.zip => F01_610MA_E5_10_SEP_DG/Software/Test/Common/package_13254d28.zip (99%)
+ rename F01_610MA_E5_150_SEP_TOUCH/Software/Test/Common/package_6bef8dd9.zip => F01_610MA_E5_150_SEP/Software/Test/Common/package_78dba295.zip (99%)
+ rename F01_610MA_E5_10_SEP_DG/Software/Test/Common/package_62988173.zip => F01_610MA_E5_150_SEP_TOUCH/Software/Test/Common/package_1af60b80.zip (99%)
+ rename F01_610MA_E5_VGA/Software/Test/Common/{package_5c99ed05.zip => package_1d8f5417.zip} (99%)
+ delete mode 100644 LOCK
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   01409ab..e7130bd  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

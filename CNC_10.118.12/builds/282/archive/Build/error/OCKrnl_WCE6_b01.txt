@@ -1,0 +1,959 @@
+------ Rebuild All started: Project: LAPACK, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'LAPACK', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+Stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ddot_.cpp
+xerbla_.cpp
+lsame_.cpp
+dtrsm_.cpp
+dtbsv_.cpp
+dsyrk_.cpp
+dsyr_.cpp
+dscal_.cpp
+dpotf2_.cpp
+dpbtrs_.cpp
+dpbtrf_.cpp
+dpbtf2_.cpp
+dgemv_.cpp
+dgemm_.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\LAPACK\WCE600Release\BuildLog.htm"
+LAPACK - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Event, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Event\WCE600Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: EventAP, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+EventAP.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\EventAP\WCE600Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PLCNet, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'PLCNet', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+OCClient.cpp
+PLCNet.cpp
+PDU.cpp
+OCServer.cpp
+OCNode.cpp
+OCClientService.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PLCNet\WCE600Release\BuildLog.htm"
+PLCNet - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MSTExeChannel, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MSTExeChannel', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+AxPLCCall.cpp
+PLCCall.cpp
+PartCount.cpp
+MSTChannel.cpp
+ModePLCCall.cpp
+CycleTimer.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MSTExeChannel\WCE600Release\BuildLog.htm"
+MSTExeChannel - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KinematicTransformation, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'KinematicTransformation', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ArcGuidance.cpp
+TriplePRSType.cpp
+ToolLength.cpp
+TableTiltingType.cpp
+SpindleTiltingType.cpp
+SingleTableTiltingType.cpp
+SingleSpindleTiltingType.cpp
+RTCPManager.cpp
+PolarCoordTransform.cpp
+ParallelKinematics.cpp
+MixTiltingType.cpp
+LinearGuidance.cpp
+GuidanceCouple.cpp
+GenRotHoldRot.cpp
+GenKinematics2D.cpp
+FourAxisParamSync.cpp
+FourAxisMechanism.cpp
+FourAxis.cpp
+FiveAxisParamSync.cpp
+FiveAxisMechanism.cpp
+Generating Code...
+Compiling...
+FiveAxis.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KinematicTransformation\WCE600Release\BuildLog.htm"
+KinematicTransformation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: DataLog, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'DataLog', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+DataCatch.cpp
+TimerManager.cpp
+KernelLog.cpp
+GrinderLog.cpp
+DataRecorder.cpp
+DataListener.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\DataLog\WCE600Release\BuildLog.htm"
+DataLog - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: NurbsInterpolation, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'NurbsInterpolation', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+Stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+Bezier.cpp
+Segment.cpp
+NurbsSysState.cpp
+NurbsMPFindCorner.cpp
+NurbsMPBlockMerge.cpp
+NurbsCurvePool.cpp
+NurbsCurve.cpp
+NurbsAPI.cpp
+Kick.cpp
+Debug.cpp
+CornerCombine.cpp
+CNURBS_FACTORY.cpp
+CNURBS.cpp
+BlockPool.cpp
+Block.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\NurbsInterpolation\WCE600Release\BuildLog.htm"
+NurbsInterpolation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ToolTable, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'ToolTable', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+HMultiToolTable.cpp
+SingleToolTable.cpp
+MultiToolTable.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ToolTable\WCE600Release\BuildLog.htm"
+ToolTable - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Utility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+_UNCC.cpp
+.\_UNCC.cpp(106) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(107) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(108) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(109) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(110) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+.\_UNCC.cpp(156) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+ZRtl.cpp
+ZMath.cpp
+ZipArch.cpp
+ZCRC32.cpp
+x86Platform.cpp
+VStack.cpp
+Vector4d.cpp
+Vector3d.cpp
+Vector2d.cpp
+VArray.cpp
+Variant.cpp
+Unzip.cpp
+TZPlex.cpp
+Tuple4d.cpp
+Tuple3d.cpp
+Tuple2d.cpp
+StringConverter.cpp
+Stream.cpp
+Stack.cpp
+Generating Code...
+Compiling...
+Sphere.cpp
+SmallFileEditor.cpp
+ShapeData.cpp
+SetupPacking.cpp
+QuickMatrixN.cpp
+Quaternion.cpp
+PropertyBag.cpp
+PolynomialRootSolver.cpp
+Point3d.cpp
+Point2d.cpp
+Platform.cpp
+PID.cpp
+ParamStore.cpp
+ParamCracker.cpp
+PalStdLib.cpp
+OcStreamReader.cpp
+OcFileReader.cpp
+OcDesFileReader.cpp
+NumericalRecipes.cpp
+NumberBag.cpp
+Generating Code...
+Compiling...
+MiddleVoteFilter.cpp
+MatrixN.cpp
+Matrix4d.cpp
+Matrix3d.cpp
+Matrix2d.cpp
+LinkedListPool.cpp
+LinePage.cpp
+LineMap.cpp
+LANAdapterInfo.cpp
+KStringMap.cpp
+JXmlTextWriter.cpp
+JXmlTextReader.cpp
+JReplication.cpp
+JRectLayout.cpp
+JFileInfo.cpp
+JCycleValue.cpp
+JCycleSchemaPool.cpp
+JCycleSchema.cpp
+JCycleDocument.cpp
+JAllocateOnlyHeap.cpp
+Generating Code...
+Compiling...
+IntervalChecker.cpp
+Internet.cpp
+IntegerQueue.cpp
+IniRegManager.cpp
+IniReg.cpp
+HugeFileSharedEditor.cpp
+HugeFileReader.cpp
+HugeFileEditor.cpp
+HighPerformanceTimer.cpp
+GVector.cpp
+GuardStore.cpp
+GuardRegistry.cpp
+GMatrix.cpp
+Geometry2d.cpp
+FramStore.cpp
+Frame3d.cpp
+FRAM_Parallel.cpp
+FileDirInfo.cpp
+FIFOQueue.cpp
+EventCPBase.cpp
+Generating Code...
+Compiling...
+DocStoreAPI.cpp
+DNCChannel.cpp
+DeviceInfoManager.cpp
+DeviceInfo.cpp
+DESObj.cpp
+Cylinder.cpp
+Complex.cpp
+CommPort.cpp
+CharQueue.cpp
+ByteOrder.cpp
+Box.cpp
+BitSet.cpp
+BitFilter.cpp
+BinFileLoader.cpp
+AxisDimension.cpp
+AxisAngle4d.cpp
+AxFrame.cpp
+AsynQueue.cpp
+Argument.cpp
+ArchMgr.cpp
+Generating Code...
+Compiling...
+AlarmFlags.cpp
+AlarmCode.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Utility\WCE600Release\BuildLog.htm"
+Utility - 0 error(s), 9 warning(s)
+------ Rebuild All started: Project: ProductInfo, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'ProductInfo', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CncSerial.cpp
+W32ProductData.cpp
+UTTimeData.cpp
+UseTimeProtect.cpp
+TimeValidity.cpp
+SoftwareUtil.cpp
+ProductSet.cpp
+ProductInfo.cpp
+PrdRawData.cpp
+PrdPassword.cpp
+OptionTry.cpp
+OptionTable.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ProductInfo\WCE600Release\BuildLog.htm"
+ProductInfo - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotDynamics, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RobotDynamics', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+RobotDynamics.cpp
+RobotSCARADynamics.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RobotDynamics\WCE600Release\BuildLog.htm"
+RobotDynamics - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: FFTransform, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'FFTransform', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+FFT.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\FFTransform\WCE600Release\BuildLog.htm"
+FFTransform - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotApplication, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RobotApplication', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+RobotConveyorTrackingManager.cpp
+RobotWeaving.cpp
+RobotWaitSignalManager.cpp
+RobotToolManager.cpp
+RobotToolLoader.cpp
+RobotToolCalibration.cpp
+RobotSyncOut.cpp
+RobotStrokeLimit.cpp
+RobotStitching.cpp
+RobotProtectionZone.cpp
+RobotInterruptSignalManager.cpp
+RobotDynamicsLearning.cpp
+RobotCoordTransform.cpp
+RobotCoordLoader.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RobotApplication\WCE600Release\BuildLog.htm"
+RobotApplication - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotKinematics, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RobotKinematics', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+RobotAdditionalAx.cpp
+RobotV4L1A.cpp
+RobotV3L0A.cpp
+RobotV1L2A.cpp
+RobotSixAxis.cpp
+RobotScara.cpp
+RobotPalletizerTypeA.cpp
+RobotPaintSixAxisTypeA.cpp
+RobotKinematics.cpp
+RobotHighPayloadSixAxis.cpp
+RobotHighPayloadPalletizerTypeA.cpp
+RobotH4L1A.cpp
+RobotH2L2B.cpp
+RobotH2L2A.cpp
+RobotFourAxisTypeB.cpp
+RobotFourAxisTypeA.cpp
+RobotFiveAxisTypeA.cpp
+RobotDeltaTypeB.cpp
+RobotDeltaTypeA.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RobotKinematics\WCE600Release\BuildLog.htm"
+RobotKinematics - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoTuning, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+FrictionAdjust.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+SpdAdvTuning.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+FrictionLog.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\ServoTuning\WCE600Release\BuildLog.htm"
+ServoTuning - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotMotionPlan, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RobotMotionPlan', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+RobotConveyorTracking.cpp
+RobotTrajectoryBlending.cpp
+RobotMoveL.cpp
+RobotMoveJ.cpp
+RobotMotionPlanner.cpp
+RobotInterpolation.cpp
+RobotDirectTeachingTRQ.cpp
+RobotDirectTeachingPOS.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RobotMotionPlan\WCE600Release\BuildLog.htm"
+RobotMotionPlan - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: InternalCNCAPI, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'InternalCNCAPI', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+InternalCNCAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\InternalCNCAPI\WCE600Release\BuildLog.htm"
+InternalCNCAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MotUtility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MotUtility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ADQueue.cpp
+ZeroSpeedCheck.cpp
+VelocityControl.cpp
+VelAccMeter.cpp
+TrajectoryThread.cpp
+TrajectoryTapping.cpp
+TrajectorySyncTracking.cpp
+TrajectoryOscillator.cpp
+TrajectoryNormal.cpp
+TrajectoryDef.cpp
+TrajectoryChopping.cpp
+Trajectory.cpp
+TimeBase.cpp
+SyncTracking.cpp
+SCurveTrajectory.cpp
+PostAccelerator_Int.cpp
+PlayModeInterpolator.cpp
+OneBlockInterpolator.cpp
+MultiPassMovingAverageFilter.cpp
+MpHoming.cpp
+Generating Code...
+Compiling...
+MpHomeSearch.cpp
+MovingAverageFilter.cpp
+MotionPlanner.cpp
+LAQueue.cpp
+LANodePool.cpp
+LAMotionPlanner.cpp
+KickNode.cpp
+Interpolator.cpp
+HomeSearchCore.cpp
+HelicalPlan.cpp
+GradientDescent.cpp
+FLThreadNormal.cpp
+FLCutString.cpp
+FLCutSCurve.cpp
+FLCutCSlopeForSpring.cpp
+FLCutCSlope.cpp
+FeedLimit.cpp
+FeedControl.cpp
+FCThreadNormal.cpp
+FCCutString.cpp
+Generating Code...
+Compiling...
+FCCutSmoothScurve.cpp
+FCCutSCurve.cpp
+FCCutCSlope.cpp
+DelayFilter.cpp
+CurvatureCalculatorNode.cpp
+CurvatureCalculator.cpp
+CJerkLineInt.cpp
+CJerkHelicalInt.cpp
+BPTLimiter.cpp
+AuxInterpolator.cpp
+ArcFeature.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotUtility\WCE600Release\BuildLog.htm"
+MotUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotMotUtility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RobotMotUtility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+FLRobotMoveJ.cpp
+RobotMRPQueue.cpp
+RobotMRPPool.cpp
+RobotMotion.cpp
+RobotInterpolator.cpp
+FLRobotMoveL.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RobotMotUtility\WCE600Release\BuildLog.htm"
+RobotMotUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotOperation, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RobotOperation', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+RobotCoordinate.cpp
+.\RobotCoordinate.cpp(51) : warning C4355: 'this' : used in base member initializer list
+.\RobotCoordinate.cpp(52) : warning C4355: 'this' : used in base member initializer list
+RobotSimulator.cpp
+.\RobotSimulator.cpp(58) : warning C4355: 'this' : used in base member initializer list
+RobotPLCPanel.cpp
+RobotParamSync.cpp
+RobotIOFcnManager.cpp
+RobotDrawer.cpp
+RobotCSManager.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RobotOperation\WCE600Release\BuildLog.htm"
+RobotOperation - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: RobotPathPlan, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RobotPathPlan', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+RobotExecutive.cpp
+RobotQuaternionConverter.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RobotPathPlan\WCE600Release\BuildLog.htm"
+RobotPathPlan - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotUtility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RobotUtility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+RobotCoordinateCalibration.cpp
+RobotUnitConverter.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RobotUtility\WCE600Release\BuildLog.htm"
+RobotUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+AlarmHistoryStore.cpp
+XMLDatabase.cpp
+VelGlitchCompKeyMap.cpp
+TCPServer.cpp
+SystemIdentify.cpp
+SysPLCPanel.cpp
+SysParamSync.cpp
+SvoDevStateTable.cpp
+SvoChMap.cpp
+StrokeLimitDesk.cpp
+SlaveFrame.cpp
+SimuPool.cpp
+Simulator.cpp
+SerialDeviceServ.cpp
+SerialDeviceCtrl.cpp
+RTUSlave.cpp
+ResourceMgr.cpp
+ProgrammableDesk.cpp
+PLCEventMonitor.cpp
+ParseContext.cpp
+Generating Code...
+Compiling...
+ParamManager.cpp
+ORXManager.cpp
+OpPLCPanel.cpp
+OpParamSync.cpp
+OpOutStream.cpp
+OPLog.cpp
+NcDrawer.cpp
+ModeGroup.cpp
+ModbusSlaveComm.cpp
+MakerConfigInfo.cpp
+LatchIBitControl.cpp
+LatchDrvSglControl.cpp
+GVPWorkVar.cpp
+GVPPLCRegister.cpp
+GVPPersist.cpp
+GVPInMemory.cpp
+GVCInMemory.cpp
+GVCBase.cpp
+FrameUtility.cpp
+FileWriter.cpp
+Generating Code...
+Compiling...
+FileReader.cpp
+FileBase.cpp
+ExtStrokeTableParamSync.cpp
+ExtStrokeTable.cpp
+ECamPLCPanel.cpp
+DumpDbg.cpp
+DriverManager.cpp
+DataListenManager.cpp
+CoordStateTable.cpp
+cncctrl.cpp
+CNCCenter.cpp
+cncapi.cpp
+BackgndExePanel.cpp
+BackgndExeCenter.cpp
+AxisDesk.cpp
+AlarmPendingStore.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Operation\WCE600Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Comm, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Comm', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CommSession.cpp
+NcCommFileAPI.cpp
+NcCommFile.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Comm\WCE600Release\BuildLog.htm"
+Comm - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: XSignal, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'XSignal', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+MultiCast.cpp
+XSignal.cpp
+RTCAPI.cpp
+MultiCastAPI.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\XSignal\WCE600Release\BuildLog.htm"
+XSignal - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RemotePanel, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'RemotePanel', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+FX2API.cpp
+FXPanelSvr.cpp
+FXPanelClient.cpp
+FX2IComm.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\RemotePanel\WCE600Release\BuildLog.htm"
+RemotePanel - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PathPlan, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'PathPlan', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ArcResolver.cpp
+ToolTableManager.cpp
+ToolRadius.cpp
+ToolOffset.cpp
+ScanTable.cpp
+Scaling.cpp
+Rotation.cpp
+ReadySink.cpp
+ProgramContext.cpp
+PolarCommand.cpp
+PathSmooth.cpp
+MRPTransform.cpp
+MRPQueue.cpp
+MRPPool.cpp
+MRPFilter.cpp
+ModalMacroContext.cpp
+ModalContext.cpp
+MacroType.cpp
+MacroCore.cpp
+LocalVariable.cpp
+Generating Code...
+Compiling...
+KinematicsParamSync.cpp
+ICoordParamSync.cpp
+ICoordinate.cpp
+GenKinematicsParamSync.cpp
+DirectDrawCorner.cpp
+DirectDrawAngle.cpp
+CornerFeature.cpp
+CoordPLCPanel.cpp
+CoordParamSync.cpp
+Coordinate.cpp
+.\Coordinate.cpp(64) : warning C4355: 'this' : used in base member initializer list
+BreakPointScanner.cpp
+BreakPointHandler.cpp
+BlockTransform.cpp
+BlockContext.cpp
+BackgndExecuter.cpp
+AxisAddress.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\PathPlan\WCE600Release\BuildLog.htm"
+PathPlan - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: NcLoader, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'NcLoader', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ArchiveNcLoader.cpp
+NcProgMgr.cpp
+NcDownload.cpp
+MPYACC.CPP
+..\NcParser\MPYACC.CPP(3017) : warning C4102: 'mperrlabel' : unreferenced label
+MPLEX.CPP
+..\NcParser\MPLEX.CPP(1186) : warning C4102: 'mp_more' : unreferenced label
+..\NcParser\MPLEX.CPP(1169) : warning C4102: 'mp_reject' : unreferenced label
+MDINcLoader.cpp
+LEXBASE.CPP
+IDNCReader.cpp
+FileSysNcLoader.cpp
+DNCSerialComm.cpp
+DNCReaderService.cpp
+DNCNetwork.cpp
+DNCHugeDiskFile.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\NcLoader\WCE600Release\BuildLog.htm"
+NcLoader - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: MotionPlan, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MotionPlan', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+AutoCommander.cpp
+WorkpieceTable.cpp
+Workpiece.cpp
+VTypeSyncSpindle.cpp
+ThreadNormal.cpp
+TappingPair.cpp
+TappingLearning.cpp
+Tapping.cpp
+SyncSpindleManager.cpp
+SyncSpindle.cpp
+SyncOutManager.cpp
+StrokeTable.cpp
+StrokeLimit.cpp
+SpindlePlanner.cpp
+Spindle.cpp
+SpdVcmdControl.cpp
+SpdParamSync.cpp
+SkipTravel.cpp
+SkipFunction.cpp
+SimuServo3d.cpp
+Generating Code...
+Compiling...
+SimuServo.cpp
+ServoTap.cpp
+ServoSpindle.cpp
+ServoSOS.cpp
+ServoLagTapping.cpp
+ServoLagChopping.cpp
+ServoGear.cpp
+Servo.cpp
+SCurve.cpp
+RapidTravel.cpp
+RadialCompensator.cpp
+PTypeSyncSpindle.cpp
+PostureFairing.cpp
+PostKinematicAcc.cpp
+OneBlkPlanner.cpp
+NurbsSmooth.cpp
+NurbsConverter.cpp
+NCExecutive.cpp
+MpMPGJog.cpp
+MPKinematicTransform.cpp
+Generating Code...
+Compiling...
+MpJog.cpp
+MPInterpolation.cpp
+MpIncJog.cpp
+MpgWheel.cpp
+MPCoordTransform.cpp
+ManualAxis.cpp
+LengthProjector.cpp
+LearningErrorTable.cpp
+LearningControl.cpp
+KaiserWindowFilter3d.cpp
+KaiserWindowFilter.cpp
+JogCommander.cpp
+JogBase.cpp
+IServoLag.cpp
+InverterSpindle.cpp
+InverterSOS.cpp
+InversePlant.cpp
+IncConverter.cpp
+GrinderAdjust.cpp
+FastDrill.cpp
+Generating Code...
+Compiling...
+EDM.cpp
+ECamManager.cpp
+ECam.cpp
+Dwell.cpp
+DispCalculator.cpp
+CutString.cpp
+CutSmoothSCurve.cpp
+CutSCurve.cpp
+CutFiveAxis.cpp
+CutCSlopeForSpring.cpp
+CutCSlope.cpp
+CustomDelayQueue.cpp
+CSManager.cpp
+CoupleTransform.cpp
+CompBlkPlanner.cpp
+CommandQueue.cpp
+CmdQueue.cpp
+Chopping.cpp
+BackgndFuncHandler.cpp
+AxParamSync.cpp
+Generating Code...
+Compiling...
+AxisInPosCheck.cpp
+AxisExchanger.cpp
+Axis.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\MotionPlan\WCE600Release\BuildLog.htm"
+MotionPlan - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KePLC, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'KePLC', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+LadderCompiler.cpp
+PLCUtility.cpp
+PLCScanner.cpp
+PLCDeviceManager.cpp
+PLCAlarmDef.cpp
+LadderWRPool.cpp
+LadderParser.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\KePLC\WCE600Release\BuildLog.htm"
+KePLC - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Interpolation, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Interpolation', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+Backlash.cpp
+ZPECompensator.cpp
+VFFCompensator.cpp
+TFFCompensator.cpp
+SISOIIRFilter.cpp
+SISOFIRFilter.cpp
+SISODiscreteTransferFunction.cpp
+ServoSyncCompensator.cpp
+ServoCompensation.cpp
+Predictor.cpp
+PitchError.cpp
+HighOrderFilter.cpp
+FrictionCompensation.cpp
+FracDelayCompensator.cpp
+ForwardController.cpp
+FirstOrderFilter3d.cpp
+FirstOrderFilter.cpp
+Feedforward.cpp
+DriverSimulator.cpp
+DirectionPredictor.cpp
+Generating Code...
+Compiling...
+ContourError.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\Interpolation\WCE600Release\BuildLog.htm"
+Interpolation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: WinPAL, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'WinPAL', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+CommAPI.cpp
+WinXSignal.cpp
+WinRTTimer.cpp
+VersionInfo.cpp
+ThreadAPI.cpp
+RTMutex.cpp
+Pal.cpp
+.\Pal.cpp(67) : warning C4244: 'argument' : conversion from 'DWORD' to 'unsigned short', possible loss of data
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\WinPAL\WCE600Release\BuildLog.htm"
+WinPAL - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCKrnl, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCKrnl', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+OCKrnl.cpp
+Compiling resources...
+Linking...
+   Creating library WCE600Release\OCKrnl.lib and object WCE600Release\OCKrnl.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCKrnl\Source\OCKrnl\WCE600Release\BuildLog.htm"
+OCKrnl - 0 error(s), 0 warning(s)
+========== Rebuild All: 34 succeeded, 0 failed, 0 skipped ==========
+
