@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225264"><author>colingsta</author><date>2019-04-18T08:15:41.737996Z</date><paths><path action="M" kind="file">/appkernel/trunk/OCUser/Source/Swingw/JDeviceControl.cpp</path><path action="M" localPath="OCUser\Source\Swingw\JDeviceControl.cpp" kind="file">/appkernel/branches/AppKernel_10.118.12/OCUser/Source/Swingw/JDeviceControl.cpp</path></paths><msg>merge appkernel/ISSUE_14477_b_CTMetric2ImperialErr r224233 to 10.118.12O, 10.118.21 by 景媖
+
+修正
+    無裝置輸入框英制顯示錯誤 問題
+</msg></logentry></log>

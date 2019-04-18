@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225270"><author>louis.go</author><date>2019-04-18T08:32:37.377780Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/PrintLabelWorker/LabelingConstant.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/PlugIn/PrintLabelWorker/LabelingConstant.cs</path><path action="M" localPath="PlugIn\PrintLabelWorker\LabelingConstant.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/PlugIn/PrintLabelWorker/LabelingConstant.cs</path></paths><msg>merge WOOD_979_b_LabelConfigNotSaved, 215199-220704 to 10.116.56G, 10.118.12O, 10.118.21
+by 宗羲
+修正 
+    60PB 60PC 60PE印表機設定檔存檔失敗問題</msg></logentry></log>

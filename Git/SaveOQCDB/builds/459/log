@@ -1,0 +1,216 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCDB\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins365712638277701545.bat
+ID:10101169 Date:2019/04/18 09:40:51
+©R¥O¤w¸g¦¨¥\§¹¦¨¡C
+
+From github.com:syntecautotest/OQCDB
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master f80d22a] 2019/04/18 09:40:51 by 10101169, Modified Products:
+ 196 files changed, 5 insertions(+), 40 deletions(-)
+ create mode 100644 210TB_E/Software/Delivery/Common/package_c0b2e00c.zip
+ rename 210TB_E/Software/Test/Common/{package_7788b621.zip => package_38a0ed9f.zip} (99%)
+ rename F01_210TB_E5_10_SEP_DG/Software/Delivery/Common/package_9f93be26.zip => 210TB_E5/Software/Delivery/Common/package_1fbc6f2b.zip (93%)
+ rename 21MA/Software/Test/Common/{package_c152cb4d.zip => package_e6bfd236.zip} (99%)
+ create mode 100644 6MA/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 6MA/Packing/Test/Common/Test.zip
+ delete mode 100644 6MA/Software/Delivery/Common/10inch/package_6DAFE98A.zip
+ delete mode 100644 6MA/Software/Delivery/Common/10inch_Touch/package_6DAFE98A.zip
+ delete mode 100644 6MA/Software/Delivery/Common/15inch/package_6DAFE98A.zip
+ delete mode 100644 6MA/Software/Delivery/Common/15inch_Touch/package_6DAFE98A.zip
+ delete mode 100644 6MA/Software/Delivery/Common/8inch/package_6DAFE98A.zip
+ delete mode 100644 6MA/Software/Delivery/Common/8inch_Touch/package_6DAFE98A.zip
+ delete mode 100644 6MA/Software/Delivery/Common/Common/package_6DAFE98A.zip
+ delete mode 100644 6MA/Software/Delivery/Common/package_E0198213.zip
+ create mode 100644 6MA/Software/Delivery/Common/package_bd7c52d1.zip
+ delete mode 100644 6MA/Software/Test/Common/10inch/package_a2a08a25.zip
+ delete mode 100644 6MA/Software/Test/Common/10inch_Touch/package_a2a08a25.zip
+ delete mode 100644 6MA/Software/Test/Common/15inch/package_a2a08a25.zip
+ delete mode 100644 6MA/Software/Test/Common/15inch_Touch/package_a2a08a25.zip
+ delete mode 100644 6MA/Software/Test/Common/8inch/package_a2a08a25.zip
+ delete mode 100644 6MA/Software/Test/Common/8inch_Touch/package_a2a08a25.zip
+ delete mode 100644 6MA/Software/Test/Common/Common/package_a2a08a25.zip
+ delete mode 100644 6MA/Software/Test/Common/package_a2a08a25.zip
+ create mode 100644 6MA/Software/Test/Common/package_ebe63aa5.zip
+ create mode 100644 6MB/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 6MB/Packing/Test/Common/Test.zip
+ delete mode 100644 6MB/Software/Delivery/Common/10inch/package_6C1F456C.zip
+ delete mode 100644 6MB/Software/Delivery/Common/10inch_Touch/package_6C1F456C.zip
+ delete mode 100644 6MB/Software/Delivery/Common/15inch/package_6C1F456C.zip
+ delete mode 100644 6MB/Software/Delivery/Common/15inch_Touch/package_6C1F456C.zip
+ delete mode 100644 6MB/Software/Delivery/Common/8inch/package_6C1F456C.zip
+ delete mode 100644 6MB/Software/Delivery/Common/8inch_Touch/package_6C1F456C.zip
+ delete mode 100644 6MB/Software/Delivery/Common/Common/package_6C1F456C.zip
+ delete mode 100644 6MB/Software/Delivery/Common/package_3E2C557B.zip
+ create mode 100644 6MB/Software/Delivery/Common/package_bd7c52d1.zip
+ delete mode 100644 6MB/Software/Test/Common/10inch/package_423c5fb4.zip
+ delete mode 100644 6MB/Software/Test/Common/10inch_Touch/package_423c5fb4.zip
+ delete mode 100644 6MB/Software/Test/Common/15inch/package_423c5fb4.zip
+ delete mode 100644 6MB/Software/Test/Common/15inch_Touch/package_423c5fb4.zip
+ delete mode 100644 6MB/Software/Test/Common/8inch/package_423c5fb4.zip
+ delete mode 100644 6MB/Software/Test/Common/8inch_Touch/package_423c5fb4.zip
+ delete mode 100644 6MB/Software/Test/Common/Common/package_423c5fb4.zip
+ delete mode 100644 6MB/Software/Test/Common/package_423c5fb4.zip
+ create mode 100644 6MB/Software/Test/Common/package_c764096.zip
+ create mode 100644 6TA/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 6TA/Packing/Test/Common/Test.zip
+ delete mode 100644 6TA/Software/Delivery/Common/10inch/package_A883DEA3.zip
+ delete mode 100644 6TA/Software/Delivery/Common/10inch_Touch/package_A883DEA3.zip
+ delete mode 100644 6TA/Software/Delivery/Common/15inch/package_A883DEA3.zip
+ delete mode 100644 6TA/Software/Delivery/Common/15inch_Touch/package_A883DEA3.zip
+ delete mode 100644 6TA/Software/Delivery/Common/8inch/package_A883DEA3.zip
+ delete mode 100644 6TA/Software/Delivery/Common/8inch_Touch/package_A883DEA3.zip
+ delete mode 100644 6TA/Software/Delivery/Common/Common/package_A883DEA3.zip
+ delete mode 100644 6TA/Software/Delivery/Common/package_62E6072F.zip
+ create mode 100644 6TA/Software/Delivery/Common/package_bd7c52d1.zip
+ delete mode 100644 6TA/Software/Test/Common/10inch/package_fd12c5e5.zip
+ delete mode 100644 6TA/Software/Test/Common/10inch_Touch/package_fd12c5e5.zip
+ delete mode 100644 6TA/Software/Test/Common/15inch/package_fd12c5e5.zip
+ delete mode 100644 6TA/Software/Test/Common/15inch_Touch/package_fd12c5e5.zip
+ delete mode 100644 6TA/Software/Test/Common/8inch/package_fd12c5e5.zip
+ delete mode 100644 6TA/Software/Test/Common/8inch_Touch/package_fd12c5e5.zip
+ delete mode 100644 6TA/Software/Test/Common/Common/package_fd12c5e5.zip
+ create mode 100644 6TA/Software/Test/Common/package_8fc245f.zip
+ delete mode 100644 6TA/Software/Test/Common/package_fd12c5e5.zip
+ create mode 100644 6TB/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 6TB/Packing/Test/Common/Test.zip
+ delete mode 100644 6TB/Software/Delivery/Common/10inch/package_0E0F783C.zip
+ delete mode 100644 6TB/Software/Delivery/Common/10inch_Touch/package_0E0F783C.zip
+ delete mode 100644 6TB/Software/Delivery/Common/15inch/package_0E0F783C.zip
+ delete mode 100644 6TB/Software/Delivery/Common/15inch_Touch/package_0E0F783C.zip
+ delete mode 100644 6TB/Software/Delivery/Common/8inch/package_0E0F783C.zip
+ delete mode 100644 6TB/Software/Delivery/Common/8inch_Touch/package_0E0F783C.zip
+ delete mode 100644 6TB/Software/Delivery/Common/Common/package_0E0F783C.zip
+ delete mode 100644 6TB/Software/Delivery/Common/package_CBD96021.zip
+ create mode 100644 6TB/Software/Delivery/Common/package_bd7c52d1.zip
+ delete mode 100644 6TB/Software/Test/Common/10inch/package_8d04bf18.zip
+ delete mode 100644 6TB/Software/Test/Common/10inch_Touch/package_8d04bf18.zip
+ delete mode 100644 6TB/Software/Test/Common/15inch/package_8d04bf18.zip
+ delete mode 100644 6TB/Software/Test/Common/15inch_Touch/package_8d04bf18.zip
+ delete mode 100644 6TB/Software/Test/Common/8inch/package_8d04bf18.zip
+ delete mode 100644 6TB/Software/Test/Common/8inch_Touch/package_8d04bf18.zip
+ delete mode 100644 6TB/Software/Test/Common/Common/package_8d04bf18.zip
+ create mode 100644 6TB/Software/Test/Common/package_4f9f8526.zip
+ delete mode 100644 6TB/Software/Test/Common/package_8d04bf18.zip
+ delete mode 100644 F01_210TB_E5_10_SEP_DG/Packing/Delivery/Common/8inch/Delivery.zip
+ delete mode 100644 F01_210TB_E5_10_SEP_DG/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E5_10_SEP_DG/Packing/Delivery/Common/Common/Delivery.zip
+ rename F01_210TB_E5_10_SEP_DG/Packing/Delivery/Common/{15inch => }/Delivery.zip (72%)
+ rename 210TB_E5/Software/Delivery/Common/package_9f93be26.zip => F01_210TB_E5_10_SEP_DG/Software/Delivery/Common/package_ca533768.zip (93%)
+ delete mode 100644 F01_210TB_E_10_SEP_DG/Packing/Delivery/Common/10inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_10_SEP_DG/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_10_SEP_DG/Packing/Delivery/Common/15inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_10_SEP_DG/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_10_SEP_DG/Packing/Delivery/Common/8inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_10_SEP_DG/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_10_SEP_DG/Packing/Delivery/Common/Common/Delivery.zip
+ rename {F01_210TB_E5_10_SEP_DG/Packing/Delivery/Common/10inch => F01_210TB_E_10_SEP_DG/Packing/Delivery/Common}/Delivery.zip (72%)
+ rename 210TB_E/Software/Delivery/Common/package_d0f786e.zip => F01_210TB_E_10_SEP_DG/Software/Delivery/Common/package_a5934a70.zip (93%)
+ delete mode 100644 F01_210TB_E_8_SEP_DG/Packing/Delivery/Common/10inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_SEP_DG/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_SEP_DG/Packing/Delivery/Common/15inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_SEP_DG/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_SEP_DG/Packing/Delivery/Common/8inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_SEP_DG/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_SEP_DG/Packing/Delivery/Common/Common/Delivery.zip
+ rename {F01_210TB_E5_10_SEP_DG/Packing/Delivery/Common/15inch_Touch => F01_210TB_E_8_SEP_DG/Packing/Delivery/Common}/Delivery.zip (72%)
+ rename F01_210TB_E_10_SEP_DG/Software/Delivery/Common/package_d0f786e.zip => F01_210TB_E_8_SEP_DG/Software/Delivery/Common/package_a5934a70.zip (93%)
+ delete mode 100644 F01_210TB_E_8_SEP_DG/Software/Delivery/Common/package_d0f786e.zip
+ delete mode 100644 F01_210TB_E_8_STD_DG/Packing/Delivery/Common/10inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_STD_DG/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_STD_DG/Packing/Delivery/Common/15inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_STD_DG/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_STD_DG/Packing/Delivery/Common/8inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_STD_DG/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_8_STD_DG/Packing/Delivery/Common/Common/Delivery.zip
+ rename {F01_210TB_E5_10_SEP_DG/Packing/Delivery/Common/10inch_Touch => F01_210TB_E_8_STD_DG/Packing/Delivery/Common}/Delivery.zip (72%)
+ create mode 100644 F01_210TB_E_8_STD_DG/Software/Delivery/Common/package_a5934a70.zip
+ delete mode 100644 F01_210TB_E_8_STD_DG/Software/Delivery/Common/package_d0f786e.zip
+ delete mode 100644 F01_210TB_E_VGA/Packing/Delivery/Common/10inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_VGA/Packing/Delivery/Common/10inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_VGA/Packing/Delivery/Common/15inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_VGA/Packing/Delivery/Common/15inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_VGA/Packing/Delivery/Common/8inch/Delivery.zip
+ delete mode 100644 F01_210TB_E_VGA/Packing/Delivery/Common/8inch_Touch/Delivery.zip
+ delete mode 100644 F01_210TB_E_VGA/Packing/Delivery/Common/Common/Delivery.zip
+ create mode 100644 F01_210TB_E_VGA/Software/Delivery/Common/package_a5934a70.zip
+ delete mode 100644 F01_210TB_E_VGA/Software/Delivery/Common/package_d0f786e.zip
+ create mode 100644 F01_6A_4012_M/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4012_M/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4012_ME/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4012_ME/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4012_T2/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4012_T2/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4012_T2_NPNE/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4012_T2_NPNE/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4012_TE/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4012_TE/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4018_M2/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4018_M2/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4018_M2E/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4018_M2E/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4018_M2_SSD/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4018_T3/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4018_T3/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4018_T3E/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4018_T3E/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4018_T3_NP/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4018_T3_NP/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_4018_T3_NPNE/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_4018_T3_NPNE/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_DG_M/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_DG_M/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_DG_T/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_DG_T/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_SEP_DG_M/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_SEP_DG_M/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_SEP_DG_T/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_SEP_DG_T/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6A_ZJ4012_M/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6A_ZJ4012_M/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4012_M/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4012_M/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4012_ME/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4012_ME/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4012_T2/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4012_T2/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4012_T2_NPNE/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4012_T2_NPNE/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4012_TE/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4012_TE/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4018_M2/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4018_M2/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4018_M2E/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4018_M2E/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4018_M2_SSD/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4018_M2_SSD/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4018_T3/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4018_T3/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4018_T3E/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4018_T3E/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_4018_T3_NPNE/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_4018_T3_NPNE/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_DG_M/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_DG_M/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_DG_T/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_DG_T/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_SEP_DG_M/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_SEP_DG_M/Packing/Test/Common/Test.zip
+ create mode 100644 F01_6B_SEP_DG_T/Packing/Delivery/Common/Delivery.zip
+ create mode 100644 F01_6B_SEP_DG_T/Packing/Test/Common/Test.zip
+ rewrite IgnorePacking.txt (96%)
+Branch 'master' set up to track remote branch 'master' from 'git@github.com:syntecautotest/OQCDB.git'.
+To github.com:syntecautotest/OQCDB.git
+   e7130bd..f80d22a  master -> master
+X: ¤w¸g§R°£¡C
+
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Warning: you have no plugins providing access control for builds, so falling back to legacy behavior of permitting any downstream builds to be triggered
+Ä²µo [8mha:////4IiFioy5qana5AbiDyypaekT8HbcipG5Dun4DlvWRGMCAAAApx+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzxEgZ5/az8JH33zBIwHZxYluof6OyWmZMK1JaWma4PAMCJ4TDUAAAA[0mGit ? SaveOQCFileConfig ªº·s«Ø¸m
+Finished: SUCCESS

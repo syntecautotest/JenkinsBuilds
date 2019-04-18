@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225276"><author>simon</author><date>2019-04-18T08:41:22.193901Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/CNCCenter.cpp</path><path action="M" localPath="OCKrnl\Source\Operation\CNCCenter.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/CNCCenter.cpp</path></paths><msg>merge: HSHP_2636_b_FracDelay18AxesError_118.x, 225010-225050, to 10.118.12O, 10.118.21 by 世棠
+
+fix:
+	修改開啟18軸的時候CCNCCenter::SetRelativeDelayTime會出現stackoverflow</msg></logentry></log>

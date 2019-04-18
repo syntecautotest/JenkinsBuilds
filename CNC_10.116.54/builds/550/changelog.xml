@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225227"><author>simon</author><date>2019-04-18T03:58:16.540868Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/VTypeSyncSpindle.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/VTypeSyncSpindle.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\VTypeSyncSpindle.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/VTypeSyncSpindle.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/PTypeSyncSpindle.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\PTypeSyncSpindle.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/PTypeSyncSpindle.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/PTypeSyncSpindle.cpp</path></paths><msg>merge: ISSUE_14204_b_REDO_SyncSpdEStop_116_56, 224534-224877, to 10.116.56G, 10.118.12O, 10.118.21 by 世棠
+
+fix:
+	針對串列主軸，修正同期時同期主軸因同期Kp設定不當而造成轉速異常時 
+	急停可能無法將同期主軸停止的問題</msg></logentry></log>

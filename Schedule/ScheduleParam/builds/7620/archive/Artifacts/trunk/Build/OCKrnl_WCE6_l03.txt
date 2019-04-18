@@ -1,0 +1,98 @@
+------ Rebuild All started: Project: EventAP, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+EventAP.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCKrnl\Source\EventAP\WCE600Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Event, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCKrnl\Source\Event\WCE600Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MotUtility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'MotUtility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ADQueue.cpp
+ZeroSpeedCheck.cpp
+VelocityControl.cpp
+VelAccMeter.cpp
+TrajectoryThread.cpp
+TrajectoryTapping.cpp
+TrajectorySyncTracking.cpp
+TrajectoryOscillator.cpp
+TrajectoryNormal.cpp
+TrajectoryDef.cpp
+TrajectoryChopping.cpp
+Trajectory.cpp
+TimeBase.cpp
+SyncTracking.cpp
+SCurveTrajectory.cpp
+PostAccelerator_Int.cpp
+PostAccelerator.cpp
+PlayModeInterpolator.cpp
+OneBlockInterpolator.cpp
+MultiPassMovingAverageFilter.cpp
+Generating Code...
+Compiling...
+MpHoming.cpp
+MpHomeSearch.cpp
+MovingAverageFilter.cpp
+MotionPlanner.cpp
+LANodePool.cpp
+LAMotionPlanner.cpp
+KickNode.cpp
+Interpolator.cpp
+HomeSearchCore.cpp
+GradientDescent.cpp
+FLThreadNormal.cpp
+FLCutString.cpp
+FLCutSCurve.cpp
+FLCutRTCP.cpp
+FLCutCSlopeForSpring.cpp
+FLCutCSlope.cpp
+FeedLimit.cpp
+FeedControl.cpp
+FCThreadNormal.cpp
+FCCutString.cpp
+Generating Code...
+Compiling...
+FCCutSmoothScurve.cpp
+FCCutSCurve.cpp
+FCCutRTCP.cpp
+FCCutCSlope.cpp
+DelayFilter.cpp
+CurvatureCalculatorNode.cpp
+CurvatureCalculator.cpp
+CJerkLineInt.cpp
+CJerkHelicalInt.cpp
+BPTLimiter.cpp
+AuxInterpolator.cpp
+ArcFeature.cpp
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\trunk\OCKrnl\Source\MotUtility\WCE600Release\BuildLog.htm"
+MotUtility - 0 error(s), 0 warning(s)
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========
+
