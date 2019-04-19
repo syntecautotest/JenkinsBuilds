@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225410"><author>1384</author><date>2019-04-19T07:19:09.452964Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\SpdParamSync.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/SpdParamSync.cpp</path><path action="M" localPath="res\Common\Data\ASName_Text_COM.xml" kind="file">/cnckernel/trunk/res/Common/Data/ASName_Text_COM.xml</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.20/OCKrnl/Source/MotionPlan/SpdParamSync.cpp</path><path action="M" kind="file">/cnckernel/tags/release_v10.118.20/res/Common/Data/ASName_Text_COM.xml</path></paths><msg>merge: ATEST_1153_b_SpdFbkisNull, 225340-225393 to 10.118.20
+by 嘉倫
+
+1.修正主軸調適頁面無法正確顯示主軸回授角度。
+2.修正第九、第十主軸無法正確顯示主軸名稱。</msg></logentry></log>

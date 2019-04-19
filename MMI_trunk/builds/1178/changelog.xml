@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225409"><author>colingsta</author><date>2019-04-19T07:18:41.326115Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Parameter\Scr_Param.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Parameter/Scr_Param.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.20/MMICommon/Source/Screen/Parameter/Scr_Param.cs</path></paths><msg>merge appkernel/ATEST_1154_WrongParamXml r225386 to 10.118.20, 10.118.21 by 禮芳
+
+修正
+    『SyntecParam.xml中將機構補償參數設定為一維時，進入該頁面沒有跳錯誤提示』的問題</msg></logentry></log>

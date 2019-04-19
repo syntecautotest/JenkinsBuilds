@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225445"><author>jason.yang</author><date>2019-04-19T09:20:22.809739Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/LaserCutting/Source/MaterialDataBase.cs</path><path action="M" localPath="PlugIn\LaserCutting\Source\MaterialDataBase.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/PlugIn/LaserCutting/Source/MaterialDataBase.cs</path></paths><msg>merge Laser_1799_b_CustomKeypadEditMaterialFormError r225279-225362 to 10.118.12O, 10.118.21 by 奇儒
+
+修正 
+    1.客製小鍵盤在工藝資料庫輸入錯誤</msg></logentry></log>

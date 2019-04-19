@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225391"><author>simon</author><date>2019-04-19T05:59:27.217764Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/KinematicTransformation/FiveAxisMechanism.cpp</path><path action="M" localPath="OCKrnl\Source\KinematicTransformation\FiveAxisMechanism.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/KinematicTransformation/FiveAxisMechanism.cpp</path></paths><msg>merge(2nd): ISSUE_14462_b_onlyOP29ONAndSet5AxRTCPCrash_116.56.x, 225367, to 10.116.56G, 10.118.12O by 芝峰
+
+fix:
+    修正未更新 第二旋轉軸方向, 導致開機跳 COR-156.</msg></logentry></log>
