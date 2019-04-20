@@ -1,0 +1,36 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4IWWTaHX4w5339wMUDl1e9/rnLAr5qLqoZAclQttdgU0AAAAsR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy1EgYD/az8JP3g5IzUlNKcVBSOc0ZqcnZ8cl5ydmpRXmpOvKGhRbyBPgB8Qf115QAAAA==[0mSchedule/ScheduleCheck_cnckernel_118_0" ªº²Ä [8mha:////4PnIzOzzJimOaP2OcgYSCyFZb8snMdBvnC8YiJI6ITPjAAAAtB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgZj/az8JP3g5IzUlNKcVBSOc0ZqcnZ8cl5ydmpRXmpOvKGhRbyBvomhEQAJryQu6AAAAA==[0m412 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¤W¶Ç±M®× "[8mha:////4KHPaB+ykHQOi2WrzQYw4QjQAT5Tf24RtW38Say6e1ZNAAAAph+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzpEgZV/az8JP3g5IzUlNKcVBSOc0ZqcnZ8QWZBqj4AT5Vso9oAAAA=[0mSchedule/ScheduleCheck_pipe" ªº²Ä [8mha:////4D7qung/3X2FeLWQRVynHYT1lDwVpSKF414CZyMVV0YDAAAAqR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYN/az8JP3g5IzUlNKcVBSOc0ZqcnZ8QWZBqr6ZmSkADYcPpd0AAAA=[0m665 ¦¸«Ø¸m±Ò°Ê
+ ­ì¦]¬°:
+  ¥Ñ­p®É¾¹±Ò°Ê
+[EnvInject] - Loading node environment variables.
+[EnvInject] - Preparing an environment for the build.
+[EnvInject] - Keeping Jenkins system variables.
+[EnvInject] - Keeping Jenkins build variables.
+[EnvInject] - Evaluating the Groovy script content
+[EnvInject] - Injecting contributions.
+¦b [8mha:////4GinKoDjBILR34f58zb3GJsqCED5kpBr0Z6xvYgtPpyqAAAAoR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzuEgZR/eT83ILSktQi/eDkjNSU0pzUeCdfAOFI0UXKAAAA[0mSchedule_BM ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\OpenCNC\Schedule
+Run condition [Not] preventing prebuild for step [Set the build result]
+Run condition [File exists] enabling prebuild for step [°õ¦æ Windows §å¦¸«ü¥O]
+Run condition [Always] enabling prebuild for step [Inject environment variables]
+Run condition [Strings match] enabling prebuild for step [BuilderChain]
+Pre-Build Update: Updated Dashboard DB
+[EnvInject] - Executing scripts and injecting environment variables after the SCM step.
+[EnvInject] - Evaluating the Groovy script content
+Set build name.
+New build name is '#7640 v10_118_0 CNC [2019-04-20]'
+[File exists] check if file exists [rel_v10_118_0/Build/error/check.log]
+Run condition [Not] enabling perform for step [Set the build result]
+Setting result to [¤¤Â_]
+Build step 'Conditional step (single)' changed build result to ABORTED
+Build step 'Conditional step (single)' marked build as failure
+Set build name.
+New build name is '#7640 v10_118_0 CNC [2019-04-20]'
+Variable with name 'BUILD_DISPLAY_NAME' already exists, current value: '#7640 v10_118_0 CNC [2019-04-20]', new value: '#7640 v10_118_0 CNC [2019-04-20]'
+Post-Build Update: Updated Dashboard DB
+«Ê¦s¦¨«~
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  1 minute 52 second
+Finished: ABORTED
