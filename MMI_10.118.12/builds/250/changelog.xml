@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225879"><author>colingsta</author><date>2019-04-24T08:21:08.601912Z</date><paths><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Machine/SerialServo/SerialServo.cs</path><path action="M" localPath="MMICommon\Source\BackupRestore\AutoBackup\AB_BackupList.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/BackupRestore/AutoBackup/AB_BackupList.cs</path><path action="M" localPath="MMICommon\Source\Machine\SerialServo\SerialServo.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Machine/SerialServo/SerialServo.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/BackupRestore/AutoBackup/AB_BackupList.cs</path></paths><msg>merge appkernel/MMI_3849_b_Imx6CrashShortTermSolution r225666 to 10.118.12P, 10.118.21 by 存澤
+
+[相容性異動]
+    關閉自動備份驅動器參數機制作為Imx6卡機短期治標解
+</msg></logentry></log>

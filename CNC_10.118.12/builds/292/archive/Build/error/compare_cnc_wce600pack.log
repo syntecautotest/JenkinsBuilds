@@ -1,0 +1,10 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\Bin\cnc2_fc_rtex.bin
+DiskC\OpenCNC\Bin\cnc2_fc_rtex_marking.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_rtex.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_rtex_marking.bin
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+----------------------------------------------------------------------
