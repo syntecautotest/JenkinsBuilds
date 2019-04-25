@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="225977"><author>1362</author><date>2019-04-25T03:04:15.478671Z</date><paths><path action="M" localPath="RobotPlugin\Plugin\RobotPluginScreen\MotionCmd\Scr_ArticMotionCmd.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/RobotPlugin/Plugin/RobotPluginScreen/MotionCmd/Scr_ArticMotionCmd.cs</path><path action="M" localPath="Res\_Arm\Screen\MotionCmd\Brw_MotionCmd_main_SysAxis.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/Screen/MotionCmd/Brw_MotionCmd_main_SysAxis.xml</path><path action="M" localPath="Res\_Arm\Screen\MotionCmd\Brw_MotionCmd_main_ExtAxis.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/Screen/MotionCmd/Brw_MotionCmd_main_ExtAxis.xml</path></paths><msg>merge appkernel/ROBOT_428_b_FixMotionCmdEditDisplay r224191-r225481 to 10.118.12P, 10.118.21 by 育豪
+
+機器人產品( ARTIC, SCARA, DELTA ) 
+1. 修正運動指令末端坐標資訊 
+2. 修正運動指令外部軸顯示</msg></logentry></log>

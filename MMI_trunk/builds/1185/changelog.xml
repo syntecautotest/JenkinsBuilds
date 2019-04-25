@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226026"><author>colingsta</author><date>2019-04-25T06:26:09.336748Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Parameter\Scr_Param.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Parameter/Scr_Param.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.20/MMICommon/Source/Screen/Parameter/Scr_Param.cs</path></paths><msg>merge appkernel/ATEST_1156_SearchParamBug r226013 to 10.118.20, 10.118.21 by 禮芳
+
+修正
+    『跳至參數功能會切到其他參數頁面』的問題</msg></logentry></log>

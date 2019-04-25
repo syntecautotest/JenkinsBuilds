@@ -1,0 +1,127 @@
+------ Rebuild All started: Project: Utility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+_UNCC.cpp
+.\_UNCC.cpp(106) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(107) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(108) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(109) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(110) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+.\_UNCC.cpp(156) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+ZRtl.cpp
+ZMath.cpp
+ZipArch.cpp
+ZCRC32.cpp
+x86Platform.cpp
+VStack.cpp
+Vector4d.cpp
+Vector3d.cpp
+Vector2d.cpp
+VArray.cpp
+Variant.cpp
+Unzip.cpp
+TZPlex.cpp
+Tuple4d.cpp
+Tuple3d.cpp
+Tuple2d.cpp
+Test_HugeFileEditor.cpp
+StringConverter.cpp
+Stream.cpp
+Generating Code...
+Compiling...
+Stack.cpp
+SmallFileEditor.cpp
+SetupPacking.cpp
+QuickMatrixN.cpp
+Quaternion.cpp
+PropertyBag.cpp
+PolynomialRootSolver.cpp
+Point3d.cpp
+Point2d.cpp
+Platform.cpp
+PID.cpp
+ParamStore.cpp
+ParamCracker.cpp
+PalStdLib.cpp
+OcStreamReader.cpp
+OcFileReader.cpp
+OcDesFileReader.cpp
+NumericalRecipes.cpp
+NumberBag.cpp
+MiddleVoteFilter.cpp
+Generating Code...
+Compiling...
+MatrixN.cpp
+Matrix4d.cpp
+Matrix3d.cpp
+Matrix2d.cpp
+LinkedListPool.cpp
+LinePage.cpp
+LineMap.cpp
+KStringMap.cpp
+JXmlTextWriter.cpp
+JXmlTextReader.cpp
+JReplication.cpp
+JRectLayout.cpp
+JFileInfo.cpp
+JCycleValue.cpp
+JCycleSchemaPool.cpp
+JCycleSchema.cpp
+JCycleDocument.cpp
+JAllocateOnlyHeap.cpp
+IntegerQueue.cpp
+IniReg.cpp
+Generating Code...
+Compiling...
+HugeFileSharedEditor.cpp
+HugeFileReader.cpp
+HugeFileEditor.cpp
+HighPerformanceTimer.cpp
+GVector.cpp
+GuardStore.cpp
+GuardRegistry.cpp
+GMatrix.cpp
+Geometry2d.cpp
+FramStore.cpp
+Frame3d.cpp
+FRAM_Parallel.cpp
+FileDirInfo.cpp
+EventCPBase.cpp
+DocStoreAPI.cpp
+DNCChannel.cpp
+DeviceInfoManager.cpp
+DeviceInfo.cpp
+DESObj.cpp
+Complex.cpp
+Generating Code...
+Compiling...
+CommPort.cpp
+CharQueue.cpp
+BitSet.cpp
+BitFilter.cpp
+BinFileLoader.cpp
+AxisDimension.cpp
+AxisAngle4d.cpp
+AxFrame.cpp
+AsynQueue.cpp
+Argument.cpp
+ArchMgr.cpp
+AlarmFlags.cpp
+AlarmCode.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.116.54\OCKrnl\Source\Utility\Release\BuildLog.htm"
+Utility - 0 error(s), 9 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+
