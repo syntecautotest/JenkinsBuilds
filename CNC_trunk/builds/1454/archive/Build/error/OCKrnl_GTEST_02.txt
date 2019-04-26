@@ -1,0 +1,89 @@
+------ Rebuild All started: Project: Event, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: EventAP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventAP.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Interpolation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Interpolation', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Backlash.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ZPECompensator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+VFFCompensator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TFFCompensator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+StateSpaceModel.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SISOIIRFilter.cpp
+SISOFIRFilter.cpp
+SISODiscreteTransferFunction.cpp
+ServoSyncCompensator.cpp
+ServoCompensation.cpp
+PitchError.cpp
+HighOrderFilter.cpp
+FrictionCompensation.cpp
+FracDelayCompensator.cpp
+ForwardController.cpp
+FirstOrderFilter3d.cpp
+FirstOrderFilter.cpp
+Feedforward.cpp
+DriverSimulator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DirectionPredictor.cpp
+Generating Code...
+Compiling...
+ContourError.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\DriverSimulator.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Interpolation\Release\BuildLog.htm"
+Interpolation - 7 error(s), 0 warning(s)
+------ Rebuild All started: Project: InterpolationTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'InterpolationTest', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+InterpolationTest.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\..\release\interpolation.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\InterpolationTest\Release\BuildLog.htm"
+InterpolationTest - 1 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 2 failed, 0 skipped ==========
+

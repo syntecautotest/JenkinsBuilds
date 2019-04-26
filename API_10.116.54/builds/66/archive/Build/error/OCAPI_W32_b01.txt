@@ -1,0 +1,97 @@
+------ Rebuild All started: Project: BridgeAPI, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Debug|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.116.54\OCAPI\Source\BridgeAPI\Debug\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KrnlAPI, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.116.54\OCAPI\Source\KrnlAPI\Debug\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Debug|Win32'
+Compiling...
+TCPClient.cpp
+d:\jenkins\workspace\api_10.116.54\ocapi\source\socketutility\tcpclient.cpp(254) : warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\jenkins\workspace\api_10.116.54\ocapi\source\socketutility\tcpclient.cpp(281) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+d:\jenkins\workspace\api_10.116.54\ocapi\source\socketutility\tcpclient.cpp(417) : warning C4244: 'argument' : conversion from 'SOCKET' to 'int', possible loss of data
+TCPFunction.cpp
+StdAfx.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\API_10.116.54\OCAPI\Source\SocketUtility\Debug\BuildLog.htm"
+SocketUtility - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Debug|Win32'
+Performing Pre-Build Event...
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+Compiling manifest to resources...
+Linking...
+   Creating library D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\Debug\OCKrnlDrv.lib and object D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\Debug\OCKrnlDrv.exp
+utility.lib(StdAfx.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Release\utility.lib' or at 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\Debug\vc80.pdb'; linking object as if no debug info
+winpal.lib(RTMutex.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Release\winpal.lib' or at 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\Debug\vc80.pdb'; linking object as if no debug info
+Embedding manifest...
+Build log was saved at "file://d:\Jenkins\workspace\API_10.116.54\OCAPI\Source\OCKrnlDrv\Debug\BuildLog.htm"
+OCKrnlDrv - 0 error(s), 2 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Debug|Win32'
+Performing Pre-Build Event...
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\tcpinstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\tcpinstall.cpp(188) : warning C4018: '>' : signed/unsigned mismatch
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\tcpinstall.cpp(250) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\tcpclientlink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\tcpclientlink.cpp(370) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\tcpalarmserver.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcXmlTextReader.cpp
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\ocxmltextreader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcKrnlDrvDll32.cpp
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\ockrnldrvdll32.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+DipoleDeviceBuffer.cpp
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\dipoledevicebuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+Generating Code...
+Compiling...
+OCAPI.cpp
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\ocapi.cpp(448) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\ocapi.cpp(448) : warning C4309: '=' : truncation of constant value
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\ocapi.cpp(1366) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+d:\jenkins\workspace\api_10.116.54\ocapi\source\ocapi\ocapi.cpp(1420) : warning C4018: '<=' : signed/unsigned mismatch
+Compiling manifest to resources...
+Linking...
+   Creating library d:\jenkins\workspace\api_10.116.54\ocapi\source\debug\OCAPI.lib and object d:\jenkins\workspace\api_10.116.54\ocapi\source\debug\OCAPI.exp
+utility.lib(_UNCC.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\utility.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+utility.lib(FileDirInfo.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\utility.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+utility.lib(IniReg.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\utility.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+utility.lib(JXmlTextReader.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\utility.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+utility.lib(StdAfx.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\utility.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+utility.lib(ZMath.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\utility.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+utility.lib(ZRtl.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\utility.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+winpal.lib(Pal.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\winpal.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+winpal.lib(RTMutex.obj) : warning LNK4099: PDB 'vc80.pdb' was not found with 'D:\Jenkins\workspace\API_10.116.54\OCAPI\Source\..\..\OCSDK\\lib\w32\Debug\winpal.lib' or at 'd:\jenkins\workspace\api_10.116.54\ocapi\source\debug\vc80.pdb'; linking object as if no debug info
+Embedding manifest...
+Build log was saved at "file://d:\Jenkins\workspace\API_10.116.54\OCAPI\Source\OCAPI\Debug\BuildLog.htm"
+OCAPI - 0 error(s), 22 warning(s)
+========== Rebuild All: 5 succeeded, 0 failed, 0 skipped ==========
+

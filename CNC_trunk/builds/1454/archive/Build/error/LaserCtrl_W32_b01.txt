@@ -1,0 +1,75 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArrayTypeBuffer.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+VirDynStage.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TransformManager.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TimeTrigSrc.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+StageMoveCompensator.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ObjVirTrig.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NullDynStage.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NulLaserChannel.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ManualJog.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserPLCPanel.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserFileReader.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserDebugData.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserCtrlParamSync.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserCtrl.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserCmdInterpolator.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserAxis.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GalvoHome.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GalvoAxisParamSync.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GalvoAxis.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DynStageTrackingCtrl.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Compiling...
+DynStageMarkMgr.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DistortionTransform.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DCTLoader.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DCTCreater.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CBMParamSync.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BeltDynStage.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\Release\BuildLog.htm"
+LaserCtrl - 26 error(s), 0 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+LaserCtrlDll.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\Release\BuildLog.htm"
+LaserCtrlDll - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 2 failed, 0 skipped ==========
+

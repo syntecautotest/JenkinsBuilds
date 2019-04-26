@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226250"><author>firticket</author><date>2019-04-26T10:22:56.984835Z</date><paths><path action="M" localPath="res\Common\Data\CoordinateAlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Common/Data/CoordinateAlarmMsgChi.Xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/Common/Data/CoordinateAlarmMsgChi.Xml</path><path action="M" localPath="res\Common\Data\CoordinateAlarmMsgEng.Xml" kind="file">/cnckernel/trunk/res/Common/Data/CoordinateAlarmMsgEng.Xml</path><path action="M" localPath="." kind="dir">/cnckernel/trunk</path><path action="M" localPath="res" kind="dir">/cnckernel/trunk/res</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/Common/Data/CoordinateAlarmMsgEng.Xml</path><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12</path><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12/res</path></paths><msg>merge(2nd): CNCKL_2805_f_60CA_60CB_TCode_118x, 226194 to 10.118.21
+merge(2nd): CNCKL_2805_f_60CA_60CB_TCode_11812x, 226193 to 10.118.12P
+by 侑庭
+
+修正警報字串(COR-125)</msg></logentry></log>

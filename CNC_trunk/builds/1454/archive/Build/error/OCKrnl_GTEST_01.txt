@@ -1,0 +1,1215 @@
+------ Rebuild All started: Project: EventAP, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'EventAP', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventAP.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\EventAP\Release\BuildLog.htm"
+EventAP - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Event, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Event', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EventTrigger.cpp
+MixListener.cpp
+EventTriggerManager.cpp
+EventTriggerGroup.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Event\Release\BuildLog.htm"
+Event - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MotUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MotUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ADQueue.cpp
+ZeroSpeedCheck.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+VelocityControl.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+VelAccMeter.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TrajectoryThread.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TrajectoryTapping.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TrajectorySyncTracking.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TrajectoryOscillator.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TrajectoryNormal.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TrajectoryDef.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TrajectoryChopping.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Trajectory.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TimeBase.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SyncTracking.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SCurveTrajectory.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PostAccelerator_Int.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PostAccelerator.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PlayModeInterpolator.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+OneBlockInterpolator.cpp
+MultiPassMovingAverageFilter.cpp
+Generating Code...
+Compiling...
+MpHoming.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MpHomeSearch.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MovingAverageFilter.cpp
+MotionPlanner.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LANodePool.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LAMotionPlanner.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+KickNode.cpp
+Interpolator.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+HomeSearchCore.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GradientDescent.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FLThreadNormal.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FLCutString.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FLCutSCurve.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FLCutRTCP.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FLCutCSlopeForSpring.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FLCutCSlope.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FeedLimit.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FeedControl.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FCThreadNormal.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FCCutString.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Compiling...
+FCCutSmoothScurve.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FCCutSCurve.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FCCutRTCP.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FCCutCSlope.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DelayFilter.cpp
+CurvatureCalculatorNode.cpp
+CurvatureCalculator.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CJerkLineInt.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CJerkHelicalInt.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BPTLimiter.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+AuxInterpolator.cpp
+ArcFeature.cpp
+d:\jenkins\workspace\cnc_trunk\ockrnl\source\motutility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\ArcFeature.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\Release\BuildLog.htm"
+MotUtility - 45 error(s), 0 warning(s)
+------ Rebuild All started: Project: LAPACK, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LAPACK', configuration 'Release|Win32'
+Compiling...
+Stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ddot_.cpp
+xerbla_.cpp
+lsame_.cpp
+dtrsm_.cpp
+dtbsv_.cpp
+dsyrk_.cpp
+dsyr_.cpp
+dscal_.cpp
+dpotf2_.cpp
+dpbtrs_.cpp
+dpbtrf_.cpp
+dpbtf2_.cpp
+dgemv_.cpp
+dgemm_.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\LAPACK\Release\BuildLog.htm"
+LAPACK - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KinematicTransformation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KinematicTransformation', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArcGuidance.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ToolLength.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TableTiltingType.cpp
+SpindleTiltingType.cpp
+SingleTableTiltingType.cpp
+SingleSpindleTiltingType.cpp
+RTCPManager.cpp
+PolarCoordTransform.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MixTiltingType.cpp
+LinearGuidance.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GuidanceCouple.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GenRotHoldRot.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GenKinematics2D.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FourAxisParamSync.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FourAxisMechanism.cpp
+FourAxis.cpp
+FiveAxisParamSync.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FiveAxisMechanism.cpp
+FiveAxis.cpp
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KinematicTransformation\Release\BuildLog.htm"
+KinematicTransformation - 9 error(s), 0 warning(s)
+------ Rebuild All started: Project: Utility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+_UNCC.cpp
+.\_UNCC.cpp(106) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(107) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(108) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(109) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(110) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF8', possible loss of data
+.\_UNCC.cpp(111) : warning C4244: '=' : conversion from 'UCS4' to 'UTF8', possible loss of data
+.\_UNCC.cpp(147) : warning C4244: '=' : conversion from 'UCS4' to 'UTF16', possible loss of data
+.\_UNCC.cpp(155) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+.\_UNCC.cpp(156) : warning C4244: '=' : conversion from 'unsigned long' to 'UTF16', possible loss of data
+ZRtl.cpp
+ZMath.cpp
+ZipArch.cpp
+ZCRC32.cpp
+x86Platform.cpp
+VStack.cpp
+Vector4d.cpp
+Vector3d.cpp
+Vector2d.cpp
+VArray.cpp
+Variant.cpp
+Unzip.cpp
+TZPlex.cpp
+Tuple4d.cpp
+Tuple3d.cpp
+Tuple2d.cpp
+Test_HugeFileEditor.cpp
+StringConverter.cpp
+Stream.cpp
+Generating Code...
+Compiling...
+Stack.cpp
+Sphere.cpp
+SmallFileEditor.cpp
+ShapeData.cpp
+SetupPacking.cpp
+QuickMatrixN.cpp
+Quaternion.cpp
+PropertyBag.cpp
+PoolOfLinkedListOfBulk.cpp
+PolynomialRootSolver.cpp
+Point3d.cpp
+Point2d.cpp
+Platform.cpp
+PID.cpp
+ParamStore.cpp
+ParamCracker.cpp
+PalStdLib.cpp
+OcStreamReader.cpp
+OcFileReader.cpp
+OcDesFileReader.cpp
+Generating Code...
+Compiling...
+NumericalRecipes.cpp
+NumberBag.cpp
+MiddleVoteFilter.cpp
+MatrixN.cpp
+Matrix4d.cpp
+Matrix3d.cpp
+Matrix2d.cpp
+LinkedListPool.cpp
+LinePage.cpp
+LineMap.cpp
+LANAdapterInfo.cpp
+KStringMap.cpp
+KinematicDataDump.cpp
+c1xx : fatal error C1083: Cannot open source file: '.\KinematicDataDump.cpp': No such file or directory
+JXmlTextWriter.cpp
+JXmlTextReader.cpp
+JReplication.cpp
+JRectLayout.cpp
+JFileInfo.cpp
+JCycleValue.cpp
+JCycleSchemaPool.cpp
+Generating Code...
+Compiling...
+JCycleSchema.cpp
+JCycleDocument.cpp
+JAllocateOnlyHeap.cpp
+IntervalChecker.cpp
+Internet.cpp
+IntegerQueue.cpp
+IniRegManager.cpp
+IniReg.cpp
+HugeFileSharedEditor.cpp
+HugeFileReader.cpp
+HugeFileEditor.cpp
+HighPerformanceTimer.cpp
+GVector.cpp
+GuardStore.cpp
+GuardRegistry.cpp
+GMatrix.cpp
+Geometry2d.cpp
+FramStore.cpp
+Frame3d.cpp
+FRAM_Parallel.cpp
+Generating Code...
+Compiling...
+FileDirInfo.cpp
+FIFOQueue.cpp
+EventCPBase.cpp
+DocStoreAPI.cpp
+DNCChannel.cpp
+DeviceInfoManager.cpp
+DeviceInfo.cpp
+DESObj.cpp
+Cylinder.cpp
+Complex.cpp
+CommPort.cpp
+CharQueue.cpp
+ByteOrder.cpp
+Box.cpp
+BitSet.cpp
+BitFilter.cpp
+BinFileLoader.cpp
+AxisDimension.cpp
+AxisAngle4d.cpp
+AxFrame.cpp
+Generating Code...
+Compiling...
+AsynQueue.cpp
+Argument.cpp
+ArchMgr.cpp
+AlarmFlags.cpp
+AlarmCode.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\KinematicDataDump.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Utility\Release\BuildLog.htm"
+Utility - 2 error(s), 9 warning(s)
+------ Rebuild All started: Project: NurbsInterpolation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'NurbsInterpolation', configuration 'Release|Win32'
+Compiling...
+Stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Bezier.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Segment.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NurbsSysState.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NurbsMPFindCorner.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NurbsMPBlockMerge.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NurbsCurvePool.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NurbsCurve.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NurbsAPI.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Kick.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Debug.cpp
+CornerCombine.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CNURBS_FACTORY.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CNURBS.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BlockPool.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Block.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NurbsInterpolation\Release\BuildLog.htm"
+NurbsInterpolation - 14 error(s), 0 warning(s)
+------ Rebuild All started: Project: ToolTable, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ToolTable', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+HMultiToolTable.cpp
+SingleToolTable.cpp
+MultiToolTable.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ToolTable\Release\BuildLog.htm"
+ToolTable - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: WinPAL, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'WinPAL', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CommAPI.cpp
+WinXSignal.cpp
+WinRTTimer.cpp
+VersionInfo.cpp
+ThreadAPI.cpp
+RTMutex.cpp
+Pal.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\WinPAL\Release\BuildLog.htm"
+WinPAL - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: PLCNet, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PLCNet', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+OCClient.cpp
+PLCNet.cpp
+PDU.cpp
+OCServer.cpp
+OCNode.cpp
+OCClientService.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PLCNet\Release\BuildLog.htm"
+PLCNet - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: MSTExeChannel, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MSTExeChannel', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AxPLCCall.cpp
+PLCCall.cpp
+PartCount.cpp
+MSTChannel.cpp
+ModePLCCall.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CycleTimer.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\CycleTimer.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MSTExeChannel\Release\BuildLog.htm"
+MSTExeChannel - 3 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RobotUtility', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RobotCoordinateCalibration.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotUnitConverter.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotDHCaliUtility.cpp
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RobotUtility\Release\BuildLog.htm"
+RobotUtility - 2 error(s), 0 warning(s)
+------ Rebuild All started: Project: DataLog, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'DataLog', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+DataCatch.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TimerManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+KernelLog.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GrinderLog.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DataRecorder.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DataListener.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\DataListener.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DataLog\Release\BuildLog.htm"
+DataLog - 7 error(s), 0 warning(s)
+------ Rebuild All started: Project: DebugLib, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'DebugLib', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+MotionDebug.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\DebugLib\Release\BuildLog.htm"
+DebugLib - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: FFTransform, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'FFTransform', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+FFT.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\FFTransform\Release\BuildLog.htm"
+FFTransform - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: NCLoader, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'NCLoader', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArchiveNcLoader.cpp
+NcProgMgr.cpp
+NcDownload.cpp
+MPYACC.CPP
+..\NcParser\MPYACC.CPP(3017) : warning C4102: 'mperrlabel' : unreferenced label
+MPLEX.CPP
+..\NcParser\MPLEX.CPP(1186) : warning C4102: 'mp_more' : unreferenced label
+..\NcParser\MPLEX.CPP(1169) : warning C4102: 'mp_reject' : unreferenced label
+MDINcLoader.cpp
+LEXBASE.CPP
+IDNCReader.cpp
+FileSysNcLoader.cpp
+DNCSerialComm.cpp
+DNCReaderService.cpp
+DNCNetwork.cpp
+DNCHugeDiskFile.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\NcLoader\Release\BuildLog.htm"
+NCLoader - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: MotionPlan, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'MotionPlan', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AutoCommander.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+WorkpieceTable.cpp
+Workpiece.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+WaitSignalCondManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+VTypeSyncSpindle.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ThreadNormal.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TestDualLossPulseCheck.cpp
+TappingPair.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TappingLearning.cpp
+Tapping.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SyncSpindleManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SyncSpindle.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SyncOutManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+StrokeTable.cpp
+StrokeLimit.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SpindlePlanner.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Spindle.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SpdVcmdControl.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SpdParamSync.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SkipTravel.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Compiling...
+SkipFunction.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SimuServo3d.cpp
+SimuServo.cpp
+ServoTap.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ServoSpindle.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ServoSOS.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ServoLagTapping.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ServoLagChopping.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ServoGear.cpp
+Servo.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SCurve.cpp
+RapidTravel.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RadialCompensator.cpp
+PTypeSyncSpindle.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PostureFairing.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PostKinematicAcc.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+OneBlkPlanner.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NurbsSmooth.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NurbsConverter.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NCExecutive.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Compiling...
+MpMPGJog.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MPKinematicTransform.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MpJog.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MPInterpolation.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MpIncJog.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MpgWheel.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MPCoordTransform.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ManualAxis.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LengthProjector.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LearningErrorTable.cpp
+LearningControl.cpp
+KaiserWindowFilter3d.cpp
+KaiserWindowFilter.cpp
+JogCommander.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+JogBase.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+IServoLag.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+InverterSpindle.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+InverterSOS.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+InversePlant.cpp
+IncConverter.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Compiling...
+GrinderAdjust.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FastDrill.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+EnIPExecutor.cpp
+EDM.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ECamManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ECam.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Dwell.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DispCalculator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CycleTimeEstimator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CutString.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CutSmoothSCurve.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CutSCurve.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CutRTCP.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CutFiveAxis.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CutCSlopeForSpring.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CutCSlope.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CustomDelayQueue.cpp
+CSManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CoupleTransform.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CompBlkPlanner.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Compiling...
+CommandQueue.cpp
+CmdQueue.cpp
+Chopping.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BackgndFuncHandler.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+AxParamSync.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+AxisInPosCheck.cpp
+AxisExchanger.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Axis.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\Axis.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotionPlan\Release\BuildLog.htm"
+MotionPlan - 70 error(s), 0 warning(s)
+------ Rebuild All started: Project: KePLC, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KePLC', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+LadderCompiler.cpp
+PLCUtility.cpp
+PLCScanner.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PLCDeviceManager.cpp
+PLCAlarmDef.cpp
+LadderWRPool.cpp
+LadderParser.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\PLCScanner.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\KePLC\Release\BuildLog.htm"
+KePLC - 2 error(s), 0 warning(s)
+------ Rebuild All started: Project: PathPlan, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'PathPlan', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArcResolver.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ToolTableManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ToolRadius.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ToolOffset.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ScanTable.cpp
+Scaling.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Rotation.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ReadySink.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ProgramContext.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PolarCommand.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PathSmooth.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MRPTransform.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MRPQueue.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MRPPool.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MRPFilter.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ModalMacroContext.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ModalContext.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+MacroType.cpp
+MacroCore.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LocalVariable.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Compiling...
+ICoordParamSync.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ICoordinate.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GenKinematicsParamSync.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DirectDrawCorner.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DirectDrawAngle.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CornerFeature.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CoordPLCPanel.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CoordParamSync.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Coordinate.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BreakPointScanner.cpp
+BreakPointHandler.cpp
+BlockTransform.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BlockContext.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BackgndExecuter.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+AxisAddress.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\BackgndExecuter.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\PathPlan\Release\BuildLog.htm"
+PathPlan - 31 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoTuning, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+EncEccComp.cpp
+VFFAdjust.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TuningMgr.cpp
+TuningLog.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TFFAdjust.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SpdAdvTuning.cpp
+FrictionLog.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FrictionAdjust.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+FIRFilter.cpp
+EncTuningTaskMgr.cpp
+EncEccentricComp.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+EncEccCompAlgorithm.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\EncEccentricComp.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\ServoTuning\Release\BuildLog.htm"
+ServoTuning - 7 error(s), 0 warning(s)
+------ Rebuild All started: Project: Interpolation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Interpolation', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Backlash.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ZPECompensator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+VFFCompensator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TFFCompensator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+StateSpaceModel.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SISOIIRFilter.cpp
+SISOFIRFilter.cpp
+SISODiscreteTransferFunction.cpp
+ServoSyncCompensator.cpp
+ServoCompensation.cpp
+PitchError.cpp
+HighOrderFilter.cpp
+FrictionCompensation.cpp
+FracDelayCompensator.cpp
+ForwardController.cpp
+FirstOrderFilter3d.cpp
+FirstOrderFilter.cpp
+Feedforward.cpp
+DriverSimulator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DirectionPredictor.cpp
+Generating Code...
+Compiling...
+ContourError.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\DriverSimulator.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Interpolation\Release\BuildLog.htm"
+Interpolation - 7 error(s), 0 warning(s)
+------ Rebuild All started: Project: InternalCNCAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'InternalCNCAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+InternalCNCAPI.cpp
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\InternalCNCAPI\Release\BuildLog.htm"
+InternalCNCAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotKinematics, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RobotKinematics', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RobotAdditionalAx.cpp
+RobotV4L1A.cpp
+RobotV3L0A.cpp
+RobotV1L2A.cpp
+RobotSixAxis.cpp
+RobotScara.cpp
+RobotPalletizerTypeA.cpp
+RobotPaintSixAxisTypeA.cpp
+RobotKinematics.cpp
+RobotHighPayloadSixAxis.cpp
+RobotHighPayloadPalletizerTypeA.cpp
+RobotH4L1A.cpp
+RobotH2L2B.cpp
+RobotH2L2A.cpp
+RobotFourAxisTypeB.cpp
+RobotFourAxisTypeA.cpp
+RobotFiveAxisTypeA.cpp
+RobotDeltaTypeB.cpp
+RobotDeltaTypeA.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RobotKinematics\Release\BuildLog.htm"
+RobotKinematics - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RemotePanel, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RemotePanel', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+FX2API.cpp
+FXPanelSvr.cpp
+FXPanelClient.cpp
+FX2IComm.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RemotePanel\Release\BuildLog.htm"
+RemotePanel - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Comm, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Comm', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CommSession.cpp
+NcCommFileAPI.cpp
+NcCommFile.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Comm\Release\BuildLog.htm"
+Comm - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotDynamics, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RobotDynamics', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RobotSCARADynamics.cpp
+RobotDynamics.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RobotDynamics\Release\BuildLog.htm"
+RobotDynamics - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotApplication, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RobotApplication', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RobotConveyorTrackingManager.cpp
+RobotWeaving.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotWaitSignalManager.cpp
+RobotToolManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotToolLoader.cpp
+RobotToolCalibration.cpp
+RobotSyncOut.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotStrokeLimit.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotStitching.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotProtectionZone.cpp
+RobotInterruptSignalManager.cpp
+RobotHomePosAndToolCalib.cpp
+RobotDynamicsLearning.cpp
+RobotDHCalibration.cpp
+RobotCoordTransform.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotCoordLoader.cpp
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RobotApplication\Release\BuildLog.htm"
+RobotApplication - 6 error(s), 0 warning(s)
+------ Rebuild All started: Project: XSignal, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'XSignal', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+MultiCast.cpp
+XSignal.cpp
+RTCAPI.cpp
+MultiCastAPI.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\XSignal\Release\BuildLog.htm"
+XSignal - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotMotionPlan, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RobotMotionPlan', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RobotConveyorTracking.cpp
+RobotTrajectoryBlending.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotMoveL.cpp
+RobotMoveJ.cpp
+RobotMotionPlanner.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotInterpolation.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotDirectTeachingTRQ.cpp
+RobotDirectTeachingPOS.cpp
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RobotMotionPlan\Release\BuildLog.htm"
+RobotMotionPlan - 3 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotMotUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RobotMotUtility', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+FLRobotMoveJ.cpp
+RobotMRPQueue.cpp
+RobotMRPPool.cpp
+RobotMotion.cpp
+RobotInterpolator.cpp
+FLRobotMoveL.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RobotMotUtility\Release\BuildLog.htm"
+RobotMotUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotOperation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RobotOperation', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RobotCoordinate.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotSimulator.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotPLCPanel.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotParamSync.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotIOFcnManager.cpp
+RobotDrawer.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotCSManager.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RobotOperation\Release\BuildLog.htm"
+RobotOperation - 6 error(s), 0 warning(s)
+------ Rebuild All started: Project: RobotPathPlan, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'RobotPathPlan', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RobotExecutive.cpp
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RobotQuaternionConverter.cpp
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\RobotPathPlan\Release\BuildLog.htm"
+RobotPathPlan - 1 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+AlarmHistoryStore.cpp
+XMLDatabase.cpp
+VelGlitchCompKeyMap.cpp
+TCPServer.cpp
+SystemIdentify.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SysPLCPanel.cpp
+SysParamSync.cpp
+SvoDevStateTable.cpp
+SvoChMap.cpp
+StrokeLimitDesk.cpp
+SlaveFrame.cpp
+SimuPool.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Simulator.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+SerialDeviceServ.cpp
+SerialDeviceCtrl.cpp
+ScanSignalHandler.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+RTUSlave.cpp
+ResourceMgr.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ProgrammableDesk.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+PLCEventMonitor.cpp
+Generating Code...
+Compiling...
+ParseContext.cpp
+ParamManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ORXManager.cpp
+OpPLCPanel.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+OpParamSync.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+OpOutStream.cpp
+OPLog.cpp
+NcDrawer.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ModeGroup.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ModbusSlaveComm.cpp
+MakerConfigInfo.cpp
+LatchIBitControl.cpp
+LatchDrvSglControl.cpp
+GVPWorkVar.cpp
+GVPPLCRegister.cpp
+GVPPersist.cpp
+GVPInMemory.cpp
+GVCInMemory.cpp
+GVCBase.cpp
+FrameUtility.cpp
+Generating Code...
+Compiling...
+FileWriter.cpp
+FileReader.cpp
+FileBase.cpp
+ExtStrokeTableParamSync.cpp
+ExtStrokeTable.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ECamPLCPanel.cpp
+DumpDbg.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DriverManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DataListenManager.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CoordStateTable.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+cncctrl.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CNCCenter.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+cncapi.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BackgndExePanel.cpp
+BackgndExeCenter.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+AxisDesk.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+AlarmPendingStore.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+BSCMAKE: error BK1506 : cannot open file '.\Release\AxisDesk.sbr': No such file or directory
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\Operation\Release\BuildLog.htm"
+Operation - 22 error(s), 0 warning(s)
+------ Rebuild All started: Project: DataLogTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'DataLogTest', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+RecorderTest.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DataLogTest.cpp
+d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\MotUtility\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCKrnl\Source\GMock\DataLogTest\Release\BuildLog.htm"
+DataLogTest - 2 error(s), 0 warning(s)
+========== Rebuild All: 16 succeeded, 18 failed, 0 skipped ==========
+

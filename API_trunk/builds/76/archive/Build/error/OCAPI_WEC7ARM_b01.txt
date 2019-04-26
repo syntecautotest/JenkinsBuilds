@@ -1,0 +1,176 @@
+------ Rebuild All started: Project: KrnlAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+KrnlAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\jenkins\workspace\api_trunk\ocapi\source\krnlapi\KrnlAPI.h(121) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\KrnlAPI.cpp(1398) : error C2065: 'In_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1398) : error C2146: syntax error : missing ';' before identifier 'BufferIn'
+.\KrnlAPI.cpp(1398) : error C2065: 'BufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1399) : error C2065: 'Out_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1399) : error C2146: syntax error : missing ';' before identifier 'BufferOut'
+.\KrnlAPI.cpp(1399) : error C2065: 'BufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2065: 'OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2065: 'BufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2065: 'BufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2065: 'Out_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1407) : error C2065: 'BufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1407) : error C2228: left of '.hr' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1411) : error C2065: 'BufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1411) : error C2228: left of '.nAxes' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1689) : error C2039: 'nSimuType' : is not a member of 'In_OCK_SMPlayParams'
+        D:\Jenkins\workspace\API_trunk\OCSDK\inc\KrnlAPIDef.h(3489) : see declaration of 'In_OCK_SMPlayParams'
+.\KrnlAPI.cpp(1720) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\KrnlAPI.cpp(1722) : error C2065: 'In_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1722) : error C2146: syntax error : missing ';' before identifier 'bufferIn'
+.\KrnlAPI.cpp(1722) : error C2065: 'bufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1723) : error C2065: 'bufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1723) : error C2228: left of '.dwHandle' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1724) : error C2065: 'bufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1724) : error C2228: left of '.HMIKey' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1726) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1726) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1730) : error C2065: 'OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1730) : error C2065: 'bufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1730) : error C2065: 'In_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1730) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1730) : error C2065: 'Out_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1730) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1735) : error C2065: 'Out_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1735) : error C2065: 'lpBufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1735) : error C2065: 'Out_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1735) : error C2059: syntax error : ')'
+.\KrnlAPI.cpp(1737) : error C2065: 'lpBufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1737) : error C2227: left of '->hr' must point to class/struct/union/generic type
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1738) : error C2065: 'lpBufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1738) : error C2227: left of '->hr' must point to class/struct/union/generic type
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1742) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1742) : error C2065: 'temp' : undeclared identifier
+.\KrnlAPI.cpp(1742) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1742) : error C2059: syntax error : ')'
+.\KrnlAPI.cpp(1743) : error C2065: 'lpBuffer' : undeclared identifier
+.\KrnlAPI.cpp(1743) : error C2065: 'temp' : undeclared identifier
+.\KrnlAPI.cpp(1743) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1743) : error C2070: ''unknown-type'': illegal sizeof operand
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\WCE700ARM_DipoleRelease\BuildLog.htm"
+KrnlAPI - 49 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+TCPFunction.cpp
+C:\Program Files\Microsoft Visual Studio 9.0\VC\ce\include\xlocnum(69) : warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(494) : see declaration of 'wcstombs'
+C:\Program Files\Microsoft Visual Studio 9.0\VC\ce\include\xlocnum(98) : warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(489) : see declaration of 'mbstowcs'
+.\TCPFunction.cpp(338) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(168) : see declaration of 'wcscpy'
+.\TCPFunction.cpp(339) : warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(167) : see declaration of 'wcscat'
+.\TCPFunction.cpp(408) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(168) : see declaration of 'wcscpy'
+.\TCPFunction.cpp(409) : warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(167) : see declaration of 'wcscat'
+.\TCPFunction.cpp(573) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPFunction.cpp(574) : warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(489) : see declaration of 'mbstowcs'
+.\TCPFunction.cpp(587) : warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(494) : see declaration of 'wcstombs'
+.\TCPFunction.cpp(588) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(168) : see declaration of 'wcscpy'
+TCPClient.cpp
+C:\Program Files\Microsoft Visual Studio 9.0\VC\ce\include\xlocnum(69) : warning C4996: 'wcstombs': This function or variable may be unsafe. Consider using wcstombs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(494) : see declaration of 'wcstombs'
+C:\Program Files\Microsoft Visual Studio 9.0\VC\ce\include\xlocnum(98) : warning C4996: 'mbstowcs': This function or variable may be unsafe. Consider using mbstowcs_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(489) : see declaration of 'mbstowcs'
+.\TCPClient.cpp(257) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(258) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(219) : see declaration of 'strcat'
+.\TCPClient.cpp(259) : warning C4996: '_itoa': This function or variable may be unsafe. Consider using _itoa_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(514) : see declaration of '_itoa'
+.\TCPClient.cpp(260) : warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(219) : see declaration of 'strcat'
+.\TCPClient.cpp(336) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(337) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(352) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(439) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(451) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+.\TCPClient.cpp(466) : warning C4996: 'wcscpy': This function or variable may be unsafe. Consider using wcscpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(168) : see declaration of 'wcscpy'
+.\TCPClient.cpp(467) : warning C4996: 'wcscat': This function or variable may be unsafe. Consider using wcscat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(167) : see declaration of 'wcscat'
+.\TCPClient.cpp(534) : warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+        c:\program files\windows ce tools\sdks\wec7\include\armv4i\stdlib.h(218) : see declaration of 'strcpy'
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\SocketUtility\WCE700ARM_Release\BuildLog.htm"
+SocketUtility - 0 error(s), 24 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+Linking...
+   Creating library WCE700ARM_Release\OCKrnlDrv.lib and object WCE700ARM_Release\OCKrnlDrv.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\WCE700ARM_Release\BuildLog.htm"
+OCKrnlDrv - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: BridgeAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+cl : Command line warning D9002 : ignoring unknown option '/clr:noAssembly'
+BridgeAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\BridgeAPI\WEC7 (ARMv4I)\DipoleRelease\BuildLog.htm"
+BridgeAPI - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+DipoleDeviceBuffer.cpp
+TCPInstall.cpp
+d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\KrnlAPI.h(121) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(372) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+StdAfx.cpp
+OcXmlTextReader.cpp
+OcKrnlDrvDll.cpp
+OCAPI.cpp
+d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\KrnlAPI.h(121) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\OCAPI.cpp(449) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(449) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(1409) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+.\OCAPI.cpp(1472) : warning C4018: '<=' : signed/unsigned mismatch
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\OCAPI\WCE700ARM_DipoleRelease\BuildLog.htm"
+OCAPI - 2 error(s), 7 warning(s)
+========== Rebuild All: 3 succeeded, 2 failed, 0 skipped ==========
+

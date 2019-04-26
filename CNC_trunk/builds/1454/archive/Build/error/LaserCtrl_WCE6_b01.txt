@@ -1,0 +1,101 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+ArrayTypeBuffer.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+VirDynStage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TransformManager.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+TimeTrigSrc.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StageMoveCompensator.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ObjVirTrig.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NullDynStage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+NulLaserChannel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+ManualJog.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserPLCPanel.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserFileReader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserDebugData.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserCtrlParamSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserCtrl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserCmdInterpolator.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+LaserAxis.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GalvoHome.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GalvoAxisParamSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+GalvoAxis.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Compiling...
+DynStageTrackingCtrl.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DynStageMarkMgr.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DistortionTransform.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DCTLoader.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+DCTCreater.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+CBMParamSync.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+BeltDynStage.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\WCE600Release\BuildLog.htm"
+LaserCtrl - 26 error(s), 0 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+LaserCtrlDll.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+D:\Jenkins\workspace\CNC_trunk\OCSDK\inc\_MotUtility.h(63) : fatal error C1083: Cannot open include file: 'KinematicDataDump.h': No such file or directory
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\WCE600Release\BuildLog.htm"
+LaserCtrlDll - 1 error(s), 0 warning(s)
+========== Rebuild All: 0 succeeded, 2 failed, 0 skipped ==========
+

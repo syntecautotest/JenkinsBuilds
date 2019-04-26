@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226167"><author>colingsta</author><date>2019-04-26T05:06:31.185364Z</date><paths><path action="M" localPath="OCAPI\Source\KrnlAPI\KrnlAPI.cpp" kind="file">/apikernel/trunk/OCAPI/Source/KrnlAPI/KrnlAPI.cpp</path><path action="M" localPath="OCAPI\Source\KrnlAPI\krnlapi.h" kind="file">/apikernel/trunk/OCAPI/Source/KrnlAPI/krnlapi.h</path></paths><msg>merge apikernel/MMI_3742_f_SimuTime r220086-r220162 to 10.118.21 by 禮芳
+
+新增
+    人機配合核心預估時間議題修改相關API</msg></logentry></log>

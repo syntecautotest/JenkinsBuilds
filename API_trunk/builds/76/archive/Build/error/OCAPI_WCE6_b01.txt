@@ -1,0 +1,108 @@
+------ Rebuild All started: Project: KrnlAPI, Configuration: DipoleRelease Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'DipoleRelease|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+KrnlAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+d:\jenkins\workspace\api_trunk\ocapi\source\krnlapi\KrnlAPI.h(121) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\KrnlAPI.cpp(1398) : error C2065: 'In_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1398) : error C2146: syntax error : missing ';' before identifier 'BufferIn'
+.\KrnlAPI.cpp(1398) : error C2065: 'BufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1399) : error C2065: 'Out_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1399) : error C2146: syntax error : missing ';' before identifier 'BufferOut'
+.\KrnlAPI.cpp(1399) : error C2065: 'BufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2065: 'OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1407) : error C2228: left of '.hr' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1411) : error C2228: left of '.nAxes' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1689) : error C2039: 'nSimuType' : is not a member of 'In_OCK_SMPlayParams'
+        D:\Jenkins\workspace\API_trunk\OCSDK\inc\KrnlAPIDef.h(3489) : see declaration of 'In_OCK_SMPlayParams'
+.\KrnlAPI.cpp(1720) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\KrnlAPI.cpp(1722) : error C2065: 'In_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1722) : error C2146: syntax error : missing ';' before identifier 'bufferIn'
+.\KrnlAPI.cpp(1722) : error C2065: 'bufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1723) : error C2228: left of '.dwHandle' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1724) : error C2228: left of '.HMIKey' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1726) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1726) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1730) : error C2065: 'OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1730) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1730) : error C2065: 'Out_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1730) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1735) : error C2065: 'lpBufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1735) : error C2059: syntax error : ')'
+.\KrnlAPI.cpp(1737) : error C2227: left of '->hr' must point to class/struct/union/generic type
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1738) : error C2227: left of '->hr' must point to class/struct/union/generic type
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1742) : error C2065: 'temp' : undeclared identifier
+.\KrnlAPI.cpp(1742) : error C2059: syntax error : ')'
+.\KrnlAPI.cpp(1743) : error C2065: 'lpBuffer' : undeclared identifier
+.\KrnlAPI.cpp(1743) : error C2070: ''unknown-type'': illegal sizeof operand
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\WCE600DipoleRelease\BuildLog.htm"
+KrnlAPI - 32 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+TCPFunction.cpp
+TCPClient.cpp
+Generating Code...
+Compiling...
+StdAfx.cpp
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\SocketUtility\WCE600Release\BuildLog.htm"
+SocketUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: BridgeAPI, Configuration: DipoleRelease Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'DipoleRelease|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+BridgeAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Creating library...
+stdafx.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\BridgeAPI\WCE600DipoleRelease\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: DipoleRelease Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'DipoleRelease|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+TCPInstall.cpp
+d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\KrnlAPI.h(121) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(372) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+StdAfx.cpp
+OcXmlTextReader.cpp
+OcKrnlDrvDll.cpp
+OCAPI.cpp
+d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\KrnlAPI.h(121) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\OCAPI.cpp(449) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(449) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(1409) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+.\OCAPI.cpp(1472) : warning C4018: '<=' : signed/unsigned mismatch
+DipoleDeviceBuffer.cpp
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\OCAPI\WCE600DipoleRelease\BuildLog.htm"
+OCAPI - 2 error(s), 7 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+Linking...
+   Creating library WCE600Release\OCKrnlDrv.lib and object WCE600Release\OCKrnlDrv.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\WCE600Release\BuildLog.htm"
+OCKrnlDrv - 0 error(s), 0 warning(s)
+========== Rebuild All: 3 succeeded, 2 failed, 0 skipped ==========
+

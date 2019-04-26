@@ -1,0 +1,112 @@
+------ Rebuild All started: Project: BridgeAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\BridgeAPI\Release\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KrnlAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+d:\jenkins\workspace\api_trunk\ocapi\source\krnlapi\KrnlAPI.h(121) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\KrnlAPI.cpp(1398) : error C2065: 'In_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1398) : error C2146: syntax error : missing ';' before identifier 'BufferIn'
+.\KrnlAPI.cpp(1398) : error C2065: 'BufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1399) : error C2065: 'Out_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1399) : error C2146: syntax error : missing ';' before identifier 'BufferOut'
+.\KrnlAPI.cpp(1399) : error C2065: 'BufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2065: 'OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1407) : error C2228: left of '.hr' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1411) : error C2228: left of '.nAxes' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1689) : error C2039: 'nSimuType' : is not a member of 'In_OCK_SMPlayParams'
+        D:\Jenkins\workspace\API_trunk\OCSDK\inc\KrnlAPIDef.h(3489) : see declaration of 'In_OCK_SMPlayParams'
+.\KrnlAPI.cpp(1720) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\KrnlAPI.cpp(1722) : error C2065: 'In_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1722) : error C2146: syntax error : missing ';' before identifier 'bufferIn'
+.\KrnlAPI.cpp(1722) : error C2065: 'bufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1723) : error C2228: left of '.dwHandle' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1724) : error C2228: left of '.HMIKey' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1726) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1726) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1730) : error C2065: 'OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1730) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1730) : error C2065: 'Out_OCK_SMGetCycleTimeEstResult' : undeclared identifier
+.\KrnlAPI.cpp(1730) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1735) : error C2065: 'lpBufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1735) : error C2059: syntax error : ')'
+.\KrnlAPI.cpp(1737) : error C2227: left of '->hr' must point to class/struct/union/generic type
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1738) : error C2227: left of '->hr' must point to class/struct/union/generic type
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1742) : error C2065: 'temp' : undeclared identifier
+.\KrnlAPI.cpp(1742) : error C2059: syntax error : ')'
+.\KrnlAPI.cpp(1743) : error C2065: 'lpBuffer' : undeclared identifier
+.\KrnlAPI.cpp(1743) : error C2070: ''unknown-type'': illegal sizeof operand
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\Release\BuildLog.htm"
+KrnlAPI - 32 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+TCPFunction.cpp
+TCPClient.cpp
+.\TCPClient.cpp(254) : warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\SocketUtility\Release\BuildLog.htm"
+SocketUtility - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+Linking...
+   Creating library D:\Jenkins\workspace\API_trunk\OCAPI\Source\Release\OCKrnlDrv.lib and object D:\Jenkins\workspace\API_trunk\OCAPI\Source\Release\OCKrnlDrv.exp
+LINK : warning LNK4199: /DELAYLOAD:OleAcc.dll ignored; no imports found from OleAcc.dll
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\Release\BuildLog.htm"
+OCKrnlDrv - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+d:\Jenkins\workspace\API_trunk\OCAPI\Source\KrnlAPI\KrnlAPI.h(121) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(372) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+.\TCPAlarmServer.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcXmlTextReader.cpp
+.\OcXmlTextReader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcKrnlDrvDll32.cpp
+.\OcKrnlDrvDll32.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+DipoleDeviceBuffer.cpp
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\API_trunk\OCAPI\Source\OCAPI\Release\BuildLog.htm"
+OCAPI - 1 error(s), 9 warning(s)
+========== Rebuild All: 3 succeeded, 2 failed, 0 skipped ==========
+

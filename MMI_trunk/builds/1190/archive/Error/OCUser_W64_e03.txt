@@ -1,0 +1,446 @@
+------ Rebuild All started: Project: Swingw, Configuration: Release x64 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Release|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\XSmDrawer.h(123) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\SimuStorage.h(56) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\XSmDrawer.cpp(1675) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\XSmDrawer.cpp(1675) : error C2065: 'lpBuffer' : undeclared identifier
+.\XSmDrawer.cpp(1676) : error C2448: 'CXSmDrawer::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+XSmCursor.cpp
+XPathSimuBase.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\XPathSimuBase.h(301) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\XSmDrawer.h(123) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\SimuStorage.h(56) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\XPathSimuBase.cpp(709) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\XPathSimuBase.cpp(709) : error C2065: 'lpBuffer' : undeclared identifier
+.\XPathSimuBase.cpp(710) : error C2448: 'CXPathSimuBase::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+.\TextManager.cpp(222) : warning C4267: 'return' : conversion from 'size_t' to 'LONG', possible loss of data
+.\TextManager.cpp(244) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TextManager.cpp(283) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TextManager.cpp(377) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+TDisplay.cpp
+TComponentFactory.cpp
+.\TComponentFactory.cpp(24) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+TComponent.cpp
+.\TComponent.cpp(43) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+SimuStorage.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\SimuStorage.h(56) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\SimuStorage.cpp(79) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\SimuStorage.cpp(79) : error C2065: 'lpBuffer' : undeclared identifier
+.\SimuStorage.cpp(80) : error C2448: 'CSimuStorage::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+.\SimuStorage.cpp(298) : error C2660: 'ISimulator::open' : function does not take 3 arguments
+.\SimuStorage.cpp(330) : error C2660: 'ISimulator::open' : function does not take 3 arguments
+.\SimuStorage.cpp(342) : error C2660: 'ISimulator::open' : function does not take 3 arguments
+SimuServiceProxy.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\SimuServiceProxy.h(52) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\SimuServiceProxy.cpp(78) : error C2660: 'KrnlAPI_SMPlay' : function does not take 4 arguments
+.\SimuServiceProxy.cpp(90) : error C2660: 'KrnlAPI_SMPlay' : function does not take 4 arguments
+.\SimuServiceProxy.cpp(124) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\SimuServiceProxy.cpp(124) : error C2065: 'lpBuffer' : undeclared identifier
+.\SimuServiceProxy.cpp(125) : error C2448: 'CSimuServiceProxy::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+Rectangle.cpp
+OCImage.cpp
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+.\LoadLadder.cpp(51) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(79) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(105) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(393) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(434) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(467) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(615) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(665) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(675) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(800) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(855) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(1081) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\LoadLadder.cpp(1627) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+Line3d.cpp
+JXmlStringTable.cpp
+.\JXmlStringTable.cpp(91) : warning C4267: 'argument' : conversion from 'size_t' to 'DWORD', possible loss of data
+.\JXmlStringTable.cpp(92) : warning C4267: 'argument' : conversion from 'size_t' to 'DWORD', possible loss of data
+JXMLPreConfig.cpp
+.\JXMLPreConfig.cpp(159) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+JXMLPreCompiler.cpp
+.\JXMLPreCompiler.cpp(29) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'int', possible loss of data
+JWin32ProcThunk.cpp
+JTrendChart.cpp
+JTemplateFactory.cpp
+JTemplateComponent.cpp
+JTable.cpp
+.\JTable.cpp(81) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JTable.cpp(110) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JTable.cpp(232) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JTable.cpp(276) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+JStringConnectRule.cpp
+JSelectButton.cpp
+JPreCompilerRule.cpp
+JPicture.cpp
+JPanel.cpp
+.\JPanel.cpp(140) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+.\JPanel.cpp(143) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+.\JPanel.cpp(146) : warning C4267: '=' : conversion from 'size_t' to 'BYTE', possible loss of data
+JPageRegistry.cpp
+JPagePool.cpp
+JPageDeviceTable.cpp
+.\JPageDeviceTable.cpp(31) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'LONG', possible loss of data
+JPage.cpp
+.\JPage.cpp(321) : warning C4244: 'initializing' : conversion from '__int64' to 'UINT', possible loss of data
+.\JPage.cpp(379) : warning C4244: 'initializing' : conversion from '__int64' to 'UINT', possible loss of data
+.\JPage.cpp(418) : warning C4244: 'initializing' : conversion from '__int64' to 'UINT', possible loss of data
+.\JPage.cpp(2197) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+JOCText.cpp
+Generating Code...
+Compiling...
+JOCSimu.cpp
+JNativeWindow.cpp
+.\JNativeWindow.cpp(49) : warning C4244: '=' : conversion from 'LONG_PTR' to 'LONG', possible loss of data
+JMeter.cpp
+.\JMeter.cpp(1879) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1893) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1906) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1925) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1938) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(1951) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(2044) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JMeter.cpp(2066) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+JMarquee.cpp
+JListInputEditor.cpp
+.\JListInputEditor.cpp(221) : warning C4244: 'return' : conversion from 'LRESULT' to 'LONG', possible loss of data
+.\JListInputEditor.cpp(478) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JListInputEditor.cpp(498) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+JListInput.cpp
+JLink.cpp
+JLamp.cpp
+JLabel.cpp
+JInputline.cpp
+.\JInputline.cpp(85) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+JInputEditor.cpp
+.\JInputEditor.cpp(84) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'UINT', possible loss of data
+JInputBase.cpp
+.\JInputBase.cpp(298) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+JInput.cpp
+JIncludePage.cpp
+JGroup.cpp
+.\JGroup.cpp(444) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(455) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(461) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(491) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(498) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(539) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(550) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+.\JGroup.cpp(557) : warning C4267: 'argument' : conversion from 'size_t' to 'INT', possible loss of data
+JGrid.cpp
+JFileList.cpp
+.\JFileList.cpp(55) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+JFenuContextManager.cpp
+.\JFenuContextManager.cpp(13) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContextManager.cpp(40) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContextManager.cpp(91) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+JFenuContext.cpp
+.\JFenuContext.cpp(252) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(267) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(281) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(295) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(304) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(333) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(359) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(913) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(938) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\JFenuContext.cpp(956) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\JFenuContext.cpp(968) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+JFenu.cpp
+.\JFenu.cpp(116) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(158) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(167) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(178) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(189) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(228) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(306) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(339) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(351) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(591) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JFenu.cpp(604) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(635) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JFenu.cpp(650) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(659) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(675) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\JFenu.cpp(684) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+Generating Code...
+Compiling...
+JDynamicPicture.cpp
+JDisplay.cpp
+JDeviceControl.cpp
+JCycleTable.cpp
+.\JCycleTable.cpp(1198) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\JCycleTable.cpp(1215) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+JCycleEditor.cpp
+.\JCycleEditor.cpp(1148) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleEditor.cpp(1647) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\JCycleEditor.cpp(1664) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleEditor.cpp(1822) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleEditor.cpp(2028) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleEditor.cpp(2138) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\JCycleEditor.cpp(2144) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+JCustomControl.cpp
+JCoordBox.cpp
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+.\JControl.cpp(326) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\JControl.cpp(329) : warning C4267: '=' : conversion from 'size_t' to 'int', possible loss of data
+.\JControl.cpp(897) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+JComponent.cpp
+JButton.cpp
+.\JButton.cpp(468) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\JButton.cpp(489) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\JButton.cpp(513) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\JButton.cpp(541) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\JButton.cpp(1287) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\JButton.cpp(1307) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+.\FormatConverter.cpp(11) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(78) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(226) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(249) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FormatConverter.cpp(312) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+DoAction.cpp
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+Generating Code...
+Compiling...
+CTDisplay.cpp
+CncDevice.cpp
+.\CncDevice.cpp(158) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(180) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(202) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(224) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(246) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(398) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(426) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(454) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(482) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(510) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(664) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(685) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(706) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(727) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(748) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(791) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(1136) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\CncDevice.cpp(1499) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+CCycleValue.cpp
+CCycleSchemaFile.cpp
+CCycleSchema.cpp
+CCycleFieldValue.cpp
+CCycleFieldSchemaFactory.cpp
+CCycleFieldSchema.cpp
+CCycleFieldGroupValue.cpp
+CCycleFieldGroupSchema.cpp
+AxCube.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\x64\Release\BuildLog.htm"
+Swingw - 24 error(s), 130 warning(s)
+------ Rebuild All started: Project: OCUSER, Configuration: Release x64 ------
+Deleting intermediate and output files for project 'OCUSER', configuration 'Release|x64'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+TextWnd.cpp
+.\TextWnd.cpp(156) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'long', possible loss of data
+.\TextWnd.cpp(216) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'long', possible loss of data
+.\TextWnd.cpp(319) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'long', possible loss of data
+.\TextWnd.cpp(322) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'long', possible loss of data
+.\TextWnd.cpp(334) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'long', possible loss of data
+.\TextWnd.cpp(388) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'BOOL', possible loss of data
+.\TextWnd.cpp(410) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'BOOL', possible loss of data
+.\TextWnd.cpp(488) : warning C4244: 'initializing' : conversion from 'LRESULT' to 'BOOL', possible loss of data
+StrResMap.cpp
+.\StrResMap.cpp(148) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\StrResMap.cpp(376) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\StrResMap.cpp(379) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\StrResMap.cpp(615) : warning C4267: 'argument' : conversion from 'size_t' to 'DWORD', possible loss of data
+PathSimuWnd.cpp
+..\Swingw\SimuStorage.h(56) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+..\Swingw\XPathSimuBase.h(301) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+..\Swingw\SimuServiceProxy.h(52) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\ocuser\PathSimuWnd.h(162) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\PathSimuWnd.cpp(77) : error C2259: 'CSimuServiceProxy' : cannot instantiate abstract class
+        due to following members:
+        'void ISimulator::open(long,char *)' : is abstract
+        ..\..\..\OCSDK\inc\ISimulator.h(57) : see declaration of 'ISimulator::open'
+        'void ISimulator::topen(long,TCHAR *)' : is abstract
+        ..\..\..\OCSDK\inc\ISimulator.h(61) : see declaration of 'ISimulator::topen'
+.\PathSimuWnd.cpp(117) : warning C4244: 'argument' : conversion from 'UINT_PTR' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(492) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+.\PathSimuWnd.cpp(492) : error C2065: 'lpBuffer' : undeclared identifier
+.\PathSimuWnd.cpp(493) : error C2448: 'CPathSimuWnd::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+.\PathSimuWnd.cpp(611) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(735) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(742) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(868) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(884) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(889) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(943) : warning C4244: 'argument' : conversion from 'LPARAM' to 'ULONG', possible loss of data
+.\PathSimuWnd.cpp(997) : warning C4244: 'argument' : conversion from 'LPARAM' to 'ULONG', possible loss of data
+.\PathSimuWnd.cpp(1006) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\PathSimuWnd.cpp(1015) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\PathSimuWnd.cpp(1024) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\PathSimuWnd.cpp(1033) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\PathSimuWnd.cpp(1042) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\PathSimuWnd.cpp(1047) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\PathSimuWnd.cpp(1052) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\PathSimuWnd.cpp(1075) : warning C4244: 'argument' : conversion from 'LPARAM' to 'long', possible loss of data
+.\PathSimuWnd.cpp(1094) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(1103) : warning C4244: 'argument' : conversion from 'LPARAM' to 'long', possible loss of data
+.\PathSimuWnd.cpp(1118) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(1122) : warning C4244: 'argument' : conversion from 'WPARAM' to 'int', possible loss of data
+.\PathSimuWnd.cpp(1135) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\PathSimuWnd.cpp(1139) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+OCUSER.cpp
+..\Swingw\SimuStorage.h(56) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+..\Swingw\XPathSimuBase.h(301) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+..\Swingw\SimuServiceProxy.h(52) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\ocuser\PathSimuWnd.h(162) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\OCUSER.cpp(251) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\OCUSER.cpp(1065) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+.\OCUSER.cpp(1074) : error C2065: 'lpBuffer' : undeclared identifier
+.\OCUSER.cpp(2912) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\OCUSER.cpp(2913) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\OCUSER.cpp(2935) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+OCTextFileMgr.cpp
+OCLabelWnd.cpp
+.\OCLabelWnd.cpp(169) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\OCLabelWnd.cpp(202) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\OCLabelWnd.cpp(208) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+LadderWnd.cpp
+.\LadderWnd.cpp(120) : warning C4244: 'argument' : conversion from 'UINT_PTR' to 'UINT', possible loss of data
+.\LadderWnd.cpp(731) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\LadderWnd.cpp(737) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\LadderWnd.cpp(783) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\LadderWnd.cpp(788) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\LadderWnd.cpp(829) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\LadderWnd.cpp(886) : warning C4244: 'argument' : conversion from 'LPARAM' to 'int', possible loss of data
+.\LadderWnd.cpp(890) : warning C4244: 'argument' : conversion from 'LPARAM' to 'BOOL', possible loss of data
+.\LadderWnd.cpp(894) : warning C4244: 'argument' : conversion from 'LPARAM' to 'int', possible loss of data
+.\LadderWnd.cpp(918) : warning C4244: 'argument' : conversion from 'LPARAM' to 'int', possible loss of data
+.\LadderWnd.cpp(943) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\LadderWnd.cpp(947) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+KbdReceiver.cpp
+.\KbdReceiver.cpp(209) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+HugeEdit.cpp
+.\HugeEdit.cpp(587) : warning C4244: '=' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\HugeEdit.cpp(690) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(1051) : warning C4267: '=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(1103) : warning C4267: '=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(1173) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeEdit.cpp(1221) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(1254) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeEdit.cpp(1282) : warning C4267: '=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(1289) : warning C4267: '=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(1302) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(1425) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(1466) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeEdit.cpp(1966) : warning C4244: 'initializing' : conversion from 'WPARAM' to 'LONG', possible loss of data
+.\HugeEdit.cpp(2006) : warning C4244: '=' : conversion from '__int64' to 'LONG', possible loss of data
+.\HugeEdit.cpp(2007) : warning C4267: '=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(2023) : warning C4244: 'initializing' : conversion from 'LPARAM' to 'LONG', possible loss of data
+.\HugeEdit.cpp(2213) : warning C4244: 'initializing' : conversion from '__int64' to 'LONG', possible loss of data
+.\HugeEdit.cpp(2537) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(2691) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(2886) : warning C4244: 'initializing' : conversion from '__int64' to 'int', possible loss of data
+.\HugeEdit.cpp(2933) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeEdit.cpp(2940) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeEdit.cpp(2982) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\HugeEdit.cpp(3240) : warning C4267: '+=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(3302) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(3414) : warning C4267: '=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(3464) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+.\HugeEdit.cpp(3472) : warning C4267: 'initializing' : conversion from 'size_t' to 'LONG', possible loss of data
+FenuWnd.cpp
+.\FenuWnd.cpp(684) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\FenuWnd.cpp(817) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(850) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(883) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(916) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(950) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1012) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1045) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1079) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1112) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1176) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1187) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FenuWnd.cpp(1212) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\FenuWnd.cpp(1217) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1243) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\FenuWnd.cpp(1256) : warning C4172: returning address of local variable or temporary
+.\FenuWnd.cpp(1268) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\FenuWnd.cpp(1273) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1311) : warning C4244: 'initializing' : conversion from 'INT_PTR' to 'INT', possible loss of data
+.\FenuWnd.cpp(1312) : warning C4267: 'initializing' : conversion from 'size_t' to 'UINT', possible loss of data
+.\FenuWnd.cpp(1372) : warning C4244: 'argument' : conversion from 'UINT_PTR' to 'UINT', possible loss of data
+CanvasWnd.cpp
+.\CanvasWnd.cpp(476) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\CanvasWnd.cpp(493) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\CanvasWnd.cpp(574) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\CanvasWnd.cpp(583) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\CanvasWnd.cpp(592) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\CanvasWnd.cpp(601) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\CanvasWnd.cpp(610) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\CanvasWnd.cpp(614) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\CanvasWnd.cpp(618) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+BrowserWnd.cpp
+.\BrowserWnd.cpp(106) : warning C4244: 'argument' : conversion from 'UINT_PTR' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(147) : warning C4244: 'argument' : conversion from 'LPARAM' to 'int', possible loss of data
+.\BrowserWnd.cpp(147) : warning C4244: 'argument' : conversion from 'WPARAM' to 'int', possible loss of data
+.\BrowserWnd.cpp(658) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(929) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(938) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1025) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1042) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1059) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1230) : warning C4267: 'return' : conversion from 'size_t' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1509) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1545) : warning C4244: 'argument' : conversion from 'WPARAM' to 'int', possible loss of data
+.\BrowserWnd.cpp(1557) : warning C4244: 'argument' : conversion from 'WPARAM' to 'int', possible loss of data
+.\BrowserWnd.cpp(1567) : warning C4244: 'argument' : conversion from 'WPARAM' to 'int', possible loss of data
+.\BrowserWnd.cpp(1573) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1577) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1584) : warning C4244: 'argument' : conversion from 'WPARAM' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1598) : warning C4244: 'argument' : conversion from 'LPARAM' to 'long', possible loss of data
+.\BrowserWnd.cpp(1598) : warning C4244: 'argument' : conversion from 'WPARAM' to 'int', possible loss of data
+.\BrowserWnd.cpp(1620) : warning C4244: 'argument' : conversion from 'LPARAM' to 'COLORREF', possible loss of data
+.\BrowserWnd.cpp(1962) : warning C4244: '=' : conversion from '__int64' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1973) : warning C4244: '=' : conversion from '__int64' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(1986) : warning C4244: '=' : conversion from '__int64' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(2013) : warning C4244: '=' : conversion from '__int64' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(2024) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+.\BrowserWnd.cpp(2035) : warning C4267: '=' : conversion from 'size_t' to 'UINT', possible loss of data
+Generating Code...
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\OCUser\x64\Release\BuildLog.htm"
+OCUSER - 15 error(s), 138 warning(s)
+========== Rebuild All: 0 succeeded, 2 failed, 0 skipped ==========
+

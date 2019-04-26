@@ -1,0 +1,139 @@
+------ Rebuild All started: Project: Swingw, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xsmdrawer.h(123) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.h(56) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xsmdrawer.cpp(1675) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xsmdrawer.cpp(1675) : error C2065: 'lpBuffer' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xsmdrawer.cpp(1676) : error C2448: 'CXSmDrawer::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+XSmCursor.cpp
+XPathSimuBase.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xpathsimubase.h(301) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xsmdrawer.h(123) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.h(56) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xpathsimubase.cpp(709) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xpathsimubase.cpp(709) : error C2065: 'lpBuffer' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\xpathsimubase.cpp(710) : error C2448: 'CXPathSimuBase::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+TDisplay.cpp
+TComponentFactory.cpp
+TComponent.cpp
+SimuStorage.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.h(56) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.cpp(79) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.cpp(79) : error C2065: 'lpBuffer' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.cpp(80) : error C2448: 'CSimuStorage::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.cpp(298) : error C2660: 'ISimulator::open' : function does not take 3 arguments
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.cpp(330) : error C2660: 'ISimulator::open' : function does not take 3 arguments
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simustorage.cpp(342) : error C2660: 'ISimulator::open' : function does not take 3 arguments
+SimuServiceProxy.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simuserviceproxy.h(52) : error C2061: syntax error : identifier 'TCycleTimeEstResult'
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simuserviceproxy.cpp(78) : error C2660: 'KrnlAPI_SMPlay' : function does not take 4 arguments
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simuserviceproxy.cpp(90) : error C2660: 'KrnlAPI_SMPlay' : function does not take 4 arguments
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simuserviceproxy.cpp(124) : error C2065: 'TCycleTimeEstResult' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simuserviceproxy.cpp(124) : error C2065: 'lpBuffer' : undeclared identifier
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\simuserviceproxy.cpp(125) : error C2448: 'CSimuServiceProxy::GetCycleTimeEstResult' : function-style initializer appears to be a function definition
+Rectangle.cpp
+OCImage.cpp
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+Line3d.cpp
+JXmlStringTable.cpp
+JXMLPreConfig.cpp
+JXMLPreCompiler.cpp
+JWin32ProcThunk.cpp
+JTrendChart.cpp
+JTemplateFactory.cpp
+JTemplateComponent.cpp
+JTable.cpp
+JStringConnectRule.cpp
+JSelectButton.cpp
+JPreCompilerRule.cpp
+JPicture.cpp
+JPanel.cpp
+JPageRegistry.cpp
+JPagePool.cpp
+JPageDeviceTable.cpp
+JPage.cpp
+JOCText.cpp
+Generating Code...
+Compiling...
+JOCSimu.cpp
+JNativeWindow.cpp
+JMeter.cpp
+JMarquee.cpp
+JListInputEditor.cpp
+JListInput.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jlistinput.cpp(505) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JLink.cpp
+JLamp.cpp
+JLabel.cpp
+JInputline.cpp
+JInputEditor.cpp
+JInputBase.cpp
+JInput.cpp
+d:\jenkins\workspace\mmi_trunk\ocuser\source\swingw\jinput.cpp(342) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JIncludePage.cpp
+JGroup.cpp
+JGrid.cpp
+JFileList.cpp
+JFenuContextManager.cpp
+JFenuContext.cpp
+JFenu.cpp
+Generating Code...
+Compiling...
+JDynamicPicture.cpp
+JDisplay.cpp
+JDeviceControl.cpp
+JCycleTable.cpp
+JCycleEditor.cpp
+JCustomControl.cpp
+JCoordBox.cpp
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+JComponent.cpp
+JButton.cpp
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+DoAction.cpp
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+Generating Code...
+Compiling...
+CTDisplay.cpp
+CncDevice.cpp
+CCycleValue.cpp
+CCycleSchemaFile.cpp
+CCycleSchema.cpp
+CCycleFieldValue.cpp
+CCycleFieldSchemaFactory.cpp
+CCycleFieldSchema.cpp
+CCycleFieldGroupValue.cpp
+CCycleFieldGroupSchema.cpp
+AxCube.cpp
+Generating Code...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\Jenkins\workspace\MMI_trunk\OCUser\Source\Swingw\Debug\BuildLog.htm"
+Swingw - 24 error(s), 2 warning(s)
+========== Rebuild All: 0 succeeded, 1 failed, 0 skipped ==========
+

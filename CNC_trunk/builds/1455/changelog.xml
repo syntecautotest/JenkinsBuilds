@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226182"><author>simon</author><date>2019-04-26T06:43:11.166351Z</date><paths><path action="A" localPath="OCKrnl\Source\Utility\KinematicDataDump.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/KinematicDataDump.cpp</path><path action="A" localPath="OCKrnl\Source\Utility\KinematicDataDump.h" kind="file">/cnckernel/trunk/OCKrnl/Source/Utility/KinematicDataDump.h</path></paths><msg>fix merge error from merge: HSHP_1675_f_CycleTimeApproximation, 218386-222655, to 10.118.21 by 芝峰
+
+fix:
+    補上漏掉的檔案。</msg></logentry></log>

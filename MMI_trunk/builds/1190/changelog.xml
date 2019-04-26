@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226172"><author>colingsta</author><date>2019-04-26T05:36:45.640151Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Scr_FileI_E.cs</path><path action="M" localPath="MMICommon\Source\Screen\Scr_FileI_E.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_FileI_E.cs</path></paths><msg>merge appkernel/MMI_3842_b_DuplicateImport r225537 to 10.118.12P, 10.118.21 by 婉庭
+
+修正
+    前後台系統資料匯入時，某些檔案重複問題</msg></logentry></log>
