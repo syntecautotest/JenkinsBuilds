@@ -1,0 +1,89 @@
+------ Rebuild All started: Project: KrnlAPI, Configuration: Release x64 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Release|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+.\KrnlAPI.cpp(1398) : error C2065: 'In_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1398) : error C2146: syntax error : missing ';' before identifier 'BufferIn'
+.\KrnlAPI.cpp(1398) : error C2065: 'BufferIn' : undeclared identifier
+.\KrnlAPI.cpp(1399) : error C2065: 'Out_OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1399) : error C2146: syntax error : missing ';' before identifier 'BufferOut'
+.\KrnlAPI.cpp(1399) : error C2065: 'BufferOut' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2065: 'OCK_GetLoaderAxesNumber' : undeclared identifier
+.\KrnlAPI.cpp(1401) : error C2070: ''unknown-type'': illegal sizeof operand
+.\KrnlAPI.cpp(1407) : error C2228: left of '.hr' must have class/struct/union
+        type is ''unknown-type''
+.\KrnlAPI.cpp(1411) : error C2228: left of '.nAxes' must have class/struct/union
+        type is ''unknown-type''
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_118_12\OCAPI\Source\KrnlAPI\x64\Release\BuildLog.htm"
+KrnlAPI - 10 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release x64 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|x64'
+Compiling...
+StdAfx.cpp
+TCPFunction.cpp
+TCPClient.cpp
+.\TCPClient.cpp(254) : warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+.\TCPClient.cpp(281) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClient.cpp(417) : warning C4244: 'argument' : conversion from 'SOCKET' to 'int', possible loss of data
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_118_12\OCAPI\Source\SocketUtility\x64\Release\BuildLog.htm"
+SocketUtility - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: BridgeAPI, Configuration: Release x64 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Release|x64'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_118_12\OCAPI\Source\BridgeAPI\x64\Release\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Release x64 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Release|x64'
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(662) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+TCPClientLink.cpp
+.\TCPClientLink.cpp(2) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(365) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(372) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\TCPClientLink.cpp(387) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(388) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(538) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(663) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(799) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(848) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+TCPAlarmServer.cpp
+.\TCPAlarmServer.cpp(9) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPAlarmServer.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcXmlTextReader.cpp
+.\OcXmlTextReader.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\OcXmlTextReader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+DipoleDeviceBuffer.cpp
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+Generating Code...
+Compiling...
+OCAPI.cpp
+.\OCAPI.cpp(449) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(449) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(468) : warning C4267: '=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\OCAPI.cpp(1409) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+Linking...
+LINK : fatal error LNK1181: cannot open input file '..\release\krnlapi.lib'
+Build log was saved at "file://d:\OpenCNC\Schedule\API_v10_118_12\OCAPI\Source\OCAPI\x64\Release\BuildLog.htm"
+OCAPI - 1 error(s), 23 warning(s)
+========== Rebuild All: 2 succeeded, 2 failed, 0 skipped ==========
+
