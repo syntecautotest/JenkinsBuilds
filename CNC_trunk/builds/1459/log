@@ -1,0 +1,159 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4AazwNY2AuRDHDYa9pvu/QkSgSTB8UgEOpBYpJGjs2TeAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgY+/dLi1CL9xNISoHxxCQBr16k3wwAAAA==[0mAutoTest Team ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b [8mha:////4ECPsWaloByIbV2fwG+7envRvFI4u++nvTu6y6xjnJQiAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/eT83ILSktQi/RDX4BBfRz/jeCffeCMAzCoIRcwAAAA=[0mTESTMAN3_BM_2 ¤W»·ºÝ«Ø¸m (BM) ¤u§@°Ï D:\Jenkins\workspace\CNC_trunk
+[WS-CLEANUP] Clean-up disabled, skipping workspace deletion.
+Cleaning up D:\Jenkins\workspace\CNC_trunk\.
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\OCTest\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\OCTest\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\OCTest\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Utility\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Utility\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Utility\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Operation\WCE600Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Operation\WCE700ARM_Release
+Deleting D:\Jenkins\workspace\CNC_trunk\OCTest\Source\Operation\Release
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Common\Data\BgndAlarmMsgChi.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Common\Data\AlarmMsgEng.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Common\Data\BgndAlarmMsgEng.Xml
+Deleting D:\Jenkins\workspace\CNC_trunk\res\Common\Data\AlarmMsgChi.Xml
+«Ø¸m¤w¤¤Â_
+¥Ñ [8mha:////4AazwNY2AuRDHDYa9pvu/QkSgSTB8UgEOpBYpJGjs2TeAAAAmR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgY+/dLi1CL9xNISoHxxCQBr16k3wwAAAA==[0mAutoTest Team ¤¤¤î
+«Ê¦s¦¨«~
+ERROR: Failed to update http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk
+ERROR: µLªk«Ê¦s¦¨«~: Build/Release/**,Build/error/**
+[8mha:////4OBzqd9kRsTnic4DHIn/+3k7HSBk0w5Fiickf4GO5OfPAAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mjava.io.IOException: This archives contains unclosed entries.
+	at org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.finish(TarArchiveOutputStream.java:225)
+	at org.apache.commons.compress.archivers.tar.TarArchiveOutputStream.close(TarArchiveOutputStream.java:241)
+	at hudson.util.io.TarArchiver.close(TarArchiver.java:121)
+	at hudson.FilePath.writeToTar(FilePath.java:2253)
+	at hudson.FilePath.access$2100(FilePath.java:195)
+	at hudson.FilePath$45.invoke(FilePath.java:2194)
+	at hudson.FilePath$45.invoke(FilePath.java:2190)
+	at hudson.FilePath$FileCallableWrapper.call(FilePath.java:2731)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:153)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:50)
+	at hudson.remoting.Request$2.run(Request.java:332)
+	at hudson.remoting.InterceptingExecutorService$1.call(InterceptingExecutorService.java:68)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at hudson.remoting.Engine$1$1.run(Engine.java:94)
+	at java.lang.Thread.run(Unknown Source)
+	at ......remote call to JNLP4-connect connection from TESTMAN3/10.10.40.213:49444(Native Method)
+	at hudson.remoting.Channel.attachCallSiteStackTrace(Channel.java:1545)
+	at hudson.remoting.UserResponse.retrieve(UserRequest.java:253)
+	at hudson.remoting.Channel$2.adapt(Channel.java:860)
+Caused: java.util.concurrent.ExecutionException
+	at hudson.remoting.Channel$2.adapt(Channel.java:862)
+	at hudson.remoting.Channel$2.adapt(Channel.java:857)
+	at hudson.remoting.FutureAdapter.get(FutureAdapter.java:59)
+	at hudson.FilePath.copyRecursiveTo(FilePath.java:2202)
+Caused: java.io.IOException: java.lang.InterruptedException
+	at java.lang.Object.wait(Native Method)
+	at hudson.remoting.FastPipedInputStream.read(FastPipedInputStream.java:175)
+Caused: java.io.IOException
+	at hudson.remoting.FastPipedInputStream.read(FastPipedInputStream.java:177)
+	at hudson.util.HeadBufferingStream.read(HeadBufferingStream.java:61)
+	at com.jcraft.jzlib.InflaterInputStream.fill(InflaterInputStream.java:175)
+	at com.jcraft.jzlib.InflaterInputStream.read(InflaterInputStream.java:106)
+	at org.apache.commons.compress.archivers.tar.TarArchiveInputStream.read(TarArchiveInputStream.java:614)
+	at java.io.InputStream.read(Unknown Source)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1792)
+	at org.apache.commons.io.IOUtils.copyLarge(IOUtils.java:1769)
+	at org.apache.commons.io.IOUtils.copy(IOUtils.java:1744)
+	at hudson.util.IOUtils.copy(IOUtils.java:40)
+	at hudson.FilePath.readFromTar(FilePath.java:2279)
+Caused: java.io.IOException: Failed to extract D:\Jenkins\workspace\CNC_trunk/transfer of 104 files
+	at hudson.FilePath.readFromTar(FilePath.java:2289)
+	at hudson.FilePath.copyRecursiveTo(FilePath.java:2199)
+	at jenkins.model.StandardArtifactManager.archive(StandardArtifactManager.java:61)
+	at hudson.tasks.ArtifactArchiver.perform(ArtifactArchiver.java:240)
+	at hudson.tasks.BuildStepCompatibilityLayer.perform(BuildStepCompatibilityLayer.java:81)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:779)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.performAllBuildSteps(AbstractBuild.java:720)
+	at hudson.model.Build$BuildExecution.post2(Build.java:186)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.post(AbstractBuild.java:665)
+	at hudson.model.Run.execute(Run.java:1758)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:405)
+
+	at hudson.FilePath.copyRecursiveTo(FilePath.java:2206)
+	at jenkins.model.StandardArtifactManager.archive(StandardArtifactManager.java:61)
+	at hudson.tasks.ArtifactArchiver.perform(ArtifactArchiver.java:240)
+	at hudson.tasks.BuildStepCompatibilityLayer.perform(BuildStepCompatibilityLayer.java:81)
+	at hudson.tasks.BuildStepMonitor$1.perform(BuildStepMonitor.java:20)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.perform(AbstractBuild.java:779)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.performAllBuildSteps(AbstractBuild.java:720)
+	at hudson.model.Build$BuildExecution.post2(Build.java:186)
+	at hudson.model.AbstractBuild$AbstractBuildExecution.post(AbstractBuild.java:665)
+	at hudson.model.Run.execute(Run.java:1758)
+	at hudson.model.FreeStyleBuild.run(FreeStyleBuild.java:43)
+	at hudson.model.ResourceController.execute(ResourceController.java:97)
+	at hudson.model.Executor.run(Executor.java:405)
+°O¿ý«ü¯¾
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0morg.tmatesoft.svn.core.SVNException: svn: E200030: java.nio.channels.ClosedByInterruptException
+	at org.tmatesoft.svn.core.internal.wc.SVNErrorManager.error(SVNErrorManager.java:70)
+	at org.tmatesoft.svn.core.internal.wc.SVNErrorManager.error(SVNErrorManager.java:57)
+	at org.tmatesoft.svn.core.internal.db.SVNSqlJetDb.createSqlJetError(SVNSqlJetDb.java:195)
+	at org.tmatesoft.svn.core.internal.db.SVNSqlJetDb.beginTransaction(SVNSqlJetDb.java:211)
+	at org.tmatesoft.svn.core.internal.db.SVNSqlJetDb.runTransaction(SVNSqlJetDb.java:257)
+	at org.tmatesoft.svn.core.internal.wc17.db.SVNWCDb.readChildren(SVNWCDb.java:3066)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:673)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.getDirStatus(SVNStatusEditor17.java:720)
+	at org.tmatesoft.svn.core.internal.wc17.SVNStatusEditor17.walkStatus(SVNStatusEditor17.java:641)
+	at org.tmatesoft.svn.core.internal.wc2.ng.SvnNgGetStatus.run(SvnNgGetStatus.java:132)
+	at org.tmatesoft.svn.core.internal.wc2.ng.SvnNgGetStatus.run(SvnNgGetStatus.java:27)
+	at org.tmatesoft.svn.core.internal.wc2.ng.SvnNgOperationRunner.run(SvnNgOperationRunner.java:20)
+	at org.tmatesoft.svn.core.internal.wc2.SvnOperationRunner.run(SvnOperationRunner.java:21)
+	at org.tmatesoft.svn.core.wc2.SvnOperationFactory.run(SvnOperationFactory.java:1235)
+	at org.tmatesoft.svn.core.wc2.SvnOperation.run(SvnOperation.java:294)
+	at org.tmatesoft.svn.core.wc.SVNStatusClient.doStatus(SVNStatusClient.java:363)
+	at hudson.scm.subversion.UpdateWithCleanUpdater$TaskImpl.preUpdate(UpdateWithCleanUpdater.java:66)
+	at hudson.scm.subversion.UpdateUpdater$TaskImpl.perform(UpdateUpdater.java:152)
+	at hudson.scm.subversion.WorkspaceUpdater$UpdateTask.delegateTo(WorkspaceUpdater.java:162)
+	at hudson.scm.SubversionSCM$CheckOutTask.perform(SubversionSCM.java:996)
+	at hudson.scm.SubversionSCM$CheckOutTask.invoke(SubversionSCM.java:972)
+	at hudson.scm.SubversionSCM$CheckOutTask.invoke(SubversionSCM.java:948)
+	at hudson.FilePath$FileCallableWrapper.call(FilePath.java:2731)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:153)
+	at hudson.remoting.UserRequest.perform(UserRequest.java:50)
+	at hudson.remoting.Request$2.run(Request.java:332)
+	at hudson.remoting.InterceptingExecutorService$1.call(InterceptingExecutorService.java:68)
+	at java.util.concurrent.FutureTask.run(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(Unknown Source)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(Unknown Source)
+	at hudson.remoting.Engine$1$1.run(Engine.java:94)
+	at java.lang.Thread.run(Unknown Source)
+Caused by: org.tmatesoft.sqljet.core.SqlJetException: java.nio.channels.ClosedByInterruptException: error code is IOERR
+	at org.tmatesoft.sqljet.core.internal.fs.SqlJetFile.fileSize(SqlJetFile.java:351)
+	at org.tmatesoft.sqljet.core.internal.pager.SqlJetPager.getPageCount(SqlJetPager.java:802)
+	at org.tmatesoft.sqljet.core.internal.pager.SqlJetPager.sharedLock(SqlJetPager.java:1367)
+	at org.tmatesoft.sqljet.core.internal.pager.SqlJetPager.acquirePage(SqlJetPager.java:1020)
+	at org.tmatesoft.sqljet.core.internal.btree.SqlJetBtreeShared.getPage(SqlJetBtreeShared.java:339)
+	at org.tmatesoft.sqljet.core.internal.btree.SqlJetBtree.lockBtree(SqlJetBtree.java:734)
+	at org.tmatesoft.sqljet.core.internal.btree.SqlJetBtree.beginTrans(SqlJetBtree.java:923)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine.doBeginTransaction(SqlJetEngine.java:561)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine.access$100(SqlJetEngine.java:55)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine$9.runSynchronized(SqlJetEngine.java:475)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine.runSynchronized(SqlJetEngine.java:217)
+	at org.tmatesoft.sqljet.core.table.engine.SqlJetEngine.beginTransaction(SqlJetEngine.java:471)
+	at org.tmatesoft.svn.core.internal.db.SVNSqlJetDb.beginTransaction(SVNSqlJetDb.java:206)
+	... 32 more
+Caused by: java.nio.channels.ClosedByInterruptException
+	at java.nio.channels.spi.AbstractInterruptibleChannel.end(Unknown Source)
+	at sun.nio.ch.FileChannelImpl.size(Unknown Source)
+	at org.tmatesoft.sqljet.core.internal.fs.SqlJetFile.fileSize(SqlJetFile.java:349)
+	... 44 more
+ERROR: Subversion update failed
+[8mha:AAAAWB+LCAAAAAAAAP9b85aBtbiIQSmjNKU4P08vOT+vOD8nVc8DzHWtSE4tKMnMz/PLL0ldFVf2c+b/lb5MDAwVRQxSaBqcITRIIQMEMIIUFgAAckCEiWAAAAA=[0mStarted calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in  1 minute 28 second
+Finished: ABORTED
