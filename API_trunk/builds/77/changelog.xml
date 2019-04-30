@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226386"><author>1384</author><date>2019-04-29T11:42:46.332638Z</date><paths><path action="M" localPath="OCAPI\Source\SocketUtility\SocketUtility_WinCE_ARM.vcproj" kind="file">/apikernel/trunk/OCAPI/Source/SocketUtility/SocketUtility_WinCE_ARM.vcproj</path><path action="M" kind="file">/apikernel/branches/release_v10.118.12/OCAPI/Source/KrnlAPI/KrnlAPI.cpp</path><path action="M" kind="file">/apikernel/branches/release_v10.118.12/OCAPI/Source/SocketUtility/SocketUtility_WinCE_ARM.vcproj</path><path action="M" localPath="OCAPI\Source\KrnlAPI\KrnlAPI.cpp" kind="file">/apikernel/trunk/OCAPI/Source/KrnlAPI/KrnlAPI.cpp</path><path action="M" kind="file">/apikernel/tags/release_v10.118.12O/OCAPI/Source/KrnlAPI/KrnlAPI.cpp</path><path action="M" kind="file">/apikernel/tags/release_v10.118.12O/OCAPI/Source/SocketUtility/SocketUtility_WinCE_ARM.vcproj</path></paths><msg>merge: CNCKL_2806_b_GetOptionalAxesNumber_12O, 226316-226350 to 10.118.12O
+merge: CNCKL_2806_b_GetOptionalAxesNumber_18x, 226317-226352 to 10.118.21
+by 嘉倫
+
+[內部] 修正OCAPI GetLoaderAxesNumber錯誤問題。</msg></logentry></log>

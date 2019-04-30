@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226457"><author>1384</author><date>2019-04-30T05:26:47.880043Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/GMock/MotUtilityTest/AuxInterpolatorTest.h</path><path action="M" localPath="OCKrnl\Source\GMock\MotUtilityTest\MotUtilityTest.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/MotUtilityTest/MotUtilityTest.cpp</path><path action="M" localPath="OCKrnl\Source\GMock\MotUtilityTest\AuxInterpolatorTest.h" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/MotUtilityTest/AuxInterpolatorTest.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/GMock/MotUtilityTest/MotUtilityTest.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/GMock/MotUtilityTest/AuxInterpolatorTest.cpp</path><path action="M" localPath="OCKrnl\Source\GMock\MotUtilityTest\AuxInterpolatorTest.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/GMock/MotUtilityTest/AuxInterpolatorTest.cpp</path></paths><msg>merge: CNCKL_2769_b_MotUtilityTest_Error_11812, 226403 to 10.118.12P
+merge: CNCKL_2769_b_MotUtilityTest_Error, 226403 to 10.118.21
+by 青杉
+
+[內部修正]
+修正MotUtilityTest偶發測試不過的問題。</msg></logentry></log>

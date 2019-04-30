@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226459"><author>1384</author><date>2019-04-30T05:34:00.879927Z</date><paths><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/RTCommDriver/ECATDeviceDrv.h</path><path action="M" localPath="OCDevice\Source\RTCommDriver\ECATDeviceDrv.h" kind="file">/cnckernel/trunk/OCDevice/Source/RTCommDriver/ECATDeviceDrv.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/RTCommDriver/ECATDeviceDrv.cpp</path></paths><msg>merge: CNCKL_2680_b_ECAT_CDHD_OP80_Wathdog, 226280 to 10.118.12P, 10.118.21
+by 侑庭
+
+EtherCAT驅動器ESI檔若標明不開啟Watchdog，則不設定相關參數</msg></logentry></log>
