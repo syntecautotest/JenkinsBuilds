@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226553"><author>1200</author><date>2019-04-30T12:06:36.232934Z</date><paths><path action="M" localPath="OCKrnl\Source\RobotMotionPlan\RobotMotionPlanner.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/RobotMotionPlan/RobotMotionPlanner.h</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/RobotMotionPlan/RobotMotionPlanner.h</path><path action="M" localPath="OCKrnl\Source\RobotMotionPlan\RobotMotionPlanner.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/RobotMotionPlan/RobotMotionPlanner.cpp</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/RobotMotionPlan/RobotMotionPlanner.cpp</path></paths><msg>merge: ROBOT_402_b_BackWheelSimError_118_20, 225540-225835, to 10.118.12P, 10.118.21
+by 家豪
+
+from 10.118.8, HSHP-1663
+
+1.機器人產品(ARTIC、SCARA、DELTA) 修正手輪模擬回退功能會觸發警報的錯誤
+2.機器人產品(ARTIC、SCARA、DELTA) 修正手輪模擬回退到初始位置與起始位置不同的錯誤</msg></logentry></log>
