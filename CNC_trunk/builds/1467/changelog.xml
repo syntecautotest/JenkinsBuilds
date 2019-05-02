@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226601"><author>1384</author><date>2019-05-02T00:55:13.320782Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\ServoSpindle.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ServoSpindle.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ServoSpindle.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\ServoSpindle.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/ServoSpindle.h</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/ServoSpindle.h</path></paths><msg>merge: ATEST_1136_b_SPD18_Cannot_Servo_Off, 225526-226423 to 10.118.12P, 10.118.21
+by 旻憲
+
+修正主軸定位失敗時急停失效的問題</msg></logentry></log>

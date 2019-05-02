@@ -1,0 +1,173 @@
+------ Rebuild All started: Project: ServoTuning, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoTuning', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ChTuningControl.cpp
+Creating library...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoTuning\Release\BuildLog.htm"
+ServoTuning - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoLink, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoLink', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ServoLink.cpp
+ServoCommHost.cpp
+SerialPort.cpp
+SanyoServo.cpp
+RS232Export.cpp
+MitsubishiComm.cpp
+Linking...
+   Creating library D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\Release\ServoLink.lib and object D:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\Release\ServoLink.exp
+Generating code
+Finished generating code
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoLink\Release\BuildLog.htm"
+ServoLink - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SvoUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SvoUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CtrlParam.cpp
+SvoAlarmFlag.cpp
+MotorInfoResMap.cpp
+MotorInfoLoader.cpp
+LatchFunction.cpp
+DelayCount.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SvoUtility\Release\BuildLog.htm"
+SvoUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SerialParam, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SerialParam', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+DeviceParamSync.cpp
+SyntecMemoryMap.cpp
+SerialParamTable.cpp
+SerialParamSync.cpp
+SerialParamLoader.cpp
+SerialParamInit.cpp
+SerialParamDefManager.cpp
+ParamAttrMapManager.cpp
+Creating library...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\SerialParam\Release\BuildLog.htm"
+SerialParam - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: ServoDriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'ServoDriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+30gmASIC.cpp
+XY2Channel.cpp
+VirtaulServo5.cpp
+TnCtrlChannel.cpp
+SysIDRead.cpp
+SvoRtl.cpp
+SvoMultiplier.cpp
+SvoMinAbsFilter.cpp
+SvoFineDDA.cpp
+SvoDriver.cpp
+SvoChannel.cpp
+ServoDevice.cpp
+Servo60Driver.cpp
+Servo60Channel.cpp
+Servo5Driver.cpp
+Servo5Channel.cpp
+RWObjMgr.cpp
+NulMCIChannel.cpp
+NullDriver.cpp
+NullChannel.cpp
+Generating Code...
+Compiling...
+NetServoDriver.cpp
+NetServoChannel.cpp
+M2JL098Driver.cpp
+M2JL080Driver.cpp
+M2Driver.cpp
+M2Channel.cpp
+M2ASICCommDriver.cpp
+LaserChannel.cpp
+FineInterpolation.cpp
+EPCIOSVO5.cpp
+EPCIORIO.cpp
+EPCIOPCL.cpp
+EPCIOLIO.cpp
+EPCIOENC.cpp
+EPCIOEDM.cpp
+EPCIODriver.cpp
+EPCIODDA.cpp
+EPCIODAC.cpp
+EPCIOChannel.cpp
+EPCIOASIC.cpp
+Generating Code...
+Compiling...
+EPCIOADC.cpp
+DAChannel.cpp
+CANSvtnx.cpp
+CANPana.cpp
+CANOpenHomeSearch.cpp
+CANMitsu.cpp
+CANInvt.cpp
+CANInov.cpp
+CANDelta.cpp
+30gmDriver.cpp
+30gmChannel.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\ServoDriver\Release\BuildLog.htm"
+ServoDriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: IODriver, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'IODriver', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+IOCh.cpp
+NullLatchIBitChannel.cpp
+NullIoCh.cpp
+MpgIoChannel.cpp
+IoMapFile.cpp
+IoMap.cpp
+IoEPCIO.cpp
+IoCNC2PIO.cpp
+IoChRly2.cpp
+IoChRly1.cpp
+IoChHardkey96.cpp
+IoChHardkey.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\IODriver\Release\BuildLog.htm"
+IODriver - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: CioNull, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'CioNull', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+CioNull.cpp
+Linking...
+   Creating library .\Release/NullIO.lib and object .\Release/NullIO.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\OCDevice\Source\CioNull\Release\BuildLog.htm"
+CioNull - 0 error(s), 0 warning(s)
+========== Rebuild All: 7 succeeded, 0 failed, 0 skipped ==========
+

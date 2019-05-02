@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226702"><author>colingsta</author><date>2019-05-02T05:57:24.130605Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\ScrTool\Scr_MultiToolMill.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/ScrTool/Scr_MultiToolMill.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/ScrTool/Scr_MultiToolMill.cs</path></paths><msg>merge appkernel/ISSUE_14622_b_MultiZTeach r226577-r226701 to 10.118.12P, 10.118.21 by 家齊
+
+修正
+    多Z軸無法使用刀長教導功能 問題</msg></logentry></log>
