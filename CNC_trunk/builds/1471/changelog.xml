@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="226914"><author>simon</author><date>2019-05-03T08:41:23.760881Z</date><paths><path action="M" localPath="OCKrnl\Source\MotUtility\FLCutCSlope.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/FLCutCSlope.cpp</path></paths><msg>fix merge error from merge: HSHP_2609_b_AccLimitError, 223630-226290, to 10.118.21 by 儀禕
+
+fix:
+    多做一次 ClampArcBlockFeedrateAndAcc().</msg></logentry></log>
