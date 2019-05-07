@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="227125"><author>colingsta</author><date>2019-05-07T03:59:26.807296Z</date><paths><path action="M" localPath="OCUser\Source\Swingw\SimuStorage.h" kind="file">/appkernel/trunk/OCUser/Source/Swingw/SimuStorage.h</path><path action="M" localPath="OCUser\Source\Swingw\XSmDrawer.cpp" kind="file">/appkernel/trunk/OCUser/Source/Swingw/XSmDrawer.cpp</path><path action="M" localPath="OCUser\Source\Swingw\XSmDrawer.h" kind="file">/appkernel/trunk/OCUser/Source/Swingw/XSmDrawer.h</path><path action="M" localPath="OCUser\Source\Swingw\SimuStorage.cpp" kind="file">/appkernel/trunk/OCUser/Source/Swingw/SimuStorage.cpp</path></paths><msg>merge appkernel/ATEST_1163_b_MonitorBug r226995-r226997 to 10.118.21 by 禮芳
+
+修正
+    "模擬元件未繪製路徑"的問題</msg></logentry></log>

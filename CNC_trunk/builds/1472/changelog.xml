@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="227186"><author>firticket</author><date>2019-05-07T09:15:46.469201Z</date><paths><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12/OCKrnl/Source</path><path action="M" localPath="OCKrnl\Source\Operation\DriverManager.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/Operation/DriverManager.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/Operation/DriverManager.cpp</path><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12/OCKrnl</path><path action="M" localPath="." kind="dir">/cnckernel/trunk</path><path action="M" localPath="OCKrnl" kind="dir">/cnckernel/trunk/OCKrnl</path><path action="M" localPath="OCKrnl\Source" kind="dir">/cnckernel/trunk/OCKrnl/Source</path><path action="M" kind="dir">/cnckernel/branches/release_v10.118.12</path></paths><msg>merge: ATEST_1168_b_ProtocolTypeInit, 227163, to 10.118.12P, 10.118.21
+by竺晏
+
+feature
+
+修正控制器使用虛擬軸版(Pr9設定9)，偶發顯示負載率的問題</msg></logentry></log>
