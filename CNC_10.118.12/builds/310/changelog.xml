@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="227261"><author>simon</author><date>2019-05-08T04:14:30.451162Z</date><paths><path action="M" localPath="OCKrnl\Source\MotionPlan\MPInterpolation.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/MPInterpolation.cpp</path><path action="M" localPath="OCKrnl\Source\MotUtility\InterpolationInfo.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotUtility/InterpolationInfo.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.h" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/Axis.h</path></paths><msg>merge: ISSUE_14616_b_FunctionInfoMemoryCrash_118.12P, 227239-227258, to 10.118.12P, by 佩吟
+
+fix:
+    修正因記憶體破壞導致控制器跳OP1的現象</msg></logentry></log>
