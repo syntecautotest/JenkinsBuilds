@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="227423"><author>swdjojo</author><date>2019-05-09T02:37:33.639504Z</date><paths><path action="M" localPath="MMICommon\Source\Startup\FrmBackgnd.cs" kind="file">/appkernel/trunk/MMICommon/Source/Startup/FrmBackgnd.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.21/MMICommon/Source/Startup/FrmBackgnd.cs</path><path action="M" localPath="MMICommon\Source\Init\Init.cs" kind="file">/appkernel/trunk/MMICommon/Source/Init/Init.cs</path><path action="M" kind="file">/appkernel/tags/MMIComm_10.118.21/MMICommon/Source/Init/Init.cs</path></paths><msg>merge appkernel/MMI_3862_b_SimulatorInputStyleChanged r227018 to 10.118.21 by 盟仁
+
+修正
+  * 32模擬器 Input 輸入方式改變的問題.
+</msg></logentry></log>
