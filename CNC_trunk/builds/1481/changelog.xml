@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="227695"><author>1384</author><date>2019-05-10T10:43:58.289237Z</date><paths><path action="M" localPath="res\CIP\Data\AlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/CIP/Data/AlarmMsgChi.Xml</path><path action="M" localPath="res\ENIP\Data\AlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/ENIP/Data/AlarmMsgChi.Xml</path></paths><msg>merge: CNCKL_2815_f_Modify_CIP_ENIP_Alarm_118x, 227360-227524 to 10.118.22
+by 振宇
+
+校正CIP, ENIP警報字串和說明文件的繁中/簡中用詞</msg></logentry><logentry revision="227696"><author>1384</author><date>2019-05-10T10:50:53.639966Z</date><paths><path action="M" localPath="res\Common\Data\GeneralAlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Common/Data/GeneralAlarmMsgChi.Xml</path></paths><msg>merge: CNCKL_2817_f_fixOPstring, 227439 to 10.118.22
+by 竺晏
+
+校正OP-1~OP-44警報說明。</msg></logentry><logentry revision="227700"><author>1384</author><date>2019-05-10T11:04:05.216556Z</date><paths><path action="M" localPath="res\Common\Data\GeneralAlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Common/Data/GeneralAlarmMsgChi.Xml</path></paths><msg>merge: CNCKL_2818_f_Modify_OP_Alarm_xml, 227644-227682 to 10.118.22
+by 旻憲
+
+校正OP-45~OP-80警報說明。</msg></logentry><logentry revision="227701"><author>1384</author><date>2019-05-10T11:10:57.525281Z</date><paths><path action="M" localPath="res\SRI\Data\AlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/SRI/Data/AlarmMsgChi.Xml</path><path action="M" localPath="res\Common\Data\GeneralAlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Common/Data/GeneralAlarmMsgChi.Xml</path></paths><msg>merge: CNCKL/CNCKL_2814_f_ModifyStationAndSRIAlarm, 227320-227639 to 10.118.22
+by 孟學
+
+修正STATION &amp; SRI 相關警報說明以及OnlineHelp文件</msg></logentry></log>

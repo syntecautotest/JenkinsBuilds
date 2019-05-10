@@ -1,0 +1,79 @@
+------ Rebuild All started: Project: KrnlAPI, Configuration: DipoleRelease Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'DipoleRelease|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+KrnlAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Creating library...
+stdafx.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\KrnlAPI\WCE600DipoleRelease\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+TCPFunction.cpp
+TCPClient.cpp
+Generating Code...
+Compiling...
+StdAfx.cpp
+Creating library...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\SocketUtility\WCE600Release\BuildLog.htm"
+SocketUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: BridgeAPI, Configuration: DipoleRelease Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'DipoleRelease|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+BridgeAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Creating library...
+stdafx.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\BridgeAPI\WCE600DipoleRelease\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: DipoleRelease Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'DipoleRelease|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(372) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+StdAfx.cpp
+OcXmlTextReader.cpp
+OcKrnlDrvDll.cpp
+OCAPI.cpp
+.\OCAPI.cpp(449) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(449) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(1409) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+.\OCAPI.cpp(1472) : warning C4018: '<=' : signed/unsigned mismatch
+DipoleDeviceBuffer.cpp
+Linking...
+bridgeapi.obj : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+   Creating library WCE600DipoleRelease\OCAPI.lib and object WCE600DipoleRelease\OCAPI.exp
+Generating code
+Finished generating code
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCAPI\WCE600DipoleRelease\BuildLog.htm"
+OCAPI - 0 error(s), 7 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86) ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|Advantech Windows CE 6.0 Stanard SDK v6.0.0.0 (x86)'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+Linking...
+   Creating library WCE600Release\OCKrnlDrv.lib and object WCE600Release\OCKrnlDrv.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\API_trunk\OCAPI\Source\OCKrnlDrv\WCE600Release\BuildLog.htm"
+OCKrnlDrv - 0 error(s), 0 warning(s)
+========== Rebuild All: 5 succeeded, 0 failed, 0 skipped ==========
+
