@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="227702"><author>1384</author><date>2019-05-10T11:16:00.528153Z</date><paths><path action="M" localPath="res\Common\Data\CoordinateAlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Common/Data/CoordinateAlarmMsgChi.Xml</path><path action="M" localPath="res\Rot\Data\AlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Rot/Data/AlarmMsgChi.Xml</path><path action="M" localPath="res\SerialPLCAxis\Data\AlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/SerialPLCAxis/Data/AlarmMsgChi.Xml</path></paths><msg>merge: CNCKL_2816_f_FixAlarmString_ROT_SPLCA_BGND, 227527-227571 to 10.118.22
+by 嘉倫
+
+校正BGND, ROT, SPLCA警報字串與OnlineHelp文件</msg></logentry></log>
