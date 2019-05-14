@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="227968"><author>simon</author><date>2019-05-14T08:24:27.369019Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/MotionPlan/Axis.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.cpp" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.0/OCKrnl/Source/MotionPlan/Axis.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Axis.h" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/Axis.h</path></paths><msg>merge: ISSUE_14054_b_SelectAxisControlModeError_116.54.x, 227251, to 10.116.56I, 10.118.12Q by 芝峰
+
+fix:
+    將 m_bPosCtrlSwitchCheck 的相關修改一併移除。
+    避免若頻繁切換速度和位置控制時，造成軸向是速度控制，但 diver 是位置控制，因而無法發送速度命令。</msg></logentry></log>
