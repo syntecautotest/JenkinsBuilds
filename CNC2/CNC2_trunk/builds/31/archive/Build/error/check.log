@@ -1,0 +1,5 @@
+.\CNC2_FC_EtherCAT_MARKING.twr:5681:Timing errors: 1528  Score: 1782589  (Setup/Max: 108311, Hold: 1674278)
+.\CNC2_FC_M3_MARKING.twr:5556:Timing errors: 1118  Score: 1325397  (Setup/Max: 76600, Hold: 1248797)
+.\CNC2_FC_RTEX_MARKING.twr:6988:Timing errors: 1506  Score: 1587795  (Setup/Max: 108749, Hold: 1479046)
+.\CNC2_FC_V2_M3_MARKING.twr:5589:Timing errors: 4  Score: 423  (Setup/Max: 423, Hold: 0)
+.\CNC2_FC_M3_MARKING.twr:5413:Timing errors: 8  Score: 4238  (Setup/Max: 4238, Hold: 0)

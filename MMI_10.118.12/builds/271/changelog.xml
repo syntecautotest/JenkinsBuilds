@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228037"><author>colingsta</author><date>2019-05-15T00:18:19.184612Z</date><paths><path action="M" kind="file">/appkernel/trunk/System/SIP/ARM/NumPanel.dll</path><path action="M" localPath="System\SIP\ARM\NumPanel.dll" kind="file">/appkernel/branches/AppKernel_10.118.12/System/SIP/ARM/NumPanel.dll</path></paths><msg>merge appkernel/ISSUE_13903_b_BigSIPClickProblem_ver2 r227486 to 10.118.12Q, 10.118.22,  by 存澤
+
+修正
+    新代客製小鍵盤顯示錯誤問題</msg></logentry><logentry revision="228044"><author>colingsta</author><date>2019-05-15T00:55:46.992560Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Scr_MMIConfig.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Scr_MMIConfig.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_MMIConfig.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/MMIConfig/MMIConfig.cs</path><path action="M" localPath="MMICommon\Source\MMIConfig\MMIConfig.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/MMIConfig/MMIConfig.cs</path></paths><msg>merge appkernel/MMI_3846_b_RobotScreenSqueeze r227964 to 10.118.12Q, 10.118.22,  by 家齊
+
+修正
+    畫面大小非800*600機型的畫面被壓縮 問題</msg></logentry></log>

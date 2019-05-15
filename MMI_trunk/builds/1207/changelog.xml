@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228044"><author>colingsta</author><date>2019-05-15T00:55:46.992560Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Scr_MMIConfig.cs</path><path action="M" localPath="MMICommon\Source\Screen\Scr_MMIConfig.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_MMIConfig.cs</path><path action="M" localPath="MMICommon\Source\MMIConfig\MMIConfig.cs" kind="file">/appkernel/trunk/MMICommon/Source/MMIConfig/MMIConfig.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/MMIConfig/MMIConfig.cs</path></paths><msg>merge appkernel/MMI_3846_b_RobotScreenSqueeze r227964 to 10.118.12Q, 10.118.22,  by 家齊
+
+修正
+    畫面大小非800*600機型的畫面被壓縮 問題</msg></logentry></log>

@@ -1,0 +1,1059 @@
+Release 14.7 Map P.20131013 (nt)
+Xilinx Map Application Log File for Design 'CNC2_FC_RTEX'
+
+Design Information
+------------------
+Command Line   : map -filter iseconfig/filter.filter -intstyle ise -p
+xc6slx25-ftg256-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication
+off -r 4 -global_opt off -mt off -detail -ir off -pr off -lc off -power off -o
+CNC2_FC_RTEX_map.ncd CNC2_FC_RTEX.ngd CNC2_FC_RTEX.pcf 
+Target Device  : xc6slx25
+Target Package : ftg256
+Target Speed   : -3
+Mapper Version : spartan6 -- $Revision: 1.55 $
+Mapped Date    : Wed May 15 14:51:02 2019
+
+Mapping design into LUTs...
+Running directed packing...
+Running delay-based LUT packing...
+Updating timing models...
+INFO:Map:215 - The Interim Design Summary has been generated in the MAP Report
+   (.mrp).
+Running timing-driven placement...
+Total REAL time at the beginning of Placer: 40 secs 
+Total CPU  time at the beginning of Placer: 40 secs 
+
+Phase 1.1  Initial Placement Analysis
+Phase 1.1  Initial Placement Analysis (Checksum:131a9dfa) REAL time: 43 secs 
+
+Phase 2.7  Design Feasibility Check
+Phase 2.7  Design Feasibility Check (Checksum:131a9dfa) REAL time: 44 secs 
+
+Phase 3.31  Local Placement Optimization
+Phase 3.31  Local Placement Optimization (Checksum:131a9dfa) REAL time: 44 secs 
+
+Phase 4.2  Initial Placement for Architecture Specific Features
+
+Phase 4.2  Initial Placement for Architecture Specific Features
+(Checksum:ea524f1d) REAL time: 1 mins 6 secs 
+
+Phase 5.36  Local Placement Optimization
+Phase 5.36  Local Placement Optimization (Checksum:ea524f1d) REAL time: 1 mins 6 secs 
+
+Phase 6.30  Global Clock Region Assignment
+Phase 6.30  Global Clock Region Assignment (Checksum:ea524f1d) REAL time: 1 mins 6 secs 
+
+Phase 7.3  Local Placement Optimization
+Phase 7.3  Local Placement Optimization (Checksum:ea524f1d) REAL time: 1 mins 6 secs 
+
+Phase 8.5  Local Placement Optimization
+Phase 8.5  Local Placement Optimization (Checksum:ea524f1d) REAL time: 1 mins 7 secs 
+
+Phase 9.8  Global Placement
+.............................
+.......................................................................................................................
+...................................................................................................................................................................................................
+................................................................................................................................
+.....................................................................
+Phase 9.8  Global Placement (Checksum:43d4bce8) REAL time: 4 mins 12 secs 
+
+Phase 10.5  Local Placement Optimization
+Phase 10.5  Local Placement Optimization (Checksum:43d4bce8) REAL time: 4 mins 13 secs 
+
+Phase 11.18  Placement Optimization
+Phase 11.18  Placement Optimization (Checksum:29f28d6a) REAL time: 4 mins 45 secs 
+
+Phase 12.5  Local Placement Optimization
+Phase 12.5  Local Placement Optimization (Checksum:29f28d6a) REAL time: 4 mins 45 secs 
+
+Phase 13.34  Placement Validation
+Phase 13.34  Placement Validation (Checksum:80d0d140) REAL time: 4 mins 47 secs 
+
+Total REAL time to Placer completion: 4 mins 48 secs 
+Total CPU  time to Placer completion: 4 mins 46 secs 
+Running post-placement packing...
+Writing output files...
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/m_ProtocolReady_m_DataWrEN_OR_
+   627_o is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/m_ProtocolReady_m_DataWrEN_OR_
+   627_o is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_ReadHoldingReg_1/m_State[1]_GND_607_o_Mux_62_o is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_ReadHoldingReg_1/m_State[1]_GND_607_o_Mux_62_o is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_WrMultiReg_1/m_State[1]_GND_617_o_Mux_63_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_WrMultiReg_1/m_State[1]_GND_617_o_Mux_63_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Reset_n_WEB1[0]_AND_720_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Reset_n_WEB1[0]_AND_720_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Reset_n_WEB1[1]_AND_718_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Reset_n_WEB1[1]_AND_718_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/LaserControl_1/iServoOn_G
+   ND_395_o_AND_292_o is sourced by a combinatorial pin. This is not good design
+   practice. Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   LocalBusBridgeAleDec_inst/iLBALEDEC_ALE_iLBALEDEC_WRn_AND_7_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/m_CRCErr
+   orFlag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/iEN_iTim
+   eOut[31]_MUX_1790_o is sourced by a combinatorial pin. This is not good
+   design practice. Use the CE pin to control the loading of data into the
+   flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/m_1_5Tou
+   tflag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/m_1_5Tou
+   tflag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/iEN_iTim
+   eOut[31]_MUX_1790_o is sourced by a combinatorial pin. This is not good
+   design practice. Use the CE pin to control the loading of data into the
+   flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[1].SRIComPartition_1/SRI_Protocol_Modbus_1/m_CRCErr
+   orFlag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram23_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram20_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram14_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram10_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram16_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram9_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram13_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram12_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram7_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram1_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram8_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram6_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram5_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram4_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram24_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram21_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram22_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram20_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram4_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram3_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram8_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram18_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram2_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram1_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram11_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram10_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram27_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram28_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram29_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram11_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram14_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram12_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram2_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram9_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram12_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram14_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram17_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram22_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram4_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram7_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram13_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram14_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram9_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram13_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram11_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram7_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram5_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram1_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram6_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram11_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram13_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram16_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram10_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram19_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram24_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram21_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram8_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram5_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram6_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram3_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram4_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram5_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram1_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram12_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram9_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram16_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram10_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram16_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram31_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram30_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram27_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram26_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram3_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram19_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram20_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram17_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram2_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram25_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram31_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram26_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram32_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram30_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram24_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram32_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram25_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram28_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram8_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram22_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram24_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram18_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram19_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram18_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram23_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram27_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram40_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram39_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram35_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram7_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram21_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram3_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram39_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram23_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram18_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram21_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram30_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram29_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram31_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram38_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram34_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram29_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram6_RAMD
+   _O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram23_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram29_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram7_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram2_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram3_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram2_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram37_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram34_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram38_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram19_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram27_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram22_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram17_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram20_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram25_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram28_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram36_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram34_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram37_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram33_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram39_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram36_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram40_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram39_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram31_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram30_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram18_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram24_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram22_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram17_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram19_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram4_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram5_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram1_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram8_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram6_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram40_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram36_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram30_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram28_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram26_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram26_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram32_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram38_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram35_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram37_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram38_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram37_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram40_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram23_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram20_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram39_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram33_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram38_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram36_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram15_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram14_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram16_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram35_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram33_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram32_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram31_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram33_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram35_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram36_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram33_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram27_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram32_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram25_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram21_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram40_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram37_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram11_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram34_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram26_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/D
+   ATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram28_RAM
+   D_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram35_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram34_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram9_RA
+   MD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram12_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram13_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram10_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram29_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram17_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:367 - The signal
+   <CNC2_FC_RTEX/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO
+   /DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ram.sdpram_inst/Mram_ram25_R
+   AMD_O> is incomplete. The signal does not drive any load pins in the design.
+WARNING:PhysDesignRules:2410 - This design is using one or more 9K Block RAMs
+   (RAMB8BWER).  9K Block RAM initialization data, both user defined and
+   default, may be incorrect and should not be used.  For more information,
+   please reference Xilinx Answer Record 39999.
+
+Design Summary
+--------------
+
+Design Summary:
+Number of errors:      0
+Number of warnings:  219
+Slice Logic Utilization:
+  Number of Slice Registers:                 6,500 out of  30,064   21%
+    Number used as Flip Flops:               6,282
+    Number used as Latches:                    206
+    Number used as Latch-thrus:                  0
+    Number used as AND/OR logics:               12
+  Number of Slice LUTs:                     10,785 out of  15,032   71%
+    Number used as logic:                    9,794 out of  15,032   65%
+      Number using O6 output only:           7,077
+      Number using O5 output only:             327
+      Number using O5 and O6:                2,390
+      Number used as ROM:                        0
+    Number used as Memory:                     901 out of   3,664   24%
+      Number used as Dual Port RAM:            880
+        Number using O6 output only:           880
+        Number using O5 output only:             0
+        Number using O5 and O6:                  0
+      Number used as Single Port RAM:            8
+        Number using O6 output only:             0
+        Number using O5 output only:             0
+        Number using O5 and O6:                  8
+      Number used as Shift Register:            13
+        Number using O6 output only:             5
+        Number using O5 output only:             0
+        Number using O5 and O6:                  8
+    Number used exclusively as route-thrus:     90
+      Number with same-slice register load:     59
+      Number with same-slice carry load:        31
+      Number with other load:                    0
+
+Slice Logic Distribution:
+  Number of occupied Slices:                 3,402 out of   3,758   90%
+  Number of MUXCYs used:                     1,852 out of   7,516   24%
+  Number of LUT Flip Flop pairs used:       11,345
+    Number with an unused Flip Flop:         5,666 out of  11,345   49%
+    Number with an unused LUT:                 560 out of  11,345    4%
+    Number of fully used LUT-FF pairs:       5,119 out of  11,345   45%
+    Number of unique control sets:             365
+    Number of slice register sites lost
+      to control set restrictions:           1,131 out of  30,064    3%
+
+  A LUT Flip Flop pair for this architecture represents one LUT paired with
+  one Flip Flop within a slice.  A control set is a unique combination of
+  clock, reset, set, and enable signals for a registered element.
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+
+IO Utilization:
+  Number of bonded IOBs:                        90 out of     186   48%
+    Number of LOCed IOBs:                       90 out of      90  100%
+    IOB Latches:                                22
+
+Specific Feature Utilization:
+  Number of RAMB16BWERs:                         8 out of      52   15%
+  Number of RAMB8BWERs:                          2 out of     104    1%
+  Number of BUFIO2/BUFIO2_2CLKs:                 2 out of      32    6%
+    Number used as BUFIO2s:                      2
+    Number used as BUFIO2_2CLKs:                 0
+  Number of BUFIO2FB/BUFIO2FB_2CLKs:             2 out of      32    6%
+    Number used as BUFIO2FBs:                    2
+    Number used as BUFIO2FB_2CLKs:               0
+  Number of BUFG/BUFGMUXs:                       8 out of      16   50%
+    Number used as BUFGs:                        8
+    Number used as BUFGMUX:                      0
+  Number of DCM/DCM_CLKGENs:                     2 out of       4   50%
+    Number used as DCMs:                         2
+    Number used as DCM_CLKGENs:                  0
+  Number of ILOGIC2/ISERDES2s:                   6 out of     272    2%
+    Number used as ILOGIC2s:                     6
+    Number used as ISERDES2s:                    0
+  Number of IODELAY2/IODRP2/IODRP2_MCBs:         0 out of     272    0%
+  Number of OLOGIC2/OSERDES2s:                  16 out of     272    5%
+    Number used as OLOGIC2s:                    16
+    Number used as OSERDES2s:                    0
+  Number of BSCANs:                              0 out of       4    0%
+  Number of BUFHs:                               0 out of     160    0%
+  Number of BUFPLLs:                             0 out of       8    0%
+  Number of BUFPLL_MCBs:                         0 out of       4    0%
+  Number of DSP48A1s:                            0 out of      38    0%
+  Number of ICAPs:                               0 out of       1    0%
+  Number of MCBs:                                0 out of       2    0%
+  Number of PCILOGICSEs:                         0 out of       2    0%
+  Number of PLL_ADVs:                            0 out of       2    0%
+  Number of PMVs:                                0 out of       1    0%
+  Number of STARTUPs:                            0 out of       1    0%
+  Number of SUSPEND_SYNCs:                       0 out of       1    0%
+
+Average Fanout of Non-Clock Nets:                4.88
+
+Peak Memory Usage:  464 MB
+Total REAL time to MAP completion:  5 mins 2 secs 
+Total CPU time to MAP completion:   5 mins 
+
+Mapping completed.
+See MAP report file "CNC2_FC_RTEX_map.mrp" for details.

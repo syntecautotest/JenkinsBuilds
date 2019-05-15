@@ -1,0 +1,225 @@
+Release 14.7 Map P.20131013 (nt)
+Xilinx Map Application Log File for Design 'CNC2_STARM_RTEX'
+
+Design Information
+------------------
+Command Line   : map -filter iseconfig/filter.filter -intstyle ise -p
+xc6slx25-csg324-3 -w -logic_opt off -ol high -t 1 -xt 0 -register_duplication
+off -r 4 -global_opt off -mt off -detail -ir off -pr off -lc off -power off -o
+CNC2_STARM_RTEX_map.ncd CNC2_STARM_RTEX.ngd CNC2_STARM_RTEX.pcf 
+Target Device  : xc6slx25
+Target Package : csg324
+Target Speed   : -3
+Mapper Version : spartan6 -- $Revision: 1.55 $
+Mapped Date    : Wed May 15 18:36:23 2019
+
+Mapping design into LUTs...
+Running directed packing...
+Running delay-based LUT packing...
+Updating timing models...
+INFO:Map:215 - The Interim Design Summary has been generated in the MAP Report
+   (.mrp).
+Running timing-driven placement...
+Total REAL time at the beginning of Placer: 19 secs 
+Total CPU  time at the beginning of Placer: 19 secs 
+
+Phase 1.1  Initial Placement Analysis
+Phase 1.1  Initial Placement Analysis (Checksum:211cd10e) REAL time: 20 secs 
+
+Phase 2.7  Design Feasibility Check
+Phase 2.7  Design Feasibility Check (Checksum:211cd10e) REAL time: 21 secs 
+
+Phase 3.31  Local Placement Optimization
+Phase 3.31  Local Placement Optimization (Checksum:211cd10e) REAL time: 21 secs 
+
+Phase 4.2  Initial Placement for Architecture Specific Features
+
+Phase 4.2  Initial Placement for Architecture Specific Features
+(Checksum:360afb3a) REAL time: 31 secs 
+
+Phase 5.36  Local Placement Optimization
+Phase 5.36  Local Placement Optimization (Checksum:360afb3a) REAL time: 31 secs 
+
+Phase 6.30  Global Clock Region Assignment
+Phase 6.30  Global Clock Region Assignment (Checksum:360afb3a) REAL time: 31 secs 
+
+Phase 7.3  Local Placement Optimization
+Phase 7.3  Local Placement Optimization (Checksum:360afb3a) REAL time: 31 secs 
+
+Phase 8.5  Local Placement Optimization
+Phase 8.5  Local Placement Optimization (Checksum:360afb3a) REAL time: 31 secs 
+
+Phase 9.8  Global Placement
+.....................................
+...........................................................
+.............................................................................................................................................................................
+......................................................................................................................................................................................
+..............................
+Phase 9.8  Global Placement (Checksum:a8951406) REAL time: 1 mins 51 secs 
+
+Phase 10.5  Local Placement Optimization
+Phase 10.5  Local Placement Optimization (Checksum:a8951406) REAL time: 1 mins 51 secs 
+
+Phase 11.18  Placement Optimization
+Phase 11.18  Placement Optimization (Checksum:433a4fc1) REAL time: 2 mins 4 secs 
+
+Phase 12.5  Local Placement Optimization
+Phase 12.5  Local Placement Optimization (Checksum:433a4fc1) REAL time: 2 mins 4 secs 
+
+Phase 13.34  Placement Validation
+Phase 13.34  Placement Validation (Checksum:bae75bd5) REAL time: 2 mins 5 secs 
+
+Total REAL time to Placer completion: 2 mins 5 secs 
+Total CPU  time to Placer completion: 2 mins 4 secs 
+Running post-placement packing...
+Writing output files...
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Reset_n_WEB1[0]_AND_481_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Reset_n_WEB1[1]_AND_479_o
+   is sourced by a combinatorial pin. This is not good design practice. Use the
+   CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   CNC2_STARM2_RTEX/HK_Scan_Partition_1/HK_FILTER_CLK is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_ReadHoldingReg_1/m_State[1]_GND_716_o_Mux_62_o is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   LocalBusBridgeAleDec_inst/iLBALEDEC_ALE_iLBALEDEC_WRn_AND_5_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/m_ProtocolReady_m_DataWrEN_OR_
+   481_o is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   CNC2_STARM2_RTEX/IOENC_Partition_1/IBUS_Select_GND_512_o_AND_100_o is sourced
+   by a combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/ModbusFu
+   ncManager_1/Modbus_WrMultiReg_1/m_State[1]_GND_726_o_Mux_63_o is sourced by a
+   combinatorial pin. This is not good design practice. Use the CE pin to
+   control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/m_CRCErr
+   orFlag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/m_1_5Tou
+   tflag_G is sourced by a combinatorial pin. This is not good design practice.
+   Use the CE pin to control the loading of data into the flip-flop.
+WARNING:PhysDesignRules:372 - Gated clock. Clock net
+   SRIPartition_1/G1.Channel[0].SRIComPartition_1/SRI_Protocol_Modbus_1/iEN_iTim
+   eOut[31]_MUX_1839_o is sourced by a combinatorial pin. This is not good
+   design practice. Use the CE pin to control the loading of data into the
+   flip-flop.
+WARNING:PhysDesignRules:2410 - This design is using one or more 9K Block RAMs
+   (RAMB8BWER).  9K Block RAM initialization data, both user defined and
+   default, may be incorrect and should not be used.  For more information,
+   please reference Xilinx Answer Record 39999.
+
+Design Summary
+--------------
+
+Design Summary:
+Number of errors:      0
+Number of warnings:   12
+Slice Logic Utilization:
+  Number of Slice Registers:                 5,497 out of  30,064   18%
+    Number used as Flip Flops:               5,132
+    Number used as Latches:                    353
+    Number used as Latch-thrus:                  0
+    Number used as AND/OR logics:               12
+  Number of Slice LUTs:                      7,450 out of  15,032   49%
+    Number used as logic:                    7,321 out of  15,032   48%
+      Number using O6 output only:           5,580
+      Number using O5 output only:             204
+      Number using O5 and O6:                1,537
+      Number used as ROM:                        0
+    Number used as Memory:                      25 out of   3,664    1%
+      Number used as Dual Port RAM:              0
+      Number used as Single Port RAM:            8
+        Number using O6 output only:             0
+        Number using O5 output only:             0
+        Number using O5 and O6:                  8
+      Number used as Shift Register:            17
+        Number using O6 output only:             9
+        Number using O5 output only:             0
+        Number using O5 and O6:                  8
+    Number used exclusively as route-thrus:    104
+      Number with same-slice register load:     77
+      Number with same-slice carry load:        27
+      Number with other load:                    0
+
+Slice Logic Distribution:
+  Number of occupied Slices:                 2,617 out of   3,758   69%
+  Number of MUXCYs used:                     1,152 out of   7,516   15%
+  Number of LUT Flip Flop pairs used:        8,302
+    Number with an unused Flip Flop:         3,495 out of   8,302   42%
+    Number with an unused LUT:                 852 out of   8,302   10%
+    Number of fully used LUT-FF pairs:       3,955 out of   8,302   47%
+    Number of unique control sets:             245
+    Number of slice register sites lost
+      to control set restrictions:             802 out of  30,064    2%
+
+  A LUT Flip Flop pair for this architecture represents one LUT paired with
+  one Flip Flop within a slice.  A control set is a unique combination of
+  clock, reset, set, and enable signals for a registered element.
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+
+IO Utilization:
+  Number of bonded IOBs:                        57 out of     226   25%
+    Number of LOCed IOBs:                       57 out of      57  100%
+    IOB Latches:                                22
+
+Specific Feature Utilization:
+  Number of RAMB16BWERs:                         6 out of      52   11%
+  Number of RAMB8BWERs:                          2 out of     104    1%
+  Number of BUFIO2/BUFIO2_2CLKs:                 2 out of      32    6%
+    Number used as BUFIO2s:                      2
+    Number used as BUFIO2_2CLKs:                 0
+  Number of BUFIO2FB/BUFIO2FB_2CLKs:             2 out of      32    6%
+    Number used as BUFIO2FBs:                    2
+    Number used as BUFIO2FB_2CLKs:               0
+  Number of BUFG/BUFGMUXs:                       8 out of      16   50%
+    Number used as BUFGs:                        8
+    Number used as BUFGMUX:                      0
+  Number of DCM/DCM_CLKGENs:                     2 out of       4   50%
+    Number used as DCMs:                         2
+    Number used as DCM_CLKGENs:                  0
+  Number of ILOGIC2/ISERDES2s:                   6 out of     272    2%
+    Number used as ILOGIC2s:                     6
+    Number used as ISERDES2s:                    0
+  Number of IODELAY2/IODRP2/IODRP2_MCBs:         0 out of     272    0%
+  Number of OLOGIC2/OSERDES2s:                  16 out of     272    5%
+    Number used as OLOGIC2s:                    16
+    Number used as OSERDES2s:                    0
+  Number of BSCANs:                              0 out of       4    0%
+  Number of BUFHs:                               0 out of     160    0%
+  Number of BUFPLLs:                             0 out of       8    0%
+  Number of BUFPLL_MCBs:                         0 out of       4    0%
+  Number of DSP48A1s:                            0 out of      38    0%
+  Number of ICAPs:                               0 out of       1    0%
+  Number of MCBs:                                0 out of       2    0%
+  Number of PCILOGICSEs:                         0 out of       2    0%
+  Number of PLL_ADVs:                            0 out of       2    0%
+  Number of PMVs:                                0 out of       1    0%
+  Number of STARTUPs:                            0 out of       1    0%
+  Number of SUSPEND_SYNCs:                       0 out of       1    0%
+
+Average Fanout of Non-Clock Nets:                4.66
+
+Peak Memory Usage:  424 MB
+Total REAL time to MAP completion:  2 mins 13 secs 
+Total CPU time to MAP completion:   2 mins 11 secs 
+
+Mapping completed.
+See MAP report file "CNC2_STARM_RTEX_map.mrp" for details.

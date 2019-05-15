@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228033"><author>colingsta</author><date>2019-05-14T12:44:00.318674Z</date><paths><path action="M" kind="file">/appkernel/trunk/Syntec.OpenCNC/KrnlAPIs/KrnlAPI.cs</path><path action="M" localPath="Syntec.OpenCNC\KrnlAPI.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/Syntec.OpenCNC/KrnlAPI.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/Syntec.OpenCNC/KrnlAPI.cs</path></paths><msg>merge appkernel/ATEST_1107_b_DipoleIOMappingCrash r227327 to 10.116.56I, 10.118.12Q, 10.118.22,  by 婉庭
+
+修正
+    Dipole環境下進入I/O對照表頁面，前台斷線無回應問題</msg></logentry><logentry revision="228035"><author>colingsta</author><date>2019-05-14T23:53:25.684788Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Monitor/Scr_MonitorS1.cs</path><path action="M" localPath="MMICommon\Source\Screen\Monitor\Scr_MonitorS1.cs" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Screen/Monitor/Scr_MonitorS1.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Monitor/Scr_MonitorS1.cs</path></paths><msg>merge appkernel/ISSUE_14191_b_CantSeeSubProgram r226825-226828 to 10.116.56I, 10.118.12Q, 10.118.22,  by 鎮宇
+
+修正
+    雙軸群下，第二軸群子程式未切換問題</msg></logentry></log>
