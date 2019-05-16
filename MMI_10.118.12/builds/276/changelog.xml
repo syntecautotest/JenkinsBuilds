@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228205"><author>jason.yang</author><date>2019-05-16T03:27:40.593920Z</date><paths><path action="M" kind="file">/appkernel/trunk/PlugIn/LaserCutting/Source/MaterialDataBase.cs</path><path action="M" localPath="PlugIn\LaserCutting\Source\MaterialDataBase.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/PlugIn/LaserCutting/Source/MaterialDataBase.cs</path></paths><msg>merge LASER_1808_b_WrongColorOfMaterial r226745 tp 10.118.12Q, 10.118.22 by 子權
+
+修正 
+    1.使用鍵盤左右鍵操作換頁工藝資料庫圖層顏色錯誤</msg></logentry></log>

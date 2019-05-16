@@ -1,0 +1,163 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<build>
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.triggers.SCMTrigger_-SCMTriggerCause/>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <hudson.triggers.SCMTrigger_-BuildAction/>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterValue plugin="nodelabelparameter@1.7.2">
+          <name>NODELABEL</name>
+          <label>BM</label>
+        </org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class>
+          <parameterDefinitions>
+            <org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterDefinition plugin="nodelabelparameter@1.7.2">
+              <name></name>
+              <description></description>
+              <defaultValue>BM</defaultValue>
+              <allNodesMatchingLabel>false</allNodesMatchingLabel>
+              <triggerIfResult>allCases</triggerIfResult>
+              <nodeEligibility class="org.jvnet.jenkins.plugins.nodelabelparameter.node.AllNodeEligibility"/>
+            </org.jvnet.jenkins.plugins.nodelabelparameter.LabelParameterDefinition>
+          </parameterDefinitions>
+        </outer-class>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <jenkins.scm.cvs.QuietPeriodCompleted plugin="cvs@2.13">
+      <timestamp>1557969235105</timestamp>
+    </jenkins.scm.cvs.QuietPeriodCompleted>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>6919</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.triggers.SCMTrigger$SCMTriggerCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.triggers.SCMTrigger_-SCMTriggerCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9"/>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="build" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+    <hudson.scm.SubversionTagAction plugin="subversion@2.7.2">
+      <tags class="hudson.util.CopyOnWriteMap$Tree">
+        <entry>
+          <hudson.scm.SubversionSCM_-SvnInfo>
+            <url>http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk</url>
+            <revision>228177</revision>
+          </hudson.scm.SubversionSCM_-SvnInfo>
+          <list/>
+        </entry>
+      </tags>
+    </hudson.scm.SubversionTagAction>
+    <hudson.scm.SVNRevisionState plugin="subversion@2.7.2">
+      <revisions>
+        <entry>
+          <string>http://developer.syntecclub.com.tw:815/OpenCNC/cnckernel/trunk</string>
+          <long>228177</long>
+        </entry>
+      </revisions>
+    </hudson.scm.SVNRevisionState>
+    <org.jenkinsci.plugins.EnvironmentVarSetter plugin="build-name-setter@1.6.5">
+      <log>
+        <autoFlush>false</autoFlush>
+        <trouble>false</trouble>
+        <closing>true</closing>
+      </log>
+      <envVars>
+        <entry>
+          <string>BUILD_DISPLAY_NAME</string>
+          <string>#1489 CNCTEST-889 at rev228177 by 柏瑩
+</string>
+        </entry>
+      </envVars>
+    </org.jenkinsci.plugins.EnvironmentVarSetter>
+    <hudson.plugins.jira.JiraEnvironmentContributingAction plugin="jira@2.2.1">
+      <issuesList>CNCTEST-889</issuesList>
+      <jiraUrl>http://jira.syntecclub.com.tw:8080/</jiraUrl>
+    </hudson.plugins.jira.JiraEnvironmentContributingAction>
+    <hudson.plugins.descriptionsetter.DescriptionSetterAction plugin="description-setter@1.10">
+      <description>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/CNCTEST-889&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/CNCTEST-889&lt;/a&gt;</description>
+    </hudson.plugins.descriptionsetter.DescriptionSetterAction>
+    <hudson.model.ParametersAction>
+      <safeParameters class="sorted-set"/>
+      <parameters>
+        <hudson.model.StringParameterValue>
+          <name>DESCRIPTION_SETTER_DESCRIPTION</name>
+          <value>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/CNCTEST-889&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/CNCTEST-889&lt;/a&gt;</value>
+        </hudson.model.StringParameterValue>
+      </parameters>
+      <parameterDefinitionNames class="hudson.model.ParametersDefinitionProperty$1">
+        <outer-class reference="../../../hudson.model.ParametersAction/parameterDefinitionNames/outer-class"/>
+      </parameterDefinitionNames>
+    </hudson.model.ParametersAction>
+    <hudson.tasks.Fingerprinter_-FingerprintAction>
+      <record>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.21\CECNC\SDK\CNCSDK10.118.21.zip</string>
+          <string>8ee86a660c05cded7010283d40d6e031</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.21\CECNC\EXE\CncKernel_CE7_ARM_10.118.21.zip</string>
+          <string>93ba0f988f6ff32f9817699ffdfc1b8f</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.21\CECNC\SDK\TPDSDK10.118.21.zip</string>
+          <string>c21698d8d095b1b52841252ff4a6be67</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.21\CECNC\SDK\OCRes_10.118.21.zip</string>
+          <string>e46bfe2c49f97667d5e345daf627c555</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.21\CECNC\EXE\CncKernel_CE6_10.118.21.zip</string>
+          <string>b184512f37fa551e891ab82a2683ec5f</string>
+        </entry>
+        <entry>
+          <string>Build\Release\PrdParam_10.118.21.zip</string>
+          <string>a01bdfbc0431fcd5eaef1cb57a54afec</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CNCRel\10.118.21\CECNC\EXE\CncKernel_w32_10.118.21.zip</string>
+          <string>dc8034aa4dce640e09ff17cf8adb91a5</string>
+        </entry>
+        <entry>
+          <string>Build\Release\CncTestData_10.118.21.zip</string>
+          <string>20476b47fdd7ca7b6e0ffde0177c2879</string>
+        </entry>
+      </record>
+    </hudson.tasks.Fingerprinter_-FingerprintAction>
+    <hudson.tasks.MailMessageIdAction plugin="mailer@1.20">
+      <messageId>&lt;16611144.77.1557981141509.JavaMail.user1@TESTMAN2&gt;</messageId>
+    </hudson.tasks.MailMessageIdAction>
+  </actions>
+  <queueId>12897</queueId>
+  <timestamp>1557969235107</timestamp>
+  <startTime>1557969235108</startTime>
+  <result>SUCCESS</result>
+  <description>&lt;a href=&quot;http://jira.syntecclub.com.tw:8080/browse/CNCTEST-889&quot;&gt;http://jira.syntecclub.com.tw:8080/browse/CNCTEST-889&lt;/a&gt;</description>
+  <displayName>#1489 CNCTEST-889 at rev228177 by 柏瑩
+</displayName>
+  <duration>11915164</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn>TESTMAN3_BM_2</builtOn>
+  <workspace>D:\Jenkins\workspace\CNC_trunk</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.SubversionChangeLogParser" plugin="subversion@2.7.2">
+    <ignoreDirPropChanges>false</ignoreDirPropChanges>
+  </scm>
+  <culprits class="com.google.common.collect.RegularImmutableSortedSet">
+    <string>hebenctu</string>
+  </culprits>
+</build>

@@ -1,0 +1,12 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\ObjDictionary\ECAT_OD_INOVANCE_IS620N.xml
+DiskC\OpenCNC\Bin\cnc2_fc_rtex.bin
+DiskC\OpenCNC\Bin\cnc2_fc_rtex_marking.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_rtex.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_rtex_marking.bin
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+DiskC\OpenCNC\StdRes\DriverParam\ECAT_PM_SERVOTRONIX_CDHD.xml
+----------------------------------------------------------------------

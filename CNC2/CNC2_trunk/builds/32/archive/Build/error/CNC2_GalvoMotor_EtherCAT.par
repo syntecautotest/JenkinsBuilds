@@ -1,0 +1,1018 @@
+Release 14.7 par P.20131013 (nt)
+Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.
+
+WIN-QF1HLTEA2D0::  Thu May 16 16:45:34 2019
+
+par -filter iseconfig/filter.filter -w -intstyle ise -ol high -mt off
+CNC2_GalvoMotor_EtherCAT_map.ncd CNC2_GalvoMotor_EtherCAT.ncd
+CNC2_GalvoMotor_EtherCAT.pcf 
+
+
+Constraints file: CNC2_GalvoMotor_EtherCAT.pcf.
+Loading device for application Rf_Device from file '6slx25.nph' in environment C:\Xilinx\14.7\ISE_DS\ISE\.
+   "CNC2_GalvoMotor_EtherCAT" is an NCD, version 3.2, device xc6slx25, package ftg256, speed -3
+
+Initializing temperature to 85.000 Celsius. (default - Range: 0.000 to 85.000 Celsius)
+Initializing voltage to 1.140 Volts. (default - Range: 1.140 to 1.260 Volts)
+
+
+Device speed data version:  "PRODUCTION 1.23 2013-10-13".
+
+
+
+Device Utilization Summary:
+
+Slice Logic Utilization:
+  Number of Slice Registers:                 5,453 out of  30,064   18%
+    Number used as Flip Flops:               4,566
+    Number used as Latches:                    887
+    Number used as Latch-thrus:                  0
+    Number used as AND/OR logics:                0
+  Number of Slice LUTs:                      7,046 out of  15,032   46%
+    Number used as logic:                    6,042 out of  15,032   40%
+      Number using O6 output only:           4,052
+      Number using O5 output only:             286
+      Number using O5 and O6:                1,704
+      Number used as ROM:                        0
+    Number used as Memory:                     904 out of   3,664   24%
+      Number used as Dual Port RAM:            896
+        Number using O6 output only:           896
+        Number using O5 output only:             0
+        Number using O5 and O6:                  0
+      Number used as Single Port RAM:            0
+      Number used as Shift Register:             8
+        Number using O6 output only:             4
+        Number using O5 output only:             0
+        Number using O5 and O6:                  4
+    Number used exclusively as route-thrus:    100
+      Number with same-slice register load:     79
+      Number with same-slice carry load:        21
+      Number with other load:                    0
+
+Slice Logic Distribution:
+  Number of occupied Slices:                 2,717 out of   3,758   72%
+  Number of MUXCYs used:                     1,464 out of   7,516   19%
+  Number of LUT Flip Flop pairs used:        8,707
+    Number with an unused Flip Flop:         3,804 out of   8,707   43%
+    Number with an unused LUT:               1,661 out of   8,707   19%
+    Number of fully used LUT-FF pairs:       3,242 out of   8,707   37%
+    Number of slice register sites lost
+      to control set restrictions:               0 out of  30,064    0%
+
+  A LUT Flip Flop pair for this architecture represents one LUT paired with
+  one Flip Flop within a slice.  A control set is a unique combination of
+  clock, reset, set, and enable signals for a registered element.
+  The Slice Logic Distribution report is not meaningful if the design is
+  over-mapped for a non-slice resource or if Placement fails.
+
+IO Utilization:
+  Number of bonded IOBs:                        71 out of     186   38%
+    Number of LOCed IOBs:                       71 out of      71  100%
+    IOB Latches:                                22
+
+Specific Feature Utilization:
+  Number of RAMB16BWERs:                        20 out of      52   38%
+  Number of RAMB8BWERs:                          6 out of     104    5%
+  Number of BUFIO2/BUFIO2_2CLKs:                 3 out of      32    9%
+    Number used as BUFIO2s:                      3
+    Number used as BUFIO2_2CLKs:                 0
+  Number of BUFIO2FB/BUFIO2FB_2CLKs:             3 out of      32    9%
+    Number used as BUFIO2FBs:                    3
+    Number used as BUFIO2FB_2CLKs:               0
+  Number of BUFG/BUFGMUXs:                       8 out of      16   50%
+    Number used as BUFGs:                        8
+    Number used as BUFGMUX:                      0
+  Number of DCM/DCM_CLKGENs:                     3 out of       4   75%
+    Number used as DCMs:                         3
+    Number used as DCM_CLKGENs:                  0
+  Number of ILOGIC2/ISERDES2s:                   6 out of     272    2%
+    Number used as ILOGIC2s:                     6
+    Number used as ISERDES2s:                    0
+  Number of IODELAY2/IODRP2/IODRP2_MCBs:         0 out of     272    0%
+  Number of OLOGIC2/OSERDES2s:                  16 out of     272    5%
+    Number used as OLOGIC2s:                    16
+    Number used as OSERDES2s:                    0
+  Number of BSCANs:                              0 out of       4    0%
+  Number of BUFHs:                               0 out of     160    0%
+  Number of BUFPLLs:                             0 out of       8    0%
+  Number of BUFPLL_MCBs:                         0 out of       4    0%
+  Number of DSP48A1s:                            0 out of      38    0%
+  Number of ICAPs:                               0 out of       1    0%
+  Number of MCBs:                                0 out of       2    0%
+  Number of PCILOGICSEs:                         0 out of       2    0%
+  Number of PLL_ADVs:                            0 out of       2    0%
+  Number of PMVs:                                0 out of       1    0%
+  Number of STARTUPs:                            0 out of       1    0%
+  Number of SUSPEND_SYNCs:                       0 out of       1    0%
+
+
+Overall effort level (-ol):   High 
+Router effort level (-rl):    High 
+
+Starting initial Timing Analysis.  REAL time: 12 secs 
+Finished initial Timing Analysis.  REAL time: 13 secs 
+
+WARNING:Par:288 - The signal lb_addr<0>_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal lb_addr<7>_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal lb_addr<8>_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal lb_addr<9>_IBUF has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram17_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram18_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram24_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram2_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram8_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram1_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram7_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram2_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram4_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram6_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram23_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram24_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram19_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram17_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram18_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram21_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram9_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram16_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram14_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram15_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram13_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram11_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram10_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram20_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram21_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram21_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram23_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram19_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram3_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram40_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram39_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram5_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram3_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram22_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram20_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram12_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram12_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram22_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram20_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram4_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram37_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram31_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram29_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram30_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram30_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram28_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram13_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram15_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram5_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram29_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram25_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram9_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram11_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram14_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram8_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram1_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram6_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram7_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram2_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram1_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram7_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram8_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram26_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram31_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram16_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram10_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram32_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram28_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram40_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram35_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram38_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram34_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram26_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram27_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram28_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram32_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram6_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram3_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram27_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram32_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram30_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram39_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram37_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram38_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram36_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram33_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram36_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram33_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram25_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram26_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram30_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram32_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram8_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram2_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram4_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram5_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram4_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram10_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram21_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram18_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram25_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram29_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram40_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram27_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram29_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram25_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram6_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram1_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram5_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram10_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram18_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram14_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram37_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram40_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram27_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram35_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram34_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram35_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram38_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram39_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram37_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram36_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram29_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram3_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram7_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram22_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram19_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram16_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram13_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram24_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram22_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram17_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram33_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram34_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram26_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/Laser_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_
+   ram.sdpram_inst/Mram_ram31_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram33_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram20_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram31_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram9_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram16_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram24_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram17_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram12_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram15_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram9_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram11_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram23_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram20_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram19_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram39_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram36_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram35_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[2].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram38_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram34_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram25_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram32_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram31_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram28_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram30_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram28_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram39_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram12_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram15_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram23_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram5_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram2_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram8_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram16_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram10_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram13_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram9_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram23_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram21_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram19_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram17_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram24_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram27_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram26_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram40_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram14_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram13_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram6_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram1_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram7_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram3_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram4_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram11_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram12_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram15_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram14_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram22_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[0].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram18_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram36_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram33_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram38_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram34_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram35_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram37_RAMD_O has no load.  PAR will not attempt to route this signal.
+WARNING:Par:288 - The signal
+   cnc2_GalvoMotor_EtherCAT/SCANHEAD_Partition_1/XY2_Partition_1/G1.Channel[1].DDACmdFIFO/DATA_FIFO1/U0/xst_options.dist_mem_inst/gen_sdp_ra
+   m.sdpram_inst/Mram_ram11_RAMD_O has no load.  PAR will not attempt to route this signal.
+Starting Router
+
+
+Phase  1  : 46643 unrouted;      REAL time: 14 secs 
+
+Phase  2  : 40680 unrouted;      REAL time: 16 secs 
+
+Phase  3  : 17945 unrouted;      REAL time: 46 secs 
+
+Phase  4  : 17945 unrouted; (Setup:0, Hold:37680, Component Switching Limit:0)     REAL time: 48 secs 
+
+Updating file: CNC2_GalvoMotor_EtherCAT.ncd with current fully routed design.
+
+Phase  5  : 0 unrouted; (Setup:0, Hold:24898, Component Switching Limit:0)     REAL time: 1 mins 38 secs 
+
+Phase  6  : 0 unrouted; (Setup:0, Hold:24898, Component Switching Limit:0)     REAL time: 1 mins 38 secs 
+
+Phase  7  : 0 unrouted; (Setup:0, Hold:24898, Component Switching Limit:0)     REAL time: 1 mins 38 secs 
+
+Phase  8  : 0 unrouted; (Setup:0, Hold:24898, Component Switching Limit:0)     REAL time: 1 mins 38 secs 
+
+Phase  9  : 0 unrouted; (Setup:0, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 39 secs 
+
+Phase 10  : 0 unrouted; (Setup:0, Hold:0, Component Switching Limit:0)     REAL time: 1 mins 43 secs 
+Total REAL time to Router completion: 1 mins 43 secs 
+Total CPU time to Router completion: 1 mins 42 secs 
+
+Partition Implementation Status
+-------------------------------
+
+  No Partitions were found in this design.
+
+-------------------------------
+
+Generating "PAR" statistics.
+
+**************************
+Generating Clock Report
+**************************
+
++---------------------+--------------+------+------+------------+-------------+
+|        Clock Net    |   Resource   |Locked|Fanout|Net Skew(ns)|Max Delay(ns)|
++---------------------+--------------+------+------+------------+-------------+
+|      BUFG_CLK_80MHz | BUFGMUX_X2Y12| No   |  448 |  0.204     |  1.250      |
++---------------------+--------------+------+------+------------+-------------+
+|      BUFG_CLK_40MHz | BUFGMUX_X3Y16| No   |  934 |  0.235     |  1.278      |
++---------------------+--------------+------+------+------------+-------------+
+|BUFG_Tx_CLK_25MHz_FB |              |      |      |            |             |
+|                     | BUFGMUX_X3Y13| No   |  131 |  0.117     |  1.167      |
++---------------------+--------------+------+------+------------+-------------+
+|BUFG_Rx_CLK_25MHz_FB |              |      |      |            |             |
+|                     |  BUFGMUX_X2Y2| No   |  143 |  0.113     |  1.164      |
++---------------------+--------------+------+------+------------+-------------+
+|   BUFG_Rx_CLK_50MHz |  BUFGMUX_X2Y1| No   |   39 |  0.180     |  1.228      |
++---------------------+--------------+------+------+------------+-------------+
+|   BUFG_Tx_CLK_50MHz |  BUFGMUX_X2Y4| No   |   42 |  0.048     |  1.158      |
++---------------------+--------------+------+------+------------+-------------+
+|GMPartition_1/GM_RIO |              |      |      |            |             |
+|_Partition1/_n2625_B |              |      |      |            |             |
+|                 UFG | BUFGMUX_X2Y10| No   |   64 |  0.196     |  1.247      |
++---------------------+--------------+------+------+------------+-------------+
+|GMPartition_1/XY2100 |              |      |      |            |             |
+|_Partition_1/G1.XY21 |              |      |      |            |             |
+|00_Channel[0].XY2100 |              |      |      |            |             |
+|_Receiver_ch/m_DataU |              |      |      |            |             |
+|           pdateFlag |         Local|      |   34 |  0.187     |  3.574      |
++---------------------+--------------+------+------+------------+-------------+
+|         lb_ale_IBUF |         Local|      |   11 |  3.332     |  6.906      |
++---------------------+--------------+------+------+------------+-------------+
+|GMPartition_1/SPI_Pa |              |      |      |            |             |
+|rition_1/SPI_Module_ |              |      |      |            |             |
+|1/SPI_base_1/iReset_ |              |      |      |            |             |
+|GND_2791_o_AND_8121_ |              |      |      |            |             |
+|                   o |         Local|      |    2 |  0.000     |  0.754      |
++---------------------+--------------+------+------+------------+-------------+
+|LocalBusBridgeAleDec |              |      |      |            |             |
+|   _inst/m_ClientCSn |         Local|      |   22 |  1.224     |  2.628      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/m_ProtocolRea |              |      |      |            |             |
+|dy_m_DataWrEN_OR_622 |              |      |      |            |             |
+|                  _o |         Local|      |    7 |  0.620     |  1.268      |
++---------------------+--------------+------+------+------------+-------------+
+|GMPartition_1/GM_RIO |              |      |      |            |             |
+|  _Partition1/_n2572 |         Local|      |   64 |  3.898     |  5.296      |
++---------------------+--------------+------+------+------------+-------------+
+|GMPartition_1/GM_RIO |              |      |      |            |             |
+|  _Partition1/_n2624 |         Local|      |   64 |  5.645     |  6.703      |
++---------------------+--------------+------+------+------------+-------------+
+|GMPartition_1/GM_RIO |              |      |      |            |             |
+|  _Partition1/_n2574 |         Local|      |    3 |  0.584     |  1.383      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/ModbusFuncM |              |      |      |            |             |
+|anager_1/Modbus_Read |              |      |      |            |             |
+|HoldingReg_1/m_State |              |      |      |            |             |
+|[1]_GND_559_o_Mux_62 |              |      |      |            |             |
+|                  _o |         Local|      |    3 |  0.631     |  0.941      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Reset_n_W |              |      |      |            |             |
+|    EB1[0]_AND_704_o |         Local|      |    2 |  0.000     |  0.545      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Reset_n_W |              |      |      |            |             |
+|    EB1[1]_AND_702_o |         Local|      |    2 |  0.000     |  0.497      |
++---------------------+--------------+------+------+------------+-------------+
+|cnc2_GalvoMotor_Ethe |              |      |      |            |             |
+|rCAT/SCANHEAD_Partit |              |      |      |            |             |
+|ion_1/Laser_Partitio |              |      |      |            |             |
+|n_1/LaserControl_1/i |              |      |      |            |             |
+|ServoOn_GND_372_o_AN |              |      |      |            |             |
+|             D_287_o |         Local|      |    8 |  0.989     |  1.860      |
++---------------------+--------------+------+------+------------+-------------+
+|LocalBusBridgeAleDec |              |      |      |            |             |
+|_inst/iLBALEDEC_ALE_ |              |      |      |            |             |
+|iLBALEDEC_WRn_AND_4_ |              |      |      |            |             |
+|                   o |         Local|      |    4 |  1.133     |  2.033      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/ModbusFuncM |              |      |      |            |             |
+|anager_1/Modbus_WrMu |              |      |      |            |             |
+|ltiReg_1/m_State[1]_ |              |      |      |            |             |
+|  GND_569_o_Mux_63_o |         Local|      |    2 |  0.418     |  1.439      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/m_CRCErrorF |              |      |      |            |             |
+|               lag_G |         Local|      |    1 |  0.000     |  0.657      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/m_1_5Toutfl |              |      |      |            |             |
+|                ag_G |         Local|      |    1 |  0.000     |  0.302      |
++---------------------+--------------+------+------+------------+-------------+
+|SRIPartition_1/G1.Ch |              |      |      |            |             |
+|annel[0].SRIComParti |              |      |      |            |             |
+|tion_1/SRI_Protocol_ |              |      |      |            |             |
+|Modbus_1/iEN_iTimeOu |              |      |      |            |             |
+|    t[31]_MUX_1773_o |         Local|      |    1 |  0.000     |  0.302      |
++---------------------+--------------+------+------+------------+-------------+
+
+* Net Skew is the difference between the minimum and maximum routing
+only delays for the net. Note this is different from Clock Skew which
+is reported in TRCE timing report. Clock Skew is the difference between
+the minimum and maximum path delays which includes logic delays.
+
+* The fanout is the number of component pins not the individual BEL loads,
+for example SLICE loads not FF loads.
+
+Timing Score: 0 (Setup: 0, Hold: 0, Component Switching Limit: 0)
+
+Number of Timing Constraints that were not applied: 2
+
+Asterisk (*) preceding a constraint indicates it was not met.
+   This may be due to a setup or hold violation.
+
+----------------------------------------------------------------------------------------------------------
+  Constraint                                |    Check    | Worst Case |  Best Case | Timing |   Timing   
+                                            |             |    Slack   | Achievable | Errors |    Score   
+----------------------------------------------------------------------------------------------------------
+  TS_CLK_80MHz = PERIOD TIMEGRP "CLK_80MHz" | SETUP       |     0.329ns|    12.171ns|       0|           0
+   TS_g_clk / 2 HIGH 50%                    | HOLD        |     0.301ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_g_clk = PERIOD TIMEGRP "g_clk" 25 ns H | SETUP       |     0.531ns|    23.938ns|       0|           0
+  IGH 50%                                   | HOLD        |     0.018ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = IN 10 ns VALID 40 ns BEFORE COMP | SETUP       |     1.107ns|     8.893ns|       0|           0
+   "RX_CLK1"                                | HOLD        |    30.514ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = OUT 10 ns AFTER COMP "TX_CLK1"   | MAXDELAY    |     3.794ns|     6.206ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_TO_SRIPartition_1G1Channel0SRIComParti | SETUP       |     5.048ns|     7.452ns|       0|           0
+  tion_1m_WEB1_1_LDC = MAXDELAY TO          | HOLD        |     1.692ns|            |       0|           0
+  TIMEGRP "TO_SRIPartition_1G1Channel0SRICo |             |            |            |        |            
+  mPartition_1m_WEB1_1_LDC"         TS_CLK_ |             |            |            |        |            
+  80MHz DATAPATHONLY                        |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_TO_SRIPartition_1G1Channel0SRIComParti | SETUP       |     5.420ns|     7.080ns|       0|           0
+  tion_1m_WEB1_0_LDC = MAXDELAY TO          | HOLD        |     1.701ns|            |       0|           0
+  TIMEGRP "TO_SRIPartition_1G1Channel0SRICo |             |            |            |        |            
+  mPartition_1m_WEB1_0_LDC"         TS_CLK_ |             |            |            |        |            
+  80MHz DATAPATHONLY                        |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  NET "IBUFG_CLK_Rx_25MHz" MAXSKEW = 6 ns   | NETSKEW     |     5.770ns|     0.230ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  NET "IBUFG_CLK_Tx_25MHz" MAXSKEW = 6 ns   | NETSKEW     |     5.773ns|     0.227ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = OUT 25 ns AFTER COMP "g_clk"     | MAXDELAY    |     7.203ns|    17.797ns|       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_CLK_Rx25MHz_DCM = PERIOD TIMEGRP "CLK_ | SETUP       |    11.547ns|    16.906ns|       0|           0
+  Rx25MHz_DCM" TS_RX_CLK1 HIGH 50%          | HOLD        |     0.384ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_CLK_Rx50MHz_DCM = PERIOD TIMEGRP "CLK_ | SETUP       |    13.150ns|     6.850ns|       0|           0
+  Rx50MHz_DCM" TS_RX_CLK1 / 2 HIGH 50%      | HOLD        |     0.301ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  OFFSET = IN 25 ns VALID 25 ns BEFORE COMP | SETUP       |    13.485ns|    11.515ns|       0|           0
+   "g_clk" "RISING"                         | HOLD        |     0.064ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_CLK_Tx50MHz_DCM = PERIOD TIMEGRP "CLK_ | SETUP       |    14.794ns|     5.206ns|       0|           0
+  Tx50MHz_DCM" TS_TX_CLK1 / 2 HIGH 50%      | HOLD        |     0.381ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_CLK_Tx25MHz_DCM = PERIOD TIMEGRP "CLK_ | SETUP       |    16.021ns|     7.958ns|       0|           0
+  Tx25MHz_DCM" TS_TX_CLK1 HIGH 50%          | HOLD        |     0.030ns|            |       0|           0
+----------------------------------------------------------------------------------------------------------
+  TS_RX_CLK1 = PERIOD TIMEGRP "RX_CLK1" 40  | MINLOWPULSE |    24.000ns|    16.000ns|       0|           0
+  ns HIGH 50%                               |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_TX_CLK1 = PERIOD TIMEGRP "TX_CLK1" 40  | MINLOWPULSE |    24.000ns|    16.000ns|       0|           0
+  ns HIGH 50%                               |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+  TS_TO_GMPartition_1SPI_Parition_1SPI_Modu | MAXDELAY    |    17.779ns|     7.221ns|       0|           0
+  le_1SPI_base_1m_CLK_LDC = MAXDELAY TO     | HOLD        |     1.296ns|            |       0|           0
+       TIMEGRP         "TO_GMPartition_1SPI |             |            |            |        |            
+  _Parition_1SPI_Module_1SPI_base_1m_CLK_LD |             |            |            |        |            
+  C"         TS_g_clk DATAPATHONLY          |             |            |            |        |            
+----------------------------------------------------------------------------------------------------------
+
+
+Derived Constraint Report
+Review Timing Report for more details on the following derived constraints.
+To create a Timing Report, run "trce -v 12 -fastpaths -o design_timing_report design.ncd design.pcf"
+or "Run Timing Analysis" from Timing Analyzer (timingan).
+Derived Constraints for TS_g_clk
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|                               |   Period    |       Actual Period       |      Timing Errors        |      Paths Analyzed       |
+|           Constraint          | Requirement |-------------+-------------|-------------+-------------|-------------+-------------|
+|                               |             |   Direct    | Derivative  |   Direct    | Derivative  |   Direct    | Derivative  |
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|TS_g_clk                       |     25.000ns|     23.938ns|     24.342ns|            0|            0|    156957541|       316996|
+| TS_CLK_80MHz                  |     12.500ns|     12.171ns|      7.452ns|            0|            0|       316978|           12|
+|  TS_TO_SRIPartition_1G1Channel|     12.500ns|      7.080ns|          N/A|            0|            0|            6|            0|
+|  0SRIComPartition_1m_WEB1_0_LD|             |             |             |             |             |             |             |
+|  C                            |             |             |             |             |             |             |             |
+|  TS_TO_SRIPartition_1G1Channel|     12.500ns|      7.452ns|          N/A|            0|            0|            6|            0|
+|  0SRIComPartition_1m_WEB1_1_LD|             |             |             |             |             |             |             |
+|  C                            |             |             |             |             |             |             |             |
+| TS_TO_GMPartition_1SPI_Paritio|     25.000ns|      7.221ns|          N/A|            0|            0|            6|            0|
+| n_1SPI_Module_1SPI_base_1m_CLK|             |             |             |             |             |             |             |
+| _LDC                          |             |             |             |             |             |             |             |
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+
+Derived Constraints for TS_TX_CLK1
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|                               |   Period    |       Actual Period       |      Timing Errors        |      Paths Analyzed       |
+|           Constraint          | Requirement |-------------+-------------|-------------+-------------|-------------+-------------|
+|                               |             |   Direct    | Derivative  |   Direct    | Derivative  |   Direct    | Derivative  |
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|TS_TX_CLK1                     |     40.000ns|     16.000ns|     10.412ns|            0|            0|            0|         4097|
+| TS_CLK_Tx50MHz_DCM            |     20.000ns|      5.206ns|          N/A|            0|            0|          857|            0|
+| TS_CLK_Tx25MHz_DCM            |     40.000ns|      7.958ns|          N/A|            0|            0|         3240|            0|
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+
+Derived Constraints for TS_RX_CLK1
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|                               |   Period    |       Actual Period       |      Timing Errors        |      Paths Analyzed       |
+|           Constraint          | Requirement |-------------+-------------|-------------+-------------|-------------+-------------|
+|                               |             |   Direct    | Derivative  |   Direct    | Derivative  |   Direct    | Derivative  |
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+|TS_RX_CLK1                     |     40.000ns|     16.000ns|     16.906ns|            0|            0|            0|         5432|
+| TS_CLK_Rx50MHz_DCM            |     20.000ns|      6.850ns|          N/A|            0|            0|         1161|            0|
+| TS_CLK_Rx25MHz_DCM            |     40.000ns|     16.906ns|          N/A|            0|            0|         4271|            0|
++-------------------------------+-------------+-------------+-------------+-------------+-------------+-------------+-------------+
+
+All constraints were met.
+
+
+Generating Pad Report.
+
+All signals are completely routed.
+
+WARNING:Par:283 - There are 204 loadless signals in this design. This design will cause Bitgen to issue DRC warnings.
+
+Total REAL time to PAR completion: 1 mins 47 secs 
+Total CPU time to PAR completion: 1 mins 46 secs 
+
+Peak Memory Usage:  420 MB
+
+Placer: Placement generated during map.
+Routing: Completed - No errors found.
+Timing: Completed - No errors found.
+
+Number of error messages: 0
+Number of warning messages: 206
+Number of info messages: 0
+
+Writing design to file CNC2_GalvoMotor_EtherCAT.ncd
+
+
+
+PAR done!
