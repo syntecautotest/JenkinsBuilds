@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228328"><author>colingsta</author><date>2019-05-17T02:11:22.347633Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\SerialServo\AdjustAPP\BallBarAdjust\BallBarAdjustDisplay.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/SerialServo/AdjustAPP/BallBarAdjust/BallBarAdjustDisplay.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/SerialServo/AdjustAPP/BallBarAdjust/BallBarAdjustDisplay.cs</path></paths><msg>merge appkernel/ISSUE_13063_b_BallBarAdjustPreciseError r225512-r228065 to 10.118.12Q, 10.118.22,  by 存澤
+
+修正
+    循圓調適加工檔精度/數值錯誤 問題</msg></logentry></log>

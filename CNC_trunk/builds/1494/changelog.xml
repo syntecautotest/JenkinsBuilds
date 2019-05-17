@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228399"><author>1384</author><date>2019-05-17T07:48:59.981613Z</date><paths><path action="M" localPath="OCDevice\Source\MciM3\M3SvoChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3SvoChannel.cpp</path></paths><msg>merge: ATEST_1178_b_ENCUpdateErr, 228249 to 10.118.22
+by 建明
+
+修正新代驅動器編碼器韌體更新功能錯誤的問題。</msg></logentry></log>

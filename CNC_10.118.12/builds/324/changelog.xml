@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228318"><author>1200</author><date>2019-05-17T01:09:08.496675Z</date><paths><path action="M" localPath="res\_Arm\_GANTRY\Macro\G0111" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_GANTRY/Macro/G0111</path><path action="A" localPath="res\_Arm\_GANTRY\Macro\G0112" copyfrom-path="/cnckernel/branches/ROBOT/ISSUE_14623_b_Gantry2ndArmOrigin_118_21/res/_Arm/_GANTRY/Macro/G0112" copyfrom-rev="227889" kind="file">/cnckernel/branches/release_v10.118.12/res/_Arm/_GANTRY/Macro/G0112</path><path action="M" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0111</path><path action="A" copyfrom-path="/cnckernel/branches/ROBOT/ISSUE_14623_b_Gantry2ndArmOrigin_118_21/res/_Arm/_GANTRY/Macro/G0112" copyfrom-rev="227889" kind="file">/cnckernel/trunk/res/_Arm/_GANTRY/Macro/G0112</path></paths><msg>merge: ISSUE_14623_b_Gantry2ndArmOrigin_118_21, 227855-227889, to 10.118.12Q, 10.118.22
+by 晉毅
+
+from 10.118.12B, 10.118.14, ROBOT-180
+
+機器人產品( Gantry )
+1. 修正回原點MACRO之軸名稱設定、警報亂碼問題
+2. 新增G0112作為第二手臂回原點之MACRO </msg></logentry></log>
