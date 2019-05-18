@@ -1,0 +1,13 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins2682347690039564709.bat
+Product: F01-220TB-5-10-STD-DG
+<FileConfig ProductName="F01-220TB-5-10-STD-DG" PackageHead="220B-5LatheCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.13.0</Version><Name>WCE7_I.MX6_9.13.0.bin</Name><Hash>b6630b5566343e28230c96e5df70350d</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.13.0/ARMCE7_Image/WCE7_I.MX6_9.13.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.54Y</Version><Name>package_8ccc7fbe.zip</Name><Hash>a28746597e3d65a247247a5358f71862</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_220TB_5_10_STD_DG/Software/Test/Common/package_8ccc7fbe.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.54Y</Version><Name>Test.zip</Name><Hash>6b33fb69aabd12ea111482ce01b85eeb</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.54Y</Version><Name>package_790b7a1.zip</Name><Hash>629bd3997854e840691e2cfb43a94d58</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_220TB_5_10_STD_DG/Software/Delivery/Common/package_790b7a1.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.54Y</Version><Name>Delivery.zip</Name><Hash>46826ba4b6aec2d0ff31f4d971d826f8</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in  3 second
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS

@@ -1,0 +1,13 @@
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\RecordConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins418135724015184970.bat
+Product: F01-610WA-H-VGA
+<FileConfig ProductName="F01-610WA-H-VGA" PackageHead="610A-HWOODCE7_ARM"><Files><File Category="Image" Usage="Common" Hardware="IMX6"><Version>9.13.0</Version><Name>WCE7_I.MX6_9.13.0.bin</Name><Hash>b6630b5566343e28230c96e5df70350d</Hash><URL>http://www.syntecclub.com.tw/cncrel/9.13.0/ARMCE7_Image/WCE7_I.MX6_9.13.0.bin</URL></File><File Category="Software" Usage="Test" Hardware="Common"><Version>10.116.56C</Version><Name>package_94e12c80.zip</Name><Hash>9718589782f4c74a7ddce9fbac64a869</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_610WA_H_VGA/Software/Test/Common/package_94e12c80.zip</URL></File><File Category="Packing" Usage="Test" Hardware="Common"><Version>10.116.56C</Version><Name>Test.zip</Name><Hash>56760ad1543b50236183fcec26d49dab</Hash></File><File Category="Software" Usage="Delivery" Hardware="Common"><Version>10.116.56C</Version><Name>package_705a01f3.zip</Name><Hash>6e93e9293114b7840b41117dde04bb05</Hash><URL>http://www.syntecclub.com.tw/cncrel/QCREL/OQCDB/F01_610WA_H_VGA/Software/Delivery/Common/package_705a01f3.zip</URL></File><File Category="Packing" Usage="Delivery" Hardware="Common"><Version>10.116.56C</Version><Name>Delivery.zip</Name><Hash>8fd169f5feba5d6cac65d5114dc79d6b</Hash></File></Files></FileConfig>
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in  3 second
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
