@@ -1,0 +1,329 @@
+¥Ñ¤W¶Ç±M®× "[8mha:////4Gvf5lC+pQ2V533OD+kXFRjmVR1kUIPYkK8uJ5NTK/iBAAAAoB+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzeEgZx/az8JH33zBIwHZxYluof6OzipA8AX55oUswAAAA=[0mGit/SaveOQCDB" ªº²Ä [8mha:////4J/5CNIzp1ElLO670V24VdEyPKjb0qDbV9RswpUbzP4NAAAAox+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAzmEgYp/az8JH33zBIwHZxYluof6OzipG9iZgkAvVgKvc8AAAA=[0m469 ¦¸«Ø¸m±Ò°Ê
+­ì¦]¬°:
+ ¥Ñ¨Ï¥ÎªÌ [8mha:////4IljLVJWM0CPVtxASDUGMK0CvrwH6nwDQ8EVgq5JNz9PAAAAnR+LCAAAAAAAAP9b85aBtbiIQTGjNKU4P08vOT+vOD8nVc83PyU1x6OyILUoJzMv2y+/JJUBAhiZGBgqihhk0NSjKDWzXb3RdlLBUSYGJk8GtpzUvPSSDB8G5tKinBIGIZ+sxLJE/ZzEvHT94JKizLx0a6BxUmjGOUNodHsLgAy+EgZh/dLi1CL9otRcoDzQjPT01CIA6+rF78gAAAA=[0mRemote Trigger ±Ò°Ê
+[EnvInject] - Loading node environment variables.
+¦b Master ¤W«Ø¸m ¤u§@°Ï C:\Jenkins\jobs\Git\jobs\SaveOQCFileConfig\workspace
+[workspace] $ cmd /c call C:\Users\user1\AppData\Local\Temp\jenkins805924893169533109.bat
+ID:1 Date:2019/04/19 09:11:01
+On branch master
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	modified:   60PE.xml
+	modified:   6MA.xml
+	modified:   6MB.xml
+	modified:   6TA.xml
+	modified:   6TB.xml
+	modified:   F01-11B-SEP-DG-M.xml
+	modified:   F01-11MA-SEP-DG-A.xml
+	modified:   F01-11MA-SEP-DG.xml
+	modified:   F01-11MA-VGA.xml
+	modified:   F01-11MB-SEP-DG-A.xml
+	modified:   F01-11MB-SEP-DG.xml
+	modified:   F01-11MB-VGA.xml
+	modified:   F01-11MB150-SEP-TOUCH.xml
+	modified:   F01-11TA-SEP-DG.xml
+	modified:   F01-11TB-SEP-DG-A.xml
+	modified:   F01-11TB-SEP-DG.xml
+	modified:   F01-210MA-E-10-SEP-DG.xml
+	modified:   F01-210MA-E-VGA.xml
+	modified:   F01-210MA-E5-10-SEP-DG.xml
+	modified:   F01-210MA-E5-VGA.xml
+	modified:   F01-210MA-H-SEP-DG.xml
+	modified:   F01-210MA-H-VGA.xml
+	modified:   F01-210MA-H5-SEP-DG.xml
+	modified:   F01-210MA-H5-VGA.xml
+	modified:   F01-210MB-E-10-SEP-DG.xml
+	modified:   F01-210MB-E-VGA.xml
+	modified:   F01-210MB-E5-10-SEP-DG.xml
+	modified:   F01-210MB-E5-VGA.xml
+	modified:   F01-210MB-H-SEP-DG.xml
+	modified:   F01-210MB-H-VGA.xml
+	modified:   F01-210MB-H5-SEP-DG.xml
+	modified:   F01-210MB-H5-VGA.xml
+	modified:   F01-210TB-E-10-SEP-DG.xml
+	modified:   F01-210TB-E-8-SEP-DG.xml
+	modified:   F01-210TB-E-8-STD-DG.xml
+	modified:   F01-210TB-E-VGA.xml
+	modified:   F01-210TB-E5-10-SEP-DG.xml
+	modified:   F01-210TB-H-DG.xml
+	modified:   F01-210TB-H-SEP-DG.xml
+	modified:   F01-210TB-H-VGA.xml
+	modified:   F01-210TB-H5-SEP-DG.xml
+	modified:   F01-21MA-8-SEP-DG.xml
+	modified:   F01-21MA-DG.xml
+	modified:   F01-21MA-E-10-SEP-DG.xml
+	modified:   F01-21MA-E-150-SEP-TOUCH.xml
+	modified:   F01-21MA-E-150-SEP.xml
+	modified:   F01-21MA-E-8-SEP-DG.xml
+	modified:   F01-21MA-E-8-STD-DG.xml
+	modified:   F01-21MA-E-VGA.xml
+	modified:   F01-21MA-H-8-SEP-DG.xml
+	modified:   F01-21MA-H-DG.xml
+	modified:   F01-21MA-H-SEP-DG.xml
+	modified:   F01-21MA-H-VGA.xml
+	modified:   F01-21MA-SEP-DG.xml
+	modified:   F01-21MA-SEP-K-TOUCH.xml
+	modified:   F01-21MA104-SEP.xml
+	modified:   F01-21MA104I-SEP.xml
+	modified:   F01-21MA121-H-SEP.xml
+	modified:   F01-21MA121-SEP.xml
+	modified:   F01-21MA150-H-SEP-TOUCH.xml
+	modified:   F01-21MA150-H-SEP.xml
+	modified:   F01-21MA150-SEP.xml
+	modified:   F01-21TA-8-SEP-DG.xml
+	modified:   F01-21TA-DG.xml
+	modified:   F01-21TA-E-10-SEP-DG.xml
+	modified:   F01-21TA-E-8-SEP-DG.xml
+	modified:   F01-21TA-E-8-STD-DG.xml
+	modified:   F01-21TA-H-8-SEP-DG.xml
+	modified:   F01-21TA-H-DG.xml
+	modified:   F01-21TA-H-SEP-DG.xml
+	modified:   F01-21TA-SEP-DG.xml
+	modified:   F01-21TA104-SEP.xml
+	modified:   F01-21TA104I-SEP.xml
+	modified:   F01-21TA121-SEP.xml
+	modified:   F01-21TA150-SEP.xml
+	modified:   F01-21TB-8-SEP-DG.xml
+	modified:   F01-21TB-DG.xml
+	modified:   F01-21TB-E-10-SEP-DG.xml
+	modified:   F01-21TB-E-8-SEP-DG.xml
+	modified:   F01-21TB-E-8-STD-DG.xml
+	modified:   F01-21TB-H-8-SEP-DG.xml
+	modified:   F01-21TB-H-DG.xml
+	modified:   F01-21TB-H-SEP-DG.xml
+	modified:   F01-21TB-SEP-DG.xml
+	modified:   F01-220MA-10-SEP-DG-S-T.xml
+	modified:   F01-220MA-10-SEP-DG-S.xml
+	modified:   F01-220MA-10-SEP-DG.xml
+	modified:   F01-220MA-10-STD-DG.xml
+	modified:   F01-220MA-15-SEP-DG-S-T.xml
+	modified:   F01-220MA-15-SEP-DG-S.xml
+	modified:   F01-220MA-15E.xml
+	modified:   F01-220MA-5-10-SEP-DG-S-T.xml
+	modified:   F01-220MA-5-10-SEP-DG-S.xml
+	modified:   F01-220MA-5-10-SEP-DG.xml
+	modified:   F01-220MA-5-10-STD-DG.xml
+	modified:   F01-220MA-5-10-TOUCH-DG.xml
+	modified:   F01-220MA-5-15-SEP-DG-S-T.xml
+	modified:   F01-220MA-5-15-SEP-DG-S.xml
+	modified:   F01-220MA-5-15E.xml
+	modified:   F01-220MB-10-SEP-DG-S-T.xml
+	modified:   F01-220MB-10-SEP-DG-S.xml
+	modified:   F01-220MB-10-SEP-DG.xml
+	modified:   F01-220MB-10-STD-DG.xml
+	modified:   F01-220MB-15-SEP-DG-S-T.xml
+	modified:   F01-220MB-15-SEP-DG-S.xml
+	modified:   F01-220MB-15E.xml
+	modified:   F01-220MB-5-10-SEP-DG-S-T.xml
+	modified:   F01-220MB-5-10-SEP-DG-S.xml
+	modified:   F01-220MB-5-10-SEP-DG.xml
+	modified:   F01-220MB-5-10-STD-DG.xml
+	modified:   F01-220MB-5-10-TOUCH-DG.xml
+	modified:   F01-220MB-5-15-SEP-DG-S-T.xml
+	modified:   F01-220MB-5-15-SEP-DG-S.xml
+	modified:   F01-220MB-5-15E.xml
+	modified:   F01-220TB-10-SEP-DG-S-T.xml
+	modified:   F01-220TB-10-SEP-DG-S.xml
+	modified:   F01-220TB-10-SEP-DG.xml
+	modified:   F01-220TB-10-STD-DG.xml
+	modified:   F01-220TB-15-SEP-DG-S-T.xml
+	modified:   F01-220TB-15-SEP-DG-S.xml
+	modified:   F01-220TB-15E.xml
+	modified:   F01-220TB-5-10-SEP-DG-S-T.xml
+	modified:   F01-220TB-5-10-SEP-DG-S.xml
+	modified:   F01-220TB-5-10-STD-DG.xml
+	modified:   F01-220TB-5-15-SEP-DG-S-T.xml
+	modified:   F01-220TB-5-15-SEP-DG-S.xml
+	modified:   F01-22A-DG-M.xml
+	modified:   F01-22A-DG-T.xml
+	modified:   F01-22B-DG-T.xml
+	modified:   F01-22MA-10-SEP-DG-S-T.xml
+	modified:   F01-22MA-10-SEP-DG-S.xml
+	modified:   F01-22MA-10-SEP-DG.xml
+	modified:   F01-22MA-10-STD-DG.xml
+	modified:   F01-22MA-15-SEP-DG-S-T.xml
+	modified:   F01-22MA-15-SEP-DG-S.xml
+	modified:   F01-22MA-15E.xml
+	modified:   F01-22MA-8-SEP-DG.xml
+	modified:   F01-22TA-10-SEP-DG-S-T.xml
+	modified:   F01-22TA-10-SEP-DG-S.xml
+	modified:   F01-22TA-10-SEP-DG.xml
+	modified:   F01-22TA-10-STD-DG.xml
+	modified:   F01-22TA-15-SEP-DG-S-T.xml
+	modified:   F01-22TA-15-SEP-DG-S.xml
+	modified:   F01-22TA-15E.xml
+	modified:   F01-22TA-8-SEP-DG.xml
+	modified:   F01-22TB-10-SEP-DG-S-T.xml
+	modified:   F01-22TB-10-SEP-DG-S.xml
+	modified:   F01-22TB-10-SEP-DG.xml
+	modified:   F01-22TB-10-STD-DG.xml
+	modified:   F01-22TB-15-SEP-DG-S-T.xml
+	modified:   F01-22TB-15-SEP-DG-S.xml
+	modified:   F01-22TB-15E.xml
+	modified:   F01-22TB-8-SEP-DG.xml
+	modified:   F01-610MA-E5-10-SEP-DG.xml
+	modified:   F01-610MA-E5-150-SEP-TOUCH.xml
+	modified:   F01-610MA-E5-150-SEP.xml
+	modified:   F01-610MA-E5-VGA.xml
+	modified:   F01-610MA-H5-150-SEP-TOUCH.xml
+	modified:   F01-610MA-H5-150-SEP.xml
+	modified:   F01-610MA-H5-SEP-DG.xml
+	modified:   F01-610MA-H5-VGA.xml
+	modified:   F01-610WA-H-VGA.xml
+	modified:   F01-610WB-H-VGA.xml
+	modified:   F01-6A-4012-M.xml
+	modified:   F01-6A-4012-ME.xml
+	modified:   F01-6A-4012-T2-NPNE.xml
+	modified:   F01-6A-4012-T2.xml
+	modified:   F01-6A-4012-TE.xml
+	modified:   F01-6A-4018-M2-SSD.xml
+	modified:   F01-6A-4018-M2.xml
+	modified:   F01-6A-4018-M2E.xml
+	modified:   F01-6A-4018-T3-NP.xml
+	modified:   F01-6A-4018-T3-NPNE.xml
+	modified:   F01-6A-4018-T3.xml
+	modified:   F01-6A-4018-T3E.xml
+	modified:   F01-6A-DG-M.xml
+	modified:   F01-6A-DG-T.xml
+	modified:   F01-6A-SEP-DG-M.xml
+	modified:   F01-6A-SEP-DG-T.xml
+	modified:   F01-6A-ZJ4012-M.xml
+	modified:   F01-6B-4012-M.xml
+	modified:   F01-6B-4012-ME.xml
+	modified:   F01-6B-4012-T2-NPNE.xml
+	modified:   F01-6B-4012-T2.xml
+	modified:   F01-6B-4012-TE.xml
+	modified:   F01-6B-4018-M2-SSD.xml
+	modified:   F01-6B-4018-M2.xml
+	modified:   F01-6B-4018-M2E.xml
+	modified:   F01-6B-4018-T3-NPNE.xml
+	modified:   F01-6B-4018-T3.xml
+	modified:   F01-6B-4018-T3E.xml
+	modified:   F01-6B-DG-M.xml
+	modified:   F01-6B-DG-T.xml
+	modified:   F01-6B-SEP-DG-M.xml
+	modified:   F01-6B-SEP-DG-T.xml
+	modified:   F01-6GA-E-8-SEP-DG.xml
+	modified:   F01-6GA-E-8-STD-DG.xml
+	modified:   F01-6MA-E-8-SEP-DG.xml
+	modified:   F01-6MA-E-8-STD-DG.xml
+	modified:   F01-6MB-E-8-SEP-DG.xml
+	modified:   F01-6MB-E-8-STD-DG.xml
+	modified:   F01-6MD-8-SEP-DG.xml
+	modified:   F01-6MD-DG.xml
+	modified:   F01-6MD-H-8-SEP-DG.xml
+	modified:   F01-6MD-H-DG.xml
+	modified:   F01-6TA-E-8-SEP-DG.xml
+	modified:   F01-6TA-E-8-STD-DG.xml
+	modified:   F01-70CB-5-VGA.xml
+	modified:   F01-70CB-UltraCam.xml
+	modified:   F01-70CB-VGA.xml
+	modified:   F11-10C-80MI-S.xml
+	modified:   F11-60PB-S.xml
+	modified:   F11-60PC-S.xml
+	modified:   F11-60PE-S.xml
+	modified:   F11-8C-80MI-S.xml
+	modified:   F11-HC10A-JY.xml
+	modified:   F11-HC10A-K.xml
+	modified:   F11-HC10A-S-FY.xml
+	modified:   F11-HC10A-S.xml
+	modified:   F11-HC10B-JY.xml
+	modified:   F11-HC10B-K.xml
+	modified:   F11-HC10B-S.xml
+	modified:   F11-HC10C-S-5.xml
+	modified:   F11-HC10C-S-NF.xml
+	modified:   F11-HC10C-S.xml
+	modified:   F11-HC10E-K.xml
+	modified:   F11-HC10E-S.xml
+	modified:   F11-HC15A-S.xml
+	modified:   F11-HC15B-S.xml
+	modified:   F11-HC15C-S-5.xml
+	modified:   F11-HC15C-S.xml
+	modified:   F11-HC15E-S.xml
+	modified:   F11-HC8A-K.xml
+	modified:   F11-HC8A-S.xml
+	modified:   F11-HC8B-E.xml
+	modified:   F11-HC8B-K.xml
+	modified:   F11-HC8B-S.xml
+	modified:   F11-HC8C-S-5.xml
+	modified:   F11-HC8C-S.xml
+	modified:   F11-HC8E-K.xml
+	modified:   F11-HC8E-S.xml
+	modified:   F11-HC8S-5E.xml
+	modified:   F11-HC8S-S.xml
+	modified:   REV.props
+	modified:   TESTGROUP3.xml
+	modified:   TestGroup2.xml
+
+no changes added to commit (use "git add" and/or "git commit -a")
+From github.com:syntecautotest/OQCFileConfig
+ * branch            master     -> FETCH_HEAD
+Already up to date.
+[master 95b8388] 2019/04/19 09:11:01 by 1, Modified Products: TESTGROUP3
+ 246 files changed, 246 insertions(+), 246 deletions(-)
+ rewrite 6MB.xml (80%)
+ rewrite 6TA.xml (80%)
+ rewrite F01-210MA-H-SEP-DG.xml (69%)
+ rewrite F01-210MA-H5-VGA.xml (64%)
+ rewrite F01-210MB-H5-VGA.xml (64%)
+ rewrite F01-210TB-H-DG.xml (69%)
+ rewrite F01-21MA-E-10-SEP-DG.xml (64%)
+ rewrite F01-21MA-SEP-K-TOUCH.xml (69%)
+ rewrite F01-21TA-SEP-DG.xml (74%)
+ rewrite F01-21TB-E-10-SEP-DG.xml (100%)
+ rewrite F01-21TB-E-8-SEP-DG.xml (100%)
+ rewrite F01-21TB-E-8-STD-DG.xml (100%)
+ rewrite F01-21TB-H-8-SEP-DG.xml (100%)
+ rewrite F01-21TB-H-DG.xml (100%)
+ rewrite F01-21TB-H-SEP-DG.xml (100%)
+ copy F01-220MA-5-10-SEP-DG-S.xml => F01-220MA-10-SEP-DG-S-T.xml (60%)
+ copy F01-220MA-5-10-TOUCH-DG.xml => F01-220MA-15-SEP-DG-S-T.xml (60%)
+ rewrite F01-220MA-5-10-SEP-DG-S-T.xml (95%)
+ rewrite F01-220MA-5-10-SEP-DG-S.xml (95%)
+ rewrite F01-220MA-5-10-SEP-DG.xml (94%)
+ rewrite F01-220MA-5-10-STD-DG.xml (94%)
+ rewrite F01-220MA-5-10-TOUCH-DG.xml (95%)
+ rewrite F01-220MA-5-15-SEP-DG-S-T.xml (95%)
+ rewrite F01-220MA-5-15-SEP-DG-S.xml (95%)
+ rewrite F01-220MA-5-15E.xml (100%)
+ copy F01-220MB-5-10-TOUCH-DG.xml => F01-220MB-10-SEP-DG-S-T.xml (60%)
+ copy F01-220MB-5-15-SEP-DG-S.xml => F01-220MB-15-SEP-DG-S-T.xml (60%)
+ rewrite F01-220MB-5-10-SEP-DG.xml (94%)
+ rewrite F01-220MB-5-10-STD-DG.xml (69%)
+ rewrite F01-220MB-5-10-TOUCH-DG.xml (95%)
+ rewrite F01-220MB-5-15-SEP-DG-S-T.xml (95%)
+ rewrite F01-220MB-5-15-SEP-DG-S.xml (95%)
+ rewrite F01-220TB-15-SEP-DG-S-T.xml (70%)
+ rewrite F01-22A-DG-M.xml (100%)
+ rewrite F01-22A-DG-T.xml (100%)
+ rewrite F01-22B-DG-T.xml (100%)
+ rewrite F01-22MA-10-SEP-DG-S-T.xml (95%)
+ rewrite F01-22MA-10-SEP-DG-S.xml (100%)
+ rewrite F01-22MA-10-SEP-DG.xml (94%)
+ rewrite F01-22MA-10-STD-DG.xml (94%)
+ rewrite F01-22MA-15-SEP-DG-S-T.xml (95%)
+ rewrite F01-22MA-15-SEP-DG-S.xml (100%)
+ rewrite F01-22MA-15E.xml (100%)
+ rewrite F01-22MA-8-SEP-DG.xml (100%)
+ rewrite F01-22TA-10-SEP-DG-S-T.xml (95%)
+ rewrite F01-22TA-10-SEP-DG-S.xml (100%)
+ rewrite F01-22TA-10-SEP-DG.xml (100%)
+ rewrite F01-22TA-10-STD-DG.xml (100%)
+ rewrite F01-22TA-15-SEP-DG-S-T.xml (95%)
+ rewrite F01-22TA-15-SEP-DG-S.xml (100%)
+ rewrite F01-22TA-15E.xml (100%)
+ rewrite F01-22TA-8-SEP-DG.xml (94%)
+ rewrite F01-22TB-10-SEP-DG-S.xml (100%)
+ rewrite F01-22TB-10-SEP-DG.xml (100%)
+ rewrite F01-22TB-8-SEP-DG.xml (69%)
+ rewrite F01-6MD-H-8-SEP-DG.xml (69%)
+ rewrite TestGroup2.xml (61%)
+To github.com:syntecautotest/OQCFileConfig.git
+   285a5b1..95b8388  master -> master
+Started calculate disk usage of build
+Finished Calculation of disk usage of build in 0 seconds
+Started calculate disk usage of workspace
+Finished Calculation of disk usage of workspace in 0 seconds
+Finished: SUCCESS
