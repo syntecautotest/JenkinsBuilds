@@ -1,0 +1,11 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\ESI\Servotronix_DDHD_PC0_RV0_Syntec.xml
+DiskC\OpenCNC\StdRes\ESI\TD_CoolDrive_A8_Ver1_1_Syntec.xml
+DiskC\OpenCNC\StdRes\ESI\TD_CoolDrive_RC_Ver0_2_Syntec.xml
+DiskC\OpenCNC\StdRes\ESI\TD_CoolDrive_R_Series_Ver0_2_Syntec.xml
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+DiskC\OpenCNC\Data\ECAT_PM_SERVOTRONIX_CDHD.xml
+----------------------------------------------------------------------

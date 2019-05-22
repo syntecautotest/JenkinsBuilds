@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228826"><author>simon</author><date>2019-05-22T01:17:36.768001Z</date><paths><path action="M" localPath="res\Common\Data\GeneralAlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Common/Data/GeneralAlarmMsgChi.Xml</path></paths><msg>merge: HSHP_2667_f_OnlineHelp_Update_SPD_MLC_COM, 228334-228624, to 10.118.22 by 孟儒
+
+fix:
+	更新下列警報內容標題： 
+	1. SPD-001~SPD-030 
+	2. COM-001~COM-028 
+	3. MLC-001~MLC-304 </msg></logentry></log>

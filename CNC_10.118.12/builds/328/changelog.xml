@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="228879"><author>1384</author><date>2019-05-22T03:22:48.337194Z</date><paths><path action="M" localPath="Build\PACK.bat" kind="file">/cnckernel/branches/release_v10.118.12/Build/PACK.bat</path><path action="M" kind="file">/cnckernel/trunk/Build/PACK.bat</path></paths><msg>merge: CNCKL_2829_b_EtherCAT_ESI_PackError, 228546 to 10.118.12R, 10.118.22
+by 青杉
+
+修正控制器無法支援清能德創、匯川、高創DDHD EtherCAT的問題。</msg></logentry></log>

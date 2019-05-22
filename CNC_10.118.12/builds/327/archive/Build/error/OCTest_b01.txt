@@ -1,0 +1,47 @@
+------ Rebuild All started: Project: Utility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Utility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+JDevice.cpp
+JVector.cpp
+JTime.cpp
+JSystem.cpp
+JFile.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Utility\Release\BuildLog.htm"
+Utility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: Operation, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'Operation', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ATLogger.cpp
+LOG.cpp
+KinematicLogger.cpp
+DriverLogger.cpp
+BPT.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\Operation\Release\BuildLog.htm"
+Operation - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCTest, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCTest', configuration 'Release|Win32'
+Compiling...
+TestManager.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+StdAfx.cpp
+Compiling...
+OCTest.cpp
+Linking...
+   Creating library d:\jenkins\workspace\cnc_10.118.12\octest\source\release\OCTest.lib and object d:\jenkins\workspace\cnc_10.118.12\octest\source\release\OCTest.exp
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_10.118.12\OCTest\Source\OCTest\Release\BuildLog.htm"
+OCTest - 0 error(s), 0 warning(s)
+========== Rebuild All: 3 succeeded, 0 failed, 0 skipped ==========
+
