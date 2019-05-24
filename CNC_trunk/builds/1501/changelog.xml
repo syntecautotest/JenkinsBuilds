@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="229184"><author>simon</author><date>2019-05-24T06:48:20.398762Z</date><paths><path action="M" localPath="res\LaserCtrl\Data\AlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/LaserCtrl/Data/AlarmMsgChi.Xml</path><path action="M" localPath="res\Mill\Data\AlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Mill/Data/AlarmMsgChi.Xml</path><path action="M" localPath="res\Common\Data\GeneralAlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Common/Data/GeneralAlarmMsgChi.Xml</path><path action="M" localPath="res\Lathe\Data\AlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Lathe/Data/AlarmMsgChi.Xml</path></paths><msg>merge: HSHP_2666_f_OnlineHelp_Update_MOT_MAR_LASERCTRL, 228437-228604, to 10.118.22 by 昭彣
+
+fix:
+	更新下列警報內容 
+     1.MOT-001 ~ MOT-068 
+     2.MAR: 
+       铣床(Mill) 
+       車床(Lathe) 
+       共通部分(Common) 
+     3.LASERCTRL-001 ~ LASERCTRL-030</msg></logentry></log>

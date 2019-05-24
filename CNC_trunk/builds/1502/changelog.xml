@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="229208"><author>simon</author><date>2019-05-24T08:03:31.599085Z</date><paths><path action="M" localPath="res\Common\Data\CoordinateAlarmMsgChi.Xml" kind="file">/cnckernel/trunk/res/Common/Data/CoordinateAlarmMsgChi.Xml</path></paths><msg>merge: HSHP_2665_f_OnlineHelp_Update_COR_Part2, 228349-229012, to 10.118.22 by 衍亦
+
+fix:
+	更新下列警報內容 
+	1. COR-114 ~ COR-352 </msg></logentry></log>
