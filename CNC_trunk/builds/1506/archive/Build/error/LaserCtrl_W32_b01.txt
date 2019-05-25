@@ -1,0 +1,59 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+ArrayTypeBuffer.cpp
+VirDynStage.cpp
+VersionManager.cpp
+TransformManager.cpp
+TimeTrigSrc.cpp
+StageMoveCompensator.cpp
+ObjVirTrig.cpp
+NullDynStage.cpp
+NulLaserChannel.cpp
+ManualJog.cpp
+LaserTimeBase.cpp
+LaserPLCPanel.cpp
+LaserNCExecutive.cpp
+LaserMotionPlanner.cpp
+LaserMacroCore.cpp
+LaserIntpMachine.cpp
+LaserInterpolator.cpp
+LaserFileReader.cpp
+LaserEnergyInterpolator.cpp
+LaserDispBase.cpp
+Generating Code...
+Compiling...
+LaserDebugData.cpp
+LaserCtrlParamSync.cpp
+LaserCtrl.cpp
+LaserAxis.cpp
+GalvoHome.cpp
+GalvoAxisParamSync.cpp
+GalvoAxis.cpp
+DynStageTrackingCtrl.cpp
+DynStageMarkMgr.cpp
+DistortionTransform.cpp
+DCTLoader.cpp
+DCTCreater.cpp
+CBMParamSync.cpp
+BeltDynStage.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\Release\BuildLog.htm"
+LaserCtrl - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+LaserCtrlDll.cpp
+Linking...
+LINK : fatal error LNK1181: cannot open input file 'OCKrnl.lib'
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\Release\BuildLog.htm"
+LaserCtrlDll - 1 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 1 failed, 0 skipped ==========
+

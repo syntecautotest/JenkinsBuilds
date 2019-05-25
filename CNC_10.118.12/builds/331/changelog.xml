@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="229256"><author>1384</author><date>2019-05-25T08:21:11.343100Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3IOProfile.cpp</path><path action="M" localPath="OCDevice\Source\MciM3\M3IOProfile.cpp" kind="file">/cnckernel/branches/release_v10.118.12/OCDevice/Source/MciM3/M3IOProfile.cpp</path></paths><msg>merge: ISSUE_14764_b_M3DAErr, 228916-229050 to 10.118.12R, 10.118.22
+by 竺晏
+
+修正使用M3-IO擴充卡的DA2沒有電壓輸出的問題。</msg></logentry></log>

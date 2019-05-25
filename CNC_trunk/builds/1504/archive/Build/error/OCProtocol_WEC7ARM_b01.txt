@@ -1,0 +1,18 @@
+------ Rebuild All started: Project: ModbusComm, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'ModbusComm', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+CrcAgent.cpp
+StdAfx.cpp
+SerialPortAgent.cpp
+ModbusCommAPI.cpp
+ModbusComm.cpp
+Generating Code...
+Linking...
+   Creating library d:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\WCE700ARM_Release\ModbusComm.lib and object d:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\WCE700ARM_Release\ModbusComm.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\CNC_trunk\OCProtocol\Source\ModbusComm\WCE700ARM_Release\BuildLog.htm"
+ModbusComm - 0 error(s), 0 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+
