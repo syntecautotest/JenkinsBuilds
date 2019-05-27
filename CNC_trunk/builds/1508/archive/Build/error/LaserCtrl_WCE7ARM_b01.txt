@@ -1,0 +1,62 @@
+------ Rebuild All started: Project: LaserCtrl, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LaserCtrl', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Compiling...
+ArrayTypeBuffer.cpp
+VirDynStage.cpp
+VersionManager.cpp
+TransformManager.cpp
+TimeTrigSrc.cpp
+StageMoveCompensator.cpp
+ObjVirTrig.cpp
+NullDynStage.cpp
+NulLaserChannel.cpp
+ManualJog.cpp
+LaserTimeBase.cpp
+LaserPLCPanel.cpp
+LaserNCExecutive.cpp
+LaserMotionPlanner.cpp
+LaserMacroCore.cpp
+LaserIntpMachine.cpp
+LaserInterpolator.cpp
+LaserFileReader.cpp
+LaserEnergyInterpolator.cpp
+LaserDispBase.cpp
+Generating Code...
+Compiling...
+LaserDebugData.cpp
+LaserCtrlParamSync.cpp
+LaserCtrl.cpp
+LaserAxis.cpp
+GalvoHome.cpp
+GalvoAxisParamSync.cpp
+GalvoAxis.cpp
+DynStageTrackingCtrl.cpp
+DynStageMarkMgr.cpp
+DistortionTransform.cpp
+DCTLoader.cpp
+DCTCreater.cpp
+CBMParamSync.cpp
+BeltDynStage.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrl\WCE700ARM_Release\BuildLog.htm"
+LaserCtrl - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: LaserCtrlDll, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'LaserCtrlDll', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+LaserCtrlDll.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Linking...
+   Creating library d:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\LaserCtrlDll.lib and object d:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\LaserCtrlDll.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\CNC_trunk\LaserCtrl\Source\LaserCtrlDll\WCE700ARM_Release\BuildLog.htm"
+LaserCtrlDll - 0 error(s), 0 warning(s)
+========== Rebuild All: 2 succeeded, 0 failed, 0 skipped ==========
+

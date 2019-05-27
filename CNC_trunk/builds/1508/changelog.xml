@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="229422"><author>simon</author><date>2019-05-27T06:28:41.522477Z</date><paths><path action="M" localPath="OCDevice\Source\MciM3\M3SvoChannel.h" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3SvoChannel.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Servo.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/Servo.cpp</path><path action="M" localPath="OCDevice\Source\MciM3\M3Protocol.h" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3Protocol.h</path><path action="M" localPath="OCDevice\Source\SvoUtility\SvoUtilityDef.h" kind="file">/cnckernel/trunk/OCDevice/Source/SvoUtility/SvoUtilityDef.h</path><path action="M" localPath="OCKrnl\Source\MotionPlan\Servo.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/Servo.h</path><path action="M" localPath="OCKrnl\Source\MotUtility\ISvoChannel.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/ISvoChannel.h</path><path action="M" localPath="OCDevice\Source\MciM3\M3SynDeviceDataStruct.h" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3SynDeviceDataStruct.h</path><path action="M" localPath="OCDevice\Source\MciM3\M3SvoChannel.cpp" kind="file">/cnckernel/trunk/OCDevice/Source/MciM3/M3SvoChannel.cpp</path></paths><msg>merge: HSHP_2664_f_StarDeltaM3Channel_118_20, 227822-228886, to 10.118.22 by 世棠
+
+add:
+	在M3通訊新增下列指令通道，只對新代驅動器有效： 
+    1. 命令驅動器對星三角切換做準備動作，包含下列流程 
+    2. 命令驅動器結束星三角切換流程 
+    3. 確認驅動器是否支援新代的高低速線圈參數切換功能</msg></logentry></log>
