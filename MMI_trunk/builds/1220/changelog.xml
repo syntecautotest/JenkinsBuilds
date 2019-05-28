@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="229551"><author>colingsta</author><date>2019-05-28T04:03:21.500114Z</date><paths><path action="M" localPath="Syntec.OpenCNC\OCBallBar.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/OCBallBar.cs</path><path action="M" localPath="Syntec.OpenCNC\OCGraph.cs" kind="file">/appkernel/trunk/Syntec.OpenCNC/OCGraph.cs</path></paths><msg>merge appkernel/PRDCOM_237_f_DoubleBallbar r228990-r229498 to 10.118.22,  by 歆儒
+
+新增
+    OCBallbar支援繪製多組循圓圖功能</msg></logentry></log>
