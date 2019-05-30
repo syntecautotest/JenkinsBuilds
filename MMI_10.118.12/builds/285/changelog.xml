@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="229909"><author>colingsta</author><date>2019-05-30T05:19:59.447021Z</date><paths><path action="M" localPath="MMICommon\Source\Tools\SIPKeyBoard.cs" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Tools/SIPKeyBoard.cs</path><path action="M" kind="file">/appkernel/trunk/MMICommon/Source/Tools/SIPKeyBoard.cs</path></paths><msg>merge appkernel/ISSUE_14508_f_noKBwhilePr3251is9 r228716 to 10.118.12R, 10.118.22,  by 家齊
+
+修改 
+    Pr3251=9時，關閉小鍵盤</msg></logentry></log>

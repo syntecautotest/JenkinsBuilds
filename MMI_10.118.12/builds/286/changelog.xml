@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="229939"><author>swdjojo</author><date>2019-05-30T07:01:46.505797Z</date><paths><path action="M" localPath="Bin\SyntecEagleEye\WinCE_ARM\SEE_Station.exe" kind="file">/appkernel/branches/AppKernel_10.118.12/Bin/SyntecEagleEye/WinCE_ARM/SEE_Station.exe</path><path action="M" kind="file">/appkernel/trunk/Bin/SyntecEagleEye/WinCE_ARM/SEE_Station.exe</path></paths><msg>merge appkernel/ATEST_1155_b_ImproveSEETransScreen r226145-r229793 to 10.118.12R, 10.118.22 by 維軒
+修正
+* 修正連線一段時間後, 首頁及加工監控頁面卡頓問題
+* 改善前後台同步性
+</msg></logentry></log>

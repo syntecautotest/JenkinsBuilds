@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="229928"><author>hebenctu</author><date>2019-05-30T06:27:29.423784Z</date><paths><path action="M" localPath="OCTest" kind="dir">/cnckernel/branches/release_v10.118.12/OCTest</path><path action="M" localPath="OCTest\Data\Bug_ISSUE\Params\14144\param.dat" kind="file">/cnckernel/branches/release_v10.118.12/OCTest/Data/Bug_ISSUE/Params/14144/param.dat</path><path action="M" localPath="." kind="dir">/cnckernel/branches/release_v10.118.12</path></paths><msg>merge: CNCTEST_1051_b_ModifyPr9InISSUE14144Pattern_11812, r229599, to 10.118.12R
+by 柏瑩
+
+note:
+修改ISSUE-14144新增的核心自動測試PATTERN參數，Pr9從1改為9。</msg></logentry></log>
