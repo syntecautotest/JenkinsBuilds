@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230009"><author>1384</author><date>2019-05-31T00:27:21.407585Z</date><paths><path action="M" localPath="res\SRI\SriModule.xml" kind="file">/cnckernel/trunk/res/SRI/SriModule.xml</path><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/res/SRI/SriModule.xml</path></paths><msg>merge: CNCKL_2838_b_FCMPG_IOMapping_Err, 229930-229948 to 10.118.12R, 10.118.22
+by 青杉
+
+FC手輪(FC - MPG)1.5.0版本支援客制IO對照表。</msg></logentry></log>

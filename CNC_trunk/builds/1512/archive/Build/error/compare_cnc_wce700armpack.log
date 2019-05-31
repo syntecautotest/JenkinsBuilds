@@ -1,0 +1,17 @@
+Files that are found in folder Current_pack but NOT in folder Previous_pack :
+
+DiskC\OpenCNC\StdRes\ObjDictionary\ECAT_OD_INOVANCE_IS620N.xml
+DiskC\OpenCNC\StdRes\ESI\IS620N-Ecat_v2.6.2_Syntec.xml
+DiskC\OpenCNC\StdRes\ESI\Servotronix_DDHD_PC0_RV0_Syntec.xml
+DiskC\OpenCNC\StdRes\ESI\TD_CoolDrive_A8_Ver1_1_Syntec.xml
+DiskC\OpenCNC\StdRes\ESI\TD_CoolDrive_RC_Ver0_2_Syntec.xml
+DiskC\OpenCNC\StdRes\ESI\TD_CoolDrive_R_Series_Ver0_2_Syntec.xml
+DiskC\OpenCNC\Bin\cnc2_fc_rtex.bin
+DiskC\OpenCNC\Bin\cnc2_fc_rtex_marking.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_rtex.bin
+DiskC\OpenCNC\Bin\cnc2_fc_v2_rtex_marking.bin
+----------------------------------------------------------------------
+Files that are found in folder Previous_pack but NOT in folder Current_pack :
+
+DiskC\OpenCNC\StdRes\DriverParam\ECAT_PM_SERVOTRONIX_CDHD.xml
+----------------------------------------------------------------------

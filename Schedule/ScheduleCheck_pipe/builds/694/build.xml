@@ -1,0 +1,68 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<com.tikal.jenkins.plugins.multijob.MultiJobBuild plugin="jenkins-multijob-plugin@1.24">
+  <actions>
+    <hudson.model.CauseAction>
+      <causeBag class="linked-hash-map">
+        <entry>
+          <hudson.triggers.TimerTrigger_-TimerTriggerCause/>
+          <int>1</int>
+        </entry>
+      </causeBag>
+    </hudson.model.CauseAction>
+    <jenkins.metrics.impl.TimeInQueueAction plugin="metrics@3.1.2.9">
+      <queuingDurationMillis>8</queuingDurationMillis>
+    </jenkins.metrics.impl.TimeInQueueAction>
+    <org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction plugin="buildtriggerbadge@2.8.1">
+      <cause class="hudson.triggers.TimerTrigger$TimerTriggerCause" reference="../../hudson.model.CauseAction/causeBag/entry/hudson.triggers.TimerTrigger_-TimerTriggerCause"/>
+    </org.jenkinsci.plugins.buildtriggerbadge.BuildTriggerBadgeAction>
+    <org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction plugin="ownership@0.9.1">
+      <describedItem class="com.tikal.jenkins.plugins.multijob.MultiJobBuild" reference="../../.."/>
+    </org.jenkinsci.plugins.ownership.model.runs.RunOwnershipAction>
+    <org.jvnet.hudson.plugins.DownstreamBuildViewAction plugin="downstream-buildview@1.9">
+      <downstreamBuilds class="concurrent-hash-map">
+        <entry>
+          <string>Schedule/ScheduleCheck_cnckernel_118_0</string>
+          <int>441</int>
+        </entry>
+        <entry>
+          <string>Schedule/ScheduleCheck_cnckernel_trunk</string>
+          <int>672</int>
+        </entry>
+        <entry>
+          <string>Schedule/ScheduleCheck_cnckernel_54</string>
+          <int>441</int>
+        </entry>
+        <entry>
+          <string>Schedule/ScheduleCheck_cnckernel_118_12</string>
+          <int>187</int>
+        </entry>
+      </downstreamBuilds>
+    </org.jvnet.hudson.plugins.DownstreamBuildViewAction>
+    <org.jenkinsci.plugins.envinject.EnvInjectPluginAction plugin="envinject@1.93.1">
+      <build class="com.tikal.jenkins.plugins.multijob.MultiJobBuild" reference="../../.."/>
+    </org.jenkinsci.plugins.envinject.EnvInjectPluginAction>
+    <hudson.tasks.test.AggregatedTestResultPublisher_-TestResultAction plugin="junit@1.20">
+      <descriptions class="concurrent-hash-map"/>
+      <jobs>Schedule/ScheduleCheck_cnckernel_54,Schedule/ScheduleCheck_appkernel_118_0,Schedule/ScheduleCheck_cnckernel_trunk,Schedule/ScheduleCheck_apikernel_118_0,Schedule/ScheduleCheck_cnckernel_118_12,Schedule/ScheduleCheck_appkernel_trunk,Schedule/ScheduleCheck_cnckernel_118_0,Schedule/ScheduleCheck_apikernel_54,Schedule/ScheduleCheck_apikernel_trunk,Schedule/ScheduleCheck_appkernel_118_12,Schedule/ScheduleCheck_apikernel_118_12,Schedule/ScheduleCheck_appkernel_54</jobs>
+      <includeFailedBuilds>true</includeFailedBuilds>
+    </hudson.tasks.test.AggregatedTestResultPublisher_-TestResultAction>
+  </actions>
+  <queueId>13260</queueId>
+  <timestamp>1559275218331</timestamp>
+  <startTime>1559275218352</startTime>
+  <result>SUCCESS</result>
+  <duration>9076</duration>
+  <charset>x-windows-950</charset>
+  <keepLog>false</keepLog>
+  <builtOn></builtOn>
+  <workspace>C:\Jenkins\jobs\Schedule\jobs\ScheduleCheck_pipe\workspace</workspace>
+  <hudsonVersion>2.52</hudsonVersion>
+  <scm class="hudson.scm.NullChangeLogParser"/>
+  <culprits class="com.google.common.collect.EmptyImmutableSortedSet"/>
+  <subBuilds class="java.util.concurrent.CopyOnWriteArrayList"/>
+  <changeSets>
+    <run class="com.tikal.jenkins.plugins.multijob.MultiJobBuild" reference="../.."/>
+    <build class="com.tikal.jenkins.plugins.multijob.MultiJobBuild" reference="../.."/>
+  </changeSets>
+  <subBuildsMap/>
+</com.tikal.jenkins.plugins.multijob.MultiJobBuild>
