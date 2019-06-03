@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230283"><author>1384</author><date>2019-06-03T05:18:15.705333Z</date><paths><path action="M" kind="file">/cnckernel/trunk/Build/SetProjectEnv.bat</path><path action="M" localPath="Build\SetProjectEnv.bat" kind="file">/cnckernel/branches/release_v10.118.12/Build/SetProjectEnv.bat</path></paths><msg>merge: CNCKL_2836_f_UpdatePlatformSDKVersion_118x, 230270 to 10.118.12R, 10.118.22
+by 振宇
+
+[內部]更新核心使用的Platform SDK版本至1.41.0</msg></logentry></log>

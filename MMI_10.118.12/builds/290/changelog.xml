@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230214"><author>1362</author><date>2019-06-03T01:52:56.878496Z</date><paths><path action="M" localPath="Res\_Arm\_Scara\Common\AppData\Loop.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scara/Common/AppData/Loop.xml</path><path action="M" localPath="Res\_Arm\_Gantry\Common\AppData\Loop.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Gantry/Common/AppData/Loop.xml</path><path action="M" localPath="Res\_Arm\_Delta\Common\AppData\Loop.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Delta/Common/AppData/Loop.xml</path><path action="M" localPath="Res\_Arm\_Artic\Common\AppData\Loop.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Artic/Common/AppData/Loop.xml</path></paths><msg>merge appkernel/ROBOT_489_b_SetForCmdParamTypeToInt r229918-r229993 to 10.118.12R, 10.118.22 by 才婷
+
+機器人產品( ARTIC, SCARA, DELTA, GANTRY ) 
+1. 修正 FOR 迴圈指令的起始迴圈與結束迴圈值成僅能輸入整數。</msg></logentry><logentry revision="230217"><author>1212</author><date>2019-06-03T02:00:04.631247Z</date><paths><path action="M" kind="file">/appkernel/trunk/Res/_Arm/_Scanning/Common/MMIConfig.xml</path><path action="M" localPath="Res\_Arm\_Scanning\Common\MMIConfig.xml" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scanning/Common/MMIConfig.xml</path></paths><msg>merge appkernel/AUTO_2147_b_DeleteSMLFile r227187-r228827 to 10.118.12R, 10.118.22, by 晉安
+
+修正 
+    雷射打標控制器118.21版本安裝包錯誤</msg></logentry></log>

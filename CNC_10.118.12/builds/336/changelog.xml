@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230209"><author>simon</author><date>2019-06-03T01:35:54.078300Z</date><paths><path action="M" localPath="LaserCtrl\Source\LaserCtrl\LaserCmdInterpolator.h" kind="file">/cnckernel/branches/release_v10.118.12/LaserCtrl/Source/LaserCtrl/LaserCmdInterpolator.h</path><path action="M" localPath="LaserCtrl\Source\LaserCtrl\LaserCmdInterpolator.cpp" kind="file">/cnckernel/branches/release_v10.118.12/LaserCtrl/Source/LaserCtrl/LaserCmdInterpolator.cpp</path></paths><msg>merge: ISSUE_14830_b_LaserOP1_12Q, 229570-229859, to 10.118.22 by 彥融
+
+fix:
+	修正因加工檔解譯效率不足導致激光打標加工中發生OP-001。</msg></logentry></log>

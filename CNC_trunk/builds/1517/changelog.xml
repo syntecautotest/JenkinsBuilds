@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230201"><author>simon</author><date>2019-06-03T01:01:52.065913Z</date><paths><path action="M" localPath="OCKrnl\Source\MotUtility\LAQueue.h" kind="file">/cnckernel/trunk/OCKrnl/Source/MotUtility/LAQueue.h</path></paths><msg>merge: HSHP_2613_f_RedundantCalcInLAQue_118.19, 221529-224192, to 10.118.22 by 敬元
+
+add:
+	減少冗餘計算量</msg></logentry></log>

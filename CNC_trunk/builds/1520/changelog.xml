@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230368"><author>simon</author><date>2019-06-03T07:11:34.134874Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" kind="file">/cnckernel/branches/release_v10.116.54/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path><path action="M" localPath="OCKrnl\Source\MotionPlan\NCExecutive.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/MotionPlan/NCExecutive.cpp</path></paths><msg>merge: HSHP_2671_b_COR340, 229656-229911, to 10.116.56J, 10.118.12R, 10.118.22 by 儀禕
+
+fix:
+    1. 修正啟動Chopping才檢查坐標系相關
+    2. 優化chopping檢查流程</msg></logentry></log>

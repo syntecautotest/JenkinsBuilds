@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230213"><author>1362</author><date>2019-06-03T01:52:25.943642Z</date><paths><path action="M" localPath="Res\_Arm\_Gantry\Common\AppData\Loop.xml" kind="file">/appkernel/trunk/Res/_Arm/_Gantry/Common/AppData/Loop.xml</path><path action="M" localPath="Res\_Arm\_Delta\Common\AppData\Loop.xml" kind="file">/appkernel/trunk/Res/_Arm/_Delta/Common/AppData/Loop.xml</path><path action="M" localPath="Res\_Arm\_Artic\Common\AppData\Loop.xml" kind="file">/appkernel/trunk/Res/_Arm/_Artic/Common/AppData/Loop.xml</path><path action="M" localPath="Res\_Arm\_Scara\Common\AppData\Loop.xml" kind="file">/appkernel/trunk/Res/_Arm/_Scara/Common/AppData/Loop.xml</path></paths><msg>merge appkernel/ROBOT_489_b_SetForCmdParamTypeToInt r229918-r229993 to 10.118.12R, 10.118.22 by 才婷
+
+機器人產品( ARTIC, SCARA, DELTA, GANTRY ) 
+1. 修正 FOR 迴圈指令的起始迴圈與結束迴圈值成僅能輸入整數。</msg></logentry></log>

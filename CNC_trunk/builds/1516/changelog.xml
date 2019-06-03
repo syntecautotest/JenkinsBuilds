@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230199"><author>simon</author><date>2019-06-03T00:54:16.966314Z</date><paths><path action="M" localPath="LaserCtrl\Source\LaserCtrl\LaserIntpMachine.cpp" kind="file">/cnckernel/trunk/LaserCtrl/Source/LaserCtrl/LaserIntpMachine.cpp</path></paths><msg>merge: ISSUE_14836_b_2DSynMarkOP1_21, 229853-229888, to 10.118.22 by 彥融
+
+fix:
+	修正系統錯誤造成偶發發生OP-001的問題</msg></logentry></log>

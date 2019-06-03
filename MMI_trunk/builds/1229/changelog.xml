@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230217"><author>1212</author><date>2019-06-03T02:00:04.631247Z</date><paths><path action="M" localPath="Res\_Arm\_Scanning\Common\MMIConfig.xml" kind="file">/appkernel/trunk/Res/_Arm/_Scanning/Common/MMIConfig.xml</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/Res/_Arm/_Scanning/Common/MMIConfig.xml</path></paths><msg>merge appkernel/AUTO_2147_b_DeleteSMLFile r227187-r228827 to 10.118.12R, 10.118.22, by 晉安
+
+修正 
+    雷射打標控制器118.21版本安裝包錯誤</msg></logentry></log>
