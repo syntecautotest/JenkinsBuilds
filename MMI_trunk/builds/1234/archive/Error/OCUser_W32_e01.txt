@@ -1,0 +1,117 @@
+------ Rebuild All started: Project: Swingw, Configuration: Debug Win32 ------
+Deleting intermediate and output files for project 'Swingw', configuration 'Debug|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+Arc3d.cpp
+XSmZoom.cpp
+XSmDrawer.cpp
+XSmCursor.cpp
+XPathSimuBase.cpp
+XComponent.cpp
+XCanvas3d.cpp
+WIN32GraphicsPeer.cpp
+ToolBox.cpp
+TLabel.cpp
+TextManager.cpp
+TDisplay.cpp
+TComponentFactory.cpp
+TComponent.cpp
+SimuStorage.cpp
+SimuServiceProxy.cpp
+Rectangle.cpp
+OCImage.cpp
+OcHotKey.cpp
+NcWpPlane.cpp
+Generating Code...
+Compiling...
+LoadLadder.cpp
+Line3d.cpp
+JXmlStringTable.cpp
+JXMLPreConfig.cpp
+JXMLPreCompiler.cpp
+JWin32ProcThunk.cpp
+JTrendChart.cpp
+JTemplateFactory.cpp
+JTemplateComponent.cpp
+JTable.cpp
+JStringConnectRule.cpp
+JSelectButton.cpp
+JPreCompilerRule.cpp
+JPicture.cpp
+JPanel.cpp
+JPageRegistry.cpp
+JPagePool.cpp
+JPageDeviceTable.cpp
+JPage.cpp
+JOCText.cpp
+Generating Code...
+Compiling...
+JOCSimu.cpp
+JNativeWindow.cpp
+JMeter.cpp
+JMarquee.cpp
+JListInputEditor.cpp
+JListInput.cpp
+d:\opencnc\bm_local\workspace\mmi_trunk\ocuser\source\swingw\jlistinput.cpp(505) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JLink.cpp
+JLamp.cpp
+JLabel.cpp
+JInputline.cpp
+JInputEditor.cpp
+JInputBase.cpp
+JInput.cpp
+d:\opencnc\bm_local\workspace\mmi_trunk\ocuser\source\swingw\jinput.cpp(342) : warning C4390: ';' : empty controlled statement found; is this the intent?
+JIncludePage.cpp
+JGroup.cpp
+JGrid.cpp
+JFileList.cpp
+JFenuContextManager.cpp
+JFenuContext.cpp
+JFenu.cpp
+d:\opencnc\bm_local\workspace\mmi_trunk\ocuser\source\swingw\jfenu.cpp(518) : warning C4018: '<' : signed/unsigned mismatch
+Generating Code...
+Compiling...
+JDynamicPicture.cpp
+JDisplay.cpp
+JDeviceControl.cpp
+JCycleTable.cpp
+JCycleEditor.cpp
+JCustomControl.cpp
+JCoordBox.cpp
+JControlTemplatePool.cpp
+JControlTemplate.cpp
+JControl.cpp
+JComponent.cpp
+JButton.cpp
+ISimuEvent.cpp
+GridPad.cpp
+Graphics3d.cpp
+FormatConverter.cpp
+DoAction.cpp
+Cube3d.cpp
+CTLabel.cpp
+CTInput.cpp
+Generating Code...
+Compiling...
+CTDisplay.cpp
+CncDevice.cpp
+CCycleValue.cpp
+CCycleSchemaFile.cpp
+CCycleSchema.cpp
+CCycleFieldValue.cpp
+CCycleFieldSchemaFactory.cpp
+CCycleFieldSchema.cpp
+CCycleFieldGroupValue.cpp
+CCycleFieldGroupSchema.cpp
+AxCube.cpp
+Generating Code...
+Creating library...
+Creating browse information file...
+Microsoft Browse Information Maintenance Utility Version 8.00.50727
+Copyright (C) Microsoft Corporation. All rights reserved.
+Build log was saved at "file://d:\OpenCNC\BM_Local\workspace\MMI_trunk\OCUser\Source\Swingw\Debug\BuildLog.htm"
+Swingw - 0 error(s), 3 warning(s)
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
+

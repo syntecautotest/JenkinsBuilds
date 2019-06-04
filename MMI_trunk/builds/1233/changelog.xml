@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230710"><author>1362</author><date>2019-06-04T08:02:34.244325Z</date><paths><path action="M" localPath="Res\_Arm\Screen\RefPoint\Brw_RefPoint_SysAxis.xml" kind="file">/appkernel/trunk/Res/_Arm/Screen/RefPoint/Brw_RefPoint_SysAxis.xml</path><path action="M" localPath="Res\_Arm\Screen\RefPoint\Brw_RefPoint_ExtAxis.xml" kind="file">/appkernel/trunk/Res/_Arm/Screen/RefPoint/Brw_RefPoint_ExtAxis.xml</path></paths><msg>merge appkernel/ROBOT_493_b_EditRefPtUpdateCondition r230531-r230604 to 10.118.12R, 10.118.22 by 大倫
+
+機器人產品( ARTIC, SCARA, DELTA ) 
+1. 新增"匯入參考點按鈕"的啟用機制: 點選更新參考點時, 如有尚未儲存的資訊, 會跳出彈窗提醒使用者存檔。</msg></logentry></log>

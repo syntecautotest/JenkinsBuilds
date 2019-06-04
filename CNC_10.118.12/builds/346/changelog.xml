@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230738"><author>1200</author><date>2019-06-04T09:05:50.214592Z</date><paths><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/NcParser/MPYACC.CPP</path><path action="M" localPath="OCKrnl\Source\NcParser\motprog.y" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/NcParser/motprog.y</path><path action="M" localPath="OCKrnl\Source\NcParser\MPYACC.CPP" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/NcParser/MPYACC.CPP</path><path action="M" kind="file">/cnckernel/trunk/OCKrnl/Source/NcParser/motprog.y</path></paths><msg>merge: ROBOT_375_b_G1001PAndQArgumentAlarm_118_18, 220955-221502, to 10.118.12R, 10.118.22
+by 俊昇
+
+from 10.118.12, HSHP-2061
+
+修正機器人產品( ARTIC, SCARA, DELTA )語法G01.2( MOVJII )與G01.1( MOVL )不支援座標系指令P, Q的問題</msg></logentry></log>

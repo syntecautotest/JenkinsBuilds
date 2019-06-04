@@ -1,0 +1,83 @@
+------ Rebuild All started: Project: KrnlAPI, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Debug|x64'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\KrnlAPI\x64\Debug\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Debug|x64'
+Compiling...
+TCPClient.cpp
+.\TCPClient.cpp(254) : warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+.\TCPClient.cpp(281) : warning C4267: 'argument' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClient.cpp(417) : warning C4244: 'argument' : conversion from 'SOCKET' to 'int', possible loss of data
+TCPFunction.cpp
+StdAfx.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\SocketUtility\x64\Debug\BuildLog.htm"
+SocketUtility - 0 error(s), 3 warning(s)
+------ Rebuild All started: Project: BridgeAPI, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Debug|x64'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\BridgeAPI\x64\Debug\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Debug x64 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Debug|x64'
+Performing Pre-Build Event...
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(662) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+TCPClientLink.cpp
+.\TCPClientLink.cpp(2) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(365) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(372) : warning C4267: 'initializing' : conversion from 'size_t' to 'INT', possible loss of data
+.\TCPClientLink.cpp(387) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(388) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(538) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(663) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(799) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+.\TCPClientLink.cpp(848) : warning C4267: 'initializing' : conversion from 'size_t' to 'int', possible loss of data
+TCPAlarmServer.cpp
+.\TCPAlarmServer.cpp(9) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\TCPAlarmServer.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcXmlTextReader.cpp
+.\OcXmlTextReader.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\OcXmlTextReader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+DipoleDeviceBuffer.cpp
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/DWIN32' specified for precompiled header but not for current compile
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+Generating Code...
+Compiling...
+OCAPI.cpp
+.\OCAPI.cpp(449) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(449) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(468) : warning C4267: '=' : conversion from 'size_t' to 'LONG', possible loss of data
+.\OCAPI.cpp(1409) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+Compiling manifest to resources...
+Linking...
+   Creating library d:\jenkins\workspace\api_10.118.12\ocapi\source\x64\debug\OCAPI.lib and object d:\jenkins\workspace\api_10.118.12\ocapi\source\x64\debug\OCAPI.exp
+LINK : warning LNK4199: /DELAYLOAD:OleAcc.dll ignored; no imports found from OleAcc.dll
+Embedding manifest...
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\OCAPI\x64\Debug\BuildLog.htm"
+OCAPI - 0 error(s), 24 warning(s)
+========== Rebuild All: 4 succeeded, 0 failed, 0 skipped ==========
+

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230781"><author>1200</author><date>2019-06-04T10:08:45.780024Z</date><paths><path action="M" kind="file">/cnckernel/branches/release_v10.118.12/OCKrnl/Source/RobotOperation/RobotPLCPanel.cpp</path><path action="M" localPath="OCKrnl\Source\RobotOperation\RobotPLCPanel.cpp" kind="file">/cnckernel/trunk/OCKrnl/Source/RobotOperation/RobotPLCPanel.cpp</path></paths><msg>merge: ROBOT_347_f_JointCoordRegister_118_21, 226963-229499, to 10.118.12R, 10.118.22
+by 晉毅
+
+feature
+
+機器人產品( ARTIC, SCARA, DELTA )新增R9801~R9818為各軸之關節座標。 </msg></logentry></log>

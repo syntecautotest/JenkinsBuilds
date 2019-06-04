@@ -1,0 +1,91 @@
+------ Rebuild All started: Project: BridgeAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+BridgeAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\BridgeAPI\Release\BuildLog.htm"
+BridgeAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: KrnlAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+ WINVER not defined. Defaulting to 0x0502 (Windows Server 2003)
+Compiling...
+KrnlAPI.cpp
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\KrnlAPI\Release\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+TCPFunction.cpp
+TCPClient.cpp
+.\TCPClient.cpp(254) : warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\SocketUtility\Release\BuildLog.htm"
+SocketUtility - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|Win32'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+Linking...
+   Creating library D:\Jenkins\workspace\API_10.118.12\OCAPI\Source\Release\OCKrnlDrv.lib and object D:\Jenkins\workspace\API_10.118.12\OCAPI\Source\Release\OCKrnlDrv.exp
+LINK : warning LNK4199: /DELAYLOAD:OleAcc.dll ignored; no imports found from OleAcc.dll
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\OCKrnlDrv\Release\BuildLog.htm"
+OCKrnlDrv - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: Release Win32 ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'Release|Win32'
+Compiling...
+StdAfx.cpp
+Compiling...
+TCPInstall.cpp
+.\TCPInstall.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(2) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+.\TCPClientLink.cpp(372) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+.\TCPAlarmServer.cpp(9) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcXmlTextReader.cpp
+.\OcXmlTextReader.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+OcKrnlDrvDll32.cpp
+.\OcKrnlDrvDll32.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+DipoleDeviceBuffer.cpp
+.\DipoleDeviceBuffer.cpp(1) : warning C4651: '/D_USRDLL' specified for precompiled header but not for current compile
+Generating Code...
+Compiling...
+OCAPI.cpp
+.\OCAPI.cpp(449) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(449) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(1409) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+.\OCAPI.cpp(1472) : warning C4018: '<=' : signed/unsigned mismatch
+Linking...
+socketutility.lib(TCPFunction.obj) : MSIL .netmodule or module compiled with /GL found; restarting link with /LTCG; add /LTCG to the link command line to improve linker performance
+   Creating library d:\jenkins\workspace\api_10.118.12\ocapi\source\release\OCAPI.lib and object d:\jenkins\workspace\api_10.118.12\ocapi\source\release\OCAPI.exp
+Generating code
+Finished generating code
+LINK : warning LNK4199: /DELAYLOAD:OleAcc.dll ignored; no imports found from OleAcc.dll
+Embedding manifest...
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\OCAPI\Release\BuildLog.htm"
+OCAPI - 0 error(s), 14 warning(s)
+========== Rebuild All: 5 succeeded, 0 failed, 0 skipped ==========
+

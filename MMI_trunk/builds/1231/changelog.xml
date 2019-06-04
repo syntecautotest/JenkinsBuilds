@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?><log><logentry revision="230566"><author>colingsta</author><date>2019-06-04T02:26:02.738861Z</date><paths><path action="M" kind="file">/appkernel/branches/AppKernel_10.116.54/MMICommon/Source/Screen/Scr_WorkPiece.cs</path><path action="M" kind="file">/appkernel/branches/AppKernel_10.118.12/MMICommon/Source/Screen/Scr_WorkPiece.cs</path><path action="M" localPath="MMICommon\Source\Screen\Scr_WorkPiece.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_WorkPiece.cs</path></paths><msg>merge appkernel/ATEST_1087_b_WorkPieceDisplayError_54x r230541 to 10.116.56J,
+merge applernel/ATEST_1087_b_WorkPieceDisplayError_12x r230533 to 10.118.12R, 
+merge appkernel/ATEST_1087_b_WorkPieceDisplayError r230088-r230141 to 10.118.22,  by 存澤
+
+修正
+    偏置/設定工件座標系顯示錯誤問題</msg></logentry><logentry revision="230567"><author>swdjojo</author><date>2019-06-04T02:27:18.632994Z</date><paths><path action="M" localPath="MMICommon\Source\Screen\Scr_WorkRecord.cs" kind="file">/appkernel/trunk/MMICommon/Source/Screen/Scr_WorkRecord.cs</path></paths><msg>merge appkernel/MMI_3874_b_AddWorkRecordException r230047-r230239 to 10.118.22 by 盟仁
+
+修正
+  * 整理 AddWorkRecord 函式，將對 OCCycleEdit 的操作集中在子函式，用 Invoke 保護.
+  * 新增 HasPartCountIncrement 函式，判斷是否工件有增量
+  * 修改 FormatLineXml 函式的介面。將轉字串的工作交給函式內部處理，而非設定引數為字串。
+  * 整理 FormatLineXml 函式。將複雜的部份拉到新增的子函式 GetValueFromStorage，將try-catch拔掉，根據原本的邏輯重寫。
+</msg></logentry></log>

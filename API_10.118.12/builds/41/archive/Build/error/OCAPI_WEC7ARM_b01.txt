@@ -1,0 +1,78 @@
+------ Rebuild All started: Project: KrnlAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'KrnlAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+KrnlAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\KrnlAPI\WCE700ARM_DipoleRelease\BuildLog.htm"
+KrnlAPI - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: SocketUtility, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'SocketUtility', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+TCPFunction.cpp
+TCPClient.cpp
+Generating Code...
+Creating library...
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\SocketUtility\WCE700ARM_Release\BuildLog.htm"
+SocketUtility - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: OCKrnlDrv, Configuration: Release WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCKrnlDrv', configuration 'Release|WEC7 (ARMv4I)'
+Compiling...
+stdafx.cpp
+Compiling...
+OCKrnlDrv.cpp
+Linking...
+   Creating library WCE700ARM_Release\OCKrnlDrv.lib and object WCE700ARM_Release\OCKrnlDrv.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\OCKrnlDrv\WCE700ARM_Release\BuildLog.htm"
+OCKrnlDrv - 0 error(s), 0 warning(s)
+------ Rebuild All started: Project: BridgeAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'BridgeAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+cl : Command line warning D9002 : ignoring unknown option '/clr:noAssembly'
+BridgeAPI.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+stdafx.cpp
+ WINVER not defined. Defaulting to 0x0400, which is appropriate for all supported Windows CE versions
+Generating Code...
+Creating library...
+Performing Post-Build Event...
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\BridgeAPI\WEC7 (ARMv4I)\DipoleRelease\BuildLog.htm"
+BridgeAPI - 0 error(s), 1 warning(s)
+------ Rebuild All started: Project: OCAPI, Configuration: DipoleRelease WEC7 (ARMv4I) ------
+Deleting intermediate and output files for project 'OCAPI', configuration 'DipoleRelease|WEC7 (ARMv4I)'
+Compiling...
+DipoleDeviceBuffer.cpp
+TCPInstall.cpp
+.\TCPInstall.cpp(189) : warning C4018: '>' : signed/unsigned mismatch
+.\TCPInstall.cpp(251) : warning C4018: '>' : signed/unsigned mismatch
+TCPClientLink.cpp
+.\TCPClientLink.cpp(380) : warning C4018: '<=' : signed/unsigned mismatch
+TCPAlarmServer.cpp
+StdAfx.cpp
+OcXmlTextReader.cpp
+OcKrnlDrvDll.cpp
+OCAPI.cpp
+.\OCAPI.cpp(452) : warning C4305: '=' : truncation from 'HRESULT' to 'UINT16'
+.\OCAPI.cpp(452) : warning C4309: '=' : truncation of constant value
+.\OCAPI.cpp(1412) : warning C4805: '==' : unsafe mix of type 'BOOL' and type 'bool' in operation
+.\OCAPI.cpp(1475) : warning C4018: '<=' : signed/unsigned mismatch
+Generating Code...
+Linking...
+   Creating library WCE700ARM_DipoleRelease\OCAPI.lib and object WCE700ARM_DipoleRelease\OCAPI.exp
+Performing Post-Build Event...
+複製了         1 個檔案。
+複製了         1 個檔案。
+Build log was saved at "file://d:\Jenkins\workspace\API_10.118.12\OCAPI\Source\OCAPI\WCE700ARM_DipoleRelease\BuildLog.htm"
+OCAPI - 0 error(s), 7 warning(s)
+========== Rebuild All: 5 succeeded, 0 failed, 0 skipped ==========
+
